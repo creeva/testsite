@@ -5,7 +5,7 @@
 :page-root: ../../../
 :imagesdir: /testsite/images
 
-image::2023-02-10-fatboys-crushin.jpg[]
+image::2023-02-10-fatboys-crushin.jpg[align="center"]
 
 I was reading an article about Ice-T doing the Grammy show and how far rap has come over the last 50 years. I agree and it made me consider my own memories.
 
