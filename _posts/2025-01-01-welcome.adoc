@@ -1,0 +1,21 @@
+---
+layout: post
+title: Welcome to the Vermilion Sailor Alumni Band site
+date: 2025-01-01
+---
+
+Welcome to our new site, built with Jekyll and AsciiDoc!
+
+== Why AsciiDoc?
+
+AsciiDoc gives us richer formatting options than Markdown — perfect for
+documenting band history, embedding media, and building structured content.
+
+== What to Expect
+
+* Band history and archives
+* Photo galleries
+* Upcoming events
+* Alumni spotlights
+
+Stay tuned for more updates. _What time is it? Band time!_

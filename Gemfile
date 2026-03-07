@@ -1,9 +1,19 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.3.0'
-gem 'coderay', '~> 1.1.0'
-gem 'rake-jekyll', '~> 1.1.0'
+gem 'jekyll', '~> 4.3'
+gem 'jekyll-asciidoc'
+gem 'jekyll-paginate'
+gem 'rouge'
 
 group :jekyll_plugins do
-  gem 'jekyll-asciidoc', '~> 3.0.0'
+  gem 'jekyll-asciidoc'
+  gem 'jekyll-paginate'
 end
+
+# Windows/JRuby fix
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem 'tzinfo', '>= 1', '< 3'
+  gem 'tzinfo-data'
+end
+gem 'wdm', '~> 0.1', platforms: %i[mingw x64_mingw mswin]
+gem 'http_parser.rb', '~> 0.6.0', platforms: [:jruby]
