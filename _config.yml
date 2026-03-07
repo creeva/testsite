@@ -34,6 +34,7 @@ asciidoctor:
     - idprefix=
     - idseparator=-
     - sectlinks
+    - liquid
 
 # Plugins
 plugins:
