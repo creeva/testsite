@@ -1,7 +1,6 @@
-title: Jekyll AsciiDoc Quickstart
-# uncomment baseurl if you want to publish the site to a subfolder
-#baseurl: /blog
-description: The Jekyll AsciiDoc Quickstart project is a leg-up in starting your own website hosted on GitHub with content based in AsciiDoc.
+title: Creeva's World 3.0
+baseurl: /testsite
+description: Creeva's personal site
 exclude:
 - LICENSE
 - README.adoc
@@ -17,3 +16,4 @@ asciidoctor:
     idseparator: _
     stylesdir: css
     source-highlighter: coderay
+    liquid: ''
