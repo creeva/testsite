@@ -1,99 +1,252 @@
 <!doctype html>
-<!--[if IE 9]>
-<html class="lt-ie10" lang="en"> <![endif]-->
-<html class="no-js" lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{page.title}}</title>
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="author" content="Your name goes here">
-    <meta name="copyright" content="Maybe consider a Creative Commons license">
-    <link rel="stylesheet" href="{{page.root}}css/foundation.css">
-    <style>pre > code { border: 0 }</style>
-    <link rel="stylesheet" href="{{page.root}}css/font-awesome.css">
-    <link rel="stylesheet" href="{{page.root}}css/coderay.css">
-    <link rel="stylesheet" href="{{page.root}}css/asciidoctor.css">
-    <script src="{{page.root}}js/vendor/modernizr.js"></script>
-    <script src="{{page.root}}js/toc.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        :root {
+            --black: #111111;
+            --dark: #1a1a1a;
+            --mid: #444;
+            --muted: #888;
+            --light: #f5f3ef;
+            --white: #ffffff;
+            --accent: #c0392b;
+            --border: #e0ddd8;
+            --max-width: 1100px;
+        }
+
+        body {
+            font-family: 'Source Sans 3', Georgia, serif;
+            background: var(--light);
+            color: var(--black);
+            line-height: 1.7;
+            font-size: 18px;
+        }
+
+        /* NAV */
+        header {
+            background: var(--dark);
+            border-bottom: 3px solid var(--accent);
+        }
+        .header-inner {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: 0 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        .site-title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.5rem;
+            color: var(--white);
+            text-decoration: none;
+            padding: 1rem 0;
+            letter-spacing: -0.02em;
+        }
+        .site-title span {
+            color: var(--accent);
+        }
+        nav {
+            display: flex;
+            gap: 0;
+        }
+        nav a {
+            color: #ccc;
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 600;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            padding: 1.4rem 1rem;
+            display: block;
+            transition: color 0.15s, background 0.15s;
+        }
+        nav a:hover {
+            color: var(--white);
+            background: rgba(255,255,255,0.06);
+        }
+
+        /* MAIN */
+        main {
+            max-width: var(--max-width);
+            margin: 0 auto;
+            padding: 2.5rem 1.5rem 4rem;
+        }
+
+        /* POST CARDS (home) */
+        .post-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 2rem;
+        }
+        .post-card {
+            background: var(--white);
+            border: 1px solid var(--border);
+            border-radius: 3px;
+            overflow: hidden;
+            transition: box-shadow 0.2s, transform 0.2s;
+            display: flex;
+            flex-direction: column;
+        }
+        .post-card:hover {
+            box-shadow: 0 8px 30px rgba(0,0,0,0.10);
+            transform: translateY(-3px);
+        }
+        .post-card-image {
+            width: 100%;
+            aspect-ratio: 16/9;
+            object-fit: cover;
+            display: block;
+            background: var(--border);
+        }
+        .post-card-image-placeholder {
+            width: 100%;
+            aspect-ratio: 16/9;
+            background: linear-gradient(135deg, #e8e4de 0%, #d4cfc8 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--muted);
+            font-size: 2rem;
+        }
+        .post-card-body {
+            padding: 1.4rem 1.5rem 1.6rem;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .post-card-meta {
+            font-size: 0.78rem;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            margin-bottom: 0.6rem;
+        }
+        .post-card-title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.25rem;
+            line-height: 1.3;
+            margin-bottom: 0.75rem;
+            flex: 1;
+        }
+        .post-card-title a {
+            color: var(--black);
+            text-decoration: none;
+            transition: color 0.15s;
+        }
+        .post-card-title a:hover {
+            color: var(--accent);
+        }
+        .post-card-excerpt {
+            font-size: 0.9rem;
+            color: var(--mid);
+            line-height: 1.6;
+        }
+
+        /* SINGLE POST */
+        .post-header {
+            max-width: 760px;
+            margin: 0 auto 2.5rem;
+            padding-bottom: 2rem;
+            border-bottom: 2px solid var(--border);
+        }
+        .post-header h1 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: clamp(1.8rem, 4vw, 2.8rem);
+            line-height: 1.2;
+            margin-bottom: 0.75rem;
+        }
+        .post-meta {
+            font-size: 0.85rem;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+        }
+        .post-content {
+            max-width: 760px;
+            margin: 0 auto;
+        }
+        .post-content h2 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.6rem;
+            margin: 2.5rem 0 1rem;
+            color: var(--black);
+        }
+        .post-content p {
+            margin-bottom: 1.4rem;
+        }
+        .post-content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 3px;
+            margin: 1.5rem 0;
+            display: block;
+        }
+        .post-content a {
+            color: var(--accent);
+        }
+
+        /* PAGE (non-post) */
+        .page-content {
+            max-width: 760px;
+            margin: 0 auto;
+        }
+        .page-content h1 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 2rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid var(--border);
+        }
+
+        /* FOOTER */
+        footer {
+            background: var(--dark);
+            color: #888;
+            text-align: center;
+            padding: 1.5rem;
+            font-size: 0.85rem;
+            margin-top: 4rem;
+            border-top: 3px solid var(--accent);
+        }
+        footer a { color: #aaa; }
+
+        @media (max-width: 600px) {
+            .post-grid { grid-template-columns: 1fr; }
+            nav a { padding: 1rem 0.6rem; font-size: 0.75rem; }
+        }
+    </style>
 </head>
 <body>
 
-
-<!-- Nav Bar -->
-
-<nav class="top-bar" data-topbar>
-    <ul class="title-area">
-        <!-- Title Area -->
-        <li class="name">
-            <h1>
-                <a href="{{page.root}}">{{site.title}}</a>
-            </h1>
-        </li>
-        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-    </ul>
-</nav>
-<!-- End Nav -->
-
-
-<!-- Main Page Content and Sidebar -->
-
-<div class="row">
-
-    <!-- Main Blog Content -->
-    <div class="large-9 columns" role="content">
-
-        {{ content }}
-
+<header>
+    <div class="header-inner">
+        <a class="site-title" href="{{ site.baseurl }}/">{{ site.title | split: " " | first }}<span>'s</span> {{ site.title | split: "'s " | last }}</a>
+        <nav>
+            <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+        </nav>
     </div>
+</header>
 
-    <!-- End Main Content -->
+<main>
+    {{ content }}
+</main>
 
-    <!-- Sidebar -->
-
-    <aside class="large-3 columns">
-
-        <h4>Posts</h4>
-        <ul id="posts" class="posts nav">
-            {% for post in site.posts limit: 5 %}
-            <li><a href="{{ post.url | prepend:site.baseurl }}">{{ post.navtitle }}</a></li>
-            {% endfor %}
-        </ul>
-
-        <div class="panel">
-            <h5>Featured</h5>
-
-            <p>Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon
-                nulla pork belly cupidatat meatloaf cow.</p>
-        </div>
-
-    </aside>
-
-    <!-- End Sidebar -->
-</div>
-
-<!-- End Main Content and Sidebar -->
-
-
-<!-- Footer -->
-
-<footer class="row">
-    <div class="large-12 columns">
-        <hr>
-        <div class="row">
-            <div class="large-12 columns">
-                <p>Footer</p>
-            </div>
-        </div>
-    </div>
+<footer>
+    <p>© {{ site.time | date: '%Y' }} {{ site.title }} &mdash; Built with Jekyll</p>
 </footer>
 
-<script src="{{page.root}}js/vendor/jquery.js"></script>
-<script src="{{page.root}}js/foundation.min.js"></script>
-<script>
-$(document).foundation();
-var doc = document.documentElement;
-doc.setAttribute('data-useragent', navigator.userAgent);
-</script>
 </body>
 </html>
