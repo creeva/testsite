@@ -1,7 +1,8 @@
 = Lex and The Case of The Stolen Trash
 :page-layout: post
 :page-navtitle: Lex and The Case of The Stolen Trash
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Let me start that this was relayed to me. Unfortunately, I was not able to witness it first hand and Xie wishes she could have had it recorded.
+:page-image: /testsite/images/typewriter-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/typewriter-1.jpg[,role="text-center"]

@@ -1,6 +1,8 @@
 = Life Caching  is better then Life Streams
 :page-layout: post
 :page-navtitle: Life Caching  is better then Life Streams
+:page-excerpt: Life caching is setting up sites that you have complete control over to save data from sites over which you only have varied levels of control. Getting all of your metadata in one place. Saving each detail of data in its place so it's saved, used, and recyclable. Life caching is the next stage as the Data Portability Group moves forward. This is not the goal of the Data Portability Group -- it is just what their goal enables you to do. The work, however, is burdened on to you and I can say there is no easy way to do this and some data leakage and loss will always slip through the cracks, at least at this stage of the game.
+:page-image: /testsite/images/logo.png
 :imagesdir: /testsite/images
 
 *Life Caching:*
@@ -13,9 +15,9 @@ link:http://lifestreamblog.com/[Life Streaming] is the step before life caching.
 
 [quote]
 ____
-What is a Lifestream? In it’s simplest form it’s a chronological aggregated view of your life activities both online and offline. It is only limited by the content and sources that you use to define it. Mine is available here. Most people that create them choose a few sources based on sites that track our activities such as Del.icio.us (bookmarking), Last.fm (Music we listen to), Flickr (photos we take) etc…Then you can either find software to host your own, or find sites that provide a platform for you.
+What is a Lifestream? In it's simplest form it's a chronological aggregated view of your life activities both online and offline. It is only limited by the content and sources that you use to define it. Mine is available here. Most people that create them choose a few sources based on sites that track our activities such as Del.icio.us (bookmarking), Last.fm (Music we listen to), Flickr (photos we take) etc…Then you can either find software to host your own, or find sites that provide a platform for you.
 Many people have been writing about Lifestreams and the potential value they offer for ourselves and others. Some of those people are Jeff Croft, Jeremy Keith, and Emily Chang. It appears to be a concept that is gaining quite a bit of steam.
-I was inspired to create a blog for the Lifestream concept after doing a little research which I wrote about on my blog. Most of the information I found was pretty scattered and there wasn’t a central repository of resources so I thought I should create one. I feel that beyond the self expression of allowing people to track their actions in a passive manner there will be many more exciting technologies that will surface from the backend data aggregation that can occur from people supplying this information.
+I was inspired to create a blog for the Lifestream concept after doing a little research which I wrote about on my blog. Most of the information I found was pretty scattered and there wasn't a central repository of resources so I thought I should create one. I feel that beyond the self expression of allowing people to track their actions in a passive manner there will be many more exciting technologies that will surface from the backend data aggregation that can occur from people supplying this information.
 ____
 
 The rub is that 99% of life streams only save the links of the RSS feeds and do not save the actual data. This is inefficient in design because like I said before data get lost for various reasons. Life caching however has the prime goal of saving that individual data for your use and your manipulation. This gives you the freedom to do what you want. Take your data anywhere and everywhere, do with it what you will.

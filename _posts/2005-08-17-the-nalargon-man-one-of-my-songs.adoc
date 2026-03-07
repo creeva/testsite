@@ -1,6 +1,8 @@
 = The Nalargon Man
 :page-layout: post
 :page-navtitle: The Nalargon Man
+:page-excerpt: This is one of my parody songs from the SWG,it was a spoof on Billy Joel's Piano Man.
+:page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]

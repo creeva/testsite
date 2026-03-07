@@ -1,7 +1,8 @@
 = Fail Big or Fail Often -- Take The Risk
 :page-layout: post
 :page-navtitle: Fail Big or Fail Often -- Take The Risk
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Saturday night I was at a party and while it was a good time, the great moment of the evening is when things are winding down and the discussions start getting pulled out. People are all in different states of inebriation and some of them accidentally let their guards down. There are others that purposely let their guards down, but pretend it's accidental. Regardless of how it gets to that point, that is where some of the honest conversations come out of the evening.
+:page-image: /testsite/images/typewriter-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/typewriter-1.jpg[,role="text-center"]
@@ -41,8 +42,8 @@ There are two things to worry about:
 Things you can do nothing about
 Things you can do something about
 
-For the things you can do nothing about, accept it and realize no matter what you put into it – you can do nothing about it, so stop worrying about it.
-For the things you can do something about – do what needs to get done as quickly as possible, once it is done you can stop worrying about it.
+For the things you can do nothing about, accept it and realize no matter what you put into it -- you can do nothing about it, so stop worrying about it.
+For the things you can do something about -- do what needs to get done as quickly as possible, once it is done you can stop worrying about it.
 ____
 
 So fail often or fail big -- your life is too short to worry or fear failing. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

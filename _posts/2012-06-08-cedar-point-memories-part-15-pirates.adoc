@@ -1,12 +1,11 @@
 = Cedar Point Memories -- Pirates!
 :page-layout: post
 :page-navtitle: Cedar Point Memories -- Pirates!
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: I'm all screwed up on the timeline for getting these articles in order.   So for the moment, I'm going to throw the order aside and write about a beloved Cedar Point ride that no longer exists.   The ride is "The Pirate Ride" and it was located next to the Blue Streak.  It was a pirate-themed dark ride.
+:page-image: /testsite/images/cedarpoint.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/cedarpoint.jpg[,role="text-center"]
-
-__
 
 I'm all screwed up on the timeline for getting these articles in order.   So for the moment, I'm going to throw the order aside and write about a beloved Cedar Point ride that no longer exists.   The ride is "The Pirate Ride" and it was located next to the Blue Streak.  It was a pirate-themed dark ride.
 
@@ -15,7 +14,7 @@ For those not familiar with the term link:http://en.wikipedia.org/wiki/Dark_ride
 [quote]
 ____
 A dark ride is an indoor amusement ride where riders in guided vehicles travel through specially lit scenes that typically contain animation, sound, music, and special effects.
-A dark ride does not have to be dark. They are enclosed, so all illumination is artificial, and most use special lighting to achieve theatrical effects. Selective use of darkness helps hide the ride mechanisms and increase the visual drama of the experience. Disney’s It’s a Small World is an example of a brightly lit dark ride.
+A dark ride does not have to be dark. They are enclosed, so all illumination is artificial, and most use special lighting to achieve theatrical effects. Selective use of darkness helps hide the ride mechanisms and increase the visual drama of the experience. Disney's It's a Small World is an example of a brightly lit dark ride.
 ____
 
 Dark rides used to be very popular in the United States, unfortunately very few exist outside of Disney these days.  The only other dark ride that I rode at Cedar Point was Earthquake.   That was removed in the 1980s.   If you search Google there are many sites dedicated to dark rides.   There are also groups that are as fanatic about dark rides as some people are about roller coasters.

@@ -1,6 +1,8 @@
 = And Here is Where Microsoft Ruins Skype and Google And Apple Win VOIP
 :page-layout: post
 :page-navtitle: And Here is Where Microsoft Ruins Skype and Google And Apple Win VOIP
+:page-excerpt: Today Microsoft updated Skype to now included "Conversation Ads". Looking at the review on Ars Technica, this is all sorts of terrible. I think Microsoft shot itself in the foot big time with this one.
+:page-image: /testsite/images/5129332_b75d25f016_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/5129332_b75d25f016_m.jpg[,role="text-center"]

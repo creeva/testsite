@@ -1,6 +1,8 @@
 = The Great Photo Sharing Conundrum
 :page-layout: post
 :page-navtitle: The Great Photo Sharing Conundrum
+:page-excerpt: My mother left me a comment yesterday (yes the mother I don't talk to) about one of the baby pictures. Her comment asked if I could send her an email with all the baby pictures we have. Here is where we have the gap in the usage level between the older and the newer generation. I remember years ago when everyone used to mail pictures around, but this was also a time when the pictures were normally 100kb or less in size. Even then business environments were complaining about the pictures clogging up their email systems ( no matter that they were sending 300KB full HTML emails each time). Now we fast forward to today.
+:page-image: /testsite/images/5129332_b75d25f016_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/5129332_b75d25f016_m.jpg[,role="text-center"]
@@ -11,8 +13,8 @@ People still routinely email pictures, but they are more apt to go look at them 
 
 [quote]
 ____
-Unfortunately I can’t – this isn’t because I’m being mean, this isn’t because we are not speaking and this is the only response you’ve gotten from me in two years. It’s because it is too unwieldy and impractical.
-The last photo session I uploaded over 200 photos that were over 1.5 GB of total space. To give a comparison with my gmail account I have over 35000 emails (that are not spam) saved, this email only takes up 2.4 GB of space, since I save ALL of my outgoing email also just sending you pictures a few times would completely fill up my email box. There is a reason I use a photo sharing site, I could spend hours resizing photos just send them out to people who may or may not be interested to different degrees, but I always use the original size at home – so if a family member wants smaller sizes they can go to my Flickr account – which by the way has over 10GB of images (will probably pass 7000 images in a few weeks). There is a reason I actually pay for this service.
+Unfortunately I can't -- this isn't because I'm being mean, this isn't because we are not speaking and this is the only response you've gotten from me in two years. It's because it is too unwieldy and impractical.
+The last photo session I uploaded over 200 photos that were over 1.5 GB of total space. To give a comparison with my gmail account I have over 35000 emails (that are not spam) saved, this email only takes up 2.4 GB of space, since I save ALL of my outgoing email also just sending you pictures a few times would completely fill up my email box. There is a reason I use a photo sharing site, I could spend hours resizing photos just send them out to people who may or may not be interested to different degrees, but I always use the original size at home -- so if a family member wants smaller sizes they can go to my Flickr account -- which by the way has over 10GB of images (will probably pass 7000 images in a few weeks). There is a reason I actually pay for this service.
 ____
 
 If want to read the rest of the comment which was a brief explanation of different options she could do on her part to be proactive, it's in the comment section of this story.

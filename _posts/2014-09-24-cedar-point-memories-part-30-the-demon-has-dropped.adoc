@@ -1,7 +1,8 @@
 = Cedar Point Memories  -- The Demon Has Dropped
 :page-layout: post
 :page-navtitle: Cedar Point Memories  -- The Demon Has Dropped
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: I had a babysitter named Jenny. She managed to go to Cedar Point shortly after opening and talked about the ride. While she managed to get on the ride and go up -- she didn't get to go down. On her visit, the Demon Drop got stuck and she had to walk down 131 feet to the ground. Later in the year, she would tell me how great it was on one of her return trips to Cedar Point.
+:page-image: /testsite/images/Cedar_Point_Demon_Drop_with_sign_in_view_4070443603-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Cedar_Point_Demon_Drop_with_sign_in_view_4070443603-1.jpg[,role="text-center"]

@@ -1,7 +1,8 @@
-= Lex’s Costume Battle 2015
+= Lex's Costume Battle 2015
 :page-layout: post
-:page-navtitle: Lex’s Costume Battle 2015
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: Lex's Costume Battle 2015
+:page-excerpt: The look I should have given halfway through
+:page-image: /testsite/images/22119548335_effa8b3fed_b-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/22119548335_effa8b3fed_b-1.jpg[,role="text-center"]

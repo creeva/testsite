@@ -1,7 +1,8 @@
-= Finished Reading Cory Doctorow’s Little Brother
+= Finished Reading Cory Doctorow's Little Brother
 :page-layout: post
-:page-navtitle: Finished Reading Cory Doctorow’s Little Brother
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: Finished Reading Cory Doctorow's Little Brother
+:page-excerpt: Picture from here by Pablo Defendi
+:page-image: /testsite/images/2527139261_0bf374fce4_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/2527139261_0bf374fce4_m.jpg[,role="text-center"]
@@ -23,7 +24,5 @@ I would also recommend watching link:http://www.defendini.com/[Pablo Defendi's s
 Finally, check out the ParanoidLinux Distribution inspired by the book.
 
 image::/testsite/images/51DP3KqlRcL._SS500_.jpg[,role="text-center"]
-
-link:http://www.amazon.com/gp/product/0765319853/102-1001606-6591343?ie=UTF8&tag=creswor20-20&linkCode=xm2&camp=1789&creativeASIN=0765319853[]
 
 Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

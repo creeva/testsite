@@ -1,7 +1,8 @@
 = A History of My Halloween Costumes.
 :page-layout: post
 :page-navtitle: A History of My Halloween Costumes.
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Seeing that it is Halloween on Saturday I wanted to go over some of the costumes from my past. I would love to have a complete record, but some costumes never had a picture taken of them. Other customers are in pictures lost to the sands of time. If you want to see larger versions of any of these pictures (and risk eye scarring) just click on them. I don't believe my parents dressed me up for Halloween at three months old, so the picture above would have been the first year I celebrated Halloween (15 months old). I guess they just wanted me to scare away the birds -- or just wanted the easiest outfit available.
+:page-image: /testsite/images/first-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/first-1.jpg[,role="text-center"]

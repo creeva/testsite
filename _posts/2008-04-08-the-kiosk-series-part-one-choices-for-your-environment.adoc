@@ -1,6 +1,7 @@
 = The Kiosk Series -- Part One -- Choices For Your Environment
 :page-layout: post
 :page-navtitle: The Kiosk Series -- Part One -- Choices For Your Environment
+:page-excerpt: Recently I've been put forth to design a kiosk solution for our internal environment. This is the first part of my kiosk series which is going to examine the testing and deployment of such a system.
 :imagesdir: /testsite/images
 
 Recently I've been put forth to design a kiosk solution for our internal environment. This is the first part of my kiosk series which is going to examine the testing and deployment of such a system.

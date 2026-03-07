@@ -1,7 +1,7 @@
-= Media -- Man’s Only Legacy
+= Media -- Man's Only Legacy
 :page-layout: post
-:page-navtitle: Media -- Man’s Only Legacy
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: Media -- Man's Only Legacy
+:page-excerpt: Inspired by an email I wrote yesterday --
 :imagesdir: /testsite/images
 
 Inspired by an email I wrote yesterday --

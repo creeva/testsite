@@ -1,7 +1,8 @@
 = Dads That Change Diapers
 :page-layout: post
 :page-navtitle: Dads That Change Diapers
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: I shared the above picture on Facebook yesterday to elevate the discussion that diaper changing is still considered a woman's job. In the time we are having an unnecessary discussion on which bathroom a transgendered individual uses, the fact that men can't universally have a spot to change diapers is ridiculous.
+:page-image: /testsite/images/2016-04-18-05.28.57-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/2016-04-18-05.28.57-1.jpg[,role="text-center"]

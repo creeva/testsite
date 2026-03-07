@@ -1,11 +1,11 @@
 = RSS Feed Management
 :page-layout: post
 :page-navtitle: RSS Feed Management
+:page-excerpt: Over the next few weeks, I'm going to be doing a few articles on RSS feeds and how to use them for more than just reading your news. Making RSS work for you and doing less -- that's my motto. The first step of this is to start having RSS feed management.
+:page-image: /testsite/images/logo_footer.gif
 :imagesdir: /testsite/images
 
 image::/testsite/images/logo_footer.gif[,role="text-center"]
-
-link:http://bp2.blogger.com/_7S-fpowJIA8/RqP6fvzT6aI/AAAAAAAABGA/lmcwH1TgSoc/s1600-h/logo_footer.gif[]
 
 Over the next few weeks, I'm going to be doing a few articles on RSS feeds and how to use them for more than just reading your news. Making RSS work for you and doing less -- that's my motto. The first step of this is to start having RSS feed management.
 
@@ -19,4 +19,4 @@ I then go back to FeedBurner and put the aggregate feed in here -- so I can mani
 
 image::/testsite/images/logo.gif[,role="text-center"]
 
-These two sites allow me to do everything I could want to do for my RSS feeds now. If you are going to do some RSS manipulation I recommend using the two services I mentioned above.link:http://bp3.blogger.com/_7S-fpowJIA8/RqP6Z_zT6ZI/AAAAAAAABF4/wKAg89YzIhc/s1600-h/logo.gif[] Simple Share Buttons Adder (8.4.5) simplesharebuttons.com
+These two sites allow me to do everything I could want to do for my RSS feeds now. If you are going to do some RSS manipulation I recommend using the two services I mentioned above. Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

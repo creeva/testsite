@@ -1,7 +1,7 @@
 = Brainwashing Begins When You Are Young…
 :page-layout: post
 :page-navtitle: Brainwashing Begins When You Are Young…
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: From this page, you can read about the creation of the dungeons and dragon cartoons. The character we all hated as kids for being a whiny crybaby was actually in the show for a reason. It seems that the parent groups wanted to teach children to always go around with the mob mentality and avoid being free thinkers. I'll let the writer involved tell his part of the story&#58;
 :imagesdir: /testsite/images
 
 From this page, you can read about the creation of the dungeons and dragon cartoons. The character we all hated as kids for being a whiny crybaby was actually in the show for a reason. It seems that the parent groups wanted to teach children to always go around with the mob mentality and avoid being free thinkers. I'll let the writer involved tell his part of the story:

@@ -1,6 +1,8 @@
 = The Crossposting God Series Part 7 -- Where Can You Post By E-Mail?
 :page-layout: post
 :page-navtitle: The Crossposting God Series Part 7 -- Where Can You Post By E-Mail?
+:page-excerpt: Where can you post by E-mail? Well, this is the easiest of crossposting methods (especially if you use Blogger). There are lots of plugins for wordpress or movable type that can send out your full post as an e-mail to another address. In most cases, you would send this to your own e-mail address so you had it for reference. What about sending it to another site entirely? What if that site could send it to another site? You can see how this chain can work. If you are using Blogger then you can send out your post to ten e-mail addresses. This means that your post can replicate like bunnies. What are some of the sites that can receive e-mail posts? Let's get into that.
+:page-image: /testsite/images/1623925209_db432f3651_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/1623925209_db432f3651_m.jpg[,role="text-center"]

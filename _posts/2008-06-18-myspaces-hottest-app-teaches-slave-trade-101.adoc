@@ -1,7 +1,8 @@
-= Myspace’s Hottest App Teaches Slave Trade 101
+= Myspace's Hottest App Teaches Slave Trade 101
 :page-layout: post
-:page-navtitle: Myspace’s Hottest App Teaches Slave Trade 101
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: Myspace's Hottest App Teaches Slave Trade 101
+:page-excerpt: A few weeks ago I started receiving strange notifications on Myspace stating "Click Here To See How Much I'm Worth" and "RANDOMUSER just bought you -- click here to see how much I think you are worth". I was puzzled. I was confused. I ignored it for a few weeks. Eventually, I clicked and found the "Own Your Friends" application.
+:page-image: /testsite/images/449923380_d3d130f340_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/449923380_d3d130f340_m.jpg[,role="text-center"]
@@ -17,16 +18,16 @@ ____
 Welcome to Own Your Friends![click here to show help]
 Using Own Your Friends, you can:
 
-Buy and sell your friends as ‘pets’.
-Make your ‘pets’ hug, punch, and poke each other!
-Change your pets’ status messages to whatever you want!
+Buy and sell your friends as 'pets'.
+Make your 'pets' hug, punch, and poke each other!
+Change your pets' status messages to whatever you want!
 
 Make Money by:
 
-Being bought! You earn half the profit everytime you are bought. If you’re a hot commodity, you’ll be rich! 😉
+Being bought! You earn half the profit everytime you are bought. If you're a hot commodity, you'll be rich! 😉
 Having your pets bought. You earn half the profit when someone else buys one of your pets. Choose pets wisely and make money as an investor!
 Logging in every 8 hours. You earn $1,000 for logging in, but only once every 8 hours.
-Give a Human Gift to a Friend. Earn $1,250 by giving a friend one of your pets as a human gift. Just go to the ‘Buy Friends’ tab and choose a friend to give a gift to!
+Give a Human Gift to a Friend. Earn $1,250 by giving a friend one of your pets as a human gift. Just go to the 'Buy Friends' tab and choose a friend to give a gift to!
 
 Hint: Use our new My Bargains feature. Find hot deals on cheap friends, then gift them away or sell them to profit!
 ____

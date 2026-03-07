@@ -1,7 +1,8 @@
 = Cedar Point Memories -- Goodbye Disaster Transport and Space Spiral
 :page-layout: post
 :page-navtitle: Cedar Point Memories -- Goodbye Disaster Transport and Space Spiral
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: I previously wrote my pieces on Disaster Transport and the Space Spiral. Please read those articles if you want a little more perspective on my feelings. Since today is the last day the rides are operational, I thought I would give them one last farewell into the night. If you didn't get your chance to ride them yet, you will never have another.
+:page-image: /testsite/images/cedarpoint.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/cedarpoint.jpg[,role="text-center"]

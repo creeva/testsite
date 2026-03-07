@@ -1,7 +1,8 @@
-= Maid-Rite -- One Town’s Unique Taste
+= Maid-Rite -- One Town's Unique Taste
 :page-layout: post
-:page-navtitle: Maid-Rite -- One Town’s Unique Taste
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: Maid-Rite -- One Town's Unique Taste
+:page-excerpt: This last weekend we made the trip to Greenville, OH to visit -- but more importantly to get a Maid-Rite. For those uninitiated, a Maid-Rite is a loose meat sandwich that is best described as a sloppy joe without sauce. It's a big deal in Greenville and one of those local flavors that only exist trapped in time.
+:page-image: /testsite/images/2013-09-08-18.01.02-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/2013-09-08-18.01.02-1.jpg[,role="text-center"]

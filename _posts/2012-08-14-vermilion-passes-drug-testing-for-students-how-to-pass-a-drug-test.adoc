@@ -1,7 +1,8 @@
 = Vermilion Passes Drug Testing For Students -- How To Pass A Drug Test
 :page-layout: post
 :page-navtitle: Vermilion Passes Drug Testing For Students -- How To Pass A Drug Test
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Yesterday I was heated against the Vermilion School Board passing possible drug testing. Vermilion is my Alma Mater, but I don't live in Vermilion. This directive does not affect me. That doesn't mean I don't believe in the right to privacy that has been codified in the constitution. It didn't help that I was spun up from this act passing that I watched an episode of the West Wing that covered drug testing and privacy rights. Last night was the perfect storm of outrage that I couldn't fall asleep until almost 3 AM.
+:page-image: /testsite/images/2854766045_bb32209626-1.jpeg
 :imagesdir: /testsite/images
 
 image::/testsite/images/2854766045_bb32209626-1.jpeg[,role="text-center"]
@@ -16,8 +17,8 @@ Excerpts from the Bureau of Labor's document on Afterschool activities:
 
 [quote]
 ____
-..studies suggest that participating in extracurricular activities helps students in their academic performance. Researchers found that self-motivation is a factor: Achieving success in an activity that interests them requires students to develop good time-management habits that carry over into schoolwork. And eligibility for participating often requires students to maintain a minimum gradepoint average—so taking part in extracurriculars means keeping up with academics.
-…For students planning to attend college or graduate school, extracurricular activities may improve their school-acceptance prospects. Extracurricular participation is often an indicator of students’ ability to accept responsibility, manage multiple commitments, and balance their pursuits of study, interest, and leisure.
+..studies suggest that participating in extracurricular activities helps students in their academic performance. Researchers found that self-motivation is a factor: Achieving success in an activity that interests them requires students to develop good time-management habits that carry over into schoolwork. And eligibility for participating often requires students to maintain a minimum gradepoint average--so taking part in extracurriculars means keeping up with academics.
+…For students planning to attend college or graduate school, extracurricular activities may improve their school-acceptance prospects. Extracurricular participation is often an indicator of students' ability to accept responsibility, manage multiple commitments, and balance their pursuits of study, interest, and leisure.
 ____
 
 The Bureau of Labor doesn't separate kids that may have tried an illegal substance. This is across the board. I also understand the need to test athletes for performance-enhancing drugs. The fact that a teenager tries marijuana once and can ruin his choir career, affecting possible scholarships and just placing him into hanging out with a group that may lead to more pot use -- is ridiculous.

@@ -1,7 +1,7 @@
 = Draft Overload
 :page-layout: post
 :page-navtitle: Draft Overload
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: You ever get one of those times that you step away from your blog for a few days (ok a couple of weeks for me) and it seems that you need to go through the steps to clean up your drafts, finish your writing, and then you may feel complete. I'm having one of those days.
 :imagesdir: /testsite/images
 
 You ever get one of those times that you step away from your blog for a few days (ok a couple of weeks for me) and it seems that you need to go through the steps to clean up your drafts, finish your writing, and then you may feel complete. I'm having one of those days.

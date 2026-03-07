@@ -1,7 +1,8 @@
 = Last Night I had a Dream About My Great Grandmother
 :page-layout: post
 :page-navtitle: Last Night I had a Dream About My Great Grandmother
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Last night was strange. The first part is strange is that I actually had a dream that I can remember. From my normal perspective, I dream next to never. I'm aware of the human dream mechanisms that everyone does dream, but normally I am unaware that I do it myself.
+:page-image: /testsite/images/110415937_6cc0f551a6_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/110415937_6cc0f551a6_m.jpg[,role="text-center"]

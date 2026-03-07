@@ -1,12 +1,11 @@
 = The Dark Knight Rises -- Best Comic Book Movie Ever Made
 :page-layout: post
 :page-navtitle: The Dark Knight Rises -- Best Comic Book Movie Ever Made
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: I would like to preface that while I feel for those that underwent the tragedy in Colorado last Friday, this is about the movie itself. I'm not going to allow myself to be pulled into the politics that are surrounding a senseless tragedy. I am also going to do my best to keep this review spoiler free. I might unintentionally reveal a minor plot point. If this is an issue, please stop reading now and come back after you have seen the movie.
+:page-image: /testsite/images/typewriter-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/typewriter-1.jpg[,role="text-center"]
-
-__
 
 I would like to preface that while I feel for those that underwent the tragedy in Colorado last Friday, this is about the movie itself. I'm not going to allow myself to be pulled into the politics that are surrounding a senseless tragedy. I am also going to do my best to keep this review spoiler free. I might unintentionally reveal a minor plot point. If this is an issue, please stop reading now and come back after you have seen the movie.
 
@@ -66,7 +65,7 @@ My first review was on Twitter immediately after the movie ended:
 
 [quote]
 ____
-Storyline, size, and overall all cinema – batman made the avengers look like the teletubbies
+Storyline, size, and overall all cinema -- batman made the avengers look like the teletubbies
 ____
 
 I stand by that assessment. The Avengers was geek porn. It was bright and fun but had a simplistic plot. It had obvious CGI eye candy for the sole purpose of making you eat more popcorn. You loved it. In the end, though it was unsatisfying. The Marvel movie characters are shallow. You don't dig into them. Iron Man is a recovering alcoholic in the comics. The only shot of this being a problem in any of the films is the birthday party scene. At the end, that scene falls flat.

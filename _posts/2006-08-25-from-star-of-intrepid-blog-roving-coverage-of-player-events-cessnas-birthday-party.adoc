@@ -1,6 +1,8 @@
-= From Star of Intrepid Blog -- Roving Coverage of Player Events -- Cessna’s Birthday Party
+= From Star of Intrepid Blog -- Roving Coverage of Player Events -- Cessna's Birthday Party
 :page-layout: post
-:page-navtitle: From Star of Intrepid Blog -- Roving Coverage of Player Events -- Cessna’s Birthday Party
+:page-navtitle: From Star of Intrepid Blog -- Roving Coverage of Player Events -- Cessna's Birthday Party
+:page-excerpt: Well, it was a day and a half here today -- Cessna turned 16, and Lerina threw a surprise birthday for him. The party took place today in the player city of Chinon on Corellia. Due to some problems with getting around Cessna got to be late for his own surprise party. We only enjoyed the time and kicked back by the shuttle until Lerina had things set up by her cantina.
+:page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
@@ -11,29 +13,17 @@ Some of the guests really enjoyed the hawtpant party favors.
 
 image::/testsite/images/screenShot0036.jpg[,role="text-center"]
 
-link:http://photos1.blogger.com/blogger/1654/1428/1600/screenShot0036.jpg[]
-
 image::/testsite/images/screenShot0038.jpg[,role="text-center"]
 
-link:http://photos1.blogger.com/blogger/1654/1428/1600/screenShot0038.jpg[]
-
 image::/testsite/images/screenShot0041.jpg[,role="text-center"]
-
-link:http://photos1.blogger.com/blogger/1654/1428/1600/screenShot0041.jpg[]
 
 Everything was going fine until Rocky-Balboa had the bounty hunter Mammon show up and have his number pulled. Was this trouble for Rocky?
 
 image::/testsite/images/battle201.jpg[,role="text-center"]
 
-link:http://photos1.blogger.com/blogger/1654/1428/1600/battle%201.jpg[]
-
 image::/testsite/images/battle2.jpg[,role="text-center"]
 
-link:http://photos1.blogger.com/blogger/1654/1428/1600/battle2.jpg[]
-
 image::/testsite/images/final.jpg[,role="text-center"]
-
-link:http://photos1.blogger.com/blogger/1654/1428/1600/final.jpg[]
 
 Mammon was defeated and Rocky-Balboa got to continue partying the night away.
 
@@ -41,30 +31,20 @@ Ironically another bounty hunter Vudvee- just sat back and watch the action unfo
 
 image::/testsite/images/mando.jpg[,role="text-center"]
 
-link:http://photos1.blogger.com/blogger/1654/1428/1600/mando.jpg[]
-
 They even managed to throw together a best-dressed contest, thankfully Cessna was not a judge since he said he was biased and would have voted for Mae. After some hot action of trying to bribe the judges between Oneru and myself, the winner was decided -- Lerina Et-at wins best dressed.
 
 image::/testsite/images/lerina20best20dressed.jpg[,role="text-center"]
-
-link:http://photos1.blogger.com/blogger/1654/1428/1600/lerina%20best%20dressed.jpg[]
 
 We would like to thank our judges -- from left to right -- Jazeriah Sundancer, Neeill Orkaorchi, and Koraann Lightningwave.
 
 image::/testsite/images/judges.jpg[,role="text-center"]
 
-link:http://photos1.blogger.com/blogger/1654/1428/1600/judges.jpg[]
-
 We did manage to snag a group photo of those who managed to sneak away from the dance floor long enough to allow their picture to be taken. For the rest of you that missed out please respond quicker next time.
 
 image::/testsite/images/cessna20b-dya20group.jpg[,role="text-center"]
 
-link:http://photos1.blogger.com/blogger/1654/1428/1600/cessna%20b-dya%20group.jpg[]
-
 And how could we close without a picture of the birthday boy himself -- Cessna Et-at.
 
 image::/testsite/images/cessna.jpg[,role="text-center"]
-
-link:http://photos1.blogger.com/blogger/1654/1428/1600/cessna.jpg[]
 
 This is Creeva Murkado -- Roving Party Reporter -- Signing off…… Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

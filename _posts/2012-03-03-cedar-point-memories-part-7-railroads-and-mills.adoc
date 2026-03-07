@@ -1,7 +1,8 @@
 = Cedar Point Memories -- Railroads and Mills
 :page-layout: post
 :page-navtitle: Cedar Point Memories -- Railroads and Mills
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: I originally said I was going to write about the Sky Wheel, but I had it confused with the other Cedar Point Ferris wheel. I don't remember the Sky Wheel at all. Moving on.
+:page-image: /testsite/images/cedarpoint.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/cedarpoint.jpg[,role="text-center"]

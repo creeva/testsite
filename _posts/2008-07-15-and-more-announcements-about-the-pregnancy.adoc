@@ -1,12 +1,11 @@
 = And More Announcements About the Pregnancy
 :page-layout: post
 :page-navtitle: And More Announcements About the Pregnancy
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Every time it seems we are done and all the announcements that Xie is pregnant pass through the cracks, another one comes up. This time around it's a local community band that I play with and an announcement is being put out in their regular newsletter. I put in all the relevant info.
+:page-image: /testsite/images/2365228104_57363481bf_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/2365228104_57363481bf_m.jpg[,role="text-center"]
-
-link:http://www.flickr.com/photos/the-icing-on-the-cake/2365228104/[]
 
 Every time it seems we are done and all the announcements that link:http://xielanthia.com[Xie] is pregnant pass through the cracks, another one comes up. This time around it's a link:http://www.vcma.net[local community band] that I play with and an announcement is being put out in their regular newsletter. I put in all the relevant info.
 

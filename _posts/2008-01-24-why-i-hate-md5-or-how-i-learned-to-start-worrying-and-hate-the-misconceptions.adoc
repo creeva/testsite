@@ -1,6 +1,7 @@
 = Why I Hate MD5 or: How I Learned to Start Worrying and Hate the Misconceptions
 :page-layout: post
 :page-navtitle: Why I Hate MD5 or: How I Learned to Start Worrying and Hate the Misconceptions
+:page-excerpt: Most people in the technical field that have delved into cryptographic, public keys, or file authenticity have at one time or another at least heard of MD5. MD5 is a fingerprint that is unique to a file. It is that signature line that is included at the most reputable Linux download sites to make sure the file you downloaded is not corrupt. It is the thing that is the current bane of my existence.
 :imagesdir: /testsite/images
 
 Most people in the technical field that have delved into cryptographic, public keys, or file authenticity have at one time or another at least heard of link:http://en.wikipedia.org/wiki/Md5[MD5]. MD5 is a fingerprint that is unique to a file. It is that signature line that is included at the most reputable Linux download sites to make sure the file you downloaded is not corrupt. It is the thing that is the current bane of my existence.
@@ -24,7 +25,7 @@ box, 1 blue box, both of size 0 (this is the filesystem metadata). Your
 md5 program asks for the location of the box from the clipboard, walks
 over to the box and opens it up (not caring about color, shape, size,
 etc). Grabs the contents (in this case nothing) and runs nothing through
-it’s magical hashing process.
+it's magical hashing process.
 ____
 
 Now I am aware that getting a checksum of a file or packet looked at the packet in general and would usually be limited since most checksums included in OS's are usually 8 bit I believe. I thought this was superseded later by MD5 checksums and their ability to be 32-bit. I thought MD5 would at least look at the file name since a file named test1 and a file named test2 would still be unique files even if they were zero bytes in size. What I thought paraphrasing my friend's scenario is that MD5 would look at the box, the size, and the contents as a complete package -- taking the file name into account for it being unique. Sadly I thought wrong.

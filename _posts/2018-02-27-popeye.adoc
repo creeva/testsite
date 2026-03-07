@@ -1,6 +1,7 @@
 = Retrometrics -- Popeye For The NES
 :page-layout: post
 :page-navtitle: Retrometrics -- Popeye For The NES
+:page-excerpt: Ahhhhh -- Popeye for the Nintendo Entertainment System, it's one of the grandpa cartridges from the NES era. When the NES was first launched in North America, Nintendo standardized the packaging design for the first 30 cartridges they published. They had different series lines such as "action series", "sports series", and "lightgun series". Popeye and a few other titles fell under the "arcade series".
 :imagesdir: /testsite/images
 
 Ahhhhh -- link:https://en.wikipedia.org/wiki/Popeye_(video_game)[Popeye] for the Nintendo Entertainment System, it's one of the grandpa cartridges from the NES era. When the NES was first launched in North America, Nintendo standardized the packaging design for the first 30 cartridges they published. They had different series lines such as "action series", "sports series", and "lightgun series". Popeye and a few other titles fell under the "arcade series".

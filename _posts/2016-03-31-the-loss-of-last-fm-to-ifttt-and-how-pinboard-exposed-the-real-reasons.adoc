@@ -1,6 +1,8 @@
 = The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons
 :page-layout: post
 :page-navtitle: The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons
+:page-excerpt: On March 9th I received the following email from IFTTT&#58;
+:page-image: /testsite/images/270969697_fc9dcf3383.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]
@@ -12,8 +14,8 @@ ____
 Hello,
 We have been busy bringing improvements to the IFTTT platform. Because of these technical updates, some Channels will no longer be supported.
 On March 23rd, the following Channels and their Recipes will be removed from IFTTT: App.net, BuzzFeed, Campfire, Diigo, Etsy, ffffound, Last.fm, Readability, Yahoo Fantasy Sports, and Yammer.
-Since the beginning of the year, we’ve added over 30 Channels and encourage you come check out what’s new and noteworthy on IFTTT!
-—The IFTTT Team
+Since the beginning of the year, we've added over 30 Channels and encourage you come check out what's new and noteworthy on IFTTT!
+--The IFTTT Team
 ____
 
 I immediately hit link:http://reddit.com/[Reddit] and looked at the IFTTT and Last.FM subreddits to see if there was any more information on the issue. I wanted to see what other thoughts there were on the issue and if there were any hacks or workaround to keep this going. My first thought was that I would use the RSS feeds from last.fm to keep the data flowing. However, what I found out is that last.fm has gone under a major revamp in the last year. While this revamp allowed for new uses via APIs -- it also broke the RSS feeds the site offered. There was no cure in sight.

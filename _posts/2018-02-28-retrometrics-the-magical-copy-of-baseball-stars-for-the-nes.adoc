@@ -1,6 +1,7 @@
 = Retrometrics -- The Magical Copy of Baseball Stars for the NES
 :page-layout: post
 :page-navtitle: Retrometrics -- The Magical Copy of Baseball Stars for the NES
+:page-excerpt: This game, it's one of the games that I almost wish I could forget about. The first weekend I played it was fantastic, and I'll never get back to that again. We will get to the why in a moment.
 :imagesdir: /testsite/images
 
 This game, it's one of the games that I almost wish I could forget about. The first weekend I played it was fantastic, and I'll never get back to that again. We will get to the why in a moment.
@@ -37,4 +38,4 @@ Of course, we were excited, and we immediately purchased every single over-the-t
 
 Sadly, I have never brought myself to play that game in cartridge form again. I am next to positive I have a copy in my vintage games collection -- but I'm sure if I put the game in my NES I would try to bump and beat the console just right to try to replicate that glitch. Unfortunately, I know that can never happen, and I would likely destroy one of my consoles trying.
 
-__ Simple Share Buttons Adder (8.4.5) simplesharebuttons.com
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

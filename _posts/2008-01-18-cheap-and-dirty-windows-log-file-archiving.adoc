@@ -1,6 +1,7 @@
 = Cheap and Dirty Windows Log File Archiving
 :page-layout: post
 :page-navtitle: Cheap and Dirty Windows Log File Archiving
+:page-excerpt: So your company has a requirement to maintain log files for a year?
 :imagesdir: /testsite/images
 
 So your company has a requirement to maintain log files for a year?
@@ -23,7 +24,7 @@ We take these 3 programs and wrap them to work together via a batch file. All 3 
 ____
 @echo off
 REM Sets date variables for file name
-for /F “tokens=1,2” %%d in (‘date /T’) do set day=%%d & set date=%%e
+for /F "tokens=1,2" %%d in ('date /T') do set day=%%d & set date=%%e
 set yyyy=%DATE:~6,4%
 set dd=%DATE:~3,2%
 set mm=%DATE:~0,2%
@@ -61,7 +62,7 @@ If you don't know @echo off suppresses everything from your screen in a batch, I
 
 [quote]
 ____
-for /F “tokens=1,2” %%d in (‘date /T’) do set day=%%d & set date=%%e
+for /F "tokens=1,2" %%d in ('date /T') do set day=%%d & set date=%%e
 set yyyy=%DATE:~6,4%
 set dd=%DATE:~3,2%
 set mm=%DATE:~0,2%

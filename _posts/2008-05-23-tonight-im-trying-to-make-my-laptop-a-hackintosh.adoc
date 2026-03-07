@@ -1,6 +1,8 @@
-= Tonight I’m Trying To Make My Laptop A Hackintosh
+= Tonight I'm Trying To Make My Laptop A Hackintosh
 :page-layout: post
-:page-navtitle: Tonight I’m Trying To Make My Laptop A Hackintosh
+:page-navtitle: Tonight I'm Trying To Make My Laptop A Hackintosh
+:page-excerpt: So most of you know that I was running Ubuntu Hardy Heron, but during some patching, I hit some data corruption that caused my laptop to go all screwy. The first thing I noticed was the touchpad stopped working. Um….ok. Then I was getting errors on boot up, more or less when I logged in some packages kept crashing and wouldn't restart. Upon trying to fix and reinstall packages I managed to lose gnome and then I couldn't do anything.
+:page-image: /testsite/images/ubuntu-logo32.png
 :imagesdir: /testsite/images
 
 image::/testsite/images/ubuntu-logo32.png[,role="text-center"]

@@ -1,6 +1,8 @@
 = The GFQ5 Story About Creeva
 :page-layout: post
 :page-navtitle: The GFQ5 Story About Creeva
+:page-excerpt: To give the history on this -- GF stood for Groovefest -- this was an in-game festival run by a play named Keltrienin the video game Star Wars Galaxies (SWG). The festival was on its fifth iteration and in celebration, there was going to be this elaborate quest written by a player named Niix. I was featured as part of this and somewhere out there is a video with my avatar in it. This story was written by Niix as being in the quest creator. This is the part that did feature me or rather my character Creeva. If Niix has any issue with this please let me know I am not taking credit nor robbing the original creator of any copyright he owns over this work.
+:page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]

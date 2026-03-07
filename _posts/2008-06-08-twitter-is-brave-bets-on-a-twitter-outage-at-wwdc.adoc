@@ -1,13 +1,14 @@
 = Twitter is Brave -- Bets on a Twitter Outage at WWDC?
 :page-layout: post
 :page-navtitle: Twitter is Brave -- Bets on a Twitter Outage at WWDC?
+:page-excerpt: It seems that Twitter is a being a little excited about the next big tech event, WWDC (World Wide Developers Conference -- it's an Apple thing). I first got the news from the Techcrunch article linked above, but it seems that Twitter made an announcement that there will be no downtime tomorrow -- I call shenanigans. They outlined the precautions in this article, among them are the following&#58;
 :imagesdir: /testsite/images
 
 It seems that link:http://www.twitter.com[Twitter] is a being a little excited about the next big tech event, link:http://developer.apple.com/wwdc/%20[WWDC] (World Wide Developers Conference -- it's an Apple thing). I first got the news from the Techcrunch article linked above, but it seems that Twitter made an announcement that there will be no downtime tomorrow -- I call shenanigans. They outlined the precautions link:http://blog.twitter.com/2008/06/twitterapple.html[in this article], among them are the following:
 
 [quote]
 ____
-We’ve moved much of the load off our database by utilizing more memcache, employing more read-slave servers, and by fixing some bugs for improved efficiency. This work is in intended to help handle the load and keep Twitter up and running while Steve Jobs talks about all the new products and services Apple has planned. Of course these improvements will continue to serve Twitter beyond the WWDC as well.
+We've moved much of the load off our database by utilizing more memcache, employing more read-slave servers, and by fixing some bugs for improved efficiency. This work is in intended to help handle the load and keep Twitter up and running while Steve Jobs talks about all the new products and services Apple has planned. Of course these improvements will continue to serve Twitter beyond the WWDC as well.
 ____
 
 Now it may just be me, but I've seen Twitter fail on slow days. I know they have had experience with similar traffic loads from other major events, but they crashed then. While they may have some idea of the data they will need to handle, I'm not sure if they can truly appreciate the amount of data they need to handle when the tech world needs its geek porn instant updates.

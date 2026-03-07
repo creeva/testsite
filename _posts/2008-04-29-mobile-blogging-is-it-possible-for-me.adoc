@@ -1,6 +1,7 @@
 = Mobile Blogging, Is It Possible For Me?
 :page-layout: post
 :page-navtitle: Mobile Blogging, Is It Possible For Me?
+:page-excerpt: This Nokia device will take a bit to get used to, but most of the problems stem from fat thumbs. The more I do it the faster it becomes.
 :imagesdir: /testsite/images
 
 This Nokia device will take a bit to get used to, but most of the problems stem from fat thumbs. The more I do it the faster it becomes.

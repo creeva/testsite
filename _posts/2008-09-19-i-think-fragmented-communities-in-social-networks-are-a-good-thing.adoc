@@ -1,6 +1,8 @@
 = I Think Fragmented Communities in Social Networks Are a Good Thing
 :page-layout: post
 :page-navtitle: I Think Fragmented Communities in Social Networks Are a Good Thing
+:page-excerpt: I was listening to the last week's episode of Net@Night and they were complaining that the Twitter community has become fragmented.  This is true in the online world, as well as the offline world.  We are all not friends.  Sometimes I think what you read, listen to, watch, or have to say is utterly idiotic and reprehensible.   I'm sorry.   I do.   I also know that some of you think the same things about me, especially those that are completely fed up with me.
+:page-image: /testsite/images/329594372_ce13c5336a_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/329594372_ce13c5336a_m.jpg[,role="text-center"]

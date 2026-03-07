@@ -1,7 +1,8 @@
 = Lemurs and Stroller Theft
 :page-layout: post
 :page-navtitle: Lemurs and Stroller Theft
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: For the second half of Lex's birthday weekend, we took him to the Cleveland Zoo on Monday. We arrived around 1&#58;30 since we knew it was going to be a short day. Lex wanted to ride in the stroller for a change and we stuffed his winter jacket in the bottom pocket.
+:page-image: /testsite/images/333979587_3132877a00_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/333979587_3132877a00_m.jpg[,role="text-center"]

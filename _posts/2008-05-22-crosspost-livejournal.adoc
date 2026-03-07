@@ -1,6 +1,8 @@
 = The Crossposting God Series Part 3 -- Live Journal and Derivative Sites
 :page-layout: post
 :page-navtitle: The Crossposting God Series Part 3 -- Live Journal and Derivative Sites
+:page-excerpt: LiveJournal is another online blog that focuses on community. While it is not as active and communal as Vox, it is infinitely more focused on true interaction between users compared to Myspace, Facebook, or any other of the more traditional collect as many friends as you can pokemon style social network. I can say that in rankings of comments and feedback, I get back from readers that my live journal is only third to my vox and my main blog in terms of interaction. Livejournal has been so successful that there are derivative sites that use the live journal engine, the steps listed below should allow you (with some tweaking) to post to any of those sites as well.
+:page-image: /testsite/images/logo.gif
 :imagesdir: /testsite/images
 
 image::/testsite/images/logo.gif[,role="text-center"]

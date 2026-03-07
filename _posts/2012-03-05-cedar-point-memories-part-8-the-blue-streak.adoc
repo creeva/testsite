@@ -1,7 +1,8 @@
 = Cedar Point Memories -- The Blue Streak
 :page-layout: post
 :page-navtitle: Cedar Point Memories -- The Blue Streak
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: The Blue Streak was built in 1964. I wouldn't rate it as being one of my favorite roller coasters. It is however a classic. The Blue Streak (followed by the Mean Streak) taught me that I'm not the largest fan of wooden roller coasters. The ride is rough though.
+:page-image: /testsite/images/cedarpoint.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/cedarpoint.jpg[,role="text-center"]

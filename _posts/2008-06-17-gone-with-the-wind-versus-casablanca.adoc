@@ -1,7 +1,8 @@
 = Gone With The Wind Versus Casablanca
 :page-layout: post
 :page-navtitle: Gone With The Wind Versus Casablanca
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Last night I watched Gone With the Wind. Contrary to belief (since I'm the go-to movie guy) I have never seen this movie. It wasn't any reason in particular that I hadn't seen it. I had wanted to see it for a long time, I just never had gotten around to it.
+:page-image: /testsite/images/41Dj4vbPEUL._AA280_.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/41Dj4vbPEUL._AA280_.jpg[,role="text-center"]

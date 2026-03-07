@@ -1,12 +1,13 @@
 = Immediate Brain Dump.
 :page-layout: post
 :page-navtitle: Immediate Brain Dump.
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: That's the point of this blog, isn't it? Getting me back in shape to write the great American novel? At least to the point that I can finish a novel during the national novel-writing month this year.
+:page-image: /testsite/images/logo.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/logo.jpg[,role="text-center"]
 
-link:http://bp3.blogger.com/_7S-fpowJIA8/RsJgGPzT6bI/AAAAAAAABHU/3mu4R_xq--c/s1600-h/logo.jpg[] +
++
 Writing to write.
 
 That's the point of this blog, isn't it? Getting me back in shape to write the great American novel? At least to the point that I can finish a novel during the national novel-writing month this year.

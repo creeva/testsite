@@ -1,7 +1,7 @@
-= What’s Wrong With My Shoes?
+= What's Wrong With My Shoes?
 :page-layout: post
-:page-navtitle: What’s Wrong With My Shoes?
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: What's Wrong With My Shoes?
+:page-excerpt: The other day at work I had mentioned my 9th wedding anniversary coming up and of course, as per custom my co-workers congratulated me. After the first sentence, you are probably wondering what the title has to do with this post. Well, let's get into that.
 :imagesdir: /testsite/images
 
 The other day at work I had mentioned my 9th wedding anniversary coming up and of course, as per custom my co-workers congratulated me. After the first sentence, you are probably wondering what the title has to do with this post. Well, let's get into that.

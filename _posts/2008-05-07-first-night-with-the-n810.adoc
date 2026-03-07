@@ -1,6 +1,7 @@
 = First Night With The N810
 :page-layout: post
 :page-navtitle: First Night With The N810
+:page-excerpt: A couple of days ago I asked the blogosphere if I should I get an N810 and like the blogosphere normally answers I got nothing back. That's fine, I'm used to talking to myself on my blog. However, I decided that I would give it a go. I knew that if things didn't work out I would return it. It arrived last night and I thought I would describe what I went through. It is also interesting that this morning from the blogosphere I got a comment on my article that was crossposted to my vox blog (hey I'm sorry vox users get weird characters).
 :imagesdir: /testsite/images
 
 A couple of days ago I asked the blogosphere if I should I get an N810 and like the blogosphere normally answers I got nothing back. That's fine, I'm used to talking to myself on my blog. However, I decided that I would give it a go. I knew that if things didn't work out I would return it. It arrived last night and I thought I would describe what I went through. It is also interesting that this morning from the blogosphere I got a comment on my article that was crossposted to my vox blog (hey I'm sorry vox users get weird characters).
@@ -9,9 +10,9 @@ Hyphn on vox asked:
 
 [quote]
 ____
-Nice article. I’m in a similar situation to yourself. I’ve got a Palm TX and an Nokia 770 (& N95 8GB).
-I use the N95 8GB for all of my music and podcasts (it automatically downloads them over the air). I have a Palm Infrared keyboard for my TX, which is nice, but the problem is that you just can’t really see the screen when you are out in bright sunshine. – Is the N810 screen readable in bright sunshine?
-The N770 is ok, but it’s a bit slow and the lack of a keyboard (of any description) is a killer…. Not sure I can justify the extra 280GBP for another device thought…. (?)
+Nice article. I'm in a similar situation to yourself. I've got a Palm TX and an Nokia 770 (& N95 8GB).
+I use the N95 8GB for all of my music and podcasts (it automatically downloads them over the air). I have a Palm Infrared keyboard for my TX, which is nice, but the problem is that you just can't really see the screen when you are out in bright sunshine. -- Is the N810 screen readable in bright sunshine?
+The N770 is ok, but it's a bit slow and the lack of a keyboard (of any description) is a killer…. Not sure I can justify the extra 280GBP for another device thought…. (?)
 ____
 
 So I'm going to cover this comment in this article.

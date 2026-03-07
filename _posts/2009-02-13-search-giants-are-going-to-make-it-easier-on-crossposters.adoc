@@ -1,6 +1,8 @@
 = Search Giants Are Going To Make It Easier On Crossposters
 :page-layout: post
 :page-navtitle: Search Giants Are Going To Make It Easier On Crossposters
+:page-excerpt: This story hopped across my feed reader today, it piqued my interest since before I expanded it I only had the title, "Search giants join to tidy up Web addresses". I wasn't sure from the title if they were looking at trying to apply pressure before any new TLDs were going to be added, if they were looking at the URL shortening issue that seems to be proliferating across the net, or whatever else they were trying to do. So much can be derived from that simple sentence that I felt I just had to read that article.
+:page-image: /testsite/images/108805307_c43af20f59.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/108805307_c43af20f59.jpg[,role="text-center"]
@@ -13,7 +15,7 @@ It seems link:http://microsoft.com[Microsoft], link:http://google.com[Google], a
 
 [quote]
 ____
-All three on Thursday announced they’d support a technique by which a little extra code in a Web page can indicate the address of its “canonical” version–essentially, the original, primary URL. The move will make it easier to tell search engines what they should pay attention to and to avoid treating duplicative Web pages as different.
+All three on Thursday announced they'd support a technique by which a little extra code in a Web page can indicate the address of its "canonical" version--essentially, the original, primary URL. The move will make it easier to tell search engines what they should pay attention to and to avoid treating duplicative Web pages as different.
 ____
 
 *What does this mean to a crossposter?*

@@ -1,12 +1,11 @@
 = 88 Miles Per Hour
 :page-layout: post
 :page-navtitle: 88 Miles Per Hour
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: 88 miles per hour is one of those magical spots. It's right up there with the number 42. Of course, it has a closer association with 1.21. Unless you have lived under a rock, or were born after 1990, you will always associate this with the movie Back To The Future.
+:page-image: /testsite/images/Back_to_the_future-1.jpeg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Back_to_the_future-1.jpeg[,role="text-center"]
-
-__
 
 88 miles per hour is one of those magical spots. It's right up there with the number 42. Of course, it has a closer association with 1.21. Unless you have lived under a rock, or were born after 1990, you will always associate this with the movie Back To The Future.
 
@@ -20,8 +19,8 @@ The problem is that he wants a speeding ticket. He doesn't want just any speedin
 
 [quote]
 ____
-As much of a completist as any nerd, Cline wants to get written up for driving 88 mph. He came close once, in Michigan, when he got pulled over doing 76 in a 65 mph zone. But the officer wouldn’t boost the speed on his citation (which had to be one of the geekier requests in the history of law enforcement).
-“I begged [the officer],” Cline recalled. “I said, ‘Could you please raise the speed up to 88?’ I said, ‘I will pay the additional fine just so I can have this ticket and frame it for all time.’”
+As much of a completist as any nerd, Cline wants to get written up for driving 88 mph. He came close once, in Michigan, when he got pulled over doing 76 in a 65 mph zone. But the officer wouldn't boost the speed on his citation (which had to be one of the geekier requests in the history of law enforcement).
+"I begged [the officer]," Cline recalled. "I said, 'Could you please raise the speed up to 88?' I said, 'I will pay the additional fine just so I can have this ticket and frame it for all time.'"
 ____
 
 Thinking about that though, wouldn't you want a ticket for eighty-seven miles an hour? You could tell your friends that you almost disappeared into the time stream but you just couldn't get away. That would be the excuse I would use. I guess you could always use the old flux capacitor didn't kick in excuse. You could try is that your Mister Fusion was out of fuel. Finally, maybe you forgot to run to the local corner store to pick up plutonium.

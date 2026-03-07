@@ -1,6 +1,7 @@
 = The Kiosk Series -- Part Three -- Microsoft SteadyState vs Group Policies
 :page-layout: post
 :page-navtitle: The Kiosk Series -- Part Three -- Microsoft SteadyState vs Group Policies
+:page-excerpt: One of the programs that management wants us to look at for our kiosk implementation is Microsoft Steadystate, Microsoft's all-in-one wizard creates a kiosk solution.
 :imagesdir: /testsite/images
 
 One of the programs that management wants us to look at for our kiosk implementation is Microsoft Steadystate, link:http://www.microsoft.com[Microsoft]'s all-in-one wizard creates a kiosk solution.

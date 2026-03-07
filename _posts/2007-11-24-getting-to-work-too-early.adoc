@@ -1,7 +1,7 @@
 = Getting to work too early
 :page-layout: post
 :page-navtitle: Getting to work too early
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Well, this is the first day after thanksgiving I have ever had to work. Even when I worked at a small retail store we didn't have the technician side of the business running the day after thanksgiving (which is where I worked). So this is a new feeling for me. On the other hand, I had a friend that stayed over the holidays and needed a ride to work in the morning today.
 :imagesdir: /testsite/images
 
 Well, this is the first day after thanksgiving I have ever had to work. Even when I worked at a small retail store we didn't have the technician side of the business running the day after thanksgiving (which is where I worked). So this is a new feeling for me. On the other hand, I had a friend that stayed over the holidays and needed a ride to work in the morning today.

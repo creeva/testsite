@@ -1,6 +1,8 @@
 = Dealing With Different Public Domain Laws
 :page-layout: post
 :page-navtitle: Dealing With Different Public Domain Laws
+:page-excerpt: Recently I started contributing to the International Music Score Library Project and I've run into a small snag. Currently, I've only uploaded two pieces ( I did say I was going to contribute more to the public domain going forward) and I received the following message the day after I uploaded the pieces&#58;
+:page-image: /testsite/images/justice_icon-1.png
 :imagesdir: /testsite/images
 
 image::/testsite/images/justice_icon-1.png[,role="text-center"]
@@ -10,7 +12,7 @@ Recently I started contributing to the link:http://imslp.org/[International Musi
 [quote]
 ____
 Dear Creeva,
-IMSLP is located in Canada and therefore operates under Canadian copyright law. A very important difference between Canada’s law and that of the USA is that the term is determined by the death date of the composer or author of the work in question (term is life-plus-50 years). I was able to find out that George Hendricks Rosenkrans died in 1955 and is therefore public domain in Canada. Gus W. Bernard is a different matter.
+IMSLP is located in Canada and therefore operates under Canadian copyright law. A very important difference between Canada's law and that of the USA is that the term is determined by the death date of the composer or author of the work in question (term is life-plus-50 years). I was able to find out that George Hendricks Rosenkrans died in 1955 and is therefore public domain in Canada. Gus W. Bernard is a different matter.
 I was not able to find anything on the date of Gus W. Bernard, so I have to estimate his approximate lifetime. Please be advised that should info surface that he died later than 1959, the item you posted may well have to be deleted. Also, please try to include complete information on composers when you add a new name. You can often find out things quickly by means of a simple Google search.
 Thanks,
 [NAME REDACTED BY CREEVA]

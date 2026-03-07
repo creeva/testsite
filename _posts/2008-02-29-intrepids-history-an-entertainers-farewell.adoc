@@ -1,6 +1,8 @@
-= Intrepid’s History, An Entertainers Farewell
+= Intrepid's History, An Entertainers Farewell
 :page-layout: post
-:page-navtitle: Intrepid’s History, An Entertainers Farewell
+:page-navtitle: Intrepid's History, An Entertainers Farewell
+:page-excerpt: [if gte mso 9]><xml> <w &#58;WordDocument> </w><w &#58;View>Normal</w> <w &#58;Zoom>0</w> <w &#58;PunctuationKerning></w> <w &#58;ValidateAgainstSchemas></w> <w &#58;SaveIfXMLInvalid>false</w> <w &#58;IgnoreMixedContent>false</w> <w &#58;AlwaysShowPlaceholderText>false</w> <w &#58;Compatibility> <w &#58;BreakWrappedTables></w> <w &#58;SnapToGridInCell></w> <w &#58;WrapTextWithPunct></w> <w &#58;UseAsianBreakRules></w> <w &#58;DontGrowAutofit></w> </w> <w &#58;BrowserLevel>MicrosoftInternetExplorer4</w> </xml>< ![endif] [if gte mso 9]><xml> <w &#58;LatentStyles DefLockedState="false" LatentStyleCount="156"> </w> </xml>< ![endif] [if !mso]><object classid="clsid&#58;38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object> <style> st1\&#58;{behavior&#58;url(#ieooui) } </style> < ![endif]
+:page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images
 
 [if gte mso 9]><xml> <w :WordDocument> </w><w :View>Normal</w> <w :Zoom>0</w> <w :PunctuationKerning></w> <w :ValidateAgainstSchemas></w> <w :SaveIfXMLInvalid>false</w> <w :IgnoreMixedContent>false</w> <w :AlwaysShowPlaceholderText>false</w> <w :Compatibility> <w :BreakWrappedTables></w> <w :SnapToGridInCell></w> <w :WrapTextWithPunct></w> <w :UseAsianBreakRules></w> <w :DontGrowAutofit></w> </w> <w :BrowserLevel>MicrosoftInternetExplorer4</w> </xml>< ![endif] [if gte mso 9]><xml> <w :LatentStyles DefLockedState="false" LatentStyleCount="156"> </w> </xml>< ![endif] [if !mso]><object classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object> <style> st1\:*{behavior:url(#ieooui) } </style> < ![endif]

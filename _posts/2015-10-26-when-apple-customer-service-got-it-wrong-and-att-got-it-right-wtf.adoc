@@ -1,6 +1,8 @@
 = When Apple Customer Service Got It Wrong -- And AT&T Got It Right -- WTF
 :page-layout: post
 :page-navtitle: When Apple Customer Service Got It Wrong -- And AT&T Got It Right -- WTF
+:page-excerpt: A new iPhone is released. A boy has an upgrade on his contract. It is a match made in heaven -- until it isn't.
+:page-image: /testsite/images/39150253_5ded166fe1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/39150253_5ded166fe1.jpg[,role="text-center"]

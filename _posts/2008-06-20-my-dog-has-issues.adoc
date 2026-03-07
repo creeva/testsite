@@ -1,7 +1,7 @@
 = My Dog Has Issues
 :page-layout: post
 :page-navtitle: My Dog Has Issues
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: My dog is spastic. There is no doubt about it. She may pretend to be the sweet dog most of the time. She may even fool the casual observer. The problem is she just goes psycho for no reason.
 :imagesdir: /testsite/images
 
 My dog is spastic. There is no doubt about it. She may pretend to be the sweet dog most of the time. She may even fool the casual observer. The problem is she just goes psycho for no reason.

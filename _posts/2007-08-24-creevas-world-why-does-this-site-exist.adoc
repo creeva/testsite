@@ -1,7 +1,7 @@
-= Creeva’s World: Why Does This Site Exist?
+= Creeva's World: Why Does This Site Exist?
 :page-layout: post
-:page-navtitle: Creeva’s World: Why Does This Site Exist?
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: Creeva's World: Why Does This Site Exist?
+:page-excerpt: First and foremost the site is for me. It allows me to save my poetry, short stories, and thoughts online. It allows me to delve into technical issues that may be insightful or interesting to others. Some things I write and put together just because I can't find them anywhere else and want to save others the rework of tracking down something that took me hours/days to piece together.
 :imagesdir: /testsite/images
 
 First and foremost the site is for me. It allows me to save my poetry, short stories, and thoughts online. It allows me to delve into technical issues that may be insightful or interesting to others. Some things I write and put together just because I can't find them anywhere else and want to save others the rework of tracking down something that took me hours/days to piece together.

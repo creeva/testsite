@@ -1,7 +1,7 @@
 = Ashland Community Band 2007-2008 Season
 :page-layout: post
 :page-navtitle: Ashland Community Band 2007-2008 Season
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: The 2007-2008 season of the Ashland Community Band is over. It will resume back up in the Fall (September 2nd) but for now, the musicians receive a reprieve and a break from the weekly practices. It is interesting, I originally joined a community band to get back into shape for my high school Alumni Band which lasts only one day a year. What I found was another experience.
 :imagesdir: /testsite/images
 
 The 2007-2008 season of the Ashland Community Band is over. It will resume back up in the Fall (September 2nd) but for now, the musicians receive a reprieve and a break from the weekly practices. It is interesting, I originally joined a community band to get back into shape for my high school Alumni Band which lasts only one day a year. What I found was another experience.

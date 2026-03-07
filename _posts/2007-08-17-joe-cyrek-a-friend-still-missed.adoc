@@ -1,12 +1,14 @@
 = Joe Cyrek a Friend Still Missed
 :page-layout: post
 :page-navtitle: Joe Cyrek a Friend Still Missed
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: +
+It seems that we can't do enough these days to always fully realize those that are close to us. Things change and we don't get to do all the things we want to or say what we can. 7 years ago I lost my best friend to an automobile accident. I had never thought I would be a pallbearer so early in my life.
+:page-image: /testsite/images/kilt.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/kilt.jpg[,role="text-center"]
 
-link:http://bp2.blogger.com/_7S-fpowJIA8/RsXlAnfZ4eI/AAAAAAAABH8/GC2ZXp1Xj-8/s1600-h/kilt.jpg[] +
++
 It seems that we can't do enough these days to always fully realize those that are close to us. Things change and we don't get to do all the things we want to or say what we can. 7 years ago I lost my best friend to an automobile accident. I had never thought I would be a pallbearer so early in my life.
 
 I could go on and say a lot about Joe, but I feel it's more suited for him to talk about himself in the bit of writing I still have copied away from his. I had saved these on a web page seven years ago and they had managed to survive. I figured now is the time to make sure they stay saved and not lost into Internet oblivion.

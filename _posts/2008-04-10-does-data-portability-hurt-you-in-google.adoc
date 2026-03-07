@@ -1,7 +1,7 @@
 = Does Data Portability Hurt You in Google?
 :page-layout: post
 :page-navtitle: Does Data Portability Hurt You in Google?
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Yesterday on my main blog I wrote a quip on my battle for the search term "creeva" in google and how many hits it brings back. It fluctuated up and down and was more of a joke than anything. However, I started thinking about it a little more profoundly last night.
 :imagesdir: /testsite/images
 
 Yesterday on my main blog I wrote a quip on my battle for the search term "creeva" in google and how many hits it brings back. It fluctuated up and down and was more of a joke than anything. However, I started thinking about it a little more profoundly last night.

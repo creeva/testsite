@@ -1,6 +1,8 @@
 = SWG 6.26.06
 :page-layout: post
 :page-navtitle: SWG 6.26.06
+:page-excerpt: Starting the Jedi grind 2.0….or is it 3.0?
+:page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]

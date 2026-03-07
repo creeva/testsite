@@ -1,7 +1,7 @@
 = County Fair, after County Fair, after County Fair
 :page-layout: post
 :page-navtitle: County Fair, after County Fair, after County Fair
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Traditionally (since I've been with Xie) we don't normally go to county fairs. Of course, there have been brief dabbles, a single visit or so to the Lorain County Fair or visits to the Lane County Fair when we lived in Eugene, but nothing planned ahead of time, more of a whim of the moment. Somehow this year is different.
 :imagesdir: /testsite/images
 
 Traditionally (since I've been with link:http://xielanthia.com[Xie]) we don't normally go to county fairs. Of course, there have been brief dabbles, a single visit or so to the link:http://www.loraincountyfair.com/[Lorain County Fair] or visits to the link:http://www.atthefair.com/[Lane County Fair] when we lived in link:http://en.wikipedia.org/wiki/Eugene,_Oregon[Eugene], but nothing planned ahead of time, more of a whim of the moment. Somehow this year is different.

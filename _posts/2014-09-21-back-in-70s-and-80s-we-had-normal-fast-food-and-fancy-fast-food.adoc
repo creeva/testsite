@@ -1,7 +1,8 @@
-= Back in 70’s and 80’s We Had Normal Fast Food and Fancy Fast Food
+= Back in 70's and 80's We Had Normal Fast Food and Fancy Fast Food
 :page-layout: post
-:page-navtitle: Back in 70’s and 80’s We Had Normal Fast Food and Fancy Fast Food
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: Back in 70's and 80's We Had Normal Fast Food and Fancy Fast Food
+:page-excerpt: Maybe this is an Ohio idea, but there used a delineation between standard fast food restaurants and almost sit-down restaurant-style fast food. Looking back and what was considered fancy and standard seemed to be the likelihood of eating in the restaurant or taking the food out. Another 80's invention cemented in idea of a fancy fast food restaurant -- the salad bar.
+:page-image: /testsite/images/RaxROASTBeefPNG-1.png
 :imagesdir: /testsite/images
 
 image::/testsite/images/RaxROASTBeefPNG-1.png[,role="text-center"]

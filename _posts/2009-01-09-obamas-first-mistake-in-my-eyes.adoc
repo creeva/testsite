@@ -1,7 +1,8 @@
-= Obama’s First Mistake In My Eyes
+= Obama's First Mistake In My Eyes
 :page-layout: post
-:page-navtitle: Obama’s First Mistake In My Eyes
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: Obama's First Mistake In My Eyes
+:page-excerpt: I could pick on a few things actually, once again I didn't vote for the guy, but I don't absolutely detest him. I'm in wait-and-see mode. Ars Technica is reporting about Obama's plea to push back the transition to digital TV. If we look at the digital TV migration timeline, we can see the originally scheduled date was Dec. 31, 2006. Because of multiple issues, it was pushed back, and this brings us to this upcoming Feb. 17th as the transition time.
+:page-image: /testsite/images/2239632240_e774696e3f.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/2239632240_e774696e3f.jpg[,role="text-center"]

@@ -1,12 +1,11 @@
 = Planting Trees
 :page-layout: post
 :page-navtitle: Planting Trees
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: You would think that on a blog named parent phobia, when I start a blog post off with the title "Planting Trees" I'm going to be speaking in the metaphorical sense. Well, your half right.
+:page-image: /testsite/images/172185123_098d5910d3_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/172185123_098d5910d3_m.jpg[,role="text-center"]
-
-link:http://www.flickr.com/photos/meeshiefeet/172185123/[]
 
 You would think that on a blog named parent phobia, when I start a blog post off with the title "Planting Trees" I'm going to be speaking in the metaphorical sense. Well, your half right.
 

@@ -1,12 +1,11 @@
 = Cedar Point Memories -- Avalanche Run / Disaster Transport
 :page-layout: post
 :page-navtitle: Cedar Point Memories -- Avalanche Run / Disaster Transport
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: The summer of 1985 was great.  Getting ready for the annual trip to Cedar Point was one of the highlights until we moved closer and got Season Passes.   There was a new roller coaster that year and I really wanted to ride it.   It was called Avalanche Run and it looked so different from all the coasters I had seen before.  Today and it is a shadow of its former self.   This will also be the last year it is going to exist.
+:page-image: /testsite/images/cedarpoint.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/cedarpoint.jpg[,role="text-center"]
-
-__
 
 The summer of 1985 was great.  Getting ready for the annual trip to Cedar Point was one of the highlights until we moved closer and got Season Passes.   There was a new roller coaster that year and I really wanted to ride it.   It was called Avalanche Run and it looked so different from all the coasters I had seen before.  Today and it is a shadow of its former self.   This will also be the last year it is going to exist.
 
@@ -16,7 +15,7 @@ From the link:http://en.wikipedia.org/wiki/Disaster_Transport[Wikipedia descript
 
 [quote]
 ____
-The roller coaster is of the bobsled design, meaning the wheels are not attached to a track as on a conventional roller coaster. The cars—resembling bobsleds — operate within a steel trough, on which they are allowed to operate freely. This allows the ride to swing from side to side when turning sharp corners, as an actual bobsled would.
+The roller coaster is of the bobsled design, meaning the wheels are not attached to a track as on a conventional roller coaster. The cars--resembling bobsleds -- operate within a steel trough, on which they are allowed to operate freely. This allows the ride to swing from side to side when turning sharp corners, as an actual bobsled would.
 ____
 
 Let's head back to the Summer of 1985.  We arrived at the park and from the parking lot I could see this marvelous blue ride.   Getting into the park, the ride was situated right next to Kid Arthur's Court.   I would love to say that I rode it immediately, but I don't remember.    Avalanche Run did flip my world a bit.

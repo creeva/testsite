@@ -1,7 +1,7 @@
 = Myspace -- A Rant
 :page-layout: post
 :page-navtitle: Myspace -- A Rant
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: I don't get MySpace addiction among so many people. I logged in tonight and hunted down some old friends to add, but this is a once-in-a-great-while occasion. I usually avoid MySpace like the plague unless I get a message that someone left a comment, friend request (usually spam using the same profile different pic), or mail.
 :imagesdir: /testsite/images
 
 I don't get MySpace addiction among so many people. I logged in tonight and hunted down some old friends to add, but this is a once-in-a-great-while occasion. I usually avoid MySpace like the plague unless I get a message that someone left a comment, friend request (usually spam using the same profile different pic), or mail.

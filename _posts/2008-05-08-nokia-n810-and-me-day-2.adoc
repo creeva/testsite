@@ -1,6 +1,8 @@
 = Nokia N810 and Me -- Day 2
 :page-layout: post
 :page-navtitle: Nokia N810 and Me -- Day 2
+:page-excerpt: Last night was more of a bust than a boom for me. I had some specific goals in mind and I can't say I really accomplished them.
+:page-image: /testsite/images/claws-maemo.png
 :imagesdir: /testsite/images
 
 Last night was more of a bust than a boom for me. I had some specific goals in mind and I can't say I really accomplished them.
@@ -14,8 +16,6 @@ Before I get onto my next bad experience, let's move on to a good one. Using my 
 So Claws Mail it was, after a couple of configurations I did get Claws up and working. It is a bit slow, but I knew that going in, especially using IMAP. At least I can cache my email instead of holding my full 2 GB e-mail archive on my N810. Sending is fine. Overall as an e-mail application, I'm quite happy with it. That's pretty impressive since the only other e-mail applications I'm really happy with are Outlook and the Gmail web interface.
 
 image::/testsite/images/claws-maemo.png[,role="text-center"]
-
-link:http://www.claws-mail.org/maemo/[]
 
 _Claws-Mail screenshot from their website_
 

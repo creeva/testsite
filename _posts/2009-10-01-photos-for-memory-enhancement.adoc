@@ -1,7 +1,8 @@
 = Photos For Memory Enhancement
 :page-layout: post
 :page-navtitle: Photos For Memory Enhancement
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: I was going through and organizing my Flickrphotos and looking at quite a few of the pictures of when I was growing up. I was saying to myself at different times "that was the day that such and such happen". Now photographs have always been a doorway into our past, a visual representation that can spell things out better than our own memory can sometimes. It can also jog our thoughts and remember that specific with better clarity than what you can describe with the written or vocal. So how many pictures would it take to give yourself a near-representative photographic memory? This is the question that I've posed to myself.
+:page-image: /testsite/images/270969697_fc9dcf3383.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]

@@ -1,7 +1,7 @@
-= Trip To NASA’s Plum Brook Station Open House
+= Trip To NASA's Plum Brook Station Open House
 :page-layout: post
-:page-navtitle: Trip To NASA’s Plum Brook Station Open House
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: Trip To NASA's Plum Brook Station Open House
+:page-excerpt: So yesterday 06/01/08 Xie 'lanthia, Ghoulishcharm, and I made it out to NASA's Plumbrook Station facility.
 :imagesdir: /testsite/images
 
 So yesterday 06/01/08 link:http://www.xielanthia.com[Xie 'lanthia], Ghoulishcharm, and I made it out to NASA's Plumbrook Station facility.
@@ -18,17 +18,17 @@ We made it through security, where they checked my camera bag and asked if we we
 
 [quote]
 ____
-NASA’s only nuclear test reactor was the Plum Brook Reactor Facility, which is affiliated with the NASA Glenn Research Center . The facility, located on land that is now Plum Brook Station in Sandusky, Ohio, operated from 1962-1973; but the history of the land stretches back to the 19th Century when War of 1812 veterans were given the property. The federal government seized 9000 acres of this farmland in 1941 to construct a sprawling Ordnance Works facility that operated throughout World War II.
-The National Advisory Committee for Aeronautics purchased the land in 1956 to build a test reactor, to support atomic aircraft studies being conducted by the Atomic Energy Commission. Although that concept was shelved before construction of the reactor was completed, President Kennedy breathed new life into the facility by supporting a national nuclear rocket program in May 1961, a month before the Plum Brook reactor was started up (also known as “taken critical”) for the first time.
+NASA's only nuclear test reactor was the Plum Brook Reactor Facility, which is affiliated with the NASA Glenn Research Center . The facility, located on land that is now Plum Brook Station in Sandusky, Ohio, operated from 1962-1973; but the history of the land stretches back to the 19th Century when War of 1812 veterans were given the property. The federal government seized 9000 acres of this farmland in 1941 to construct a sprawling Ordnance Works facility that operated throughout World War II.
+The National Advisory Committee for Aeronautics purchased the land in 1956 to build a test reactor, to support atomic aircraft studies being conducted by the Atomic Energy Commission. Although that concept was shelved before construction of the reactor was completed, President Kennedy breathed new life into the facility by supporting a national nuclear rocket program in May 1961, a month before the Plum Brook reactor was started up (also known as "taken critical") for the first time.
 During its operations, the 60-megawatt Plum Brook Reactor conducted over 70 experiments, most of which studied the effects of radiation on various materials. After the materials were irradiated in the reactor, they were transferred to the Hot Laboratory where they could be remotely examined, using manipulator arms that reached into a series of seven test cells.
-The nation’s nuclear rocket program was cancelled during the post-Apollo budget cuts. The reactor was closed down in 1973 and was placed into a “safe dry storage” mode, during which it was monitored by NASA until initial decommissioning work began in 1998.
+The nation's nuclear rocket program was cancelled during the post-Apollo budget cuts. The reactor was closed down in 1973 and was placed into a "safe dry storage" mode, during which it was monitored by NASA until initial decommissioning work began in 1998.
 ____
 
 Since it was so late in the day the only building we could get into was the Space Power Facility, Wikipedia has this information on the link:http://en.wikipedia.org/wiki/Space_Power_Facility[Space Power Facility]:
 
 [quote]
 ____
-The Space Power Facility (SPF) is a vacuum chamber built by NASA in 1969. It stands 122 feet high and 100 feet in diameter, enclosing a bullet-shaped space. It is the world’s largest thermal vacuum chamber. It was originally commissioned for nuclear-electric power studies under vacuum conditions, but was later decommissioned. Recently, it was recommissioned for use in testing spacecraft propulsion systems. Recent uses include testing the airbag landing systems for the Mars Pathfinder and the Mars Exploration Rovers, Spirit and Opportunity, under simulated Mars atmospheric conditions.
+The Space Power Facility (SPF) is a vacuum chamber built by NASA in 1969. It stands 122 feet high and 100 feet in diameter, enclosing a bullet-shaped space. It is the world's largest thermal vacuum chamber. It was originally commissioned for nuclear-electric power studies under vacuum conditions, but was later decommissioned. Recently, it was recommissioned for use in testing spacecraft propulsion systems. Recent uses include testing the airbag landing systems for the Mars Pathfinder and the Mars Exploration Rovers, Spirit and Opportunity, under simulated Mars atmospheric conditions.
 The SPF is located at Plum Brook Station, near Sandusky, Ohio. Plum Brook Station is part of the Glenn Research Center in Cleveland, Ohio.
 ____
 

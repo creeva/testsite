@@ -1,12 +1,11 @@
-= It’s Just Facebook, It’s Not Serious -- That’s A Misconception
+= It's Just Facebook, It's Not Serious -- That's A Misconception
 :page-layout: post
-:page-navtitle: It’s Just Facebook, It’s Not Serious -- That’s A Misconception
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: It's Just Facebook, It's Not Serious -- That's A Misconception
+:page-excerpt: The other day someone on my friend list was unfriended by someone else. Their response is that the other person should just grow up, it's just Facebook. I thought about that for a minute. I didn't think of it in regard to them, just a general examination of that statement. For that person, I'm sure it is just Facebook. A novelty they use to pass the time and to be entertained. There are many people who feel that way. Some of those people are completely correct in that view (for themselves). Others are completely wrong.
+:page-image: /testsite/images/500px-Facebook-1.png
 :imagesdir: /testsite/images
 
 image::/testsite/images/500px-Facebook-1.png[,role="text-center"]
-
-__
 
 The other day someone on my friend list was unfriended by someone else. Their response is that the other person should just grow up, it's just link:http://facebook.com[Facebook]. I thought about that for a minute. I didn't think of it in regard to them, just a general examination of that statement. For that person, I'm sure it is just Facebook. A novelty they use to pass the time and to be entertained. There are many people who feel that way. Some of those people are completely correct in that view (_for themselves_). Others are completely wrong.
 

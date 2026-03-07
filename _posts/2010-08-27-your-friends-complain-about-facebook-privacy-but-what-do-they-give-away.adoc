@@ -1,6 +1,8 @@
 = Your Friends Complain About Facebook Privacy, But What Do They Give Away?
 :page-layout: post
 :page-navtitle: Your Friends Complain About Facebook Privacy, But What Do They Give Away?
+:page-excerpt: Ah…The Facebook privacy issues.
+:page-image: /testsite/images/5129332_b75d25f016_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/5129332_b75d25f016_m.jpg[,role="text-center"]

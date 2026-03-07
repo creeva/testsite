@@ -1,6 +1,8 @@
 = SWG Emu -- Symphonia Reborn
 :page-layout: post
 :page-navtitle: SWG Emu -- Symphonia Reborn
+:page-excerpt: This last week has been fun and frustrating. The rose of the emu is not without its thorns. Who knew it took so much grinding to become whole again? I haven't had to work at SWG like this since it was launched in 2003. Things will become more in the correct rhythm as I level up and combat becomes more familiar.
+:page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]

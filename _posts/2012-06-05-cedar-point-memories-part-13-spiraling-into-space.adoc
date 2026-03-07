@@ -1,12 +1,11 @@
 = Cedar Point Memories -- Spiraling Into Space
 :page-layout: post
 :page-navtitle: Cedar Point Memories -- Spiraling Into Space
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Yesterday I wrote about the removal of Disaster Transport during or at the end of this season. The other casualty that I mentioned briefly is the Space Spiral. This is a ride that I remember actually standing in line for in the 1980s. Granted for the most part this is just a walk-on ride today, but back then it was the tallest ride in the park.
+:page-image: /testsite/images/cedarpoint.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/cedarpoint.jpg[,role="text-center"]
-
-__
 
 Yesterday I wrote about the removal of Disaster Transport during or at the end of this season. The other casualty that I mentioned briefly is the Space Spiral. This is a ride that I remember actually standing in line for in the 1980s. Granted for the most part this is just a walk-on ride today, but back then it was the tallest ride in the park.
 

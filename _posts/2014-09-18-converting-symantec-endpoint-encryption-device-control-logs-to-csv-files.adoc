@@ -1,6 +1,8 @@
 = Converting Symantec Endpoint Encryption -- Device Control Logs to CSV files.
 :page-layout: post
 :page-navtitle: Converting Symantec Endpoint Encryption -- Device Control Logs to CSV files.
+:page-excerpt: Recently I had to do some work on Symantec Endpoint Encryption -- Device Control. One of the major issues was to take the logs and convert them to a more usable format. Since there is very little information on the web in regard to this product, I thought I would share my code.
+:page-image: /testsite/images/3038597_e5f95e2017.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
@@ -17,7 +19,7 @@ This command gives you a file that is about half the size of the original .XML. 
 
 [quote]
 ____
-ClientHost=”workstationname” EventTime=”3/14/2014 10:13:50 AM” EventTimeLocal=”3/14/2014 4:13:50 PM” ServerTime=”3/14/2014 10:13:50 AM” CustomGroup=”” PolicyName=”Allow-And-Log” PolicyType=”User” DeviceDescription=”Disk drive” DeviceInfo=”USB DISK 2.0 USB Device” Port=”USB” BuiltinGroup=”Removable Storage Devices” DeviceVendor=”XXX” DeviceModel=”XXX” DeviceDistinctId=”XXXX” FileName=”homevideo.flv” FileExtension=”flv” FileSize=”500987″ FileCreationTime=”3/14/2014 4:13:24 PM” FileModifyTime=”3/14/2014 4:13:26 PM” FileOperation=”Write” Details=”” FileType=”Multimedia” ContentInspectionResult=”0″ ContentInspectionDetails=”” ContentInspectionTimeLocal=”” FileShadowingFingerprint=”” FileShadowingPath=”” FileShadowingFileName=”” />
+ClientHost="workstationname" EventTime="3/14/2014 10:13:50 AM" EventTimeLocal="3/14/2014 4:13:50 PM" ServerTime="3/14/2014 10:13:50 AM" CustomGroup="" PolicyName="Allow-And-Log" PolicyType="User" DeviceDescription="Disk drive" DeviceInfo="USB DISK 2.0 USB Device" Port="USB" BuiltinGroup="Removable Storage Devices" DeviceVendor="XXX" DeviceModel="XXX" DeviceDistinctId="XXXX" FileName="homevideo.flv" FileExtension="flv" FileSize="500987″ FileCreationTime="3/14/2014 4:13:24 PM" FileModifyTime="3/14/2014 4:13:26 PM" FileOperation="Write" Details="" FileType="Multimedia" ContentInspectionResult="0″ ContentInspectionDetails="" ContentInspectionTimeLocal="" FileShadowingFingerprint="" FileShadowingPath="" FileShadowingFileName="" />
 ____
 
 Once this has been done I copy the file over to the OSX machine to run the script against. Thanks to the find command there is going to be a line at the top of the file you have to remove. You can remove this line before or after you the script against the file. As part of the script, we wanted to make sure that we strip out any extra commas from the file that can throw off the formatting. The script will take these commas and replace them with spaces.
@@ -33,26 +35,26 @@ ____
 #
 #############################################################################################
 unset LANG
-cat log.txt | sed ‘s/,/ /g’ >log2.txt
+cat log.txt | sed 's/,/ /g' >log2.txt
 rm log.txt
-cat log2.txt | sed ‘s/<.*User=”//g’ >log1.txt
-cat log1.txt | sed ‘s/” ClientHost=”/,/g’ >log2.txt
-cat log2.txt | sed ‘s/” EventTime=”/,/g’ >log1.txt
-cat log1.txt | sed ‘s/” EventTimeLocal=”/,/g’ >log2.txt
-cat log2.txt | sed ‘s/” ServerTime=”.*PolicyName=”/,/g’ >log1.txt
-cat log1.txt | sed ‘s/” PolicyType=”.*DeviceDescription=”/,/g’ >log2.txt
-cat log2.txt | sed ‘s/” DeviceInfo=”.*” Port=”/,/g’ >log1.txt
-cat log1.txt | sed ‘s/” BuiltinGroup=”.*” FileName=”/,/g’ >log2.txt
-cat log2.txt | sed ‘s/” FileExtension=”/,/g’ >log1.txt
-cat log1.txt | sed ‘s/” FileSize=”/,/g’ >log2.txt
-cat log2.txt | sed ‘s/” FileCreationTime=”.*” FileOperation=”/,/g’ >log1.txt
-cat log1.txt | sed ‘s/” Details=.*” FileType=”/,/g’ >log2.txt
-cat log2.txt | sed ‘s/” ContentInspectionResult=”.*>/,/g’ >log1.txt
+cat log2.txt | sed 's/<.*User="//g' >log1.txt
+cat log1.txt | sed 's/" ClientHost="/,/g' >log2.txt
+cat log2.txt | sed 's/" EventTime="/,/g' >log1.txt
+cat log1.txt | sed 's/" EventTimeLocal="/,/g' >log2.txt
+cat log2.txt | sed 's/" ServerTime=".*PolicyName="/,/g' >log1.txt
+cat log1.txt | sed 's/" PolicyType=".*DeviceDescription="/,/g' >log2.txt
+cat log2.txt | sed 's/" DeviceInfo=".*" Port="/,/g' >log1.txt
+cat log1.txt | sed 's/" BuiltinGroup=".*" FileName="/,/g' >log2.txt
+cat log2.txt | sed 's/" FileExtension="/,/g' >log1.txt
+cat log1.txt | sed 's/" FileSize="/,/g' >log2.txt
+cat log2.txt | sed 's/" FileCreationTime=".*" FileOperation="/,/g' >log1.txt
+cat log1.txt | sed 's/" Details=.*" FileType="/,/g' >log2.txt
+cat log2.txt | sed 's/" ContentInspectionResult=".*>/,/g' >log1.txt
 #############################################################################################
 # Cleanup
 #############################################################################################
 # delete BOTH leading and trailing whitespace from each line
-cat log1.txt | sed ‘s/^[ \t]*//;s/[ \t]*$//’ >log2.txt
+cat log1.txt | sed 's/^[ \t]*//;s/[ \t]*$//' >log2.txt
 echo User,Host,Server Event Time,Workstation Event Time,Policy Name,Device Description,Port,File Name,File Extension,File Size,Action,File Type>finished.csv
 cat log2.txt >>finished.csv
 rm log1.txt

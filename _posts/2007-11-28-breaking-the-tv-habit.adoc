@@ -1,7 +1,7 @@
 = Breaking the TV Habit
 :page-layout: post
 :page-navtitle: Breaking the TV Habit
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Lifehacker posed the question how did you break the TV habit? Since I can't post on the Lifehacker comments due to their screening process that I haven't yet passed and I'm too lazy to go through I thought I would place my answer here.
 :imagesdir: /testsite/images
 
 Lifehacker posed the question link:http://lifehacker.com/software/ask-the-readers/break-your-tv-habit-327462.php[how did you break the TV habit]? Since I can't post on the Lifehacker comments due to their screening process that I haven't yet passed and I'm too lazy to go through I thought I would place my answer here.

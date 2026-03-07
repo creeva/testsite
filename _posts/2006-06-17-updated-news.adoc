@@ -1,7 +1,7 @@
 = Update News
 :page-layout: post
 :page-navtitle: Update News
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: A lot has gone on, I've bought a house, and work has gone well.
 :imagesdir: /testsite/images
 
 A lot has gone on, I've bought a house, and work has gone well.

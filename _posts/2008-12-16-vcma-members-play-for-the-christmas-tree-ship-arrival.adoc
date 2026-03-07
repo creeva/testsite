@@ -1,12 +1,11 @@
 = VCMA Members Play For The Christmas Tree Ship Arrival
 :page-layout: post
 :page-navtitle: VCMA Members Play For The Christmas Tree Ship Arrival
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Picture From Vermilion Ohio News
+:page-image: /testsite/images/3088767556_52e231d10e_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/3088767556_52e231d10e_m.jpg[,role="text-center"]
-
-link:http://flickr.com/photos/rosebud/3088767556/[]
 
 Picture From link:http://www.vermilionohionews.com/%20[Vermilion Ohio News]
 
@@ -28,4 +27,4 @@ image::/testsite/images/3087928501_9213165d81_m.jpg[,role="text-center"]
 
 image::/testsite/images/3087928223_03dcfa392b_m.jpg[,role="text-center"]
 
-link:http://flickr.com/photos/rosebud/3088767556/[] link:http://flickr.com/photos/rosebud/3087928861/[] link:http://flickr.com/photos/rosebud/3087928771/[] link:http://flickr.com/photos/rosebud/3087928587/[] link:http://flickr.com/photos/rosebud/3087928501/[] link:http://flickr.com/photos/rosebud/3087928223/[] Simple Share Buttons Adder (8.4.5) simplesharebuttons.com
+Simple Share Buttons Adder (8.4.5) simplesharebuttons.com

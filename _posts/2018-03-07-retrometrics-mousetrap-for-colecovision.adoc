@@ -1,6 +1,7 @@
 = Retrometrics -- Mousetrap for Colecovision
 :page-layout: post
 :page-navtitle: Retrometrics -- Mousetrap for Colecovision
+:page-excerpt: This piece was originally written for Duesr.com
 :imagesdir: /testsite/images
 
 link:http://duesr.com/?p=563&preview=true[This piece was originally written for Duesr.com]

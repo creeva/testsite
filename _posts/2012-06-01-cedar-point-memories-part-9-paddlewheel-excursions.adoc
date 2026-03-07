@@ -1,7 +1,8 @@
 = Cedar Point Memories -- Paddlewheel Excursions
 :page-layout: post
 :page-navtitle: Cedar Point Memories -- Paddlewheel Excursions
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: The Cedar Point Paddlewheel Excursions is very near to my heart.  I would say without pausing that it is my favorite ride in the park.   I liked it as a kid, but as a teenager, I rode it over and over.   Multiple times my friend (who stole the tokens) and I would go to the park to just ride the Paddlewheel.   Another one of our friends was dating the captain (Captain D), so we learned all about the ride and just hung out with him.
+:page-image: /testsite/images/cedarpoint.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/cedarpoint.jpg[,role="text-center"]
@@ -20,7 +21,7 @@ The final effect that the ride has made reverberations nine years later.   When 
 
 [quote]
 ____
-Did you hear about the new server at the Bestine Cantina?   His name is Darth Waiter.
+Did you hear about the new server at the Bestine Cantina?   His name is Darth Waiter.
 ____
 
 I even contemplated doing planetary tours in the paddlewheel style.   Unfortunately, it never came to pass.   Of course, this led to my blog's name, Twitter handle, etc.

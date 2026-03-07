@@ -1,6 +1,7 @@
 = Finally, After Over 20 Years -- I Beat Castlevania
 :page-layout: post
 :page-navtitle: Finally, After Over 20 Years -- I Beat Castlevania
+:page-excerpt: I've always been a huge fan of the original Castlevania. From playing a borrowed cartridge on the original NES, to my first steps getting into emulation in the mid-90s, to playing the classic release on the gameboy advanced, back to the original NES cartridge and hardware, to finally using emulation. It was a long journey and one of the games I have spent the most time in and not beaten.
 :imagesdir: /testsite/images
 
 I've always been a huge fan of the original Castlevania. From playing a borrowed cartridge on the original NES, to my first steps getting into emulation in the mid-90s, to playing the classic release on the gameboy advanced, back to the original NES cartridge and hardware, to finally using emulation. It was a long journey and one of the games I have spent the most time in and not beaten.

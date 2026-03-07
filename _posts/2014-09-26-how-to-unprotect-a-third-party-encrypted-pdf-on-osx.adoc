@@ -1,6 +1,8 @@
 = How to Unprotect a Third-Party Encrypted PDF on OSX
 :page-layout: post
 :page-navtitle: How to Unprotect a Third-Party Encrypted PDF on OSX
+:page-excerpt: This is just a quick tech note for those that might be fighting an encrypted PDF on OSX. I had a PDF that was encrypted by a third-party certificate that I had to install on my system. Once the certificate was installed, I could view the document -- but only in the official Adobe Acrobat reader.
+:page-image: /testsite/images/bth_Apple-logo-1.png
 :imagesdir: /testsite/images
 
 image::/testsite/images/bth_Apple-logo-1.png[,role="text-center"]
@@ -15,7 +17,7 @@ It was installed easily and the print process seemed to work. Unfortunately, I h
 
 [quote]
 ____
-Simply print your documents using PDFwriter as your printer. The PDF files will be stored in the directory /Users/Shared/PDFwriter. There’s a folder with your user name which contains your printed documents. ( to go to /Users/Shared/PDFwriter please open Finder, select your Macintosh HD and then go into Users – Shared – PDFwriter)
+Simply print your documents using PDFwriter as your printer. The PDF files will be stored in the directory /Users/Shared/PDFwriter. There's a folder with your user name which contains your printed documents. ( to go to /Users/Shared/PDFwriter please open Finder, select your Macintosh HD and then go into Users -- Shared -- PDFwriter)
 ____
 
 Hopefully, this helps someone else out. You also should be able to do the same thing on Windows.

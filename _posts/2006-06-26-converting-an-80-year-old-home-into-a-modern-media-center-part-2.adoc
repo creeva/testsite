@@ -1,6 +1,7 @@
 = Converting An 80-Year-Old Home Into A Modern Media Center -- Part 2
 :page-layout: post
 :page-navtitle: Converting An 80-Year-Old Home Into A Modern Media Center -- Part 2
+:page-excerpt: Went through and ran more cabling in the last week. I have the rewiring run for 1 phone jack and a new central access point in the house. Wiring is also done for 2 other jacks -- (50 feet goes by fast). There are 7 more drops to wire up.
 :imagesdir: /testsite/images
 
 Went through and ran more cabling in the last week. I have the rewiring run for 1 phone jack and a new central access point in the house. Wiring is also done for 2 other jacks -- (50 feet goes by fast). There are 7 more drops to wire up.

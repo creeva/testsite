@@ -1,6 +1,8 @@
 = Google Docs Needs to Up The Size Limits
 :page-layout: post
 :page-navtitle: Google Docs Needs to Up The Size Limits
+:page-excerpt: I've been working diligently like a good Google zealot and have slowly over the last couple of months started migrating over to Google Docs. The one thing that keeps tripping me up is the space they offer each document. The space given is as follows&#58;
+:page-image: /testsite/images/1402161632_3e92defcea_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/1402161632_3e92defcea_m.jpg[,role="text-center"]

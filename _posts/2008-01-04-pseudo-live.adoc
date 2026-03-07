@@ -1,7 +1,7 @@
 = Pseudo-Lives
 :page-layout: post
 :page-navtitle: Pseudo-Lives
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Pseudo-lives are the ones we live when we want to give the appearance of existence. We do not always truly exists. Sometimes life just happens in the shadows. The periphery of life that no one really notices. This only truly becomes a problem when we don't notice it happening to ourselves.
 :imagesdir: /testsite/images
 
 Pseudo-lives are the ones we live when we want to give the appearance of existence. We do not always truly exists. Sometimes life just happens in the shadows. The periphery of life that no one really notices. This only truly becomes a problem when we don't notice it happening to ourselves.

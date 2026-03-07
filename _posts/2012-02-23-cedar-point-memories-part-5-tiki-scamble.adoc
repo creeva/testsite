@@ -1,7 +1,8 @@
 = Cedar Point Memories -- Tiki Scrambled
 :page-layout: post
 :page-navtitle: Cedar Point Memories -- Tiki Scrambled
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: Do you know how hard it is to find a picture of the Tiki Twirl? I hunted and hunted for a picture of this ride hoping that it would jog a memory. I finally found an image in this forum here.
+:page-image: /testsite/images/cedarpoint.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/cedarpoint.jpg[,role="text-center"]

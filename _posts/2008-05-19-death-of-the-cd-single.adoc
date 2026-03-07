@@ -1,6 +1,8 @@
 = Death of the CD Single?
 :page-layout: post
 :page-navtitle: Death of the CD Single?
+:page-excerpt: A friend and I had a discussion about old technology disappearing and what gets lost in the migration. He put forth the example of the CD single. I stated that the CD single was still around, and he stated that it had completely disappeared. We were both right and wrong.
+:page-image: /testsite/images/1813781478_3a8d41dfd9_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/1813781478_3a8d41dfd9_m.jpg[,role="text-center"]

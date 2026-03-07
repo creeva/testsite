@@ -1,12 +1,11 @@
 = Mountain Lion -- One Day In
 :page-layout: post
 :page-navtitle: Mountain Lion -- One Day In
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: I knew I wasn't going to get a review done in time to cash in on all the link-bait craziness yesterday. I did not even attempt it. Instead, I thought I would allow myself to give the operating system a day to bake in. I would see how it goes and write up my impressions.
+:page-image: /testsite/images/39150253_5ded166fe1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/39150253_5ded166fe1.jpg[,role="text-center"]
-
-__
 
 I knew I wasn't going to get a review done in time to cash in on all the link-bait craziness yesterday. I did not even attempt it. Instead, I thought I would allow myself to give the operating system a day to bake in. I would see how it goes and write up my impressions.
 

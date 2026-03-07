@@ -1,7 +1,7 @@
 = Friends and Acquaintances
 :page-layout: post
 :page-navtitle: Friends and Acquaintances
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: I have a friend that I somewhat regularly talk with over instant messenger. He keeps pressuring me to write more about our life in high school. The highlights we did and the little things that made life back then great. Soon I'm hoping to share some of those stories with which I can get away with and share.
 :imagesdir: /testsite/images
 
 I have a friend that I somewhat regularly talk with over instant messenger. He keeps pressuring me to write more about our life in high school. The highlights we did and the little things that made life back then great. Soon I'm hoping to share some of those stories with which I can get away with and share.

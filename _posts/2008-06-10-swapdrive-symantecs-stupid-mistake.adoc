@@ -1,6 +1,8 @@
-= Swapdrive, Symantec’s Stupid Mistake
+= Swapdrive, Symantec's Stupid Mistake
 :page-layout: post
-:page-navtitle: Swapdrive, Symantec’s Stupid Mistake
+:page-navtitle: Swapdrive, Symantec's Stupid Mistake
+:page-excerpt: It's been 18 months since Symantec and I parted ways. I've never blasted them once on my blog or to any person, beyond idle small complaints. I've always stood up for them as a company even though they were no longer my employer. However, the Swapdrive purchase is the most idiotic decision they've done since they ran the enterprise firewall into the ground.
+:page-image: /testsite/images/2264672497_ffb49200a5_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/2264672497_ffb49200a5_m.jpg[,role="text-center"]
@@ -22,10 +24,10 @@ Now this all sounds fine and dandy at the outset, until you link:http://www.back
 [quote]
 ____
 2GB -49.50 per year
-5GB – 99.50 per year
-10GB – 149.50 per year
-25GB – 249.50 per year
-50GB – 449.50 per year
+5GB -- 99.50 per year
+10GB -- 149.50 per year
+25GB -- 249.50 per year
+50GB -- 449.50 per year
 ____
 
 Now for the price of 50GB, I can pay for a dedicated server online with 600GB of storage space. I could get a second internet connection and place it in a relative's house and hook up 2 terabytes worth of removable storage. Heck, even with my hosting service I only pay 5.95 a month a get 500GB of storage space. I get unlimited storage space for ALL of my photos for 25.00 per year from link:http://www.flickr.com[Flickr].

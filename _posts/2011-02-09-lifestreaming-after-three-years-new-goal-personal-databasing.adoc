@@ -1,6 +1,8 @@
 = Lifestreaming After Three Years -- New Goal Personal Databasing
 :page-layout: post
 :page-navtitle: Lifestreaming After Three Years -- New Goal Personal Databasing
+:page-excerpt: I have been saving my online data pretty much for three years. Most of it is backed up in email via some fashion or another. Some of it is stored in my blog. All of it is important. It is my history of that time span. It's my thoughts, my communications, and my media consumption. It is not a complete picture since it is only as good as what I place out in public or email via private. It is, however, a picture that echoes who I am. It is something that I will continue doing and will hopefully leave in good company to my family after I am gone in buried. They may however consider it trash and the only glimpses further generations out will get of me is via the web way back machine -- or the future equivalent. This opens up the question, what good is this data to me now?
+:page-image: /testsite/images/3038597_e5f95e2017.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]
@@ -13,10 +15,10 @@ Example Scenario:
 
 [quote]
 ____
-Me: “Database, tell me about when I was three”
-Database: “You have these 15 marked photographs from when you were three. You also have written these 25 blog articles that mention age three. Here are major life events that occurred to you when you were three. Here are the major world events that happened when you were three.”
-Me: “Subtract “my son” from the blog articles”
-Database:”13 blog articles left”
+Me: "Database, tell me about when I was three"
+Database: "You have these 15 marked photographs from when you were three. You also have written these 25 blog articles that mention age three. Here are major life events that occurred to you when you were three. Here are the major world events that happened when you were three."
+Me: "Subtract "my son" from the blog articles"
+Database:"13 blog articles left"
 ____
 
 This would need some major tagging to cross-reference information to get stuff out. I would also like it to have hooks into other databases for simple cross-reference information that would be relational to the data (Wikipedia, IMDB, etc.). I know that even if I had a generic database and fed it a movie I had seen, it wouldn't be able to make recommendations without an algorithm that could calculate it. I'm not worried about recommendations so much at this time as a way to sort. It should however be able to cache data in from other databases, so if I wrote about watching Star Wars -- it could bring up cultural significance and the IMDB stats. This way you could see how a certain book, movie, or song had relevance in changing your path slightly 3, 5, or 20 years down the road.

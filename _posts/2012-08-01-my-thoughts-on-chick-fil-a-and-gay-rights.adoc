@@ -1,7 +1,8 @@
 = My Thoughts On Chick-Fil-A and Gay Rights
 :page-layout: post
 :page-navtitle: My Thoughts On Chick-Fil-A and Gay Rights
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: The other day I wrote a piece on the Chick-Fil-A item going on around. I did get one fact wrong (and commented on the piece stating as such), that they are a private and not a public company. That out of the way, it is time to take a stance one way or the other.
+:page-image: /testsite/images/3535325944_e05497699a-1.jpeg
 :imagesdir: /testsite/images
 
 image::/testsite/images/3535325944_e05497699a-1.jpeg[,role="text-center"]
@@ -28,7 +29,7 @@ I believe in equality for every person. I don't care if they are a man, a woman,
 
 [quote]
 ____
-This could be the HR Nerd in me – but isn’t it also the American way? “Treat every person with honor, dignity and respect –regardless of their nationality, race, creed, sexual orientation or gender”
+This could be the HR Nerd in me -- but isn't it also the American way? "Treat every person with honor, dignity and respect --regardless of their nationality, race, creed, sexual orientation or gender"
 ____
 
 We can't pretend that homosexuals do not deserve to be married because of some ancient book. If you truly believed that, you should allow them to get married and burn in hell. How does their marriage affect yours? Marriage is a legal contract. If you view it the way it is intended, religion has no place in it. Marriage existed in the civilizations in North America before Christianity ever spread here. I don't know if there were gay marriages, but it was about loving the one you are with.

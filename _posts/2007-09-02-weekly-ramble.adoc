@@ -1,7 +1,7 @@
 = Weekly Ramble
 :page-layout: post
 :page-navtitle: Weekly Ramble
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: I visited the grave of a friend today. Previously I had written about him here. It still seems odd that though I am now in my thirties that I am young enough that have friends that died. When his death first happened I thought that part of my world had ended. Now looking back I can say part of it truly did.
 :imagesdir: /testsite/images
 
 I visited the grave of a friend today. Previously I had written about him here. It still seems odd that though I am now in my thirties that I am young enough that have friends that died. When his death first happened I thought that part of my world had ended. Now looking back I can say part of it truly did.

@@ -1,6 +1,7 @@
 = Catch Up With Your Network of Social Networks
 :page-layout: post
 :page-navtitle: Catch Up With Your Network of Social Networks
+:page-excerpt: iDea Labs &#58;&#58;&#58; Catch up with your network of Social Networks
 :imagesdir: /testsite/images
 
 link:http://ashish-sinha.blogspot.com/2006/11/catch-up-with-your-network-of-social.html#comments[iDea Labs ::: Catch up with your network of Social Networks]

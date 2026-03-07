@@ -1,7 +1,8 @@
-= So I’m a Webmaster for My First Non-Profit
+= So I'm a Webmaster for My First Non-Profit
 :page-layout: post
-:page-navtitle: So I’m a Webmaster for My First Non-Profit
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: So I'm a Webmaster for My First Non-Profit
+:page-excerpt: So I've taken over the position of webmaster for the VCMA (Vermilion Community Music Association). This is going to start a new series as I'm going to use them as guinea pigs for what I've felt non-profits need to do to survive and thrive in the web 2.0 world. They are not a big organization, and I'm sure I received this position for my background and not my witty personality.
+:page-image: /testsite/images/378372229_3068555380_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/378372229_3068555380_m.jpg[,role="text-center"]
@@ -15,8 +16,6 @@ I've been working on the site for a couple of weeks and here is what I've found 
 I'm working on a better and more secure solution while maintaining the balance of ease of use. I don't want to burden them too much on the security side. I'm sure some of the older members would blink at me with a blank stare if I handed them secureID tokens to access their newsletters.
 
 image::/testsite/images/2423302929_e3d2c4e1e0_m.jpg[,role="text-center"]
-
-link:http://www.flickr.com/photos/dwwebber/2423302929/[]
 
 Picture from link:http://www.flickr.com/photos/dwwebber/2423302929/[here]
 

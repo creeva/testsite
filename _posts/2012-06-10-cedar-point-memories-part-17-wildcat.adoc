@@ -1,7 +1,8 @@
 = Cedar Point Memories -- Wildcat
 :page-layout: post
 :page-navtitle: Cedar Point Memories -- Wildcat
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: The Wildcat was a fantastic coaster. I think it had an image problem though. I have a few friends (and a wife), who say they have never ridden the Wildcat. They thought it was a kiddie ride so they never gave it a chance. They were missing out.
+:page-image: /testsite/images/cedarpoint.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/cedarpoint.jpg[,role="text-center"]
@@ -39,6 +40,6 @@ Here is the Cedar Point press release from May of this year:
 ____
 Cedar Point has announced that it is expanding its new Celebration Plaza. As a part of that expansion, Cedar Point will be removing the WildCat roller coaster.
 WildCat was coming to the end of its useful life. With the desired expansion to Celebration Plaza, coupled with the low ridership and increased maintenance costs, Cedar Point has decided to accelerate the removal of the ride. WildCat will be removed from the park prior to Opening Day and the materials will be sent to a recycling facility.
-This expansion is one of several initiatives that will beautify the park midways and enhance guests’ experiences. Additional improvements include state-of-the-art lighting packages on Giant Wheel, Millennium Force and Power Tower, a new sound and lighting system along the park’s Main Midway and the re-painting of the Millennium Force and Blue Streak roller coasters.
-Cedar Point remains committed to being the roller coaster capital of the world. New roller coasters, rides and attractions will always be a part of Cedar Point’s future.
+This expansion is one of several initiatives that will beautify the park midways and enhance guests' experiences. Additional improvements include state-of-the-art lighting packages on Giant Wheel, Millennium Force and Power Tower, a new sound and lighting system along the park's Main Midway and the re-painting of the Millennium Force and Blue Streak roller coasters.
+Cedar Point remains committed to being the roller coaster capital of the world. New roller coasters, rides and attractions will always be a part of Cedar Point's future.
 ____

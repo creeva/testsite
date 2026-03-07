@@ -1,6 +1,8 @@
 = The Ubuntu Journey -- Part 2
 :page-layout: post
 :page-navtitle: The Ubuntu Journey -- Part 2
+:page-excerpt: Well, I managed to get the sound working on my Toshiba laptop by following the steps inthis thread.
+:page-image: /testsite/images/ubuntu-logo32.png
 :imagesdir: /testsite/images
 
 image::/testsite/images/ubuntu-logo32.png[,role="text-center"]

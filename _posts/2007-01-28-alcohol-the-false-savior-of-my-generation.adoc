@@ -1,7 +1,7 @@
 = Alcohol -- The False Savior of My Generation
 :page-layout: post
 :page-navtitle: Alcohol -- The False Savior of My Generation
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-excerpt: So many people I know live and breathe by the timetable where they can go to the bar and have a drink. Ninety percent of these people are not what I would traditionally call alcoholics, but I know a few. I also know drug addicts, sex addicts, and what I call fall-from-reality addicts, but I'll get into that later.
 :imagesdir: /testsite/images
 
 So many people I know live and breathe by the timetable where they can go to the bar and have a drink. Ninety percent of these people are not what I would traditionally call alcoholics, but I know a few. I also know drug addicts, sex addicts, and what I call fall-from-reality addicts, but I'll get into that later.

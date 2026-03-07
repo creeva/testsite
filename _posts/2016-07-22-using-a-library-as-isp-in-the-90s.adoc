@@ -1,7 +1,8 @@
-= Using A Library As An ISP In The 90’s
+= Using A Library As An ISP In The 90's
 :page-layout: post
-:page-navtitle: Using A Library As An ISP In The 90’s
-:page-image: /testsite/images/fatboys-crushin.jpg
+:page-navtitle: Using A Library As An ISP In The 90's
+:page-excerpt: Ok, the picture is from about 2-3 years after what I'm about to write about, but it is close to the correct time period.
+:page-image: /testsite/images/couch-1.png
 :imagesdir: /testsite/images
 
 image::/testsite/images/couch-1.png[,role="text-center"]
