@@ -2,7 +2,10 @@
 :page-layout: post
 :page-navtitle: I Remember Simpler Times
 :page-excerpt: There were days in my life when there were no worries. Hours went by that overflowed with wonder and amazement. Technology was simpler and the world seemed to move at a much simpler pace.
+:page-image: /testsite/images/poetry.jpg
 :imagesdir: /testsite/images
+
+image::/testsite/images/poetry.jpg[,role="text-center"]
 
 I remember simpler times.
 

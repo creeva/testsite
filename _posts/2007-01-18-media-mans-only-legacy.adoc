@@ -2,7 +2,10 @@
 :page-layout: post
 :page-navtitle: Media -- Man's Only Legacy
 :page-excerpt: Inspired by an email I wrote yesterday --
+:page-image: /testsite/images/poetry.jpg
 :imagesdir: /testsite/images
+
+image::/testsite/images/poetry.jpg[,role="text-center"]
 
 Inspired by an email I wrote yesterday --
 

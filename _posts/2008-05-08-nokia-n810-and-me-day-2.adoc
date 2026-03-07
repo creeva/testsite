@@ -2,8 +2,10 @@
 :page-layout: post
 :page-navtitle: Nokia N810 and Me -- Day 2
 :page-excerpt: Last night was more of a bust than a boom for me. I had some specific goals in mind and I can't say I really accomplished them.
-:page-image: /testsite/images/claws-maemo.png
+:page-image: /testsite/images/switch-1.jpg
 :imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
 
 Last night was more of a bust than a boom for me. I had some specific goals in mind and I can't say I really accomplished them.
 

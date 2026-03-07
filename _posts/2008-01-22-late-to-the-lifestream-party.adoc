@@ -2,7 +2,10 @@
 :page-layout: post
 :page-navtitle: Late to the Lifestream Party?
 :page-excerpt: Never -- it's still too early to be late.
+:page-image: /testsite/images/switch-1.jpg
 :imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
 
 Never -- it's still too early to be late.
 

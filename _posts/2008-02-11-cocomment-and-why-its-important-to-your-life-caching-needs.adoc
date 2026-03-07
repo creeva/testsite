@@ -2,7 +2,10 @@
 :page-layout: post
 :page-navtitle: coComment and Why It's Important to Your Life Caching Needs
 :page-excerpt: I've written a few articles on life caching. For those that need to catch up check out this article. For those that don't need the refresher course, let's dig in.
+:page-image: /testsite/images/switch-1.jpg
 :imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
 
 I've written a few articles on life caching. For those that need to catch up link:https://creeva.com/index.php/2008/02/11/cocomment-and-why-its-important-to-your-life-caching-needs/localhost/wordpress/2008/01/11/life-caching-is-better-then-life-streams/%20[check out this article]. For those that don't need the refresher course, let's dig in.
 

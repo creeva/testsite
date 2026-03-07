@@ -2,7 +2,10 @@
 :page-layout: post
 :page-navtitle: Another Time -- An Unfinished Short Story
 :page-excerpt: This is a short story I started but never finished
+:page-image: /testsite/images/calligraphy-1.jpg
 :imagesdir: /testsite/images
+
+image::/testsite/images/calligraphy-1.jpg[,role="text-center"]
 
 _This is a short story I started but never finished_
 

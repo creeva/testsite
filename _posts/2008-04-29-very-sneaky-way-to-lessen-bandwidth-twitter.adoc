@@ -2,7 +2,10 @@
 :page-layout: post
 :page-navtitle: Very Sneaky Way to Lessen Bandwidth Twitter
 :page-excerpt: I got a message from @ev that he was playing with a new service that gave recommendations on who to follow on Twitter. The service he was playing with is http&#58;//whoshouldifollow.com/ which for me suggested a bunch of people, I added kevinrose and leolaporte.
+:page-image: /testsite/images/switch-1.jpg
 :imagesdir: /testsite/images
+
+image::/testsite/images/switch-1.jpg[,role="text-center"]
 
 I got a message from @ev that he was playing with a new service that gave recommendations on who to follow on Twitter. The service he was playing with is http://whoshouldifollow.com/ which for me suggested a bunch of people, I added kevinrose and leolaporte.
 

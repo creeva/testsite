@@ -21,6 +21,8 @@ I found link:https://phoneboy.com/hdu[a blog post that explains how to play it w
 
 Be warned, the cards have non-politically correct and harsh language. If you are going to make your own deck, click on one of the other links for the points of each card and clarifications for the rules.
 
+image::/testsite/images/pic1428230_md-1.jpg[,role="text-center"]
+
 Double Skip -- This card skips the next two players
 
 Reverse Skip -- This card performs a reverse and a skip at the same time.
@@ -35,6 +37,8 @@ Luck o' the Irish -- This card reduces the amount of cards you have to draw by 1
 
 Harvester of Sorrows -- This card actually needs a background.    In _Hot Death Uno_ if a Draw 4 is played, the next person has to draw 4 or they can play their own draw 4.   This stacks so the next person has to draw 8.   This can continue until all draw 4's are used, adding 4 more cards to the draw each time.  The Harvester of Sorrows negate any further stacking after it is played.
 
+image::/testsite/images/pic1428231_md-1.jpg[,role="text-center"]
+
 Delayed Blast Draw Four -- This operates as a skip and a draw 4. +
 
 Holy Defender -- All negative effect cards skip you and are a transferred to the next person in the round.
@@ -46,6 +50,8 @@ Magic 5 -- This card is a defense card against the Hot Death Wild Card.  It can 
 Fuck You -- This sends all the effects of a negative card back to the person that played it.
 
 Penn State -- This card is a defense against a Draw 2 spreader -- if shown, it sends the draw 2 spreader to backfire, and that played the spreader must draw 2.
+
+image::/testsite/images/pic1428229_md-1.jpg[,role="text-center"]
 
 Mystery Draw -- You have to draw the number of cards that this was played on, so if the previous card was a 9, you draw 9. If it was a 1 you draw one.
 
