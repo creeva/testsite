@@ -1,16 +1,10 @@
 ---
-layout: page
-title: About
+layout: default
+title: Home
 ---
 
-Some information about the Vermilion Sailor Alumni Band.
+== Posts
 
-== Who We Are
-
-The Vermilion Sailor Alumni Band is dedicated to preserving and celebrating
-the legacy of the Vermilion High School bands.
-
-== Contact
-
-Email us at mailto:vhsalumniband@gmail.com[vhsalumniband@gmail.com] or find us on
-https://www.facebook.com/vhsalumniband[Facebook].
+{% for post in site.posts %}
+* link:{{ post.url }}[{{ post.title }}] — {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
