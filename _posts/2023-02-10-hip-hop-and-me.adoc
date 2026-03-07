@@ -1,5 +1,4 @@
 = Hip-Hop and Me
-:showtitle:
 :page-navtitle: Hip-Hop and Me
 :page-excerpt: I was reading an article about Ice-T doing the Grammy show and how far rap has come over the last 50 years. I agree and it made me consider my own memories.
 :page-root: ../../../
