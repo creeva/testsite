@@ -1,14 +1,14 @@
 # Site settings
-title:            Vermilion Sailor Alumni Band
-tagline:          'Preserving the legacy of Vermilion High School bands'
-description:      'Home of the Vermilion Sailor Alumni Band — history, media, and more.'
+title:           Creeva's Worlld 3.0
+tagline:          
+description:     
 url:              https://creeva.github.io
 baseurl:          '/testsite'
 
 # Author
 author:
-  name:           Vermilion Sailor Alumni Band
-  email:          vhsalumniband@gmail.com
+  name:           Creeva
+  email:          
   url:            https://creeva.github.io/testsite
 
 # Build settings
