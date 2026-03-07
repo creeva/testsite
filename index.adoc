@@ -1,5 +1,0 @@
-= Home
-:showtitle:
-:page-layout: home
-:page-title: Home
-:page-description: Creeva's personal site

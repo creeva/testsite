@@ -17,3 +17,8 @@ asciidoctor:
     - stylesdir=css
     - source-highlighter=coderay
     - liquid
+paginate: 10
+paginate_path: "/page:num/"
+plugins:
+  - jekyll-asciidoc
+  - jekyll-paginate
