@@ -16,12 +16,21 @@ Now Hear This! We are presenting the Vermilion Historic Marching Bands.
 video::IGZOJ64LuWs[youtube, width=640, height=360, align="center"]
 
 {empty} +
+
 [.text-center]
 What time is it? Band Time!
+
+{empty} +
+
+image::/testsite/images/1994-Sailor-Marching-Band-1.jpeg[1994 Marching Band, 500, align="center"]
+
+{empty} +
 
 [.text-center]
 link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
 
+
+{empty} +
 
 image::/testsite/images/alumnigeneric.jpeg[Alumni Generic, 500, align="center"]
 
