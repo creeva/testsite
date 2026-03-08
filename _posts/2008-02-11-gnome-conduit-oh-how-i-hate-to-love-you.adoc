@@ -3,7 +3,7 @@
 :page-navtitle: Gnome Conduit -- Oh How I Hate to Love You
 :page-categories: geekery
 :page-excerpt: Gnome Conduit is both one of the greatest utilities Ubuntu and the most incomplete pain in the butt utilities. To give a quick run down to what it does here is what the project information says&#58;
-:page-image: /testsite/images/ubuntu-logo32.png
+:page-image: /images/ubuntu-logo32.png
 :imagesdir: /testsite/images
 
 image::/testsite/images/ubuntu-logo32.png[,role="text-center"]

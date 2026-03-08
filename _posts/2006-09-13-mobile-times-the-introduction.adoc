@@ -3,7 +3,7 @@
 :page-navtitle: Mobile Times -- The Introduction
 :page-categories: geekery
 :page-excerpt: The 101 post of blogs -- what are your goals and ambitions for this site?
-:page-image: /testsite/images/undersea-cable-vietnam-1.jpg
+:page-image: /images/undersea-cable-vietnam-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]

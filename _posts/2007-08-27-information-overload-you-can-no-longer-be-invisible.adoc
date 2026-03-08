@@ -3,7 +3,7 @@
 :page-navtitle: Information Overload -- You Can No Longer Be Invisible
 :page-categories: geekery
 :page-excerpt: Ok -- the title in and of itself is a bit sensationalistic, but the truth of the matter isn't so far off.
-:page-image: /testsite/images/undersea-cable-vietnam-1.jpg
+:page-image: /images/undersea-cable-vietnam-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]

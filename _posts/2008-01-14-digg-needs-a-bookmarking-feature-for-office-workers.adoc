@@ -3,7 +3,7 @@
 :page-navtitle: Digg needs a bookmarking feature for office workers
 :page-categories: geekery
 :page-excerpt: Sometimes there are videos or sites with sounds in general that office workers can't view or watch to their fullest because of sound requirements. Why can't we "watch" or "track" a video we could watch when we get home -without giving it a "Digg"?
-:page-image: /testsite/images/switch-1.jpg
+:page-image: /images/switch-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/switch-1.jpg[,role="text-center"]

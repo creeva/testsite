@@ -3,7 +3,7 @@
 :page-navtitle: NFS -- Oh I Hate You
 :page-categories: geekery
 :page-excerpt: Lately, we've had a security product at work that allows for secure end-to-end file sharing via NFS. That is about the best thing I can say about NFS at this point. For those not familiar with NFS Wikipedia has this description&#58;
-:page-image: /testsite/images/pexels-luis-gomes-546819-scaled-1.jpg
+:page-image: /images/pexels-luis-gomes-546819-scaled-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/pexels-luis-gomes-546819-scaled-1.jpg[,role="text-center"]

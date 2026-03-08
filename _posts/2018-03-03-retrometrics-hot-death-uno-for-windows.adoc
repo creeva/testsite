@@ -3,7 +3,7 @@
 :page-navtitle: Retrometrics -- Hot Death Uno for Windows
 :page-categories: video-games
 :page-excerpt: I'm almost positive that most of the readers finding this page are familiar with how to play Uno. However, if you don't I highly suggest you go out now, get at least 2 more friends, and buy a deck. I think your other two friends can teach you because they already know how to play. Uno is one of those card games that every family seemed to play when I was growing up. My wife's family was big into Rummy, well mine was Uno all the way.
-:page-image: /testsite/images/uno-1.gif
+:page-image: /images/uno-1.gif
 :imagesdir: /testsite/images
 
 image::/testsite/images/uno-1.gif[,role="text-center"]

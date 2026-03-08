@@ -3,7 +3,7 @@
 :page-navtitle: Cheap and Dirty Windows Log File Archiving
 :page-categories: geekery
 :page-excerpt: So your company has a requirement to maintain log files for a year?
-:page-image: /testsite/images/switch-1.jpg
+:page-image: /images/switch-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/switch-1.jpg[,role="text-center"]

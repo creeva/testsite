@@ -3,7 +3,7 @@
 :page-navtitle: The Ubuntu Journey -- Part 1
 :page-categories: geekery
 :page-excerpt: Today I've decided I'm moving to Ubuntu Linux on my primary computer, my laptop. The journey is fraught with challenges in the sense of getting my NIC and sound card to work. I highly doubt my built-in web cam is going to work though. I am however determined.
-:page-image: /testsite/images/ubuntu-logo32.png
+:page-image: /images/ubuntu-logo32.png
 :imagesdir: /testsite/images
 
 image::/testsite/images/ubuntu-logo32.png[,role="text-center"]

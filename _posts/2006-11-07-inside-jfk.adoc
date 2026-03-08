@@ -3,7 +3,7 @@
 :page-navtitle: Inside JFK
 :page-categories: stories
 :page-excerpt: I had to pull out my cellular card since this airport does not have any free wireless access. On a side note, I thought the ad-hoc computer network that said "Free wireless here" was cute. Though anyone with half a brain could see it was an ad-hoc network.
-:page-image: /testsite/images/poetry.jpg
+:page-image: /images/poetry.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/poetry.jpg[,role="text-center"]

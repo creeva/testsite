@@ -3,7 +3,7 @@
 :page-navtitle: Why Do We Get To Old To Trick or Treat?
 :page-categories: stories
 :page-excerpt: There was a short discussion on Facebook today about when is it too old to stop going to trick or treat. It should never be too old. In the last week, many discussions like this came up. Some people even lamented about the teenagers that showed, up because Halloween should be for kids (that's the argument). They are wrong -- Halloween and Trick or Treating are for everyone.
-:page-image: /testsite/images/2015-10-29-17.55.14-1.jpg
+:page-image: /images/2015-10-29-17.55.14-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/2015-10-29-17.55.14-1.jpg[,role="text-center"]

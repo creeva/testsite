@@ -3,7 +3,7 @@
 :page-navtitle: King of the Circus
 :page-categories: stories
 :page-excerpt: I was King of the Circus. Seriously. When I was somewhere between four and six my mother won a radio contest where we got free tickets to see Barnum and Bailey's Circus at the Richfield Coliseum. Part of this prize pack included the child being crowned King or the Circus -- I also had a Queen of the Circus whose parental unit must have also won a contest. I don't know where my queen is, we haven't kept in touch.
-:page-image: /testsite/images/171060002_84c69ec7ac_m.jpg
+:page-image: /images/171060002_84c69ec7ac_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/171060002_84c69ec7ac_m.jpg[,role="text-center"]

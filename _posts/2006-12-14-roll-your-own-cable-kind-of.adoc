@@ -3,7 +3,7 @@
 :page-navtitle: Roll Your Own Cable -- Kind Of
 :page-categories: geekery
 :page-excerpt: I'm the type of person that likes to rip his own DVDs and old VHS tapes onto the computer for archiving. In the past, I almost always had a computer hooked up to the TV and the network to watch these and stream audio through the home stereo.
-:page-image: /testsite/images/undersea-cable-vietnam-1.jpg
+:page-image: /images/undersea-cable-vietnam-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]

@@ -3,7 +3,7 @@
 :page-navtitle: Phone Service Triple Crown
 :page-categories: geekery
 :page-excerpt: Well recently getting a GrandCentral invite I was planning on writing up a review -- this is more likely to come tomorrow. In the interim, I thought I would offer up some phone service solutions for the rest of your voip technology habit
-:page-image: /testsite/images/undersea-cable-vietnam-1.jpg
+:page-image: /images/undersea-cable-vietnam-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/undersea-cable-vietnam-1.jpg[,role="text-center"]

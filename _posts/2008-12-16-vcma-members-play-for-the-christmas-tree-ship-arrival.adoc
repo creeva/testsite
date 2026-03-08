@@ -3,7 +3,7 @@
 :page-navtitle: VCMA Members Play For The Christmas Tree Ship Arrival
 :page-categories: stories
 :page-excerpt: Picture From Vermilion Ohio News
-:page-image: /testsite/images/3088767556_52e231d10e_m.jpg
+:page-image: /images/3088767556_52e231d10e_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/3088767556_52e231d10e_m.jpg[,role="text-center"]

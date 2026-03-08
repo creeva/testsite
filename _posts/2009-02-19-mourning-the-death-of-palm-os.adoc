@@ -3,7 +3,7 @@
 :page-navtitle: Mourning The Death of Palm OS
 :page-categories: geekery
 :page-excerpt: I wrote yesterday about trying to find a solution to turn my Palm TX into a Bluetooth file server. So far no answers, but I wanted to record my history with Palm OS. Palm software has been part of my life for over nine years now, through a total of 3 different devices I have had a long history of trying to make it work and do what I wanted it to do. I didn't eventually reach Palm nirvana until the TX, but I made due in one way or the other.
-:page-image: /testsite/images/41F2ERN3SVL._SS400_.jpg
+:page-image: /images/41F2ERN3SVL._SS400_.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/41F2ERN3SVL._SS400_.jpg[,role="text-center"]

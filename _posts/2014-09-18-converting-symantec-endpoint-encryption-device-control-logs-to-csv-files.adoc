@@ -3,7 +3,7 @@
 :page-navtitle: Converting Symantec Endpoint Encryption -- Device Control Logs to CSV files.
 :page-categories: geekery
 :page-excerpt: Recently I had to do some work on Symantec Endpoint Encryption -- Device Control. One of the major issues was to take the logs and convert them to a more usable format. Since there is very little information on the web in regard to this product, I thought I would share my code.
-:page-image: /testsite/images/3038597_e5f95e2017.jpg
+:page-image: /images/3038597_e5f95e2017.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/3038597_e5f95e2017.jpg[,role="text-center"]

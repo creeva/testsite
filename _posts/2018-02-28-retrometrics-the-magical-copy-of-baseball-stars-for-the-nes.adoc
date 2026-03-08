@@ -3,7 +3,7 @@
 :page-navtitle: Retrometrics -- The Magical Copy of Baseball Stars for the NES
 :page-categories: video-games
 :page-excerpt: This game, it's one of the games that I almost wish I could forget about. The first weekend I played it was fantastic, and I'll never get back to that again. We will get to the why in a moment.
-:page-image: /testsite/images/img_4311-1-1.jpg
+:page-image: /images/img_4311-1-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/img_4311-1-1.jpg[,role="text-center"]

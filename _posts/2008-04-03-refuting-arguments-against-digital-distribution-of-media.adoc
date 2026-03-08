@@ -3,7 +3,7 @@
 :page-navtitle: Refuting arguments against digital distribution of media
 :page-categories: geekery
 :page-excerpt: This was a post on a discussion for a forum I frequent. Thought it was applicable to bring it here. This is a response to a blog article entitled 5 Reasons Why Microsoft is Betting On the Wrong Horse Again.
-:page-image: /testsite/images/calligraphy-1.jpg
+:page-image: /images/calligraphy-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/calligraphy-1.jpg[,role="text-center"]

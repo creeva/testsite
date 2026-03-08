@@ -3,7 +3,7 @@
 :page-navtitle: From Star of Intrepid Blog -- Roving Coverage of Player Events -- Cessna's Birthday Party
 :page-categories: video-games
 :page-excerpt: Well, it was a day and a half here today -- Cessna turned 16, and Lerina threw a surprise birthday for him. The party took place today in the player city of Chinon on Corellia. Due to some problems with getting around Cessna got to be late for his own surprise party. We only enjoyed the time and kicked back by the shuttle until Lerina had things set up by her cantina.
-:page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
+:page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]

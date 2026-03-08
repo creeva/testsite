@@ -3,7 +3,7 @@
 :page-navtitle: My Dog Has Issues
 :page-categories: stories
 :page-excerpt: My dog is spastic. There is no doubt about it. She may pretend to be the sweet dog most of the time. She may even fool the casual observer. The problem is she just goes psycho for no reason.
-:page-image: /testsite/images/270969697_fc9dcf3383.jpg
+:page-image: /images/270969697_fc9dcf3383.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/270969697_fc9dcf3383.jpg[,role="text-center"]

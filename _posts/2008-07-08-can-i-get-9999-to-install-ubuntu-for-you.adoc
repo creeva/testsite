@@ -3,7 +3,7 @@
 :page-navtitle: Can I get 99.99 To Install Ubuntu For You?
 :page-categories: geekery
 :page-excerpt: I was reading my Digg RSS feed and this strange story popped up, Best Buy Sells Ubuntu for Only $ 19.99 USD. Now normally getting on retail shelves would be a good thing. This however is a disservice to most users since Ubuntucan be freely downloaded from theirwebsite. Now you would think this is where it ends, but not quite.
-:page-image: /testsite/images/ubuntu-logo32.png
+:page-image: /images/ubuntu-logo32.png
 :imagesdir: /testsite/images
 
 image::/testsite/images/ubuntu-logo32.png[,role="text-center"]

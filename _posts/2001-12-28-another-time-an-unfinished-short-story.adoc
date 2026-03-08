@@ -3,7 +3,7 @@
 :page-navtitle: Another Time -- An Unfinished Short Story
 :page-categories: stories
 :page-excerpt: This is a short story I started but never finished
-:page-image: /testsite/images/calligraphy-1.jpg
+:page-image: /images/calligraphy-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/calligraphy-1.jpg[,role="text-center"]

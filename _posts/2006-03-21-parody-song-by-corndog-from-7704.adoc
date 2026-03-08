@@ -6,7 +6,7 @@
 If he was here right now? +
 He'd make a plan, and he'd follow through, +
 That's what Creeva Murkado'd do!
-:page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
+:page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]

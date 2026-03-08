@@ -3,7 +3,7 @@
 :page-navtitle: The Last Blockbuster
 :page-categories: stories
 :page-excerpt: Last night I finally managed to watch The Last Blockbuster on Netflix. Of course, being the age I am, I have video store nostalgia. I won't say that I was a huge fan of the Blockbuster company. I was more of a small video store person. When my family purchased our first VCR a friend of the family gave us a bootleg copy of Gremlins. That movie was watched so many times over and over -- it's probably one of my most watched movies that aren't in the regular re-watch rotation. The other bootleg we had was Robocop, also watched many times, but not as many Gremlins.
-:page-image: /testsite/images/lastblockbuster-1.jpg
+:page-image: /images/lastblockbuster-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/lastblockbuster-1.jpg[,role="text-center"]

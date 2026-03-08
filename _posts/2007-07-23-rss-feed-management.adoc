@@ -3,7 +3,7 @@
 :page-navtitle: RSS Feed Management
 :page-categories: geekery
 :page-excerpt: Over the next few weeks, I'm going to be doing a few articles on RSS feeds and how to use them for more than just reading your news. Making RSS work for you and doing less -- that's my motto. The first step of this is to start having RSS feed management.
-:page-image: /testsite/images/logo_footer.gif
+:page-image: /images/logo_footer.gif
 :imagesdir: /testsite/images
 
 image::/testsite/images/logo_footer.gif[,role="text-center"]

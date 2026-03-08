@@ -3,7 +3,7 @@
 :page-navtitle: Retrometrics -- Mousetrap for Colecovision
 :page-categories: video-games
 :page-excerpt: This piece was originally written for Duesr.com
-:page-image: /testsite/images/Mousetrap-2-1.jpg
+:page-image: /images/Mousetrap-2-1.jpg
 :imagesdir: /testsite/images
 
 link:http://duesr.com/?p=563&preview=true[This piece was originally written for Duesr.com]

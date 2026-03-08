@@ -3,7 +3,7 @@
 :page-navtitle: Mobile Blogging, Is It Possible For Me?
 :page-categories: geekery
 :page-excerpt: This Nokia device will take a bit to get used to, but most of the problems stem from fat thumbs. The more I do it the faster it becomes.
-:page-image: /testsite/images/anothertime.jpg
+:page-image: /images/anothertime.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/anothertime.jpg[,role="text-center"]

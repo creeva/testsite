@@ -3,7 +3,7 @@
 :page-navtitle: Do You Feel Guilty Not Fully Using Your Web Apps?
 :page-categories: geekery
 :page-excerpt: I know we all reach fatigue when it comes to using certain web apps/sites / etc. but at what point do you feel guilty?
-:page-image: /testsite/images/poetry.jpg
+:page-image: /images/poetry.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/poetry.jpg[,role="text-center"]

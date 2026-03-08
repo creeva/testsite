@@ -3,7 +3,7 @@
 :page-navtitle: The Lego Movie -- Everything is Awesome
 :page-categories: stories
 :page-excerpt: We took Lex to see the Lego Movie on Saturday. It was as great, if not better than I had hoped. The best parts were the throwback moments to the old sets. They also opened it up for future movies since they went over the aspects of other Lego Worlds.
-:page-image: /testsite/images/2014-02-08-16.22.31-1.jpg
+:page-image: /images/2014-02-08-16.22.31-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/2014-02-08-16.22.31-1.jpg[,role="text-center"]

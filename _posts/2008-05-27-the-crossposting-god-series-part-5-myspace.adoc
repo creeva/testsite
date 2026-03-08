@@ -3,7 +3,7 @@
 :page-navtitle: The Crossposting God Series Part 5 -- Myspace
 :page-categories: geekery
 :page-excerpt: OK, I've repeated it a couple of times I think I'm ready to actually talk about it. Unlike some other services where I explain the community and the functions, I'm going to refrain from doing that for Myspace. While I do have a myspace account, I won't say that I truly like Myspace. I haven't even bothered to give myself the uber L33T t cool profile page. It's a thing, not a good thing, not really a cool thing, just a thing.
-:page-image: /testsite/images/99884142_2c404a6e8a_m.jpg
+:page-image: /images/99884142_2c404a6e8a_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/99884142_2c404a6e8a_m.jpg[,role="text-center"]

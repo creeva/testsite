@@ -3,7 +3,7 @@
 :page-navtitle: The Day The Internet Broke
 :page-categories: stories
 :page-excerpt: There have been numerous reports of the 300 GBs DDoS going on in the last week. This morning Gizmodo discredited the effect this is really having on the Internet. I know I didn't notice any overt problems myself. I have experienced plenty of network outages at work or at home over the nineteen years I have been online, but rarely anything that caused problems on the Internet. I had to think, and there were two occasions when I did notice a problem.
-:page-image: /testsite/images/file0001628037487-1.jpg
+:page-image: /images/file0001628037487-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/file0001628037487-1.jpg[,role="text-center"]

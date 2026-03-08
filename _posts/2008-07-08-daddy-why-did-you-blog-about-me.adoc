@@ -3,7 +3,7 @@
 :page-navtitle: Daddy, Why Did You Blog About Me?
 :page-categories: stories
 :page-excerpt: This is a letter to my future child.
-:page-image: /testsite/images/123586658_05f0efad0d_m.jpg
+:page-image: /images/123586658_05f0efad0d_m.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/123586658_05f0efad0d_m.jpg[,role="text-center"]

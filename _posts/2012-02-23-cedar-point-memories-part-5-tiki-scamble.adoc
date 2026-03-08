@@ -3,7 +3,7 @@
 :page-navtitle: Cedar Point Memories -- Tiki Scrambled
 :page-categories: stories
 :page-excerpt: Do you know how hard it is to find a picture of the Tiki Twirl? I hunted and hunted for a picture of this ride hoping that it would jog a memory. I finally found an image in this forum here.
-:page-image: /testsite/images/cedarpoint.jpg
+:page-image: /images/cedarpoint.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/cedarpoint.jpg[,role="text-center"]

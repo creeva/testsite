@@ -3,7 +3,7 @@
 :page-navtitle: Retrometrics -- Deadly Duck For The Vic-20
 :page-categories: video-games
 :page-excerpt: While in the last couple days, I've visited known properties such as Popeye and Baseball Stars, today I'm going to go with a game I spent many hours with. Unfortunately (or likely, fortunately) most people have likely never heard of it. This title is Deadly Duck. I had to use the Atari image above because I can't seem to find the Vic-20 box art.
-:page-image: /testsite/images/weirdbox_large2-1.jpg
+:page-image: /images/weirdbox_large2-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/weirdbox_large2-1.jpg[,role="text-center"]

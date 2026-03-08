@@ -3,7 +3,7 @@
 :page-navtitle: Media -- Man's Only Legacy
 :page-categories: stories
 :page-excerpt: Inspired by an email I wrote yesterday --
-:page-image: /testsite/images/poetry.jpg
+:page-image: /images/poetry.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/poetry.jpg[,role="text-center"]

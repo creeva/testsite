@@ -3,7 +3,7 @@
 :page-navtitle: The Hype Around the Movie 100 Years
 :page-categories: stories
 :page-excerpt: I'm sure you have seen the hype on Facebook about the movie 100 years. It's the John Malkovich movie you will never get to see. Created by Robert Rodriguez who has taken us from Desperado to Spy Kids and beyond, it's a movie that once it was finished was locked away in a vault. It is scheduled to be screened at the Cannes Film Festival in 2115. For some reason, people seemed to be losing their minds over it. I don't understand why.
-:page-image: /testsite/images/Hundredearr-1.jpg
+:page-image: /images/Hundredearr-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Hundredearr-1.jpg[,role="text-center"]

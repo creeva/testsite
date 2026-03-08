@@ -3,7 +3,7 @@
 :page-navtitle: My Failed Song From Intrepid Idol
 :page-categories: stories
 :page-excerpt: For those that were there, I had maddening macro issues that drove me to insanity and beyond, but for those who wished to learn the lyrics here they are&#58;
-:page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
+:page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]

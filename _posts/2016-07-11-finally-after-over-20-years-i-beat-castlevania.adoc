@@ -3,7 +3,7 @@
 :page-navtitle: Finally, After Over 20 Years -- I Beat Castlevania
 :page-categories: video-games
 :page-excerpt: I've always been a huge fan of the original Castlevania. From playing a borrowed cartridge on the original NES, to my first steps getting into emulation in the mid-90s, to playing the classic release on the gameboy advanced, back to the original NES cartridge and hardware, to finally using emulation. It was a long journey and one of the games I have spent the most time in and not beaten.
-:page-image: /testsite/images/Castlevania-2016-07-11-15.36.53-1.png
+:page-image: /images/Castlevania-2016-07-11-15.36.53-1.png
 :imagesdir: /testsite/images
 
 image::/testsite/images/Castlevania-2016-07-11-15.36.53-1.png[Castlevania 2016-07-11 15.36.53,role="text-center"]

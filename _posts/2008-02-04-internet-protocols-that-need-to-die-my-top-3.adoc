@@ -3,7 +3,7 @@
 :page-navtitle: Internet Protocols That Need To Die -- My Top 3
 :page-categories: geekery
 :page-excerpt: The IETF has maintained the RFC database which defines Internet protocols into the nitty gritty sections that allow other individuals to implement them. This is all great in theory the problem is some protocols outlive their usefulness. The problem is the insecurity and unfeasibility of these protocols remaining in existence compromises design that should be far more streamlined and elegant. Without further ado here is my top 10.
-:page-image: /testsite/images/ietflogo2f.gif
+:page-image: /images/ietflogo2f.gif
 :imagesdir: /testsite/images
 
 image::/testsite/images/ietflogo2f.gif[,role="text-center"]

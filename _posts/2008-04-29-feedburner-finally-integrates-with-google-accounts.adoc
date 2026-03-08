@@ -3,7 +3,7 @@
 :page-navtitle: Feedburner Finally Integrates With Google Accounts
 :page-categories: geekery
 :page-excerpt: Earlier I had written that Google really needs to integrate it's reporting services across the board. Now I still hope that do unify their reporting experience, but it seems Feedburner is going to be the first to get sucked into the already fractured reporting structure that exists for Google's many services.
-:page-image: /testsite/images/flamocon_190h.gif
+:page-image: /images/flamocon_190h.gif
 :imagesdir: /testsite/images
 
 image::/testsite/images/flamocon_190h.gif[,role="text-center"]

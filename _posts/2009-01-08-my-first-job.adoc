@@ -3,7 +3,7 @@
 :page-navtitle: My First Job
 :page-categories: stories
 :page-excerpt: You would think from the image I chose for the header that I was doing something cool with the Nintendo Entertainment System. This unfortunately is not the case. Where the Nintendo came into play was that it was the object of my desire. I desperately wanted an NES. This was sometime around seventh or eighth grade so the years would have 1988--1989 and the Nintendo was in full swing.
-:page-image: /testsite/images/140px-Nintendo_entertainment_system.jpeg
+:page-image: /images/140px-Nintendo_entertainment_system.jpeg
 :imagesdir: /testsite/images
 
 image::/testsite/images/140px-Nintendo_entertainment_system.jpeg[,role="text-center"]

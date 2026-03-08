@@ -6,7 +6,7 @@
 how much did you pay for your bad uber blaster? +
 and how much did you spend on your black mokilok jacket? +
 is it you or your guild in this income tax bracket?
-:page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
+:page-image: /images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images
 
 image::/testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg[,role="text-center"]
