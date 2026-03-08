@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1997-1998 Vermilion Sailor Marching Band
+---
+
 = 1997-1998 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1997-1998 Vermilion Sailor Marching Band
 
@@ -9,27 +13,27 @@ Head Majorette: Stacie Moralez
 
 Members:
 
-image::1998marmem.jpg[,role="text-center"]
+image::/images/1998marmem.jpg[,role="text-center"]
 
 *Image Galleries:*
 
-* 1997-1998 Vermilion Sailor Marching Band
-* 1998 Vermilion High School Yearbook
-* 1997-1998 Vermilion High School Pictures
-* 1998 Sailorway Middle School Yearbook
+* link:https://photos.app.goo.gl/gGY7w33Nd6p5YmC59[1997-1998 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/T5UEufAzKMCMmLuY9[1998 Vermilion High School Yearbook]
+* link:https://photos.app.goo.gl/AM63e28QGZevTAgF6[1997-1998 Vermilion High School Pictures]
+* link:https://photos.app.goo.gl/hbMWwjkjiAmjLVco7[1998 Sailorway Middle School Yearbook]
 
 *Video Playlists:*
 
-* 1997-1998 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=7l8vU2tVTVQ&list=PLqposBlPPQd8IuKS1j10L6AablGV8F2AU&pp=gAQBiAQB[1997-1998 Vermilion Sailor Marching Band]
 
 .1997-1998 Vermilion Sailor Marching Band - Highlight Video
 video::e1cc_QMjOOQ[youtube, width=640, height=360, align=center]
 
-image::1998-majorettes.jpg[,role="text-center"]
+image::/images/1998-majorettes.jpg[,role="text-center"]
 
-image::1998-flag-corp.jpg[,role="text-center"]
+image::/images/1998-flag-corp.jpg[,role="text-center"]
 
-image::1998marwrite.jpg[,role="text-center"]
+image::/images/1998marwrite.jpg[,role="text-center"]
 
 *Marking Time*
 
@@ -41,7 +45,7 @@ _The band participated in four festivals this year including their own Woolybear
 
 _This year the band will be graduating 21 seniors. This is the biggest number of seniors to graduate from the Marching Band program since 1982._
 
-image::1998majwrite.jpg[,role="text-center"]
+image::/images/1998majwrite.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]

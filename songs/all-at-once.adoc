@@ -1,5 +1,9 @@
+---
+layout: default
+title: All At Once
+---
+
 = All At Once
-:page-layout: page
 
 === All At Once
 
@@ -9,4 +13,4 @@ video::Zal4gbvuiXQ[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::1995seniorcheer.jpeg[,role="text-center"]
+image::/images/1995seniorcheer.jpeg[,role="text-center"]

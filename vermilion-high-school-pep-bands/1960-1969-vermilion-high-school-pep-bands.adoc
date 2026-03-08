@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1960-1969 Vermilion High School Pep Bands
+---
+
 = 1960-1969 Vermilion High School Pep Bands
-:page-layout: page
 
 === 1960-1969 Vermilion High School Pep Bands
 
-image::1960pep.jpg[,role="text-center"]
+image::/images/1960pep.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
 
@@ -11,9 +15,9 @@ Members: M. Rognon, J. Shaw, S. Zalar, M. Havrilla, C. Gregg, P. Syfer, G. Mollo
 
 *Image Gallery* :
 
-* 1960 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/Dy6nwYBsUpDoVbi18[1960 Vermilion High School Yearbook]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1961 Vermilion High School Pep Band
@@ -24,9 +28,9 @@ Members: Unlisted
 
 *Image Gallery* :
 
-* 1961 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/LQxmghrvgVS838GE6[1961 Vermilion High School Yearbook]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1962 Vermilion High School Pep Band
@@ -37,9 +41,9 @@ Members: Unlisted
 
 *Image Gallery* :
 
-* 1962 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/JiAUgSJgPAYrXiKc7[1962 Vermilion High School Yearbook]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1963 Vermilion High School Pep Band
@@ -50,9 +54,9 @@ Members: Unlisted
 
 *Image Gallery* :
 
-* 1963 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/2VKcBMvMVKzZTHc37[1963 Vermilion High School Yearbook]
 
-image::1964pep.jpg[,role="text-center"]
+image::/images/1964pep.jpg[,role="text-center"]
 
 [.text-center]
 1964 Vermilion High School Pep Band
@@ -63,9 +67,9 @@ Members: Maryann Repic, Nancy Edmondson, Ruth Bauman, Peter Hart, Diane Smith, D
 
 *Image Gallery* :
 
-* 1964 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/y5uA2MNiJXPGZzjv8[1964 Vermilion High School Yearbook]
 
-image::1965pepband.jpg[,role="text-center"]
+image::/images/1965pepband.jpg[,role="text-center"]
 
 [.text-center]
 1965 Vermilion High School Pep Band
@@ -76,9 +80,9 @@ Members: Unlisted
 
 *Image Gallery* :
 
-* 1965 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/gQeAHCHsdBt6KA4M7[1965 Vermilion High School Yearbook]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1966 Vermilion High School Pep Band
@@ -89,9 +93,9 @@ Members: Bob Clark, Bob Duval, Sharon Schroeder, Dan Walker, Carol Yurovich, Deb
 
 *Image Gallery* :
 
-* 1966 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/coKtRh5gubKNcFFe7[1966 Vermilion High School Yearbook]
 
-image::1967pep.jpg[,role="text-center"]
+image::/images/1967pep.jpg[,role="text-center"]
 
 [.text-center]
 1967 Vermilion High School Pep Band
@@ -102,9 +106,9 @@ Members: Peter Hart, Gary Dropko, Ted Konnerth, Bob Nichols, Garth Grob, Mike He
 
 *Image Gallery* :
 
-* 1967 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/KCcNZ6oZpcj4jdes7[1967 Vermilion High School Yearbook]
 
-image::11-30-1967.jpeg[,role="text-center"]
+image::/images/11-30-1967.jpeg[,role="text-center"]
 
 [.text-center]
 1968 Vermilion High School Pep Band
@@ -115,11 +119,11 @@ Members: Phillis Book, Ellen Brown, Mike Burley, Glenn Duncan, Robert Evenson, A
 
 *Image Gallery* :
 
-* 1968 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/9xjaCSqQfzbjijhc8[1968 Vermilion High School Yearbook]
 
-image::1968marconpepwrite.jpg[,role="text-center"]
+image::/images/1968marconpepwrite.jpg[,role="text-center"]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1969 Vermilion High School Pep Band
@@ -130,9 +134,9 @@ Members: Unlisted
 
 *Image Gallery* :
 
-* 1969 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/Sw877M3Tx3dYYzD48[1969 Vermilion High School Yearbook]
 
-image::1969music.jpg[,role="text-center"]
+image::/images/1969music.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands]

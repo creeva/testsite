@@ -1,18 +1,22 @@
+---
+layout: default
+title: 2014-2015 Vermilion Sailor Marching Band
+---
+
 = 2014-2015 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 2014-2015 Vermilion Sailor Marching Band
 
-image::Vermilion-Marching-Band-2014-2015.jpg[,role="text-center"]
+image::/images/Vermilion-Marching-Band-2014-2015.jpg[,role="text-center"]
 
 *Image Galleries:*
 
-* 2014-2015 Vermilion Sailor Marching Band
-* 2015 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/23bc1Dpz2ook7nyk6[2014-2015 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/weJTTN3DEBdjWNaV8[2015 Vermilion High School Yearbook]
 
 *Video Playlists:*
 
-* 2014-2015 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=xQpEH32QSkM&list=PLqposBlPPQd9ULq5P5YHEPzOgOaxklkto&pp=gAQBiAQB[2014-2015 Vermilion Sailor Marching Band]
 
 .2014-2015 Vermilion Sailor Marching Band - Halftime Show - V Spencerville 10/24/14
 video::EyvNwnOuUMw[youtube, width=640, height=360, align=center]

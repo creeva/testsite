@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2002 -- Little Me
+---
+
 = 2002 -- Little Me
-:page-layout: page

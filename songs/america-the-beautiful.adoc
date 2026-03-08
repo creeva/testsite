@@ -1,5 +1,9 @@
+---
+layout: default
+title: America The Beautiful
+---
+
 = America The Beautiful
-:page-layout: page
 
 === America The Beautiful
 
@@ -15,4 +19,4 @@ video::KuAa8-Gkrfg[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::2001-Sailor-Marching-Band-1.jpg[,role="text-center"]
+image::/images/2001-Sailor-Marching-Band-1.jpg[,role="text-center"]

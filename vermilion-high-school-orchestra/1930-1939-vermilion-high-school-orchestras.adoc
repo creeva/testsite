@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1930-1939 Vermilion High School Orchestras
+---
+
 = 1930-1939 Vermilion High School Orchestras
-:page-layout: page
 
 === 1930-1939 Vermilion High School Orchestras
 
-image::1930orch.jpg[,role="text-center"]
+image::/images/1930orch.jpg[,role="text-center"]
 
 [.text-center]
 1930 Vermilion High School Orchestra
@@ -12,11 +16,11 @@ Members: Evelyn Vincent, Betty Harris, Monroe Vincent, Jack Cozart, James Meyers
 
 Image Gallery:
 
-* 1930 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/CiRpUGfX44jF9M698[1930 Vermilion High School Yearbook]
 
-image::1930orchwrite.jpg[,role="text-center"]
+image::/images/1930orchwrite.jpg[,role="text-center"]
 
-image::1930orch2.jpg[,role="text-center"]
+image::/images/1930orch2.jpg[,role="text-center"]
 
 [.text-center]
 1930 The Orchestra (separate from High School Orchestra)
@@ -25,11 +29,11 @@ Members: Monroe Vincent, Allan Hasenflue, Nelson Parsons, John Hunter, Jack Beck
 
 Image Gallery:
 
-* 1930 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/CiRpUGfX44jF9M698[1930 Vermilion High School Yearbook]
 
-image::1930orch2write.jpg[,role="text-center"]
+image::/images/1930orch2write.jpg[,role="text-center"]
 
-image::1931orch.jpg[,role="text-center"]
+image::/images/1931orch.jpg[,role="text-center"]
 
 [.text-center]
 1931 Vermilion High School Classical Orchestra
@@ -38,11 +42,11 @@ Members: John Line, James Myers, Clifford Levengood, Jacob Karchin, Paul Wood, W
 
 Image Gallery:
 
-* 1931 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/u8X85SHgaXabUuANA[1931 Vermilion High School Yearbook]
 
-image::1931orchwrite.jpg[,role="text-center"]
+image::/images/1931orchwrite.jpg[,role="text-center"]
 
-image::1931dance.jpg[,role="text-center"]
+image::/images/1931dance.jpg[,role="text-center"]
 
 [.text-center]
 1931 Vermilion High School Dance Orchestra
@@ -51,11 +55,11 @@ Members: Jack Becker, Frank Blattner, Carl Ebert, John Hunter
 
 Image Galleries:
 
-* 1931 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/u8X85SHgaXabUuANA[1931 Vermilion High School Yearbook]
 
-image::1931dancewrite.jpg[,role="text-center"]
+image::/images/1931dancewrite.jpg[,role="text-center"]
 
-image::1932orch.jpg[,role="text-center"]
+image::/images/1932orch.jpg[,role="text-center"]
 
 [.text-center]
 1932 Vermilion High School Orchestra
@@ -64,11 +68,11 @@ Members: L. Rice, E. Reiber, C. Palmer, J. Grego, C. Edge, J. Becker, W. Will, E
 
 Image Gallery:
 
-* 1932 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/J72WWZJ9JQcmwqxu6[1932 Vermilion High School Yearbook]
 
-image::1932orchwrite.jpg[,role="text-center"]
+image::/images/1932orchwrite.jpg[,role="text-center"]
 
-image::1933orch.jpg[,role="text-center"]
+image::/images/1933orch.jpg[,role="text-center"]
 
 [.text-center]
 1933 Vermilion High School Orchestra
@@ -77,11 +81,11 @@ Members:
 
 Image Gallery:
 
-* 1933 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/2xnvVde8ufNFDppt9[1933 Vermilion High School Yearbook]
 
-image::1933orchwrite.jpg[,role="text-center"]
+image::/images/1933orchwrite.jpg[,role="text-center"]
 
-image::1934orch.jpg[,role="text-center"]
+image::/images/1934orch.jpg[,role="text-center"]
 
 [.text-center]
 1934 Vermilion High School Classical Orchestra
@@ -90,11 +94,11 @@ Members: R. Krapp, E. J. Smith, J. Myers, M. Barnes, M. Hayes, R. Hayes, M. Nels
 
 Image Gallery:
 
-* 1934 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/hLPhyAPsWvY3f5d88[1934 Vermilion High School Yearbook]
 
-image::1934orchwrite.jpg[,role="text-center"]
+image::/images/1934orchwrite.jpg[,role="text-center"]
 
-image::1934danceorch.jpg[,role="text-center"]
+image::/images/1934danceorch.jpg[,role="text-center"]
 
 [.text-center]
 1934 Vermilion High School Dance Orchestra
@@ -103,11 +107,11 @@ Members: J. Hart, P. Naegele, C. Palmer, R. Zak, C. Edge, J. Meyers, C. Gegenhei
 
 Image Gallery:
 
-* 1934 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/hLPhyAPsWvY3f5d88[1934 Vermilion High School Yearbook]
 
-image::1934danceorchwrite.jpg[,role="text-center"]
+image::/images/1934danceorchwrite.jpg[,role="text-center"]
 
-image::1935orch.jpg[,role="text-center"]
+image::/images/1935orch.jpg[,role="text-center"]
 
 [.text-center]
 1935 Vermilion High School Orchestra
@@ -116,11 +120,11 @@ Members: R. Krapp, E. Bachman, A. Zier, M. Barnes, M. Nelson, B. Kropf, M. Ball,
 
 Image Gallery:
 
-* 1935 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/gL5hmNkNVoTZBDPE7[1935 Vermilion High School Yearbook]
 
-image::1935orchwrite.jpg[,role="text-center"]
+image::/images/1935orchwrite.jpg[,role="text-center"]
 
-image::1936orch.jpg[,role="text-center"]
+image::/images/1936orch.jpg[,role="text-center"]
 
 [.text-center]
 1936 Vermilion High School Orchestra
@@ -129,11 +133,11 @@ Members: M. Nelson, M. Barnes, A. Zier, R. Krapp, M. Barnes, E. Bachman, D. Barn
 
 Image Gallery:
 
-* 1936 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/AUZ69GjWD1mXjfjW9[1936 Vermilion High School Yearbook]
 
-image::1936orchwriteup.jpg[,role="text-center"]
+image::/images/1936orchwriteup.jpg[,role="text-center"]
 
-image::1937orch.jpg[,role="text-center"]
+image::/images/1937orch.jpg[,role="text-center"]
 
 [.text-center]
 1937 Vermilion High School Orchestra
@@ -142,11 +146,11 @@ Members:K. Boone, M. Barnes, A. Kneisel, H. Will, C. Gegenheimer, O. Zelinski, D
 
 Image Gallery:
 
-* 1937 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/1pEMYVWR26TtwWQS9[1937 Vermilion High School Yearbook]
 
-image::1937orchwrite.jpg[,role="text-center"]
+image::/images/1937orchwrite.jpg[,role="text-center"]
 
-image::1938orch.jpg[,role="text-center"]
+image::/images/1938orch.jpg[,role="text-center"]
 
 [.text-center]
 1938 Vermilion High School Orchestra
@@ -155,11 +159,11 @@ Members: R. Gorbach, J. Kneisel, B. Ferber, M. Risden, P. Trinter, M. Barnes, G.
 
 Image Gallery:
 
-* 1938 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/WSa3F1zigGT2BaPm7[1938 Vermilion High School Yearbook]
 
-image::1938orchwrite.jpg[,role="text-center"]
+image::/images/1938orchwrite.jpg[,role="text-center"]
 
-image::1939orch.jpg[,role="text-center"]
+image::/images/1939orch.jpg[,role="text-center"]
 
 [.text-center]
 1939 Vermilion High School Orchestra
@@ -168,9 +172,9 @@ Members: A. Lingelbach, D. Schroeder, M. Risden, E. Kamps, P. Trinter, E. Kropf,
 
 Image Gallery:
 
-* 1939 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/4NpcV6U9KNAXVebA6[1939 Vermilion High School Yearbook]
 
-image::1939orchwrite.jpg[,role="text-center"]
+image::/images/1939orchwrite.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-high-school-orchestra/[Vermilion High School Orchestras]

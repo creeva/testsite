@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1970-1979 Vermilion High School Pep Bands
+---
+
 = 1970-1979 Vermilion High School Pep Bands
-:page-layout: page
 
 === 1970-1979 Vermilion High School Pep Bands
 
-image::1970pep.jpg[,role="text-center"]
+image::/images/1970pep.jpg[,role="text-center"]
 
 [.text-center]
 1970 Vermilion High School Pep Band
@@ -14,9 +18,9 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1970 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/B21qMWsCjndqSoio9[1970 Vermilion High School Yearbook]
 
-image::1971pep.jpg[,role="text-center"]
+image::/images/1971pep.jpg[,role="text-center"]
 
 [.text-center]
 1971 Vermilion High School Pep Band
@@ -27,9 +31,9 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1971 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/kvyB4XtKZshZ5fr48[1971 Vermilion High School Yearbook]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1972 Vermilion High School Pep Band
@@ -40,9 +44,9 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1972 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/oU9i4HiEbgyfFH2b9[1972 Vermilion High School Yearbook]
 
-image::2019-07-23-13.14.53.jpg[,role="text-center"]
+image::/images/2019-07-23-13.14.53.jpg[,role="text-center"]
 
 [.text-center]
 1973 Vermilion High School Pep Band
@@ -53,11 +57,11 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1973 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/6gRCbubpTqmLNJjz8[1973 Vermilion High School Yearbook]
 
-image::1973pepwrite.jpg[,role="text-center"]
+image::/images/1973pepwrite.jpg[,role="text-center"]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1974 Vermilion High School Pep Band
@@ -68,9 +72,9 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1974 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/SAj2mCc98exbWHYm8[1974 Vermilion High School Yearbook]
 
-image::1975pep.jpg[,role="text-center"]
+image::/images/1975pep.jpg[,role="text-center"]
 
 [.text-center]
 1975 Vermilion High School Pep Band
@@ -81,9 +85,9 @@ Members: Becky Hohman, M. Hohman, P. Stinson, A. Rooney, B. Emery, B. Coleman, J
 
 Image Gallery:
 
-* 1975 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/63ExPSzNadMAjPwE8[1975 Vermilion High School Yearbook]
 
-image::1976pep.jpg[,role="text-center"]
+image::/images/1976pep.jpg[,role="text-center"]
 
 [.text-center]
 1976 Vermilion High School Pep Band
@@ -94,9 +98,9 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1976 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/STgN5x9HQdUyXTZs8[1976 Vermilion High School Yearbook]
 
-image::1977pep.jpg[,role="text-center"]
+image::/images/1977pep.jpg[,role="text-center"]
 
 [.text-center]
 1977 Vermilion High School Pep Band
@@ -107,9 +111,9 @@ Members: Listed in Image
 
 Image Gallery:
 
-* 1977 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/UBnB1nZJsKmKEkvt8[1977 Vermilion High School Yearbook]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1978 Vermilion High School Pep Band
@@ -120,9 +124,9 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1978 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/G2EVd6jZVwWgSaaY9[1978 Vermilion High School Yearbook]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1979 Vermilion High School Pep Band
@@ -133,7 +137,7 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1979 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/x3GhP5cewTM1JjHY8[1979 Vermilion High School Yearbook]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]

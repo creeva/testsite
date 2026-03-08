@@ -1,5 +1,9 @@
+---
+layout: default
+title: Grand Army of the Republic Band
+---
+
 = Grand Army of the Republic Band
-:page-layout: page
 
 Rewrite
 

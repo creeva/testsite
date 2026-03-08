@@ -1,5 +1,9 @@
+---
+layout: default
+title: David Henry
+---
+
 = David Henry
-:page-layout: page
 
 === David Henry
 
@@ -11,7 +15,7 @@ Mr. Henryâ€™s students learned quickly that when listening to instructions to â€
 
 Mr. Henry, unfortunately, passed away in 2017.
 
-image::1993-1994vhsmb060.jpg[,role="text-center"]
+image::/images/1993-1994vhsmb060.jpg[,role="text-center"]
 
 *Marching Band -- A Super Sailor's Swan Song by Brent Gueth*
 

@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1950-1959 Vermilion Sailor Marching Bands
+---
+
 = 1950-1959 Vermilion Sailor Marching Bands
-:page-layout: page
 
 === 1950-1959 Vermilion Sailor Marching Bands
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1949-1950 Vermilion Sailor Marching Band
@@ -20,7 +24,7 @@ link:/vermilion-bands/highschool/1950-1959/class1953/[1952-1953 Vermilion Sailor
 [.text-center]
 link:/vermilion-bands/highschool/1950-1959/1953-1954-vermilion-sailor-marching-band/[1953-1954 Vermilion Sailor Marching Band]
 
-image::1955-Band.jpg[,role="text-center"]
+image::/images/1955-Band.jpg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-bands/highschool/1950-1959/class1955/[1954-1955 Vermilion Sailor Marching Band]

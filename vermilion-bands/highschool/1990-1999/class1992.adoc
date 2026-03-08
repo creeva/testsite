@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1991-1992 Vermilion Sailor Marching Band
+---
+
 = 1991-1992 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1991-1992 Vermilion Sailor Marching Band
 
@@ -9,24 +13,24 @@ Head Majorette: Melanie Freidman
 
 Members:
 
-image::1992marmem.jpg[,role="text-center"]
+image::/images/1992marmem.jpg[,role="text-center"]
 
 *Image Galleries:*
 
-* 1991-1992 Vermilion Sailor Marching Band
-* 1992 Vermilion High School Yearbook
-* 1992 Vermilion High School -- Oklahoma
+* link:https://photos.app.goo.gl/P7WjRNYyX4D4SmGu9[1991-1992 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/jvm8my1ZbQJGbXrp8[1992 Vermilion High School Yearbook]
+* link:https://photos.app.goo.gl/KoLBsSdNM1c7Ue8b6[1992 Vermilion High School -- Oklahoma]
 
 *Video Playlists:*
 
-* 1991-1992 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=DQXbWVEcgW4&list=PLqposBlPPQd94xJLoBLkTVP_S38msE5s8&pp=gAQBiAQB[1991-1992 Vermilion Sailor Marching Band]
 
 .1991-1992 Vermilion Sailor Marching Band - Highlight Video
 video::DQXbWVEcgW4[youtube, width=640, height=360, align=center]
 
-image::1992-seniors.jpg[,role="text-center"]
+image::/images/1992-seniors.jpg[,role="text-center"]
 
-image::1992-writeup.jpg[,role="text-center"]
+image::/images/1992-writeup.jpg[,role="text-center"]
 
 *Marching to the Beat*
 
@@ -40,15 +44,15 @@ _Parades provided a change of routine. The band marched in the Vermilion Woolybe
 
 _Performances and practices brought members into close friendships and gave them many memories of good times at VHS._
 
-image::7-30-1991.jpeg[,role="text-center"]
+image::/images/7-30-1991.jpeg[,role="text-center"]
 
-image::8-27-1991.jpeg[,role="text-center"]
+image::/images/8-27-1991.jpeg[,role="text-center"]
 
-image::9-24-1991.jpeg[,role="text-center"]
+image::/images/9-24-1991.jpeg[,role="text-center"]
 
-image::10-1-1991.jpeg[,role="text-center"]
+image::/images/10-1-1991.jpeg[,role="text-center"]
 
-image::6-2-1992.jpeg[,role="text-center"]
+image::/images/6-2-1992.jpeg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]

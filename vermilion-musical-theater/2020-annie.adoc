@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2020 -- Annie
+---
+
 = 2020 -- Annie
-:page-layout: page

@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2004 -- Les Miserables
+---
+
 = 2004 -- Les Miserables
-:page-layout: page

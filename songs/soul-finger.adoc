@@ -1,5 +1,9 @@
+---
+layout: default
+title: Soul Finger
+---
+
 = Soul Finger
-:page-layout: page
 
 .1997-1998 Vermilion Sailor Marching Band - Soul Finger - BW Festival
 video::ces_TwdLJ7E[youtube, width=640, height=360, align=center]

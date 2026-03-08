@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1980-1989 Vermilion Sailor Alumni Bands
+---
+
 = 1980-1989 Vermilion Sailor Alumni Bands
-:page-layout: page
 
 === 1980-1989 Vermilion Sailor Alumni Bands
 

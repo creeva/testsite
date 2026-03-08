@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2011 -- Beauty and the Beast
+---
+
 = 2011 -- Beauty and the Beast
-:page-layout: page

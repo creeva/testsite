@@ -1,5 +1,9 @@
+---
+layout: default
+title: Vermilion Musical Theater
+---
+
 = Vermilion Musical Theater
-:page-layout: page
 
 === Vermilion Musical Theater
 
@@ -168,7 +172,7 @@ link:/vermilion-musical-theater/2022-the-sound-of-music/[2022 -- The Sound of Mu
 [.text-center]
 link:/vermilion-musical-theater/2023-beauty-and-the-beast/[2023 -- Beauty and the Beast]
 
-image::addamsfamily.jpeg[,role="text-center"]
+image::/images/addamsfamily.jpeg[,role="text-center"]
 
 [.text-center]
 2024 – The Addams Family

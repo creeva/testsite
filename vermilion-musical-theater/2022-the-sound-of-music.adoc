@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2022 -- The Sound of Music
+---
+
 = 2022 -- The Sound of Music
-:page-layout: page

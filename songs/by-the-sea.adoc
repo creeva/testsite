@@ -1,5 +1,9 @@
+---
+layout: default
+title: By The Sea
+---
+
 = By The Sea
-:page-layout: page
 
 === By The Sea
 

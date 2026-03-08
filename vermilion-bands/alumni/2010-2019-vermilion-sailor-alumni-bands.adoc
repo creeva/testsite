@@ -1,5 +1,9 @@
+---
+layout: default
+title: 2010-2019 Vermilion Sailor Alumni Bands
+---
+
 = 2010-2019 Vermilion Sailor Alumni Bands
-:page-layout: page
 
 === 2010-2019 Vermilion Sailor Alumni Bands
 

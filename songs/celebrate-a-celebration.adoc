@@ -1,5 +1,9 @@
+---
+layout: default
+title: Celebrate a Celebration
+---
+
 = Celebrate a Celebration
-:page-layout: page
 
 .1997-1998 Vermilion Sailor Marching Band - Celebrate a Celebration - Bay Festival
 video::2EGfHhSVSnQ[youtube, width=640, height=360, align=center]

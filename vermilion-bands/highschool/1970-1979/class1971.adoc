@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1970-1971 Vermilion Sailor Marching Band
+---
+
 = 1970-1971 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1970-1971 Vermilion Sailor Marching Band
 
@@ -7,25 +11,25 @@ Director: William Burt
 
 *Image Galleries:*
 
-* 1970-1971 Vermilion Sailor Marching Band
-* 1971 Vermilion High School Yearbook
-* 1971 Vermilion High School -- Carousel
+* link:https://photos.app.goo.gl/nmkPABquEkCmjaRL7[1970-1971 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/kvyB4XtKZshZ5fr48[1971 Vermilion High School Yearbook]
+* link:https://photos.app.goo.gl/njfByNVwMr7ChbQP6[1971 Vermilion High School -- Carousel]
 
-image::8-6-1970.jpeg[,role="text-center"]
+image::/images/8-6-1970.jpeg[,role="text-center"]
 
-image::10-15-1970.jpeg[,role="text-center"]
+image::/images/10-15-1970.jpeg[,role="text-center"]
 
-image::12-10-1970-photjournal-1-1.jpeg[,role="text-center"]
+image::/images/12-10-1970-photjournal-1-1.jpeg[,role="text-center"]
 
-image::12-10-1970-photjournal-2.jpeg[,role="text-center"]
+image::/images/12-10-1970-photjournal-2.jpeg[,role="text-center"]
 
-image::1-14-1971.jpeg[,role="text-center"]
+image::/images/1-14-1971.jpeg[,role="text-center"]
 
-image::1-21-1971.jpeg[,role="text-center"]
+image::/images/1-21-1971.jpeg[,role="text-center"]
 
-image::6-24-1971.jpeg[,role="text-center"]
+image::/images/6-24-1971.jpeg[,role="text-center"]
 
-image::11-12-1970.jpeg[,role="text-center"]
+image::/images/11-12-1970.jpeg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]

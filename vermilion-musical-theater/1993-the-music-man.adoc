@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1993 -- The Music Man
+---
+
 = 1993 -- The Music Man
-:page-layout: page
 
 === Music Man
 
-image::1993musicman.jpeg[,role="text-center"]
+image::/images/1993musicman.jpeg[,role="text-center"]
 
 + “The Music Man” is a classic American musical with music and lyrics by Meredith Willson and a book by Meredith Willson and Franklin Lacey. It’s set in the early 20th century in the fictional town of River City, Iowa, and it revolves around the transformative power of music and love. Here’s a summary of the plot:
 
@@ -29,35 +33,35 @@ The musical features several memorable songs, including “76 Trombones,” “T
 
 Image Gallery:
 
-* 1993 Vermilion High School -- Music Man
+* link:https://photos.app.goo.gl/tivNFb5BHzHMWMpE7[1993 Vermilion High School -- Music Man]
 
-image::1993musical.jpeg[,role="text-center"]
+image::/images/1993musical.jpeg[,role="text-center"]
 
-image::1993musical2.jpeg[,role="text-center"]
+image::/images/1993musical2.jpeg[,role="text-center"]
 
-image::1993mmcrew.jpg[,role="text-center"]
+image::/images/1993mmcrew.jpg[,role="text-center"]
 
-image::1993mm1.jpeg[,role="text-center"]
+image::/images/1993mm1.jpeg[,role="text-center"]
 
-image::1993mm2.jpeg[,role="text-center"]
+image::/images/1993mm2.jpeg[,role="text-center"]
 
-image::1993mm3.jpeg[,role="text-center"]
+image::/images/1993mm3.jpeg[,role="text-center"]
 
-image::1993mm4.jpeg[,role="text-center"]
+image::/images/1993mm4.jpeg[,role="text-center"]
 
-image::1993mm5.jpeg[,role="text-center"]
+image::/images/1993mm5.jpeg[,role="text-center"]
 
-image::1993mm6.jpeg[,role="text-center"]
+image::/images/1993mm6.jpeg[,role="text-center"]
 
-image::1993mm7.jpeg[,role="text-center"]
+image::/images/1993mm7.jpeg[,role="text-center"]
 
-image::1993mm8.jpeg[,role="text-center"]
+image::/images/1993mm8.jpeg[,role="text-center"]
 
-image::1993mm9.jpeg[,role="text-center"]
+image::/images/1993mm9.jpeg[,role="text-center"]
 
-image::1993mm10.jpeg[,role="text-center"]
+image::/images/1993mm10.jpeg[,role="text-center"]
 
-image::1993mm11.jpeg[,role="text-center"]
+image::/images/1993mm11.jpeg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-musical-theater/[Vermilion Musical Theater]

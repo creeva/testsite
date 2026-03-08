@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2001 -- Damn Yankees
+---
+
 = 2001 -- Damn Yankees
-:page-layout: page

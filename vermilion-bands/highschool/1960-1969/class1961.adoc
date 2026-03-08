@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1960-1961 Vermilion Sailor Marching Band
+---
+
 = 1960-1961 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1960-1961 Vermilion Sailor Marching Band
 
@@ -11,20 +15,20 @@ Members: L. Summers, J. Creel, A. Sullivan, J. Gorbach, W. Washburn, S. Zalar, B
 
 *Image Gallery:*
 
-* 1960-1961 Vermilion Sailor Marching Band
-* 1961 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/vkkmQwBJ4Wkoh4dt5[1960-1961 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/LQxmghrvgVS838GE6[1961 Vermilion High School Yearbook]
 
-image::1961marwrite.jpg[,role="text-center"]
+image::/images/1961marwrite.jpg[,role="text-center"]
 
-image::1961marwrite2.jpg[,role="text-center"]
+image::/images/1961marwrite2.jpg[,role="text-center"]
 
-image::1-18-1961.jpeg[,role="text-center"]
+image::/images/1-18-1961.jpeg[,role="text-center"]
 
-image::2-22-1961.jpeg[,role="text-center"]
+image::/images/2-22-1961.jpeg[,role="text-center"]
 
-image::The_Evening_Independent_Mon__Oct_17__1960_.jpg[,role="text-center"]
+image::/images/The_Evening_Independent_Mon__Oct_17__1960_.jpg[,role="text-center"]
 
-image::The_Evening_Independent_Wed__Oct_12__1960_.jpg[,role="text-center"]
+image::/images/The_Evening_Independent_Wed__Oct_12__1960_.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]

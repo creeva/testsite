@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1982 -- Guys and Dolls
+---
+
 = 1982 -- Guys and Dolls
-:page-layout: page
 
 === Guys and Dolls -- March 26-27, 1982
 
-image::gd1982-1.jpeg[,role="text-center"]
+image::/images/gd1982-1.jpeg[,role="text-center"]
 
 “Guys and Dolls” is a beloved American musical with music and lyrics by Frank Loesser and a book by Jo Swerling and Abe Burrows. The story is based on the short stories of Damon Runyon and is set in the colorful and bustling world of New York City’s underground gambling scene. Here’s a summary of the plot:
 
@@ -20,37 +24,37 @@ The story culminates in a series of comedic and dramatic twists, with both coupl
 
 Image Gallery:
 
-* 1982 Vermilion High School -- Guys and Dolls
+* link:https://photos.app.goo.gl/wagfunEbxUYHAnvU6[1982 Vermilion High School -- Guys and Dolls]
 
-image::1982musical.jpeg[,role="text-center"]
+image::/images/1982musical.jpeg[,role="text-center"]
 
-image::1982musical2.jpeg[,role="text-center"]
+image::/images/1982musical2.jpeg[,role="text-center"]
 
-image::1982gda1.jpeg[,role="text-center"]
+image::/images/1982gda1.jpeg[,role="text-center"]
 
-image::1982gda2.jpeg[,role="text-center"]
+image::/images/1982gda2.jpeg[,role="text-center"]
 
-image::1982gda3.jpeg[,role="text-center"]
+image::/images/1982gda3.jpeg[,role="text-center"]
 
-image::1982gd1.jpeg[,role="text-center"]
+image::/images/1982gd1.jpeg[,role="text-center"]
 
-image::1982gd2.jpeg[,role="text-center"]
+image::/images/1982gd2.jpeg[,role="text-center"]
 
-image::1982gd3.jpeg[,role="text-center"]
+image::/images/1982gd3.jpeg[,role="text-center"]
 
-image::1982gd4.jpeg[,role="text-center"]
+image::/images/1982gd4.jpeg[,role="text-center"]
 
-image::1982gd5.jpeg[,role="text-center"]
+image::/images/1982gd5.jpeg[,role="text-center"]
 
-image::1982gd6.jpeg[,role="text-center"]
+image::/images/1982gd6.jpeg[,role="text-center"]
 
-image::1982gd7.jpeg[,role="text-center"]
+image::/images/1982gd7.jpeg[,role="text-center"]
 
-image::1982gd8.jpeg[,role="text-center"]
+image::/images/1982gd8.jpeg[,role="text-center"]
 
-image::1982gd9.jpeg[,role="text-center"]
+image::/images/1982gd9.jpeg[,role="text-center"]
 
-image::1982gd10.jpeg[,role="text-center"]
+image::/images/1982gd10.jpeg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-musical-theater/[Vermilion Musical Theater]

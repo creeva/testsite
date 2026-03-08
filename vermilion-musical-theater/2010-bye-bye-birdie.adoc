@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2010 -- Bye Bye Birdie
+---
+
 = 2010 -- Bye Bye Birdie
-:page-layout: page

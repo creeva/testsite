@@ -1,25 +1,29 @@
+---
+layout: default
+title: 1975-1976 Vermilion Sailor Marching Band
+---
+
 = 1975-1976 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1975-1976 Vermilion Sailor Marching Band
 
-image::1976-sailor-Marching-Band.jpg[,role="text-center"]
+image::/images/1976-sailor-Marching-Band.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 *Image Galleries:*
 
-* 1975-1976 Vermilion Sailor Marching Band
-* 1976 Vermilion High School Yearbook
-* 1976 Vermilion High School -- Gypsy
+* link:https://photos.app.goo.gl/S6ngEb3TurewYG2R8[1975-1976 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/STgN5x9HQdUyXTZs8[1976 Vermilion High School Yearbook]
+* link:https://photos.app.goo.gl/o1exBk2cFhJAga9R7[1976 Vermilion High School -- Gypsy]
 
-image::10-30-1975.jpeg[,role="text-center"]
+image::/images/10-30-1975.jpeg[,role="text-center"]
 
-image::11-20-1975.jpeg[,role="text-center"]
+image::/images/11-20-1975.jpeg[,role="text-center"]
 
-image::11-13-1975.jpeg[,role="text-center"]
+image::/images/11-13-1975.jpeg[,role="text-center"]
 
-image::1975-10-02.jpeg[,role="text-center"]
+image::/images/1975-10-02.jpeg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]

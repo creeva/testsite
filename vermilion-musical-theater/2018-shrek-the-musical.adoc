@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2018 -- Shrek The Musical
+---
+
 = 2018 -- Shrek The Musical
-:page-layout: page

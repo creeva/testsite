@@ -1,5 +1,9 @@
+---
+layout: default
+title: Armada
+---
+
 = Armada
-:page-layout: page
 
 === Armada
 

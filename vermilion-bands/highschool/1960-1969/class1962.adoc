@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1961-1962 Vermilion Sailor Marching Band
+---
+
 = 1961-1962 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1961-1962 Vermilion Sailor Marching Band
 
@@ -11,10 +15,10 @@ Members: S. Rathbun, J. Gorbach, W. Washburn, M. Harrison, J. Greene, A. Harris,
 
 *Image Gallery:*
 
-* 1961-1962 Vermilion Sailor Marching Band
-* 1962 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/3YifzoVoHqeNtCdt8[1961-1962 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/JiAUgSJgPAYrXiKc7[1962 Vermilion High School Yearbook]
 
-image::1962-Band-Writeup.jpg[,role="text-center"]
+image::/images/1962-Band-Writeup.jpg[,role="text-center"]
 
 *Marching Band*
 
@@ -26,39 +30,39 @@ _Finally, after the Firelands football game, the "weary marchers" put away their
 
 _It was a great year for the Sailor Marching Band and their director, Mr. William Burt._
 
-image::6-21-1961-2.jpeg[,role="text-center"]
+image::/images/6-21-1961-2.jpeg[,role="text-center"]
 
-image::6-21-1961.jpeg[,role="text-center"]
+image::/images/6-21-1961.jpeg[,role="text-center"]
 
-image::7-12-1961.jpeg[,role="text-center"]
+image::/images/7-12-1961.jpeg[,role="text-center"]
 
-image::7-19-1961.jpeg[,role="text-center"]
+image::/images/7-19-1961.jpeg[,role="text-center"]
 
-image::8-16-1961.jpeg[,role="text-center"]
+image::/images/8-16-1961.jpeg[,role="text-center"]
 
-image::8-23-1961.jpeg[,role="text-center"]
+image::/images/8-23-1961.jpeg[,role="text-center"]
 
-image::9-6-1961.jpeg[,role="text-center"]
+image::/images/9-6-1961.jpeg[,role="text-center"]
 
-image::9-13-1961.jpeg[,role="text-center"]
+image::/images/9-13-1961.jpeg[,role="text-center"]
 
-image::9-20-1961.jpeg[,role="text-center"]
+image::/images/9-20-1961.jpeg[,role="text-center"]
 
-image::10-4-1961.jpeg[,role="text-center"]
+image::/images/10-4-1961.jpeg[,role="text-center"]
 
-image::10-18-1961.jpeg[,role="text-center"]
+image::/images/10-18-1961.jpeg[,role="text-center"]
 
-image::10-25-1961.jpeg[,role="text-center"]
+image::/images/10-25-1961.jpeg[,role="text-center"]
 
-image::11-15-1961.jpeg[,role="text-center"]
+image::/images/11-15-1961.jpeg[,role="text-center"]
 
-image::11-22-1961.jpeg[,role="text-center"]
+image::/images/11-22-1961.jpeg[,role="text-center"]
 
-image::11-27-1961.jpeg[,role="text-center"]
+image::/images/11-27-1961.jpeg[,role="text-center"]
 
-image::1-31-1962.jpeg[,role="text-center"]
+image::/images/1-31-1962.jpeg[,role="text-center"]
 
-image::5-23-1962.jpeg[,role="text-center"]
+image::/images/5-23-1962.jpeg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]

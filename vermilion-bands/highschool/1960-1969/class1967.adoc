@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1966-1967 Vermilion Sailor Marching Band
+---
+
 = 1966-1967 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1966-1967 Vermilion Sailor Marching Band
 
@@ -9,14 +13,14 @@ Head Majorette: Sue Fultz
 
 *Image Gallery:*
 
-* 1966-1967 Vermilion Sailor Marching Band
-* 1967 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/EniPaAcxQXttfH8Q6[1966-1967 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/KCcNZ6oZpcj4jdes7[1967 Vermilion High School Yearbook]
 
-image::1966-1967-2019-07-23-10.46.02.jpg[,role="text-center"]
+image::/images/1966-1967-2019-07-23-10.46.02.jpg[,role="text-center"]
 
 Left to Right: Martha Idol, Georgia Wakefield, Ava Wise, Dana Forcum, Sue Fultz, Gale Washabaugh, Carol Gleason, Jean Pratt, Candy Athey
 
-image::1966-1967-2019-07-23-10.46.06.jpg[,role="text-center"]
+image::/images/1966-1967-2019-07-23-10.46.06.jpg[,role="text-center"]
 
 *Band Earns $1579*
 
@@ -26,7 +30,7 @@ _Five students earned prizes for selling $100 worth of subscriptions and renewal
 
 _Chariman of this project this years was Mrs. Curtis Ayars who says orders may still be placed through her._
 
-image::1966-1967-2019-07-23-10.46.35.jpg[,role="text-center"]
+image::/images/1966-1967-2019-07-23-10.46.35.jpg[,role="text-center"]
 
 *Strike Up the Band*
 
@@ -44,7 +48,7 @@ _The band is not through for the year with the last football game, because the b
 
 _So let's stay around during half-time, watch the band show and show them how much they're appreciated._
 
-image::1966-1967-2019-07-23-10.46.49.jpg[,role="text-center"]
+image::/images/1966-1967-2019-07-23-10.46.49.jpg[,role="text-center"]
 
 *A Farewell Salute* by Lola Hall
 
@@ -64,7 +68,7 @@ _Those also leaving will be our two band managers, Cynthia Foster and Tom Maurer
 
 _Those Seniors who marched for the last time last Friday are: Maria Agen, Nancy Ayars, Sue Bachman, Gary Dropko, Robert Deval, Susan Fultz (Head Majorette), Bonnie Greenwood, Lola Hall, Peter Hart, Kevin Horn, Marcha Idol (marjorette), Diane Jeffery, Dennis Johnson, Roberta Johnson, Penny Kishman, Don McClimmans, Jill Mikola, David Moes, John Neff, Paul (Stu) Naegle, Jean Pratt (majorette), Pat Prieur, Susan Reiber, Keith Seibert, Trudy Tische, Ellen Trinter, Barb Warner, Debbie Zerad, and Dana Forcum (majorette)._
 
-image::1966-1967-2019-07-23-10.46.56.jpg[,role="text-center"]
+image::/images/1966-1967-2019-07-23-10.46.56.jpg[,role="text-center"]
 
 *Band Banquet*
 
@@ -74,7 +78,7 @@ _After a delicious meal Dr. Zinn said "a few words" and Mr. Burt congratulated t
 
 _One of the high points of the evening was reading the Marching Band Senior's Last Well and Testament to be found elsewhere in the paper._
 
-image::1966-1967-2019-07-23-10.47.01.jpg[,role="text-center"]
+image::/images/1966-1967-2019-07-23-10.47.01.jpg[,role="text-center"]
 
 *Band Seniors Honored*
 
@@ -88,7 +92,7 @@ _The Booster Magazine drive netted nearly $1600. It was pointed out that the uni
 
 _The Sailor vocal group will join with Amherst and Midview to present a choir festival at Amherst next Friday Dec. 2._
 
-image::1966-1967-2019-07-23-10.47.24.jpg[,role="text-center"]
+image::/images/1966-1967-2019-07-23-10.47.24.jpg[,role="text-center"]
 
 Senior Band Members’ Last Will and Testament
 
@@ -150,13 +154,13 @@ _Dana Forcum -- "I leave my cold nights with an icicle to twirl"_
 
 _Stu Naegle -- "I leave my prized marching position in the middle of the band to Harold Casterline or some other deserving drummer."_
 
-image::6-1-1967.jpeg[,role="text-center"]
+image::/images/6-1-1967.jpeg[,role="text-center"]
 
-image::6-1-1967-2.jpeg[,role="text-center"]
+image::/images/6-1-1967-2.jpeg[,role="text-center"]
 
-image::6-22-1967.jpeg[,role="text-center"]
+image::/images/6-22-1967.jpeg[,role="text-center"]
 
-image::9-29-1966.jpeg[,role="text-center"]
+image::/images/9-29-1966.jpeg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]

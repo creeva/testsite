@@ -1,5 +1,9 @@
+---
+layout: default
+title: 2000-2001 Vermilion Sailor Marching Band
+---
+
 = 2000-2001 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 2000-2001 Vermilion Sailor Marching Band
 
@@ -7,22 +11,22 @@ Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-
 
 *Image Galleries:*
 
-* 2000-2001 Vermilion Sailor Marching Band
-* 2001 Vermilion High School Yearbook
-* 2001 Sailorway Middle School Yearbook
+* link:https://photos.app.goo.gl/PU923EZ9wnhZ3s2Y9[2000-2001 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/J6nzNbKmx6z9F6vq9[2001 Vermilion High School Yearbook]
+* link:https://photos.app.goo.gl/65v76GNLHV7TaU1S7[2001 Sailorway Middle School Yearbook]
 
 *Video Playlists:*
 
-* 2000-2001 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=uK1JR5ocAek&list=PLqposBlPPQd-GAaaObkRos-5IqI-GOufD&pp=gAQBiAQB[2000-2001 Vermilion Sailor Marching Band]
 
 .2000-2001 Vermilion Sailor Marching Band - Highlight Video
 video::nfOhOymGUGE[youtube, width=640, height=360, align=center]
 
-image::2001-major.jpg[,role="text-center"]
+image::/images/2001-major.jpg[,role="text-center"]
 
-image::2001-fc.jpg[,role="text-center"]
+image::/images/2001-fc.jpg[,role="text-center"]
 
-image::2001-writeup.jpg[,role="text-center"]
+image::/images/2001-writeup.jpg[,role="text-center"]
 
 The
 

@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1960-1969 Vermilion Sailor Marching Bands
+---
+
 = 1960-1969 Vermilion Sailor Marching Bands
-:page-layout: page
 
 === 1960-1969 Vermilion Sailor Marching Band
 

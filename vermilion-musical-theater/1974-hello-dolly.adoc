@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1974 -- Hello, Dolly!
+---
+
 = 1974 -- Hello, Dolly!
-:page-layout: page
 
 === Hello, Dolly! -- March 28-30, 1974
 
-image::hellodolly.jpg[,role="text-center"]
+image::/images/hellodolly.jpg[,role="text-center"]
 
 “Hello, Dolly!” is a classic American musical with music and lyrics by Jerry Herman and a book by Michael Stewart. The musical is set in the 1890s and tells the story of Dolly Gallagher Levi, a matchmaker and widow, as she travels to Yonkers, New York, to find a suitable spouse for the wealthy and cantankerous bachelor, Horace Vandergelder. Here’s a summary of the plot:
 
@@ -33,53 +37,53 @@ In a memorable and show-stopping moment, Dolly performs the title song “Hello,
 
 Image Gallery:
 
-* 1974 Vermilion High School -- Hello Dolly
+* link:https://photos.app.goo.gl/xCkJ4MJfdf4Wqmqp8[1974 Vermilion High School -- Hello Dolly]
 
-image::1974musical.jpeg[,role="text-center"]
+image::/images/1974musical.jpeg[,role="text-center"]
 
-image::1974hda1.jpeg[,role="text-center"]
+image::/images/1974hda1.jpeg[,role="text-center"]
 
-image::1974hda2.jpeg[,role="text-center"]
+image::/images/1974hda2.jpeg[,role="text-center"]
 
-image::1974hda3.jpeg[,role="text-center"]
+image::/images/1974hda3.jpeg[,role="text-center"]
 
-image::1974hda4.jpeg[,role="text-center"]
+image::/images/1974hda4.jpeg[,role="text-center"]
 
-image::1974hda5.jpeg[,role="text-center"]
+image::/images/1974hda5.jpeg[,role="text-center"]
 
-image::1974hda6.jpeg[,role="text-center"]
+image::/images/1974hda6.jpeg[,role="text-center"]
 
-image::1974hda7.jpeg[,role="text-center"]
+image::/images/1974hda7.jpeg[,role="text-center"]
 
-image::1974hda8.jpeg[,role="text-center"]
+image::/images/1974hda8.jpeg[,role="text-center"]
 
-image::1974hda9.jpeg[,role="text-center"]
+image::/images/1974hda9.jpeg[,role="text-center"]
 
-image::1974hda10.jpeg[,role="text-center"]
+image::/images/1974hda10.jpeg[,role="text-center"]
 
-image::1974hda11.jpeg[,role="text-center"]
+image::/images/1974hda11.jpeg[,role="text-center"]
 
-image::1974hda12.jpeg[,role="text-center"]
+image::/images/1974hda12.jpeg[,role="text-center"]
 
-image::1974hda13.jpeg[,role="text-center"]
+image::/images/1974hda13.jpeg[,role="text-center"]
 
-image::1974hda14.jpeg[,role="text-center"]
+image::/images/1974hda14.jpeg[,role="text-center"]
 
-image::1974hda15.jpeg[,role="text-center"]
+image::/images/1974hda15.jpeg[,role="text-center"]
 
-image::1974hda16.jpeg[,role="text-center"]
+image::/images/1974hda16.jpeg[,role="text-center"]
 
-image::1974hd1.jpeg[,role="text-center"]
+image::/images/1974hd1.jpeg[,role="text-center"]
 
-image::1974hd2.jpeg[,role="text-center"]
+image::/images/1974hd2.jpeg[,role="text-center"]
 
-image::1974hd3.jpeg[,role="text-center"]
+image::/images/1974hd3.jpeg[,role="text-center"]
 
-image::1974hd4.jpeg[,role="text-center"]
+image::/images/1974hd4.jpeg[,role="text-center"]
 
-image::1974hd5.jpeg[,role="text-center"]
+image::/images/1974hd5.jpeg[,role="text-center"]
 
-image::1974hd6.jpeg[,role="text-center"]
+image::/images/1974hd6.jpeg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-musical-theater/[Vermilion Musical Theater]

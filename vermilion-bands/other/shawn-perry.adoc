@@ -1,9 +1,13 @@
+---
+layout: default
+title: Shawn Perry
+---
+
 = Shawn Perry
-:page-layout: page
 
 === Shawn Perry
 
-image::shawnperryinlawnchair.jpeg[,role="text-center"]
+image::/images/shawnperryinlawnchair.jpeg[,role="text-center"]
 
 Website: link:http://shawnperry.country/[shawnperry.country]
 

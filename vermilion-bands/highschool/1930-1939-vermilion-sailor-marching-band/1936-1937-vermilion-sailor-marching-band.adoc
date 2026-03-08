@@ -1,16 +1,20 @@
+---
+layout: default
+title: 1936-1937 Vermilion Sailor Marching Band
+---
+
 = 1936-1937 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1936-1937 Vermilion Sailor Marching Band
 
-image::1937orch.jpg[,role="text-center"]
+image::/images/1937orch.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Image Galleries:
 
-* 1936-1937 Vermilion Sailor Marching Band
-* 1937 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/bhPourNArBEpgxpP6[1936-1937 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/1pEMYVWR26TtwWQS9[1937 Vermilion High School Yearbook]
 
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1930-1939-vermilion-sailor-marching-band/[1930-1939 Vermilion Sailor Marching Bands]
 

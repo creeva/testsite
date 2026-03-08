@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2014 -- Seussical The Musical
+---
+
 = 2014 -- Seussical The Musical
-:page-layout: page

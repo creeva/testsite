@@ -1,5 +1,9 @@
+---
+layout: default
+title: Watermelon Man
+---
+
 = Watermelon Man
-:page-layout: page
 
 .1997-1998 Vermilion Sailor Marching Band - Watermelon Man - Full Show 2
 video::WDQJIqXEgcE[youtube, width=640, height=360, align=center]

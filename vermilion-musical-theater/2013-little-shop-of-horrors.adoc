@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2013 -- Little Shop of Horrors
+---
+
 = 2013 -- Little Shop of Horrors
-:page-layout: page

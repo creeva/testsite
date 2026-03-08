@@ -1,5 +1,9 @@
+---
+layout: default
+title: 2009-2010 Vermilion Sailor Marching Band
+---
+
 = 2009-2010 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 2009-2010 Vermilion Sailor Marching Band
 
@@ -7,21 +11,21 @@ Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-
 
 *Image Galleries:*
 
-* 2009-2010 Vermilion Sailor Marching Band
-* 2010 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/UdnjTER482TZwC1G6[2009-2010 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/KbFEX47R1VHrCbTi8[2010 Vermilion High School Yearbook]
 
 *Video Playlists:*
 
-* 2009-2010 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=K7D_IkQ-Axc&list=PLqposBlPPQd8ncsQuAK5C7IjEbHoPQHQj&pp=gAQBiAQB[2009-2010 Vermilion Sailor Marching Band]
 
 .2009-2010 Vermilion Sailor Marching Band - Thriller
 video::K7D_IkQ-Axc[youtube, width=640, height=360, align=center]
 
-image::VLS-2010_pdf__page_45_of_97_16.jpg[,role="text-center"]
+image::/images/VLS-2010_pdf__page_45_of_97_16.jpg[,role="text-center"]
 
-image::VLS-2010_pdf__page_46_of_97_16.jpg[,role="text-center"]
+image::/images/VLS-2010_pdf__page_46_of_97_16.jpg[,role="text-center"]
 
-image::VLS-2010_pdf__page_44_of_97_23.jpg[,role="text-center"]
+image::/images/VLS-2010_pdf__page_44_of_97_23.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

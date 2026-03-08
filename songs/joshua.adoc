@@ -1,5 +1,9 @@
+---
+layout: default
+title: Joshua
+---
+
 = Joshua
-:page-layout: page
 
 .1987 Vermilion Sailor Alumni Band - Joshua
 video::m4jfyTYo2pI[youtube, width=640, height=360, align=center]

@@ -1,5 +1,9 @@
+---
+layout: default
+title: Vermilion High School Pep Bands
+---
+
 = Vermilion High School Pep Bands
-:page-layout: page
 
 === Vermilion High School Pep Bands
 

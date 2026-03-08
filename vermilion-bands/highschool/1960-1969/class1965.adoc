@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1964-1965 Vermilion Sailor Marching Band
+---
+
 = 1964-1965 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1964-1965 Vermilion Sailor Marching Band
 
-image::1965bandmar.jpg[,role="text-center"]
+image::/images/1965bandmar.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
 
@@ -13,31 +17,31 @@ Members: Unlisted
 
 *Image Gallery:*
 
-* 1964-1965 Vermilion Sailor Marching Band
+* link:https://photos.app.goo.gl/Ynu3uj4Di17eaVkz6[1964-1965 Vermilion Sailor Marching Band]
 
-image::7-1-1964.jpeg[,role="text-center"]
+image::/images/7-1-1964.jpeg[,role="text-center"]
 
-image::7-15-1964.jpeg[,role="text-center"]
+image::/images/7-15-1964.jpeg[,role="text-center"]
 
-image::7-15-1964-2.jpeg[,role="text-center"]
+image::/images/7-15-1964-2.jpeg[,role="text-center"]
 
-image::9-2-1964.jpeg[,role="text-center"]
+image::/images/9-2-1964.jpeg[,role="text-center"]
 
-image::9-9-1964.jpeg[,role="text-center"]
+image::/images/9-9-1964.jpeg[,role="text-center"]
 
-image::9-16-1964.jpeg[,role="text-center"]
+image::/images/9-16-1964.jpeg[,role="text-center"]
 
-image::9-23-1964.jpeg[,role="text-center"]
+image::/images/9-23-1964.jpeg[,role="text-center"]
 
-image::10-7-1964.jpeg[,role="text-center"]
+image::/images/10-7-1964.jpeg[,role="text-center"]
 
-image::11-4-1964.jpeg[,role="text-center"]
+image::/images/11-4-1964.jpeg[,role="text-center"]
 
-image::11-18-1964.jpeg[,role="text-center"]
+image::/images/11-18-1964.jpeg[,role="text-center"]
 
-image::12-2-1964.jpeg[,role="text-center"]
+image::/images/12-2-1964.jpeg[,role="text-center"]
 
-image::10-21-1964.jpeg[,role="text-center"]
+image::/images/10-21-1964.jpeg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]

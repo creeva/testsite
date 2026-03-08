@@ -1,5 +1,9 @@
+---
+layout: default
+title: Back In The USSR
+---
+
 = Back In The USSR
-:page-layout: page
 
 === Back In the USSR
 
@@ -15,4 +19,4 @@ video::m64s7Y7MAEU[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::1997-1998-Sailor-Marching-Band_4046979266_o.jpg[,role="text-center"]
+image::/images/1997-1998-Sailor-Marching-Band_4046979266_o.jpg[,role="text-center"]

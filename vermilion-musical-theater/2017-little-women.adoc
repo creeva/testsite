@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2017 -- Little Women
+---
+
 = 2017 -- Little Women
-:page-layout: page

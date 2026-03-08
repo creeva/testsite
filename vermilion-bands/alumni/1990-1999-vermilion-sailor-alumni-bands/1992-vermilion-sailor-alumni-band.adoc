@@ -1,15 +1,19 @@
+---
+layout: default
+title: 1993 Vermilion Sailor Alumni Band
+---
+
 = 1993 Vermilion Sailor Alumni Band
-:page-layout: page
 
 === 1993 Vermilion Sailor Alumni Band
 
-image::alumnigeneric.jpeg[,role="text-center"]
+image::/images/alumnigeneric.jpeg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Video Playlists:
 
-* 1993 Vermilion Sailor Alumni Band
+* link:https://www.youtube.com/watch?v=c7O2O4P5IGQ&list=PLqposBlPPQd_uIqMkSIjnB42vjmVc9LZn&pp=gAQBiAQB[1993 Vermilion Sailor Alumni Band]
 
 .1993 Vermilion Sailor Alumni Band Show
 video::JbOIMzpJF0I[youtube, width=640, height=360, align=center]

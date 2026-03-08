@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1938-1939 Vermilion Sailor Marching Band
+---
+
 = 1938-1939 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1938-1939 Vermilion Sailor Marching Band
 
-image::1939band.jpg[,role="text-center"]
+image::/images/1939band.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
@@ -11,10 +15,10 @@ Members: F. Moes, R. Lewis, C. Schmaltz, E. Kelm, C. Moes, P. Hodgson, P. Cipra,
 
 Image Galleries:
 
-* 1938-1939 Vermilion Sailor Marching Band
-* 1939 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/gWeA8jHEUYa8kXcZ9[1938-1939 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/4NpcV6U9KNAXVebA6[1939 Vermilion High School Yearbook]
 
-image::1939bandwrite.jpg[,role="text-center"]
+image::/images/1939bandwrite.jpg[,role="text-center"]
 
 *The Band*
 

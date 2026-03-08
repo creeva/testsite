@@ -1,6 +1,10 @@
+---
+layout: default
+title: Fight Song -- Anchors Away
+---
+
 = Fight Song -- Anchors Away
-:page-layout: page
 
 === Fight Song -- Anchors Away
 
-image::VLS-2009_pdf__page_44_of_95_1.jpg[,role="text-center"]
+image::/images/VLS-2009_pdf__page_44_of_95_1.jpg[,role="text-center"]

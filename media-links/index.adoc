@@ -1,15 +1,19 @@
+---
+layout: default
+title: Media Links
+---
+
 = Media Links
-:page-layout: page
 
 === Media Links
 
-image::VLS-2006_pdf__page_43_of_99_4.jpg[,role="text-center"]
+image::/images/VLS-2006_pdf__page_43_of_99_4.jpg[,role="text-center"]
 
 The following media links are available:
 
-* Vermilion Bands Photo Gallery Links
-* Vermilion Bands Video Gallery Links
-* Vermilion Sailor Alumni Band Sound Cloud
-* Vermilion High School Alumni Site (Yearbook Link on Page)
+* link:/media-links/photo-gallery-links/[Vermilion Bands Photo Gallery Links]
+* link:/media-links/video-links/[Vermilion Bands Video Gallery Links]
+* link:https://soundcloud.com/vermilion-sailor-alumni-band[Vermilion Sailor Alumni Band Sound Cloud]
+* link:https://www.vermilionschools.org/Alumni.aspx[Vermilion High School Alumni Site (Yearbook Link on Page)]
 
-image::22008461_1575824059107432_3670404565882790069_n.jpg[,role="text-center"]
+image::/images/22008461_1575824059107432_3670404565882790069_n.jpg[,role="text-center"]

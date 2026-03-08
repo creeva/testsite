@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1954-1955 Vermilion Sailor Marching Band
+---
+
 = 1954-1955 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1954-1955 Vermilion Sailor Marching Band
 
-image::1955-Band.jpg[,role="text-center"]
+image::/images/1955-Band.jpg[,role="text-center"]
 
 Director – link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]  + President – Richard Greene  + Secretary – Hannah Dickason  + Treasurer – Ronnie Eppler  + Student Director – Leslie Roberts  + Assistant Student Director – Jean Saskely  + Head Majorette – Nadine Miskow
 
@@ -11,8 +15,8 @@ Members: L. Roberts, K. Peterka, D. Kubishke, M. Hollosy, P. Reiber, J. Finnegan
 
 *Image Gallery:*
 
-* 1954-1955 Vermilion Sailor Marching Band
-* 1955 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/vMBZy3jtJHoW28Nt5[1954-1955 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/EoxKKUV8P3y9mpZHA[1955 Vermilion High School Yearbook]
 
 Front Row – Left to Right: Barbara Wright, Elizabeth Shook, Peggy David, Evelyn Todd, Jeanette Wiseman
 
@@ -28,7 +32,7 @@ _Competition was keen for the Lakeland Conference Concert Bands. The outstanding
 
 _The VHS Band presented their spring concert on May 6, with Mr. J. L. Hoffman, instrumental music director, in charge. Right now they are preparing to march in the Memorial Day Parade._
 
-image::sandusky-register-star-news-Apr-08-1955-p-10.png[,role="text-center"]
+image::/images/sandusky-register-star-news-Apr-08-1955-p-10.png[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

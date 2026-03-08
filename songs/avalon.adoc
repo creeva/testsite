@@ -1,5 +1,9 @@
+---
+layout: default
+title: Avalon
+---
+
 = Avalon
-:page-layout: page
 
 === Avalon
 

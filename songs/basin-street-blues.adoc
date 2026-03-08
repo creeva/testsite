@@ -1,5 +1,9 @@
+---
+layout: default
+title: Basin Street Blues
+---
+
 = Basin Street Blues
-:page-layout: page
 
 === Basin Street Blues
 
@@ -21,4 +25,4 @@ video::KfIGwnk3r6Q[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::228-2007-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]
+image::/images/228-2007-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]

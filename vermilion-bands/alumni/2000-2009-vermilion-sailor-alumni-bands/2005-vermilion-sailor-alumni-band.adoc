@@ -1,19 +1,23 @@
+---
+layout: default
+title: 2005 Vermilion Sailor Alumni Band
+---
+
 = 2005 Vermilion Sailor Alumni Band
-:page-layout: page
 
 === 2005 Vermilion Sailor Alumni Band
 
-image::08-2005-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]
+image::/images/08-2005-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 *Image Galleries:*
 
-* 2005 Vermilion Sailor Alumni Band
+* link:https://photos.app.goo.gl/VN6uTvsseHwNisr48[2005 Vermilion Sailor Alumni Band]
 
 *Video Playlists:*
 
-* 2005 Vermilion Sailor Alumni Band
+* link:https://www.youtube.com/watch?v=bhImnkNQ_FI&list=PLqposBlPPQd-JJRQHkkjLt8DQ9ddnT7ki&pp=gAQBiAQB[2005 Vermilion Sailor Alumni Band]
 
 .2005 Vermilion Sailor Alumni Band - Festival Show
 video::d5gGs23OXNE[youtube, width=640, height=360, align=center]

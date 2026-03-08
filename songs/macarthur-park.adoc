@@ -1,5 +1,9 @@
+---
+layout: default
+title: MacArthur Park
+---
+
 = MacArthur Park
-:page-layout: page
 
 .1987 Vermilion Sailor Alumni Band - Macarthur Park
 video::nbKpLbW8wlU[youtube, width=640, height=360, align=center]

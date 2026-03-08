@@ -1,19 +1,23 @@
+---
+layout: default
+title: 2017 Vermilion Sailor Alumni Band
+---
+
 = 2017 Vermilion Sailor Alumni Band
-:page-layout: page
 
 === 2017 Vermilion Sailor Alumni Band
 
-image::22008439_1574972682525903_2229607400039259286_n.jpg[,role="text-center"]
+image::/images/22008439_1574972682525903_2229607400039259286_n.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 *Image Galleries:*
 
-* 2017 Vermilion Sailor Alumni Band
+* link:https://photos.app.goo.gl/Z8E9n7x4KEwjpVRx7[2017 Vermilion Sailor Alumni Band]
 
 *Video Playlists:*
 
-* 2017 Vermilion Sailor Alumni Band
+* link:https://www.youtube.com/watch?v=w6Q0R4Oh4rg&list=PLqposBlPPQd_xrl5iur2Hxhz0Edce_dND&pp=gAQBiAQB[2017 Vermilion Sailor Alumni Band]
 
 .Vermilion Sailor Alumni Band 2017 Highlight Video
 video::w6Q0R4Oh4rg[youtube, width=640, height=360, align=center]

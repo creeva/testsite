@@ -1,5 +1,9 @@
+---
+layout: default
+title: Bend Me Shake Me
+---
+
 = Bend Me Shake Me
-:page-layout: page
 
 === Bend Me Shake Me
 
@@ -21,4 +25,4 @@ video::9O7qMGQEZ5c[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::2003-2004-Group-Photo.jpg[,role="text-center"]
+image::/images/2003-2004-Group-Photo.jpg[,role="text-center"]

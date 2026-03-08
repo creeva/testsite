@@ -1,23 +1,27 @@
+---
+layout: default
+title: 2016-2017 Vermilion Sailor Marching Band
+---
+
 = 2016-2017 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 2016-2017 Vermilion Sailor Marching Band
 
-image::Vermilion-Marching-Band-2016-2017.jpg[,role="text-center"]
+image::/images/Vermilion-Marching-Band-2016-2017.jpg[,role="text-center"]
 
 *Image Galleries:*
 
-* 2016-2017 Vermilion Sailor Marching Band
-* 2017 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/BWcdXYcvKkpMuUuV7[2016-2017 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/Gim8PS2Nr5ZbFav97[2017 Vermilion High School Yearbook]
 
 *Video Playlists:*
 
-* 2016-2017 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=qg0NK8LjRVw&list=PLqposBlPPQd94YhHGstHSHD-uE8hUA-GN&pp=gAQBiAQB[2016-2017 Vermilion Sailor Marching Band]
 
 .2016-2017 Vermilion Sailor Marching Band - Vermilion Band Festival
 video::EJ8zLerwgs8[youtube, width=640, height=360, align=center]
 
-image::14918866_1233167873388181_5950897027029739543_o.jpg[,role="text-center"]
+image::/images/14918866_1233167873388181_5950897027029739543_o.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

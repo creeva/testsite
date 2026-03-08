@@ -1,15 +1,19 @@
+---
+layout: default
+title: 1998 Vermilion Sailor Alumni Band
+---
+
 = 1998 Vermilion Sailor Alumni Band
-:page-layout: page
 
 === 1998 Vermilion Sailor Alumni Band
 
-image::alumnigeneric.jpeg[,role="text-center"]
+image::/images/alumnigeneric.jpeg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Video Playlists:
 
-* 1998 Vermilion Sailor Alumni Band
+* link:https://www.youtube.com/watch?v=WdTBKAde_EQ&list=PLqposBlPPQd8tEAcLksQ3o-r0_aUIdRPd&pp=gAQBiAQB[1998 Vermilion Sailor Alumni Band]
 
 .1998 Vermilion Sailor Alumni Band - Festival Show
 video::WdTBKAde_EQ[youtube, width=640, height=360, align=center]

@@ -1,5 +1,9 @@
+---
+layout: default
+title: 2000-2009 Vermilion Sailor Marching Bands
+---
+
 = 2000-2009 Vermilion Sailor Marching Bands
-:page-layout: page
 
 === 2000-2009 Vermilion Sailor Marching Bands
 
@@ -18,7 +22,7 @@ link:/vermilion-bands/highschool/2000-2009/class2003/[2002-2003 Vermilion Sailor
 [.text-center]
 link:/vermilion-bands/highschool/2000-2009/class2004/[2003-2004 Vermilion Sailor Marching Band]
 
-image::VLS-2005_pdf__page_33_of_97_6-1.jpg[,role="text-center"]
+image::/images/VLS-2005_pdf__page_33_of_97_6-1.jpg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-bands/highschool/2000-2009/class2005/[2004-2005 Vermilion Sailor Marching Band]

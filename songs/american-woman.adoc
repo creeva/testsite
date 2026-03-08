@@ -1,5 +1,9 @@
+---
+layout: default
+title: American Woman
+---
+
 = American Woman
-:page-layout: page
 
 === American Woman
 
@@ -12,4 +16,4 @@ video::1izsyagn1Lg[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::1999-2000-Sailor-Marching-Band_4169765288_o.jpg[,role="text-center"]
+image::/images/1999-2000-Sailor-Marching-Band_4169765288_o.jpg[,role="text-center"]

@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1968-1969 Vermilion Sailor Marching Band
+---
+
 = 1968-1969 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1968-1969 Vermilion Sailor Marching Band
 
@@ -9,32 +13,32 @@ Head Majorette: Candy Athey
 
 Image Gallery
 
-* 1968-1969 Vermilion Sailor Marching Band
-* 1969 Vermilion High School Yearbook
-* 1969 Vermilion High School -- Bye Bye Birdie
+* link:https://photos.app.goo.gl/YkHxqXXvdfitWabU7[1968-1969 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/Sw877M3Tx3dYYzD48[1969 Vermilion High School Yearbook]
+* link:https://photos.app.goo.gl/bzkeGKh5NipBsLZFA[1969 Vermilion High School -- Bye Bye Birdie]
 
-image::1969-Majorettes.jpg[,role="text-center"]
+image::/images/1969-Majorettes.jpg[,role="text-center"]
 
 [.text-center]
 Majorettes J. Newbill, P. Mangus, S. Akers, C. Athey, J. Leahy, J. Lenhart, and J. Kobza
 
-image::1969-Band-Write-Up.jpg[,role="text-center"]
+image::/images/1969-Band-Write-Up.jpg[,role="text-center"]
 
 *"Presenting the 1968-69 Sailor Marching Band"*
 
 _With these words, the "long black line" stepped off the goal line and went into the first of the routines which they had practiced since early August. In addition to the football shows, the group played at two marching festivals, at Oberlin and Bellevue, and did an exceptionally fine job at both. In November, the band settled down to prepare their music for the Winter Concert and the Lakeland Conference Band Festival at Wellington. In addition to the pep band, which played at all home basketball games, Mr. Burt started a stage band, which practiced the big-band arrangement of Glenn Miller and later performed in "Bye Bye Birdie." The band ended the year by joining the choir for a very fine Spring Concert._
 
-image::1969music.jpg[,role="text-center"]
+image::/images/1969music.jpg[,role="text-center"]
 
-image::10-3-1968.jpeg[,role="text-center"]
+image::/images/10-3-1968.jpeg[,role="text-center"]
 
-image::10-10-1968.jpeg[,role="text-center"]
+image::/images/10-10-1968.jpeg[,role="text-center"]
 
-image::11-21-1968.jpeg[,role="text-center"]
+image::/images/11-21-1968.jpeg[,role="text-center"]
 
-image::1-9-1969.jpeg[,role="text-center"]
+image::/images/1-9-1969.jpeg[,role="text-center"]
 
-image::4-10-1969.jpeg[,role="text-center"]
+image::/images/4-10-1969.jpeg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]

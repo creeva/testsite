@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1984 -- The Fiddler on the Roof
+---
+
 = 1984 -- The Fiddler on the Roof
-:page-layout: page
 
 === The Fiddler on the Roof
 
-image::fiddler1984.jpeg[,role="text-center"]
+image::/images/fiddler1984.jpeg[,role="text-center"]
 
 “Fiddler on the Roof” is a classic American musical with music by Jerry Bock, lyrics by Sheldon Harnick, and a book by Joseph Stein. It’s based on the stories of Sholem Aleichem and is set in the early 20th century in the Russian village of Anatevka. The musical tells the story of Tevye, a Jewish milkman, and his family as they grapple with tradition, change, and the challenges of a rapidly changing world. Here’s a summary of the plot:
 
@@ -31,33 +35,33 @@ As they prepare to depart, Tevye reflects on the changes that have shaken their 
 
 Image Gallery:
 
-* 1984 Vermilion High School -- Fiddler on the Roof
+* link:https://photos.app.goo.gl/dUizxaALnaxY75yi8[1984 Vermilion High School -- Fiddler on the Roof]
 
-image::1984musical.jpeg[,role="text-center"]
+image::/images/1984musical.jpeg[,role="text-center"]
 
-image::1984musical2.jpeg[,role="text-center"]
+image::/images/1984musical2.jpeg[,role="text-center"]
 
-image::1984f1.jpeg[,role="text-center"]
+image::/images/1984f1.jpeg[,role="text-center"]
 
-image::1984f2.jpeg[,role="text-center"]
+image::/images/1984f2.jpeg[,role="text-center"]
 
-image::1984f3.jpeg[,role="text-center"]
+image::/images/1984f3.jpeg[,role="text-center"]
 
-image::1984f4.jpeg[,role="text-center"]
+image::/images/1984f4.jpeg[,role="text-center"]
 
-image::1984f5.jpeg[,role="text-center"]
+image::/images/1984f5.jpeg[,role="text-center"]
 
-image::1984f6.jpeg[,role="text-center"]
+image::/images/1984f6.jpeg[,role="text-center"]
 
-image::1984f7.jpeg[,role="text-center"]
+image::/images/1984f7.jpeg[,role="text-center"]
 
-image::1984f8.jpeg[,role="text-center"]
+image::/images/1984f8.jpeg[,role="text-center"]
 
-image::1984f9.jpeg[,role="text-center"]
+image::/images/1984f9.jpeg[,role="text-center"]
 
-image::1984f10.jpeg[,role="text-center"]
+image::/images/1984f10.jpeg[,role="text-center"]
 
-image::1984f11.jpeg[,role="text-center"]
+image::/images/1984f11.jpeg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-musical-theater/[Vermilion Musical Theater]

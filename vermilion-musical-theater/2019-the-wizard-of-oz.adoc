@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2019 -- The Wizard of Oz
+---
+
 = 2019 -- The Wizard of Oz
-:page-layout: page

@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1958-1959 Vermilion Sailor Marching Band
+---
+
 = 1958-1959 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1958-1959 Vermilion Sailor Marching Band
 
-image::1959-3.jpg[,role="text-center"]
+image::/images/1959-3.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
 
@@ -13,64 +17,64 @@ Members: D. Kubishke, J. Popovich, Reed, K. Kubishke, Shaw, Heyman, S. Zalar, Re
 
 *Image Gallery:*
 
-* 1958-1959 Vermilion Sailor Marching Band
-* 1959 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/emECw2yxTY8Z12KV6[1958-1959 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/BfEjSDFKu5TG8zsz9[1959 Vermilion High School Yearbook]
 
-image::1959marwrite.jpg[,role="text-center"]
+image::/images/1959marwrite.jpg[,role="text-center"]
 
-image::1959-4.jpg[,role="text-center"]
+image::/images/1959-4.jpg[,role="text-center"]
 
 Members: V. Christmas, H. Hilyard, A. Feldkamp, M. Harrison, M. Thompson, C. Halley, P. Osberg
 
-image::1959majwrite.jpg[,role="text-center"]
+image::/images/1959majwrite.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Fri__Jul_10__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Fri__Jul_10__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Fri__Jul_17__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Fri__Jul_17__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Fri__May_29__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Fri__May_29__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Fri__Oct_24__1958_-1.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Fri__Oct_24__1958_-1.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Fri__Oct_24__1958_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Fri__Oct_24__1958_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Fri__Oct_31__1958_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Fri__Oct_31__1958_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Mon__Feb_2__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Mon__Feb_2__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Mon__Jan_26__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Mon__Jan_26__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Mon__Mar_2__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Mon__Mar_2__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Mon__May_25__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Mon__May_25__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Mon__Oct_13__1958_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Mon__Oct_13__1958_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Sat__Dec_6__1958_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Sat__Dec_6__1958_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Sat__Feb_21__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Sat__Feb_21__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Thu__Jan_29__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Thu__Jan_29__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Thu__May_7__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Thu__May_7__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Thu__Sep_4__1958_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Thu__Sep_4__1958_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Thu__Sep_25__1958_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Thu__Sep_25__1958_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Tue__Feb_17__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Tue__Feb_17__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Wed__Feb_25__1959_-1.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Wed__Feb_25__1959_-1.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Wed__Feb_25__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Wed__Feb_25__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Wed__May_13__1959_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Wed__May_13__1959_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Wed__Nov_26__1958_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Wed__Nov_26__1958_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Wed__Oct_22__1958_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Wed__Oct_22__1958_.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Wed__Oct_29__1958_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Wed__Oct_29__1958_.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

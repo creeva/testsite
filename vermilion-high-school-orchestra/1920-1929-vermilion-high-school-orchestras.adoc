@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1920-1929 Vermilion High School Orchestras
+---
+
 = 1920-1929 Vermilion High School Orchestras
-:page-layout: page
 
 === 1920-1929 Vermilion High School Orchestras
 
-image::1925orchestra.jpg[,role="text-center"]
+image::/images/1925orchestra.jpg[,role="text-center"]
 
 [.text-center]
 1925 Vermilion High School Orchestra
@@ -12,11 +16,11 @@ Members: Jean Lawless, Robert Rathburn, Leroy Grant, Lloyd Niggle, Monroe Vincen
 
 Image Gallery
 
-* 1925 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/K81ChWrnNNdVk6y49[1925 Vermilion High School Yearbook]
 
-image::1925orchwrite.jpg[,role="text-center"]
+image::/images/1925orchwrite.jpg[,role="text-center"]
 
-image::unknownphoto.jpeg[,role="text-center"]
+image::/images/unknownphoto.jpeg[,role="text-center"]
 
 [.text-center]
 1926 Vermilion High School Orchestra
@@ -25,11 +29,11 @@ Members: Jean Lawless, Loren Leidheiser, Monroe Vincent, Leroy Grant, Louis Gege
 
 Image Gallery:
 
-* 1926 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/1mJLAcpJ3qDnbjDa8[1926 Vermilion High School Yearbook]
 
-image::1926orchwriteup.jpg[,role="text-center"]
+image::/images/1926orchwriteup.jpg[,role="text-center"]
 
-image::1927orchestra.jpg[,role="text-center"]
+image::/images/1927orchestra.jpg[,role="text-center"]
 
 [.text-center]
 1927 Vermilion High School Orchestra
@@ -38,11 +42,11 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1927 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/DfC39JymWHWCxPuR9[1927 Vermilion High School Yearbook]
 
-image::1927orchwrite.jpg[,role="text-center"]
+image::/images/1927orchwrite.jpg[,role="text-center"]
 
-image::1928orchestra.jpg[,role="text-center"]
+image::/images/1928orchestra.jpg[,role="text-center"]
 
 [.text-center]
 1928 Vermilion High School Orchestra
@@ -51,11 +55,11 @@ Members: Monroe Vincent, Alheit, Donald Leidhesier, Louis Gegenheimer, N. Parson
 
 Image Galleries:
 
-* 1928 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/ETFRKvikTW6Z6SwQ6[1928 Vermilion High School Yearbook]
 
-image::1928orchwrite.jpg[,role="text-center"]
+image::/images/1928orchwrite.jpg[,role="text-center"]
 
-image::1929orch.jpg[,role="text-center"]
+image::/images/1929orch.jpg[,role="text-center"]
 
 [.text-center]
 1929 Miss Hutton’s Orchestra
@@ -64,11 +68,11 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1929 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/sHrgrNBXPBDoSaje8[1929 Vermilion High School Yearbook]
 
-image::1929orchwrite.jpg[,role="text-center"]
+image::/images/1929orchwrite.jpg[,role="text-center"]
 
-image::1929classorch.jpg[,role="text-center"]
+image::/images/1929classorch.jpg[,role="text-center"]
 
 [.text-center]
 1929 Vermilion High School Classical Orchestra
@@ -77,8 +81,8 @@ Members: Jack Becker, Frank Blattner, William Buell, Louis Gegenheimer, Nelson P
 
 Image Gallery:
 
-* 1929 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/sHrgrNBXPBDoSaje8[1929 Vermilion High School Yearbook]
 
-image::1929classorchwrite.jpg[,role="text-center"]
+image::/images/1929classorchwrite.jpg[,role="text-center"]
 
 link:/[Vermilion Bands] – link:/vermilion-high-school-orchestra/[Vermilion High School Orchestras]

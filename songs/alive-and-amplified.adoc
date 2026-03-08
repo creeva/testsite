@@ -1,5 +1,9 @@
+---
+layout: default
+title: Alive and Amplified
+---
+
 = Alive and Amplified
-:page-layout: page
 
 === Alive and Amplified
 
@@ -9,4 +13,4 @@ video::LonWFfoeZPY[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::VLS-2012_pdf__page_42_of_74_2.jpg[,role="text-center"]
+image::/images/VLS-2012_pdf__page_42_of_74_2.jpg[,role="text-center"]

@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1956-1957 Vermilion Sailor Marching Band
+---
+
 = 1956-1957 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1956-1957 Vermilion Sailor Marching Band
 
-image::image-1.jpg[,role="text-center"]
+image::/images/image-1.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
 
@@ -11,16 +15,16 @@ Members: Unlisted
 
 *Image Gallery:*
 
-* 1956-1957 Vermilion Sailor Marching Band
-* 1957 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/ysM2AcR6w55etkVn9[1956-1957 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/2nzozic9CPqPkwAY7[1957 Vermilion High School Yearbook]
 
-image::1957-5.jpg[,role="text-center"]
+image::/images/1957-5.jpg[,role="text-center"]
 
 Members: Sobiech, Noltner, Hasenflue, Osberg, Christman, Harrison, Miskow, Todd
 
-image::1957majwrite.jpg[,role="text-center"]
+image::/images/1957majwrite.jpg[,role="text-center"]
 
-image::The_Sandusky_Register_Thu__Feb_14__1957_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Thu__Feb_14__1957_.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

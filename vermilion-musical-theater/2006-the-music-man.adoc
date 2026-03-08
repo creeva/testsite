@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2006 -- The Music Man
+---
+
 = 2006 -- The Music Man
-:page-layout: page

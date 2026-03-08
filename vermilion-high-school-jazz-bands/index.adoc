@@ -1,5 +1,9 @@
+---
+layout: default
+title: Vermilion High School Jazz Bands
+---
+
 = Vermilion High School Jazz Bands
-:page-layout: page
 
 === Vermilion High School Jazz Bands
 

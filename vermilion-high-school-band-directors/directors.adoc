@@ -1,5 +1,9 @@
+---
+layout: default
+title: Vermilion Sailor Alumni Band Directors
+---
+
 = Vermilion Sailor Alumni Band Directors
-:page-layout: page
 
 === Vermilion Sailor Alumni Band Directors
 
@@ -9,7 +13,7 @@ link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/
 [.text-center]
 link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry 1998-2007]
 
-image::4012692289_4208494d01_o.jpg[,role="text-center"]
+image::/images/4012692289_4208494d01_o.jpg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[Bill "Willy B" Burt 1986-1997]

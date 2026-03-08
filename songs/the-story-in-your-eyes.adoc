@@ -1,5 +1,9 @@
+---
+layout: default
+title: The Story in Your Eyes
+---
+
 = The Story in Your Eyes
-:page-layout: page
 
 .1997-1998 Vermilion Sailor Marching Band - The Story In Your Eyes - BW Festival
 video::ikKs-MSshx4[youtube, width=640, height=360, align=center]

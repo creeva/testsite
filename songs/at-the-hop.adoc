@@ -1,5 +1,9 @@
+---
+layout: default
+title: At The Hop
+---
+
 = At The Hop
-:page-layout: page
 
 === At The Hop
 
@@ -15,4 +19,4 @@ video::8JuakuyPaLo[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::1992-seniors.jpg[,role="text-center"]
+image::/images/1992-seniors.jpg[,role="text-center"]

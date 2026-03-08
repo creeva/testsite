@@ -1,13 +1,17 @@
+---
+layout: default
+title: 1970 -South Pacific
+---
+
 = 1970 -South Pacific
-:page-layout: page
 
 === South Pacific -- April 16-18, 1970
 
-image::southpacific.jpg[,role="text-center"]
+image::/images/southpacific.jpg[,role="text-center"]
 
 Image Gallery:
 
-* 1970 Vermilion High School -- South Pacific
+* link:https://photos.app.goo.gl/bXjyt2hMVd5z3AQV9[1970 Vermilion High School -- South Pacific]
 
 “South Pacific” is a classic American musical based on James A. Michener’s Pulitzer Prize-winning novel “Tales of the South Pacific.” Set against the backdrop of World War II, the musical explores themes of love, prejudice, and the impact of war on individuals. Here’s a summary of the musical:
 
@@ -22,33 +26,33 @@ As the musical unfolds, it delves into the characters’ struggles with their pe
 
 The musical ultimately addresses themes of love’s ability to transcend prejudice and the transformative power of human connections. It explores the impact of war on individuals and society while emphasizing the need to overcome racial and cultural divides. “South Pacific” remains a beloved classic, known for its compelling storytelling and timeless themes.
 
-image::1970musicalpit.jpg[,role="text-center"]
+image::/images/1970musicalpit.jpg[,role="text-center"]
 
-image::1970music.jpeg[,role="text-center"]
+image::/images/1970music.jpeg[,role="text-center"]
 
-image::1970musical.jpeg[,role="text-center"]
+image::/images/1970musical.jpeg[,role="text-center"]
 
-image::1970sp02.jpg[,role="text-center"]
+image::/images/1970sp02.jpg[,role="text-center"]
 
-image::1970sp03.jpg[,role="text-center"]
+image::/images/1970sp03.jpg[,role="text-center"]
 
-image::1970sp04.jpg[,role="text-center"]
+image::/images/1970sp04.jpg[,role="text-center"]
 
-image::1970sp05.jpg[,role="text-center"]
+image::/images/1970sp05.jpg[,role="text-center"]
 
-image::1970sp06.jpg[,role="text-center"]
+image::/images/1970sp06.jpg[,role="text-center"]
 
-image::1970sp07.jpg[,role="text-center"]
+image::/images/1970sp07.jpg[,role="text-center"]
 
-image::1970sp08.jpg[,role="text-center"]
+image::/images/1970sp08.jpg[,role="text-center"]
 
-image::1970sp09.jpg[,role="text-center"]
+image::/images/1970sp09.jpg[,role="text-center"]
 
-image::1970sp10.jpg[,role="text-center"]
+image::/images/1970sp10.jpg[,role="text-center"]
 
-image::1970sp11.jpg[,role="text-center"]
+image::/images/1970sp11.jpg[,role="text-center"]
 
-image::1970sp12.jpg[,role="text-center"]
+image::/images/1970sp12.jpg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-musical-theater/[Vermilion Musical Theater]

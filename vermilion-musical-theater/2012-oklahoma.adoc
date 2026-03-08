@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2012 -- Oklahoma
+---
+
 = 2012 -- Oklahoma
-:page-layout: page

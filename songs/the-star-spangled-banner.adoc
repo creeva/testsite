@@ -1,5 +1,9 @@
+---
+layout: default
+title: The Star Spangled Banner
+---
+
 = The Star Spangled Banner
-:page-layout: page
 
 .1986 Vermilion Sailor Marching Band Festival - Mass Star Spangled Banner
 video::BRqJkgv8TSk[youtube, width=640, height=360, align=center]

@@ -1,5 +1,9 @@
+---
+layout: default
+title: 2008-2009 Vermilion Sailor Marching Band
+---
+
 = 2008-2009 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 2008-2009 Vermilion Sailor Marching Band
 
@@ -7,19 +11,19 @@ Director: Kurt Dieringer
 
 *Image Galleries:*
 
-* 2008-2009 Vermilion Sailor Marching Band
-* 2009 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/XJrNj53YreMXTAHG6[2008-2009 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/6mL36nzVSprzWDrj8[2009 Vermilion High School Yearbook]
 
 *Video Playlists:*
 
-* 2008-2009 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=wKJLbr_yOE0&list=PLqposBlPPQd9Zh_FIPbO4M0JYJIKYVl6Z&pp=gAQBiAQB[2008-2009 Vermilion Sailor Marching Band]
 
 .2008-2009 Vermilion Sailor Marching Band - Halftime Show - V Clearview
 video::-4WxmRoEuBI[youtube, width=640, height=360, align=center]
 
-image::VLS-2009_pdf__page_45_of_95_7.jpg[,role="text-center"]
+image::/images/VLS-2009_pdf__page_45_of_95_7.jpg[,role="text-center"]
 
-image::VLS-2009_pdf__page_46_of_95_2.jpg[,role="text-center"]
+image::/images/VLS-2009_pdf__page_46_of_95_2.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]

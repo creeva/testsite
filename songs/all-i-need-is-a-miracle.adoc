@@ -1,5 +1,9 @@
+---
+layout: default
+title: All I Need Is A Miracle
+---
+
 = All I Need Is A Miracle
-:page-layout: page
 
 === All I Need Is A Miracle
 
@@ -18,4 +22,4 @@ video::nNNJH27Zvcw[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::1987-Sailor-Marching-Band.jpg[,role="text-center"]
+image::/images/1987-Sailor-Marching-Band.jpg[,role="text-center"]

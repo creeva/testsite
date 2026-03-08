@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2015 -- Anything Goes
+---
+
 = 2015 -- Anything Goes
-:page-layout: page

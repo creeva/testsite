@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1994 -- Anything Goes
+---
+
 = 1994 -- Anything Goes
-:page-layout: page
 
 === Anything Goes
 
-image::anythinggoes.jpeg[,role="text-center"]
+image::/images/anythinggoes.jpeg[,role="text-center"]
 
 “Anything Goes” is a classic American musical with music and lyrics by Cole Porter and a book by Guy Bolton, P.G. Wodehouse, Howard Lindsay, and Russel Crouse. The musical is set aboard an ocean liner in the 1930s and is filled with romance, mistaken identities, and comedic hijinks. Here’s a summary of the plot:
 
@@ -31,13 +35,13 @@ The ship arrives in London, and all the passengers disembark. Moonface Martin, w
 
 Image Gallery:
 
-* 1994 Vermilion High School -- Anything Goes
+* link:https://photos.app.goo.gl/JeQwSu3bSzWE8P8DA[1994 Vermilion High School -- Anything Goes]
 
-image::1994musical.jpeg[,role="text-center"]
+image::/images/1994musical.jpeg[,role="text-center"]
 
-image::1994musical2.jpeg[,role="text-center"]
+image::/images/1994musical2.jpeg[,role="text-center"]
 
-image::1994musicalpit.jpeg[,role="text-center"]
+image::/images/1994musicalpit.jpeg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-musical-theater/[Vermilion Musical Theater]

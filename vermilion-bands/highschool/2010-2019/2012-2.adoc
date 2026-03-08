@@ -1,29 +1,33 @@
+---
+layout: default
+title: 2011-2012 Vermilion Sailor Marching Band
+---
+
 = 2011-2012 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 2011-2012 Vermilion Sailor Marching Band
 
-image::VLS-2011_pdf__page_58_of_82_2.jpg[,role="text-center"]
+image::/images/VLS-2011_pdf__page_58_of_82_2.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/nathaniel-oshaben/[Nathaniel Oshaben]
 
 *Image Galleries:*
 
-* 2011-2012 Vermilion Sailor Marching Band
-* 2012 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/oQRJRH2SpGhLT57J7[2011-2012 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/vnAfepZtGVz2UFWCA[2012 Vermilion High School Yearbook]
 
 *Video Playlists:*
 
-* 2011-2012 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=A6ViFTosXRc&list=PLqposBlPPQd_zCUu_QRmvdoUgg-HPN7qR&pp=gAQBiAQB[2011-2012 Vermilion Sailor Marching Band]
 
 .2011-2012 Vermilion Sailor Marching Band - Alive And Amplified
 video::LonWFfoeZPY[youtube, width=640, height=360, align=center]
 
-image::VLS-2012_pdf__page_44_of_74_18.jpg[,role="text-center"]
+image::/images/VLS-2012_pdf__page_44_of_74_18.jpg[,role="text-center"]
 
-image::VLS-2012_pdf__page_43_of_74_1.jpg[,role="text-center"]
+image::/images/VLS-2012_pdf__page_43_of_74_1.jpg[,role="text-center"]
 
-image::VLS-2012_pdf__page_42_of_74_15.jpg[,role="text-center"]
+image::/images/VLS-2012_pdf__page_42_of_74_15.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

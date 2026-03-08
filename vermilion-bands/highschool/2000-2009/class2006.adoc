@@ -1,5 +1,9 @@
+---
+layout: default
+title: 2005-2006 Vermilion Sailor Marching Band
+---
+
 = 2005-2006 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 2005-2006 Vermilion Sailor Marching Band
 
@@ -9,12 +13,12 @@ Head Majorette: Melissa Hamman
 
 Image Galleries:
 
-* 2005-2006 Vermilion Sailor Marching Band
-* 2006 Vermilion High School Year Book
+* link:https://photos.app.goo.gl/WhLBPC3dxFwTpSCS8[2005-2006 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/HhvJ8AB7vgRHjnEJ9[2006 Vermilion High School Year Book]
 
 Video Playlists:
 
-* 2005-2006 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=qhRioYoulCc&list=PLqposBlPPQd-TchKi33WfJfWH_0p5vDct&pp=gAQBiAQB[2005-2006 Vermilion Sailor Marching Band]
 
 .2005-2006 Vermilion Sailor Marching Band - Highlight Video
 video::hfvVuO-9YPA[youtube, width=640, height=360, align=center]

@@ -1,81 +1,85 @@
+---
+layout: default
+title: 1994-1995 Vermilion Sailor Marching Band
+---
+
 = 1994-1995 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1994-1995 Vermilion Sailor Marching Band
 
-image::4266085945_27ed569e50.jpg[,role="text-center"]
+image::/images/4266085945_27ed569e50.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]  + Head Majorette: Rebecca Enderle
 
 Members:
 
-image::1995marmem.jpeg[,role="text-center"]
+image::/images/1995marmem.jpeg[,role="text-center"]
 
 *Image Galleries:*
 
-* 1994-1995 Vermilion Sailor Marching Band
-* 1995 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/bqd8jVHXjTJrZrdj7[1994-1995 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/EtckdAC79qzTy7DT7[1995 Vermilion High School Yearbook]
 
 *Video Playlists:*
 
-* 1994-1995 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=ntjJbjegKzE&list=PLqposBlPPQd8Jk901SBnvluCCvwJf7mhY&pp=gAQBiAQB[1994-1995 Vermilion Sailor Marching Band]
 
 .1994-1995 Vermilion Sailor Marching Band - Highlight Video
 video::ntjJbjegKzE[youtube, width=640, height=360, align=center]
 
-image::1995maj.jpeg[,role="text-center"]
+image::/images/1995maj.jpeg[,role="text-center"]
 
-image::4266084815_5a78c419c9_o_4269055005_o.jpg[,role="text-center"]
+image::/images/4266084815_5a78c419c9_o_4269055005_o.jpg[,role="text-center"]
 
-image::4266836870_22098cd80b.jpg[,role="text-center"]
+image::/images/4266836870_22098cd80b.jpg[,role="text-center"]
 
-image::1995dirs.jpeg[,role="text-center"]
+image::/images/1995dirs.jpeg[,role="text-center"]
 
-image::1995clar.jpeg[,role="text-center"]
+image::/images/1995clar.jpeg[,role="text-center"]
 
-image::1995drums.jpeg[,role="text-center"]
+image::/images/1995drums.jpeg[,role="text-center"]
 
-image::1995flu.jpeg[,role="text-center"]
+image::/images/1995flu.jpeg[,role="text-center"]
 
-image::1995sax.jpeg[,role="text-center"]
+image::/images/1995sax.jpeg[,role="text-center"]
 
-image::1995sous.jpeg[,role="text-center"]
+image::/images/1995sous.jpeg[,role="text-center"]
 
-image::1995trom.jpeg[,role="text-center"]
+image::/images/1995trom.jpeg[,role="text-center"]
 
-image::1995trum.jpeg[,role="text-center"]
+image::/images/1995trum.jpeg[,role="text-center"]
 
-image::1995-writeup.jpg[,role="text-center"]
+image::/images/1995-writeup.jpg[,role="text-center"]
 
 *Marching Band*
 
 _Under the direction of Mr. Price for the first year, the Sailor Marching Band marched each week at football games on Friday night, and festivals around the state on Saturday nights. The band also had the opportunity to march in Washington D.C._
 
-image::1995martrip.jpeg[,role="text-center"]
+image::/images/1995martrip.jpeg[,role="text-center"]
 
-image::7-12-1994.jpeg[,role="text-center"]
+image::/images/7-12-1994.jpeg[,role="text-center"]
 
-image::8-9-1994.jpeg[,role="text-center"]
+image::/images/8-9-1994.jpeg[,role="text-center"]
 
-image::8-16-1994.jpeg[,role="text-center"]
+image::/images/8-16-1994.jpeg[,role="text-center"]
 
-image::8-30-1994.jpeg[,role="text-center"]
+image::/images/8-30-1994.jpeg[,role="text-center"]
 
-image::9-20-1994.jpeg[,role="text-center"]
+image::/images/9-20-1994.jpeg[,role="text-center"]
 
-image::10-4-1994.jpeg[,role="text-center"]
+image::/images/10-4-1994.jpeg[,role="text-center"]
 
-image::11-8-1994.jpeg[,role="text-center"]
+image::/images/11-8-1994.jpeg[,role="text-center"]
 
-image::1-17-1995.jpeg[,role="text-center"]
+image::/images/1-17-1995.jpeg[,role="text-center"]
 
-image::5-16-1995.jpeg[,role="text-center"]
+image::/images/5-16-1995.jpeg[,role="text-center"]
 
-image::5-30-1995.jpeg[,role="text-center"]
+image::/images/5-30-1995.jpeg[,role="text-center"]
 
-image::6-13-1995.jpeg[,role="text-center"]
+image::/images/6-13-1995.jpeg[,role="text-center"]
 
-image::6-27-1995.jpeg[,role="text-center"]
+image::/images/6-27-1995.jpeg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]

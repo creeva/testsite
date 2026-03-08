@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1980 -- Bye Bye Birdie
+---
+
 = 1980 -- Bye Bye Birdie
-:page-layout: page
 
 === Bye Bye Birdie -- March 21-12, 28-29, 1980
 
-image::bybye1980.jpeg[,role="text-center"]
+image::/images/bybye1980.jpeg[,role="text-center"]
 
 “Bye Bye Birdie” is a popular American musical comedy that tells the story of a rock ‘n’ roll superstar named Conrad Birdie. The plot centers around Birdie, who is drafted into the army, leaving his devoted fan base devastated. To boost his popularity and provide a farewell event, his manager concocts a plan for Birdie to give “one last kiss” to a randomly selected fan before he leaves for the military. The lucky fan chosen for this publicity stunt is a teenage girl named Kim MacAfee.
 
@@ -13,65 +17,65 @@ The musical explores the chaos and excitement that ensue in the small town of Sw
 
 Image Gallery:
 
-* 1980 Vermilion High School -- Bye Bye Birdie
+* link:https://photos.app.goo.gl/diAU7JVDgUDFdxVRA[1980 Vermilion High School -- Bye Bye Birdie]
 
-image::1980musical1.jpeg[,role="text-center"]
+image::/images/1980musical1.jpeg[,role="text-center"]
 
-image::1980musical2.jpeg[,role="text-center"]
+image::/images/1980musical2.jpeg[,role="text-center"]
 
-image::1980bba1.jpeg[,role="text-center"]
+image::/images/1980bba1.jpeg[,role="text-center"]
 
-image::1980bba2.jpeg[,role="text-center"]
+image::/images/1980bba2.jpeg[,role="text-center"]
 
-image::1980bba3.jpeg[,role="text-center"]
+image::/images/1980bba3.jpeg[,role="text-center"]
 
-image::1980bba4.jpeg[,role="text-center"]
+image::/images/1980bba4.jpeg[,role="text-center"]
 
-image::1980bba5.jpeg[,role="text-center"]
+image::/images/1980bba5.jpeg[,role="text-center"]
 
-image::1980bba6.jpeg[,role="text-center"]
+image::/images/1980bba6.jpeg[,role="text-center"]
 
-image::1980bba7.jpeg[,role="text-center"]
+image::/images/1980bba7.jpeg[,role="text-center"]
 
-image::1980bba8.jpeg[,role="text-center"]
+image::/images/1980bba8.jpeg[,role="text-center"]
 
-image::1980bba9.jpeg[,role="text-center"]
+image::/images/1980bba9.jpeg[,role="text-center"]
 
-image::1980bba10.jpeg[,role="text-center"]
+image::/images/1980bba10.jpeg[,role="text-center"]
 
-image::1980bba11.jpeg[,role="text-center"]
+image::/images/1980bba11.jpeg[,role="text-center"]
 
-image::1980bba12.jpeg[,role="text-center"]
+image::/images/1980bba12.jpeg[,role="text-center"]
 
-image::1980bba13.jpeg[,role="text-center"]
+image::/images/1980bba13.jpeg[,role="text-center"]
 
-image::1980bba14.jpeg[,role="text-center"]
+image::/images/1980bba14.jpeg[,role="text-center"]
 
-image::1980bba15.jpeg[,role="text-center"]
+image::/images/1980bba15.jpeg[,role="text-center"]
 
-image::1980bba16.jpeg[,role="text-center"]
+image::/images/1980bba16.jpeg[,role="text-center"]
 
-image::1980bb1.jpeg[,role="text-center"]
+image::/images/1980bb1.jpeg[,role="text-center"]
 
-image::1980bb2.jpeg[,role="text-center"]
+image::/images/1980bb2.jpeg[,role="text-center"]
 
-image::1980bb3.jpeg[,role="text-center"]
+image::/images/1980bb3.jpeg[,role="text-center"]
 
-image::1980bb4.jpeg[,role="text-center"]
+image::/images/1980bb4.jpeg[,role="text-center"]
 
-image::1980bb5.jpeg[,role="text-center"]
+image::/images/1980bb5.jpeg[,role="text-center"]
 
-image::1980bb6.jpeg[,role="text-center"]
+image::/images/1980bb6.jpeg[,role="text-center"]
 
-image::1980bb7.jpeg[,role="text-center"]
+image::/images/1980bb7.jpeg[,role="text-center"]
 
-image::1980bb8.jpeg[,role="text-center"]
+image::/images/1980bb8.jpeg[,role="text-center"]
 
-image::1980bb9.jpeg[,role="text-center"]
+image::/images/1980bb9.jpeg[,role="text-center"]
 
-image::1980bb10.jpeg[,role="text-center"]
+image::/images/1980bb10.jpeg[,role="text-center"]
 
-image::1980bb11.jpeg[,role="text-center"]
+image::/images/1980bb11.jpeg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-musical-theater/[Vermilion Musical Theater]

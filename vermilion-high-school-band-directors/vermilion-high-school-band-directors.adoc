@@ -1,24 +1,28 @@
+---
+layout: default
+title: Vermilion High School Band Directors
+---
+
 = Vermilion High School Band Directors
-:page-layout: page
 
 === Vermilion High School Band Directors
 
-image::ackley2.jpeg[,role="text-center"]
+image::/images/ackley2.jpeg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/eugene-ackley/[Eugene Ackley 1910-?]
 
-image::1925orchestra.jpg[,role="text-center"]
+image::/images/1925orchestra.jpg[,role="text-center"]
 
 [.text-center]
 Flossie Mae Andrews Lees 1924-1927
 
-image::1929orch.jpg[,role="text-center"]
+image::/images/1929orch.jpg[,role="text-center"]
 
 [.text-center]
 M. E. Hutton 1927-1929
 
-image::1929classorch.jpg[,role="text-center"]
+image::/images/1929classorch.jpg[,role="text-center"]
 
 [.text-center]
 Clark Carmean 1928-1929

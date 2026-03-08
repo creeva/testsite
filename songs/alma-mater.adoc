@@ -1,5 +1,9 @@
+---
+layout: default
+title: Alma Mater
+---
+
 = Alma Mater
-:page-layout: page
 
 === Alma Mater
 

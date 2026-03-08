@@ -1,21 +1,25 @@
+---
+layout: default
+title: 2017-2018 Vermilion Sailor Marching Band
+---
+
 = 2017-2018 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 2017-2018 Vermilion Sailor Marching Band
 
 *Image Galleries:*
 
-* 2017-2018 Vermilion Sailor Marching Band
-* 2018 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/wDR2oSPvrYDnWDsA8[2017-2018 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/mwh5q1aENTXSpv2g7[2018 Vermilion High School Yearbook]
 
 *Video Playlists:*
 
-* 2017-2018 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=S4HsNUniHpA&list=PLqposBlPPQd9P1neRZ4WdfZfZzmcIEkWI&pp=gAQBiAQB[2017-2018 Vermilion Sailor Marching Band]
 
 .2017-2018 Vermilion Sailor Marching Band - 09-07-17 - Orrville Festival
 video::0A_S62QNxII[youtube, width=640, height=360, align=center]
 
-image::34036308_1825784457459850_3663562646281519104_n.jpg[,role="text-center"]
+image::/images/34036308_1825784457459850_3663562646281519104_n.jpg[,role="text-center"]
 
 *Vermilion Photojournal -- 8/30/17 -- Vermilion marching band program offers students more opportunities (original link here)*  + By: Melanie Williamson
 

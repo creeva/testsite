@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1972 -- Guys and Dolls
+---
+
 = 1972 -- Guys and Dolls
-:page-layout: page
 
 === Guys and Dolls
 
@@ -16,7 +20,7 @@ Throughout the musical, memorable songs like “Luck Be a Lady,” “Sit Down, 
 
 The story culminates in a series of comedic and dramatic twists, with both couples facing decisions about their futures. The characters ultimately find love and resolution in a vibrant and entertaining portrayal of the vibrant world of 1950s New York City. “Guys and Dolls” is celebrated for its witty dialogue, catchy songs, and engaging characters, making it a classic in the world of musical theater.
 
-image::1972musical.jpeg[,role="text-center"]
+image::/images/1972musical.jpeg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-musical-theater/[Vermilion Musical Theater]

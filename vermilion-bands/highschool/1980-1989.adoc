@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1980-1989 Vermilion Sailor Marching Bands
+---
+
 = 1980-1989 Vermilion Sailor Marching Bands
-:page-layout: page
 
 === 1980-1989 Vermilion Sailor Marching Bands
 
@@ -18,7 +22,7 @@ link:/vermilion-bands/highschool/1980-1989/class1983/[1982-1983 Vermilion Sailor
 [.text-center]
 link:/vermilion-bands/highschool/1980-1989/class1984/[1983-1984 Vermilion Sailor Marching Band]
 
-image::1985-Sailor-Marching-Band.jpg[,role="text-center"]
+image::/images/1985-Sailor-Marching-Band.jpg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-bands/highschool/1980-1989/class1985/[1984-1985 Vermilion Sailor Marching Band]

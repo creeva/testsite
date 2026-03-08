@@ -1,15 +1,19 @@
+---
+layout: default
+title: 2000 Vermilion Sailor Alumni Band
+---
+
 = 2000 Vermilion Sailor Alumni Band
-:page-layout: page
 
 === 2000 Vermilion Sailor Alumni Band
 
-image::alumnigeneric.jpeg[,role="text-center"]
+image::/images/alumnigeneric.jpeg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 *Video Playlist:*
 
-* 2000 Vermilion Sailor Alumni Band
+* link:https://www.youtube.com/watch?v=-zqwpPn2IkQ&list=PLqposBlPPQd8BvWEDO0vPtIRZOUZvGBP3&pp=gAQBiAQB[2000 Vermilion Sailor Alumni Band]
 
 .2000 Vermilion Sailor Alumni Band - Full Show
 video::-zqwpPn2IkQ[youtube, width=640, height=360, align=center]

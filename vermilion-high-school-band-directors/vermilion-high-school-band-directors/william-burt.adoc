@@ -1,5 +1,9 @@
+---
+layout: default
+title: William Burt
+---
+
 = William Burt
-:page-layout: page
 
 === William Burt
 
@@ -19,7 +23,7 @@ The story goes that the during a gathering with former students at Mr. Burt’s 
 
 Mr. Burt, unfortunately, passed away in 2010. He will always be remembered for his contributions.
 
-image::1979-retire.jpg[,role="text-center"]
+image::/images/1979-retire.jpg[,role="text-center"]
 
 *After 24 Years Band Director Willie B. Retires*
 

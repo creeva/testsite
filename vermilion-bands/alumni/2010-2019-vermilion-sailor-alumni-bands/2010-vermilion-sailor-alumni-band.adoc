@@ -1,19 +1,23 @@
+---
+layout: default
+title: 2010 Vermilion Sailor Alumni Band
+---
+
 = 2010 Vermilion Sailor Alumni Band
-:page-layout: page
 
 === 2010 Vermilion Sailor Alumni Band
 
-image::40-2010-Vermilion-Sailor-Alumni-Band.jpg-.jpg[,role="text-center"]
+image::/images/40-2010-Vermilion-Sailor-Alumni-Band.jpg-.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 *Image Galleries:*
 
-* 2010 Vermilion Sailor Alumni Band
+* link:https://photos.app.goo.gl/7RkKPN62u28VZbWw6[2010 Vermilion Sailor Alumni Band]
 
 *Video Playlists:*
 
-* 2010 Vermilion Sailor Alumni Band
+* link:https://www.youtube.com/watch?v=ibfkccajuFs&list=PLqposBlPPQd91d7W88zcub9NXMF5LrqyJ&pp=gAQBiAQB[2010 Vermilion Sailor Alumni Band]
 
 .2010 Vermilion Sailor Alumni Band - Festival Show
 video::ibfkccajuFs[youtube, width=640, height=360, align=center]

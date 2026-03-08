@@ -1,5 +1,9 @@
+---
+layout: default
+title: Back To The Future
+---
+
 = Back To The Future
-:page-layout: page
 
 === Back To The Future
 
@@ -12,4 +16,4 @@ video::XKJtuv94k2s[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::1993-Vermilion-Sailor-Marching-Band.jpg[,role="text-center"]
+image::/images/1993-Vermilion-Sailor-Marching-Band.jpg[,role="text-center"]

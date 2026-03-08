@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1939-1940 Vermilion Sailor Marching Band
+---
+
 = 1939-1940 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1939-1940 Vermilion Sailor Marching Band
 
-image::1940band.jpg[,role="text-center"]
+image::/images/1940band.jpg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
@@ -11,10 +15,10 @@ Members: N. Peasley, E. Kropf, J. Ball, E. Schwensen, P. Trinter, I. Fandrich, C
 
 *Image Gallery:*
 
-* 1939-1940 Vermilion Sailor Marching Band
-* 1940 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/9KVjdKvkHpxqVJX49[1939-1940 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/NwxuMTyaeohaST9UA[1940 Vermilion High School Yearbook]
 
-image::1940bandwrite.jpg[,role="text-center"]
+image::/images/1940bandwrite.jpg[,role="text-center"]
 
 *Concerts Given by Band*
 
@@ -24,6 +28,6 @@ When basketball came they were still right there on the job Everybody appreciate
 
 There are a few members of our high school band chosen to play with the Erie County band, which practices every Tuesday night in Huron. They played at the Erie County Tournament with their smart white and blue uniforms. This group ended the year by playing at the Erie County Track Meet which is held in Vermilion every year.
 
-image::The_Sandusky_Register_Wed__Jan_3__1940_.jpg[,role="text-center"]
+image::/images/The_Sandusky_Register_Wed__Jan_3__1940_.jpg[,role="text-center"]
 
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1940-1949-vermilion-sailor-marching-bands/[1940-1949 Vermilion Sailor Marching Bands]

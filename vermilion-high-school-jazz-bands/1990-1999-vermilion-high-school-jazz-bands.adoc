@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1990-1999 Vermilion High School Jazz Bands
+---
+
 = 1990-1999 Vermilion High School Jazz Bands
-:page-layout: page
 
 === 1990-1999 Vermilion High School Jazz Bands
 
-image::1990jazz.png[,role="text-center"]
+image::/images/1990jazz.png[,role="text-center"]
 
 [.text-center]
 1990 Vermilion High School Jazz Band
@@ -14,18 +18,18 @@ Members: Jennifer Stein, Sean Newbill, Sandy Beach, Nate Ollis, Judy Lane, Rebec
 
 Image Gallery:
 
-* 1990 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/v1Xd7vco5GNMv9YM6[1990 Vermilion High School Yearbook]
 
 Video Gallery:
 
-* 1989-1990 Vermilion Sailor Jazz Band
+* link:https://www.youtube.com/watch?v=0f-SghWbfJg&list=PLqposBlPPQd-OuSnMfbZ1bJuMg4Z4rJLO&pp=gAQBiAQB[1989-1990 Vermilion Sailor Jazz Band]
 
 .YouTube video player
 video::0f-SghWbfJg[youtube, width=640, height=360, align=center]
 
-image::1990jazzwrite.png[,role="text-center"]
+image::/images/1990jazzwrite.png[,role="text-center"]
 
-image::1991jazz.png[,role="text-center"]
+image::/images/1991jazz.png[,role="text-center"]
 
 [.text-center]
 1991 Vermilion High School Jazz Band
@@ -36,9 +40,9 @@ Members: Listed in Image
 
 Image Gallery:
 
-* 1991 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/u8Mr3xVK58fm6zGA7[1991 Vermilion High School Yearbook]
 
-image::1992jazz.png[,role="text-center"]
+image::/images/1992jazz.png[,role="text-center"]
 
 [.text-center]
 1992 Vermilion High School Jazz Band
@@ -47,13 +51,13 @@ Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-
 
 Members:
 
-image::1992jazzmem.png[,role="text-center"]
+image::/images/1992jazzmem.png[,role="text-center"]
 
 Image Gallery:
 
-* 1992 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/jvm8my1ZbQJGbXrp8[1992 Vermilion High School Yearbook]
 
-image::1993jazz.png[,role="text-center"]
+image::/images/1993jazz.png[,role="text-center"]
 
 [.text-center]
 1993 Vermilion High School Jazz Band
@@ -62,13 +66,13 @@ Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-
 
 Members:
 
-image::1993jazzmem.png[,role="text-center"]
+image::/images/1993jazzmem.png[,role="text-center"]
 
 Image Gallery:
 
-* 1993 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/j5AS7UFw57rirQzw6[1993 Vermilion High School Yearbook]
 
-image::1994jazz.png[,role="text-center"]
+image::/images/1994jazz.png[,role="text-center"]
 
 [.text-center]
 1994 Vermilion High School Jazz Band
@@ -77,13 +81,13 @@ Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-
 
 Members:
 
-image::1994jazzmem.png[,role="text-center"]
+image::/images/1994jazzmem.png[,role="text-center"]
 
 Image Gallery:
 
-* 1994 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/fMkv3XWvtX1G3mPB8[1994 Vermilion High School Yearbook]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1995 Vermilion High School Jazz Band
@@ -94,9 +98,9 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1995 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/EtckdAC79qzTy7DT7[1995 Vermilion High School Yearbook]
 
-image::1996jazz.jpg[,role="text-center"]
+image::/images/1996jazz.jpg[,role="text-center"]
 
 [.text-center]
 1996 Vermilion High School Jazz Band
@@ -107,9 +111,9 @@ Members: Listed in Image
 
 Image Gallery:
 
-* 1996 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/zLt9mNpPqHpUjfUq8[1996 Vermilion High School Yearbook]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1997 Vermilion High School Jazz Band
@@ -120,9 +124,9 @@ Members: Unlisted
 
 Image Gallery:
 
-* 1997 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/J3fab528iGtJPbNe6[1997 Vermilion High School Yearbook]
 
-image::1998jazz.png[,role="text-center"]
+image::/images/1998jazz.png[,role="text-center"]
 
 [.text-center]
 1998 Vermilion High School Jazz Band
@@ -133,9 +137,9 @@ Members: Listed in Image
 
 Image Gallery:
 
-* 1998 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/T5UEufAzKMCMmLuY9[1998 Vermilion High School Yearbook]
 
-image::1999jazz.png[,role="text-center"]
+image::/images/1999jazz.png[,role="text-center"]
 
 [.text-center]
 1999 Vermilion High School Jazz Band
@@ -146,7 +150,7 @@ Members: Listed in Image
 
 Image Gallery:
 
-* 1999 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/SzjTPZrYqnazrNj16[1999 Vermilion High School Yearbook]
 
 [.text-center]
 link:/[Vermilion Bands] -- link:/vermilion-high-school-jazz-bands/[Vermilion High School Jazz Bands]

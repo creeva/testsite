@@ -1,5 +1,9 @@
+---
+layout: default
+title: Barbara Ann
+---
+
 = Barbara Ann
-:page-layout: page
 
 === Barbara Ann
 
@@ -27,4 +31,4 @@ video::1tEJzpaIsJ4[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::1986-Sailor-Marching-Band.jpg[,role="text-center"]
+image::/images/1986-Sailor-Marching-Band.jpg[,role="text-center"]

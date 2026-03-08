@@ -1,5 +1,9 @@
+---
+layout: default
+title: After The Love Is Gone
+---
+
 = After The Love Is Gone
-:page-layout: page
 
 === After the Love Is Gone
 
@@ -21,4 +25,4 @@ video::1QmzsIXsOO0[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::Vermilion-Marching-Band-2014-2015.jpg[,role="text-center"]
+image::/images/Vermilion-Marching-Band-2014-2015.jpg[,role="text-center"]

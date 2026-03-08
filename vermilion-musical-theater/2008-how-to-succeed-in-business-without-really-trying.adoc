@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2008 -- How to Succeed In Business Without Really Trying
+---
+
 = 2008 -- How to Succeed In Business Without Really Trying
-:page-layout: page

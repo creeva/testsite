@@ -1,5 +1,9 @@
+---
+layout: default
+title: 2003-2004 Vermilion Sailor Marching Band
+---
+
 = 2003-2004 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 2003-2004 Vermilion Sailor Marching Band
 
@@ -7,19 +11,19 @@ Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-
 
 *Image Galleries:*
 
-* 2003-2004 Vermilion Sailor Marching Band
-* 2004 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/9YNWqpM1aKPVWoen8[2003-2004 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/uSusqduZ99k7KdqDA[2004 Vermilion High School Yearbook]
 
 *Video Playlists:*
 
-* 2003-2004 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=Yz4h2LDubZQ&list=PLqposBlPPQd9lcpE3klARVU8o-DPAQsIt&pp=gAQBiAQB[2003-2004 Vermilion Sailor Marching Band]
 
 .2003-2004 Vermilion Sailor Marching Band - Highlight Video
 video::ByPybkLI00M[youtube, width=640, height=360, align=center]
 
-image::VLS-2004_pdf__page_30_of_95_2.jpg[,role="text-center"]
+image::/images/VLS-2004_pdf__page_30_of_95_2.jpg[,role="text-center"]
 
-image::VLS-2004_pdf__page_30_of_95_4.jpg[,role="text-center"]
+image::/images/VLS-2004_pdf__page_30_of_95_4.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]

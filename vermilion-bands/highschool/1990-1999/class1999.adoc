@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1998-1999 Vermilion Sailor Marching Band
+---
+
 = 1998-1999 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1998-1999 Vermilion Sailor Marching Band
 
-image::1998-1999-Sailor-Marching-Band_4005235214_o.jpeg[,role="text-center"]
+image::/images/1998-1999-Sailor-Marching-Band_4005235214_o.jpeg[,role="text-center"]
 
 Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
@@ -11,37 +15,37 @@ Head Majorette: Beth Kuhl
 
 Members:
 
-image::1999marmem.jpg[,role="text-center"]
+image::/images/1999marmem.jpg[,role="text-center"]
 
 *Image Galleries:*
 
-* 1998-1999 Vermilion Sailor Marching Band
-* 1999 Vermilion High School Yearbook
-* 1998-1999 Vermilion High School Pictures
-* 1999 Sailorway Middle School Yearbook
+* link:https://photos.app.goo.gl/AkGd1s9TebXdAvMt7[1998-1999 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/SzjTPZrYqnazrNj16[1999 Vermilion High School Yearbook]
+* link:https://photos.app.goo.gl/hWZMcicZGKJdHefk6[1998-1999 Vermilion High School Pictures]
+* link:https://photos.app.goo.gl/5DL7Z1sYHscwvguP6[1999 Sailorway Middle School Yearbook]
 
 *Video Playlists:*
 
-* 1998-1999 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=-IyTJQS01S4&list=PLqposBlPPQd9soozQK3WK60Z6vIEWBl6V&pp=gAQBiAQB[1998-1999 Vermilion Sailor Marching Band]
 
 .1988-1989 Vermilion Sailor Marching Band - Misc
 video::97RlG1ePDLA[youtube, width=640, height=360, align=center]
 
-image::1999sen.jpeg[,role="text-center"]
+image::/images/1999sen.jpeg[,role="text-center"]
 
-image::1999-baton.jpg[,role="text-center"]
+image::/images/1999-baton.jpg[,role="text-center"]
 
-image::1999flags.jpg[,role="text-center"]
+image::/images/1999flags.jpg[,role="text-center"]
 
-image::1999group2.jpeg[,role="text-center"]
+image::/images/1999group2.jpeg[,role="text-center"]
 
-image::1999group3.jpeg[,role="text-center"]
+image::/images/1999group3.jpeg[,role="text-center"]
 
-image::1999group4.jpeg[,role="text-center"]
+image::/images/1999group4.jpeg[,role="text-center"]
 
-image::1999group5.jpeg[,role="text-center"]
+image::/images/1999group5.jpeg[,role="text-center"]
 
-image::1999-writeup.jpg[,role="text-center"]
+image::/images/1999-writeup.jpg[,role="text-center"]
 
 *Marching to no end*
 
@@ -51,7 +55,7 @@ _In their sparkly new threads, the band attended all of the home and away games.
 
 _Their hard work and accomplishments were rewarded with a special tip and a performance at Disney World in the spring._
 
-image::1999-fm.jpg[,role="text-center"]
+image::/images/1999-fm.jpg[,role="text-center"]
 
 *Majorettes and Flags*
 

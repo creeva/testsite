@@ -1,18 +1,22 @@
+---
+layout: default
+title: 2015-2016 Vermilion Sailor Marching Band
+---
+
 = 2015-2016 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 2015-2016 Vermilion Sailor Marching Band
 
-image::Vermilion-Marching-Band-2015-2016.jpg[,role="text-center"]
+image::/images/Vermilion-Marching-Band-2015-2016.jpg[,role="text-center"]
 
 *Image Galleries:*
 
-* 2015-2016 Vermilion Sailor Marching Band
-* 2016 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/zZM5qrhwBnkEKTXq7[2015-2016 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/KF74ateqpC4FgZq76[2016 Vermilion High School Yearbook]
 
 *Video Playlists:*
 
-* 2015-2016 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=otN0km2N2lg&list=PLqposBlPPQd-uZLiV9IwkCv4h7je-h0FS&pp=gAQBiAQB[2015-2016 Vermilion Sailor Marching Band]
 
 .2015-2016 Vermilion Sailor Marching Band - Halftime V Valleyforge 9-25-15
 video::otN0km2N2lg[youtube, width=640, height=360, align=center]

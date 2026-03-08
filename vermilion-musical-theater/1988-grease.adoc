@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1988 -- Grease
+---
+
 = 1988 -- Grease
-:page-layout: page
 
 === Grease -- March 18-19, 25-26, 1988
 
-image::grease1988-1.jpeg[,role="text-center"]
+image::/images/grease1988-1.jpeg[,role="text-center"]
 
 “Grease” is a beloved American musical that originated as a 1971 stage production and later became a highly popular 1978 film adaptation. It was created by Jim Jacobs and Warren Casey, with music and lyrics by Jim Jacobs. Set in the 1950s, the story revolves around a group of high school students at Rydell High School and explores themes of teenage rebellion, identity, and the enduring power of young love. Here’s a summary of the plot:
 
@@ -27,39 +31,39 @@ The musical concludes with the students coming to terms with their identities an
 
 Image Gallery:
 
-* 1988 Vermilion High School -- Grease
+* link:https://photos.app.goo.gl/KKAdWQpLCeSeFrai9[1988 Vermilion High School -- Grease]
 
-image::1988musical.jpeg[,role="text-center"]
+image::/images/1988musical.jpeg[,role="text-center"]
 
-image::1988musical2.jpeg[,role="text-center"]
+image::/images/1988musical2.jpeg[,role="text-center"]
 
-image::1988g1.jpeg[,role="text-center"]
+image::/images/1988g1.jpeg[,role="text-center"]
 
-image::1988g2.jpeg[,role="text-center"]
+image::/images/1988g2.jpeg[,role="text-center"]
 
-image::1988g3.jpeg[,role="text-center"]
+image::/images/1988g3.jpeg[,role="text-center"]
 
-image::1988g4.jpeg[,role="text-center"]
+image::/images/1988g4.jpeg[,role="text-center"]
 
-image::1988g5.jpeg[,role="text-center"]
+image::/images/1988g5.jpeg[,role="text-center"]
 
-image::1988g6.jpeg[,role="text-center"]
+image::/images/1988g6.jpeg[,role="text-center"]
 
-image::1988g7.jpeg[,role="text-center"]
+image::/images/1988g7.jpeg[,role="text-center"]
 
-image::1988g8.jpeg[,role="text-center"]
+image::/images/1988g8.jpeg[,role="text-center"]
 
-image::1988g9.jpeg[,role="text-center"]
+image::/images/1988g9.jpeg[,role="text-center"]
 
-image::1988g10.jpeg[,role="text-center"]
+image::/images/1988g10.jpeg[,role="text-center"]
 
-image::1988g11.jpeg[,role="text-center"]
+image::/images/1988g11.jpeg[,role="text-center"]
 
-image::1988g12.jpeg[,role="text-center"]
+image::/images/1988g12.jpeg[,role="text-center"]
 
-image::1988g13.jpeg[,role="text-center"]
+image::/images/1988g13.jpeg[,role="text-center"]
 
-image::1988g14.jpeg[,role="text-center"]
+image::/images/1988g14.jpeg[,role="text-center"]
 
 [.text-center]
 link:/vermilion-musical-theater/[Vermilion Musical Theater]

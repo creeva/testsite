@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2009 -- Thoroughly Modern Millie
+---
+
 = 2009 -- Thoroughly Modern Millie
-:page-layout: page

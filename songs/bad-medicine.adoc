@@ -1,5 +1,9 @@
+---
+layout: default
+title: Bad Medicine
+---
+
 = Bad Medicine
-:page-layout: page
 
 === Bad Medicine
 
@@ -18,4 +22,4 @@ video::xrl-bjxVqBA[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]

@@ -1,17 +1,21 @@
+---
+layout: default
+title: 2018-2019 Vermilion Sailor Marching Band
+---
+
 = 2018-2019 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 2018-2019 Vermilion Sailor Marching Band
 
-image::Sea-of-Faces.jpg[,role="text-center"]
+image::/images/Sea-of-Faces.jpg[,role="text-center"]
 
 *Image Galleries:*
 
-* 2018-2019 Vermilion Sailor Marching Band
+* link:https://photos.app.goo.gl/XVLk7UqfbkZ5SGSi7[2018-2019 Vermilion Sailor Marching Band]
 
 *Video Playlists:*
 
-* 2018-2019 Vermilion Sailor Marching Band
+* link:https://www.youtube.com/watch?v=5sqEap95K5A&list=PLqposBlPPQd-yDd71a7Ik1JV1kJk9F-ow&pp=gAQBiAQB[2018-2019 Vermilion Sailor Marching Band]
 
 .2018-2019 Vermilion Sailor Marching Band - 9-7-2018 Full Show
 video::5sqEap95K5A[youtube, width=640, height=360, align=center]

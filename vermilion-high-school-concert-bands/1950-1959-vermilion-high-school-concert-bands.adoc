@@ -1,9 +1,13 @@
+---
+layout: default
+title: 1950-1959 Vermilion High School Concert Bands
+---
+
 = 1950-1959 Vermilion High School Concert Bands
-:page-layout: page
 
 === 1950-1959 Vermilion High School Concert Bands
 
-image::1951band.jpg[,role="text-center"]
+image::/images/1951band.jpg[,role="text-center"]
 
 [.text-center]
 1951 Vermilion High School Concert Band
@@ -14,9 +18,9 @@ Members: Hollosy, Carey, Widdowson, Jackson, Neuber, Teravsky, Jantz, Thayer, Wi
 
 *Image Gallery:*
 
-* 1951 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/8buhACa5pxZ2Gqya7[1951 Vermilion High School Yearbook]
 
-image::1951bandwrite.jpg[,role="text-center"]
+image::/images/1951bandwrite.jpg[,role="text-center"]
 
 [.text-center]
 1952 Vermilion High School Concert Band
@@ -27,11 +31,11 @@ Members: K. Ford, D. Rathbun, J. Szekely, L. Widdowson, N. Reifert, C. Carey, S.
 
 *Image Gallery:*
 
-* 1952 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/Qiq9UUgr2tY18QJr7[1952 Vermilion High School Yearbook]
 
-image::1952bandwrite.jpg[,role="text-center"]
+image::/images/1952bandwrite.jpg[,role="text-center"]
 
-image::1953band.jpg[,role="text-center"]
+image::/images/1953band.jpg[,role="text-center"]
 
 [.text-center]
 1953 Vermilion High School Concert Band
@@ -42,11 +46,11 @@ Members: Unlisted
 
 *Image Gallery:*
 
-* 1953 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/x6nAZrFyeZUAYo3Y6[1953 Vermilion High School Yearbook]
 
-image::1953bandwrite.jpg[,role="text-center"]
+image::/images/1953bandwrite.jpg[,role="text-center"]
 
-image::1954band.jpg[,role="text-center"]
+image::/images/1954band.jpg[,role="text-center"]
 
 [.text-center]
 1954 Vermilion High School Concert Band
@@ -57,13 +61,13 @@ Members: Leslie Roberts, Ward, Peterka, Rapprick, L. Widdowson, Gregg, Kyle, M. 
 
 *Image Gallery:*
 
-* 1954 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/LyL2Gat6NgxPvP9N7[1954 Vermilion High School Yearbook]
 
-image::1954bandwrite.jpg[,role="text-center"]
+image::/images/1954bandwrite.jpg[,role="text-center"]
 
-image::1954bandhoff.jpg[,role="text-center"]
+image::/images/1954bandhoff.jpg[,role="text-center"]
 
-image::1955-Band.jpg[,role="text-center"]
+image::/images/1955-Band.jpg[,role="text-center"]
 
 [.text-center]
 1955 Vermilion High School Concert Band
@@ -74,9 +78,9 @@ Members: L. Roberts, K. Peterka, D. Kubishke, M. Hollosy, P. Reiber, J. Finnegan
 
 *Image Gallery:*
 
-* 1955 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/EoxKKUV8P3y9mpZHA[1955 Vermilion High School Yearbook]
 
-image::1956conband.jpg[,role="text-center"]
+image::/images/1956conband.jpg[,role="text-center"]
 
 [.text-center]
 1956 Vermilion Concert Band
@@ -89,11 +93,11 @@ L. Roberts, Peterka, Kubishke, M, Hollogy, Deault, Stark, C. Guthrie, Callahan, 
 
 *Image Gallery* :
 
-* 1956 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/ePvpdG5L77B7XbL67[1956 Vermilion High School Yearbook]
 
-image::1956conbandwrite.jpg[,role="text-center"]
+image::/images/1956conbandwrite.jpg[,role="text-center"]
 
-image::1957con.jpg[,role="text-center"]
+image::/images/1957con.jpg[,role="text-center"]
 
 [.text-center]
 1957 Vermilion High School Concert Band
@@ -104,11 +108,11 @@ Members: Peterka, Kubishke, Reifert, M. Hollosy, Reiber, Peck, J. Finnegan, Warn
 
 *Image Gallery* :
 
-* 1957 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/2nzozic9CPqPkwAY7[1957 Vermilion High School Yearbook]
 
-image::1957conwrite.jpg[,role="text-center"]
+image::/images/1957conwrite.jpg[,role="text-center"]
 
-image::1958conband-1.jpg[,role="text-center"]
+image::/images/1958conband-1.jpg[,role="text-center"]
 
 [.text-center]
 1958 Vermilion High School Concert Band
@@ -119,11 +123,11 @@ Members: Kay Peterka, Darlene Kubishke, Janet Reifert, Polly Warner, Jean Finneg
 
 *Image Gallery* :
 
-* 1958 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/QPz1fJJHziB4D7Ve9[1958 Vermilion High School Yearbook]
 
-image::1958conbandwrite.jpg[,role="text-center"]
+image::/images/1958conbandwrite.jpg[,role="text-center"]
 
-image::1959con.jpg[,role="text-center"]
+image::/images/1959con.jpg[,role="text-center"]
 
 [.text-center]
 1959 Vermilion High School Concert Band
@@ -134,9 +138,9 @@ Members: Unlisted
 
 *Image Gallery* :
 
-* 1959 Vermilion High School Yearbook
+* link:https://photos.app.goo.gl/BfEjSDFKu5TG8zsz9[1959 Vermilion High School Yearbook]
 
-image::1959conwrite.jpg[,role="text-center"]
+image::/images/1959conwrite.jpg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands]

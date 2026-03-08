@@ -1,9 +1,13 @@
+---
+layout: default
+title: Joseph Price
+---
+
 = Joseph Price
-:page-layout: page
 
 === Joseph Price
 
-image::4266086181_0fc5479406.jpg[,role="text-center"]
+image::/images/4266086181_0fc5479406.jpg[,role="text-center"]
 
 Joseph N. Price began his career teaching music in the Lower Merion Schools outside of Philadelphia for three years before moving to Ohio to finish his career with 28 years in the Vermilion Local Schools. In Vermilion he taught instrumental music at Sailorway Middle School for 15 years and ended with 13 years as the Vermilion High School band director. Joe is a product of Eastern Pennsylvania graduating from Souderton High School and continuing his education at Indiana University of Pennsylvania where he earned his Bachelor of Science degree in Music Education. He has done extensive graduate work at The Philadelphia College for the Performing Arts, West Chester University, Cleveland State University, and Marygrove College.
 

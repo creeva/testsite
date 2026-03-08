@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2023 -- Beauty and the Beast
+---
+
 = 2023 -- Beauty and the Beast
-:page-layout: page

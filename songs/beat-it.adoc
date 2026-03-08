@@ -1,5 +1,9 @@
+---
+layout: default
+title: Beat It
+---
+
 = Beat It
-:page-layout: page
 
 === Beat It
 
@@ -18,4 +22,4 @@ video::y0Gd1XMX03s[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::2023-2024-group-picture.jpeg[,role="text-center"]
+image::/images/2023-2024-group-picture.jpeg[,role="text-center"]

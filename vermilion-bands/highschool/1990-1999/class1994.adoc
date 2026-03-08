@@ -1,5 +1,9 @@
+---
+layout: default
+title: 1993-1994 Vermilion Sailor Marching Band
+---
+
 = 1993-1994 Vermilion Sailor Marching Band
-:page-layout: page
 
 === 1993-1994 Vermilion Sailor Marching Band
 
@@ -9,25 +13,25 @@ Head Majorette: Sherrie Lewis
 
 Members:
 
-image::1994marmem.jpeg[,role="text-center"]
+image::/images/1994marmem.jpeg[,role="text-center"]
 
 Image Gallery:
 
-* 1993-1994 Vermilion Sailor Marching Band
-* 1994 Vermilion High School Yearbook
-* 1994 Vermilion High School -- Anything Goes
-* 1994 South Street Elementary School Yearbook
+* link:https://photos.google.com/share/AF1QipN5FAssnVqO149Mq1iFgqP9OfQTIeRo-Ib6-0f9eBVmiFdt9T4nUFP__3qk4pvGpw?key=VjdsTkhUUzAxZ2VzQmJIM29rTUgzRWhhNldkRUpn[1993-1994 Vermilion Sailor Marching Band]
+* link:https://photos.app.goo.gl/fMkv3XWvtX1G3mPB8[1994 Vermilion High School Yearbook]
+* link:https://photos.app.goo.gl/JeQwSu3bSzWE8P8DA[1994 Vermilion High School -- Anything Goes]
+* link:https://photos.app.goo.gl/HvuCfXRoFx5gbF24A[1994 South Street Elementary School Yearbook]
 
 Video Playlist:
 
-* 1993-1994 Vermilion Sailor Marching Band
+* link:https://youtube.com/playlist?list=PLqposBlPPQd-LvupuipWISfHLMkNm1I_T[1993-1994 Vermilion Sailor Marching Band]
 
 .1993-1994 Vermilion Sailor Marching Band - Highlight Video
 video::qS7DkjoY80Y[youtube, width=640, height=360, align=center]
 
-image::1993-1994vhsmb03.jpg[,role="text-center"]
+image::/images/1993-1994vhsmb03.jpg[,role="text-center"]
 
-image::1993-1994vhsmb060.jpg[,role="text-center"]
+image::/images/1993-1994vhsmb060.jpg[,role="text-center"]
 
 *Marching Band -- A Super Sailor's Swan Song by Brent Gueth*
 
@@ -37,31 +41,31 @@ _First as the assistant director, and as director, Mr. Henry had many "firsts" t
 
 _The strength of the program perhaps came from the loyalty band students felt towards Mr. Henry. Many participated all four years, and many families had two or three siblings involved in the program. This year's fine schedule of football game, festival, and parade appearances were a tribute to his leadership._
 
-image::7-13-1993.jpeg[,role="text-center"]
+image::/images/7-13-1993.jpeg[,role="text-center"]
 
-image::8-10-1993.jpeg[,role="text-center"]
+image::/images/8-10-1993.jpeg[,role="text-center"]
 
-image::8-17-1993-1.jpeg[,role="text-center"]
+image::/images/8-17-1993-1.jpeg[,role="text-center"]
 
-image::8-17-1993-2.jpeg[,role="text-center"]
+image::/images/8-17-1993-2.jpeg[,role="text-center"]
 
-image::8-17-1993-3.jpeg[,role="text-center"]
+image::/images/8-17-1993-3.jpeg[,role="text-center"]
 
-image::9-21-1993.jpeg[,role="text-center"]
+image::/images/9-21-1993.jpeg[,role="text-center"]
 
-image::10-15-1993.jpeg[,role="text-center"]
+image::/images/10-15-1993.jpeg[,role="text-center"]
 
-image::11-2-1993.jpeg[,role="text-center"]
+image::/images/11-2-1993.jpeg[,role="text-center"]
 
-image::11-23-1993.jpeg[,role="text-center"]
+image::/images/11-23-1993.jpeg[,role="text-center"]
 
-image::2-15-1994.jpeg[,role="text-center"]
+image::/images/2-15-1994.jpeg[,role="text-center"]
 
-image::3-22-1994.jpeg[,role="text-center"]
+image::/images/3-22-1994.jpeg[,role="text-center"]
 
-image::5-17-1994.jpeg[,role="text-center"]
+image::/images/5-17-1994.jpeg[,role="text-center"]
 
-image::6-28-1994.jpeg[,role="text-center"]
+image::/images/6-28-1994.jpeg[,role="text-center"]
 
 [.text-center]
 link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]

@@ -1,2 +1,6 @@
+---
+layout: default
+title: 2005 -- Carousel
+---
+
 = 2005 -- Carousel
-:page-layout: page

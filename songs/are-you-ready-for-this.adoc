@@ -1,5 +1,9 @@
+---
+layout: default
+title: Are You Ready For This
+---
+
 = Are You Ready For This
-:page-layout: page
 
 === Are You Ready For This
 
@@ -12,4 +16,4 @@ video::_MtlnIyaOQI[youtube, width=640, height=360, align=center]
 [.text-center]
 link:/songs/[Vermilion Sailor Band Songs]
 
-image::2002-2003-Vermilion-Sailor-Marching-Band_4187767729_o.jpg[,role="text-center"]
+image::/images/2002-2003-Vermilion-Sailor-Marching-Band_4187767729_o.jpg[,role="text-center"]
