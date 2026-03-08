@@ -5,12 +5,12 @@ title: Vermilion Band Directors
 
 == Vermilion Band Directors
 
-image::/testsite/images/1955-James-Hoffman.jpg[,role="text-center"]
+image::/testsite/images/1955-James-Hoffman.jpg[James Hoffman, 600,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/vermilion-high-school-band-directors/[Vermilion High School Band Directors]
 
-image::/testsite/images/1.jpg[,role="text-center"]
+image::/testsite/images/1.jpg[Joseph Price, 600,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/directors/[Vermilion Alumni Band Directors]
