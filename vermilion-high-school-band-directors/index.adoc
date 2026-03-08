@@ -3,14 +3,12 @@ layout: default
 title: Vermilion Band Directors
 ---
 
-= Vermilion Band Directors
-
-=== Vermilion Band Directors
+== Vermilion Band Directors
 
 image::/testsite/images/1955-James-Hoffman.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/[Vermilion High School Band Directors]
+link:/testsite/vermilion-high-school-band-directors/vermilion-high-school-band-directors/[Vermilion High School Band Directors]
 
 image::/testsite/images/1.jpg[,role="text-center"]
 
