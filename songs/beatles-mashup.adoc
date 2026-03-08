@@ -1,0 +1,15 @@
+= Beatles Mashup
+:page-layout: page
+
+=== Beatles Mashup
+
+.2015-2016 Vermilion Sailor Marching Band - Beatles Mashup - v Willard
+video::YaOx8lFJbfc[youtube, width=640, height=360, align=center]
+
+.2016-2017 Vermilion Sailor Marching Band - Beatles Mashup - Firelands Parade of Bands
+video::czMf5AuxmOM[youtube, width=640, height=360, align=center]
+
+[.text-center]
+link:/songs/[Vermilion Sailor Band Songs]
+
+image::Vermilion-Marching-Band-2015-2016.jpg[,role="text-center"]

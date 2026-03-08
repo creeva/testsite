@@ -1,0 +1,81 @@
+= 1975 -- Man of La Mancha
+:page-layout: page
+
+=== Man of La Mancha -- April 11-12 and 18-19, 1975
+
+image::manoflamancha.jpeg[,role="text-center"]
+
+“Man of La Mancha” is a classic American musical with a book by Dale Wasserman, music by Mitch Leigh, and lyrics by Joe Darion. The musical is a play within a play, where the author Miguel de Cervantes, who is imprisoned during the Spanish Inquisition, presents a story to his fellow inmates. Here’s a summary of the plot:
+
+*Act 1: The Play Within a Play*
+
+The musical begins in a prison cell in Seville, Spain, during the late 16th century. The inmates, led by the cynical and cruel Governor and the equally harsh Dr. Carrasco, put Miguel de Cervantes and his loyal manservant, Sancho Panza, on trial for heresy.
+
+To defend himself, Cervantes presents a story, acting out the role of Alonso Quijana, a middle-aged, idealistic man who has become disillusioned with the harsh reality of the world. Quijana, inspired by his love of chivalric romances, decides to reinvent himself as the noble Don Quixote. He sets out on a quest to revive chivalry, championing the idea of “The Impossible Dream” — the belief that individuals should pursue their ideals and dreams, no matter how unattainable they may seem.
+
+As Don Quixote, he encounters Aldonza, a scullery maid in an inn who he transforms into his idealized lady, Dulcinea. Quixote’s noble and kind-hearted nature touches those around him, including the inn’s muleteers and a young man named Antonia. However, his delusions also cause concern, especially among those who care about his well-being.
+
+*Act 2: The Triumph and Tragedy*
+
+Quixote’s journey continues, and he faces various challenges and adventures. He battles windmills, which he believes to be giants, and comes into conflict with the Church and the Inquisition.
+
+Back in the prison cell, Cervantes and his fellow inmates increasingly become part of the narrative, portraying various characters in Quixote’s world. The author’s own life and experiences begin to mirror those of his creation, and the boundaries between fiction and reality blur.
+
+As Quixote’s idealism clashes with the harsh realities of the world, his story takes a tragic turn. Aldonza, whom he has transformed into the noble Dulcinea, is unable to see herself as he does and suffers abuse at the hands of others. Quixote’s noble spirit is ultimately crushed, and he is defeated by the forces of cynicism and brutality.
+
+*Conclusion: The Legacy of the Dream*
+
+The musical concludes with Quixote on his deathbed, acknowledging the impossibility of his dream but affirming his belief in its worth. The musical ends on a hopeful note, with the prisoners coming to terms with the power of Quixote’s idealism and affirming their own dreams.
+
+“Man of La Mancha” is celebrated for its powerful and inspirational songs, including “The Impossible Dream,” and its exploration of themes such as the power of imagination, the human spirit’s capacity for nobility, and the conflict between idealism and cynicism.
+
+Image Gallery:
+
+* 1975 Vermilion High School -- Man of La Mancha
+
+image::1975musical.jpeg[,role="text-center"]
+
+image::1975mlma1.jpg[,role="text-center"]
+
+image::1975mlma2.jpg[,role="text-center"]
+
+image::1975mlma3.jpg[,role="text-center"]
+
+image::1975mlma4.jpg[,role="text-center"]
+
+image::1975mlma5.jpg[,role="text-center"]
+
+image::1975mlma6.jpg[,role="text-center"]
+
+image::1975mlma7.jpg[,role="text-center"]
+
+image::1975mlma8.jpg[,role="text-center"]
+
+image::1975mlma9.jpeg[,role="text-center"]
+
+image::1975mlma10.jpeg[,role="text-center"]
+
+image::1975mlma11.jpeg[,role="text-center"]
+
+image::1975mlma12.jpeg[,role="text-center"]
+
+image::1975mlma13.jpeg[,role="text-center"]
+
+image::1975mlma14.jpeg[,role="text-center"]
+
+image::1975mlm1.jpeg[,role="text-center"]
+
+image::1975mlm2.jpeg[,role="text-center"]
+
+image::1975mlm3.jpeg[,role="text-center"]
+
+image::1975mlm4.jpeg[,role="text-center"]
+
+image::1975mlm5.jpeg[,role="text-center"]
+
+image::1975mlm6.jpeg[,role="text-center"]
+
+image::1975mlm7.jpeg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-musical-theater/[Vermilion Musical Theater]

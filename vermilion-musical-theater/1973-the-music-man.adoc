@@ -1,0 +1,75 @@
+= 1973 -- The Music Man
+:page-layout: page
+
+=== Music Man -- April 12-14, 1973
+
+image::musicman73.jpg[,role="text-center"]
+
+“The Music Man” is a classic American musical with music and lyrics by Meredith Willson and a book by Meredith Willson and Franklin Lacey. It’s set in the early 20th century in the fictional town of River City, Iowa, and it revolves around the transformative power of music and love. Here’s a summary of the plot:
+
+*Act 1:*
+
+The story begins with the arrival of Professor Harold Hill in River City. He’s a charismatic and charming con artist who poses as a traveling music teacher and band leader. Harold convinces the townspeople that their wayward youth are in moral danger and need to be saved from the corrupting influence of the new pool table he claims is arriving in town. He offers to form a boys’ band to keep the kids out of trouble and takes orders for instruments and uniforms, collecting money upfront.
+
+Harold soon meets Marian Paroo, the town’s skeptical and intelligent librarian. Marian sees through Harold’s scheme but is charmed by his persistence. She has a younger brother, Winthrop, who has a lisp and is withdrawn. Through music, Harold helps Winthrop gain confidence and overcome his speech impediment.
+
+As the weeks pass, the townspeople are swept up in the excitement of the band, even though no one can play their instruments. Harold’s influence and charisma begin to change the town, and he becomes a beloved figure.
+
+*Act 2:*
+
+As Harold’s deadline to start the band’s first performance approaches, the townspeople realize that they don’t know how to play their instruments. Panic ensues, but Marian steps in and helps teach the kids to play.
+
+Just as the band is about to perform, a rival salesman named Charlie Cowell exposes Harold’s true identity as a fraud and attempts to have him arrested. However, the town rallies behind Harold, and the band miraculously plays a beautiful, albeit unorthodox, concert.
+
+In the end, Harold’s influence transforms River City for the better. He has genuinely fallen in love with Marian, and she reciprocates his feelings. The two decide to stay in River City together, and Harold becomes an honest and respected member of the community.
+
+The musical features several memorable songs, including “76 Trombones,” “Till There Was You,” “Ya Got Trouble,” and “Goodnight, My Someone.”
+
+“The Music Man” is celebrated for its heartwarming story, lively characters, and catchy tunes. It explores themes of redemption, the power of music, and the capacity for love to change a person’s life.
+
+Image Gallery:
+
+* 1973 Vermilion High School -- Music Man
+
+image::1973musical.jpeg[,role="text-center"]
+
+image::1973mma1.jpg[,role="text-center"]
+
+image::1973mma2.jpg[,role="text-center"]
+
+image::1973mma3.jpg[,role="text-center"]
+
+image::1973mma4.jpg[,role="text-center"]
+
+image::1973mma5.jpg[,role="text-center"]
+
+image::1973mma6.jpg[,role="text-center"]
+
+image::1973mma7.jpg[,role="text-center"]
+
+image::1973mma8.jpg[,role="text-center"]
+
+image::1973mma9.jpg[,role="text-center"]
+
+image::1973mma12.jpg[,role="text-center"]
+
+image::1973mma14.jpeg[,role="text-center"]
+
+image::1973mma16.jpeg[,role="text-center"]
+
+image::1973mm1.jpeg[,role="text-center"]
+
+image::1973mm2.jpeg[,role="text-center"]
+
+image::1973mm3.jpeg[,role="text-center"]
+
+image::1973mm4.jpeg[,role="text-center"]
+
+image::1973mm5.jpeg[,role="text-center"]
+
+image::1973mm6.jpeg[,role="text-center"]
+
+image::1973mm7.jpeg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-musical-theater/[Vermilion Musical Theater]

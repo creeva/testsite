@@ -1,0 +1,33 @@
+= 1996 -- Crazy For You
+:page-layout: page
+
+=== Crazy For You
+
+image::1996-Crazyforyou.jpeg[,role="text-center"]
+
+“Crazy for You” is a musical with music and lyrics by George Gershwin, lyrics by Ira Gershwin, and a book by Ken Ludwig. The musical is a lighthearted romantic comedy set in the 1930s and features many classic Gershwin songs. Here’s a summary of the plot:
+
+*Act 1: A New York City Banker with a Dream*
+
+The musical opens in New York City, where we meet Bobby Child, a young banker who dreams of becoming a dancer in a Zangler’s Follies production. His overbearing mother, Lottie, wants him to follow in her footsteps and pursue a career in banking.
+
+When Bobby is sent to Deadrock, Nevada, by his mother to foreclose on a failing theater, he falls in love with Polly Baker, the theater owner’s daughter. Bobby hatches a plan to save the theater by impersonating the famous theater producer, Bela Zangler, and putting on a show to raise the money needed to pay off the mortgage.
+
+*Act 2: Putting on a Show*
+
+In Deadrock, Bobby, posing as Zangler, assembles a ragtag group of local performers and convinces them to participate in a show to save the theater. Polly is initially skeptical of Bobby’s intentions but eventually falls for him.
+
+Bobby’s true identity is revealed when the real Bela Zangler arrives in Deadrock. Despite the confusion and chaos that ensue, Bobby’s determination to save the theater and win Polly’s heart prevails.
+
+*Conclusion: Love and a Successful Show*
+
+In the end, Bobby’s show is a smashing success, saving the theater and ensuring a happy ending for Polly and Bobby. The townspeople of Deadrock celebrate their newfound prosperity and love. Zangler and Bobby even reconcile their differences, and Bobby decides to pursue his passion for theater and dance.
+
+“Crazy for You” is known for its lively dance numbers and classic Gershwin songs, including “I Got Rhythm,” “Embraceable You,” and “Nice Work If You Can Get It.” The musical is a joyful celebration of love, music, and the pursuit of one’s dreams.
+
+image::1996musical.jpeg[,role="text-center"]
+
+image::1996musical2.jpeg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-musical-theater/[Vermilion Musical Theater]

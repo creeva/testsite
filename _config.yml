@@ -1,6 +1,7 @@
-title: Creeva's World 3.0
+title: Vermilion Sailor Alumni Band
+url: https://creeva.github.io
 baseurl: /testsite
-description: Creeva's personal site
+description: Vermilion Sailor Alumni Band - Historic Marching Bands
 
 exclude:
   - LICENSE
@@ -11,10 +12,10 @@ exclude:
 
 defaults:
   - scope:
-      path: "_posts"
-      type: "posts"
+      path: ""
+      type: "pages"
     values:
-      layout: post
+      layout: page
 
 asciidoc: {}
 asciidoctor:
@@ -27,10 +28,6 @@ asciidoctor:
     - source-highlighter=coderay
     - liquid
 
-paginate: 10
-paginate_path: "/page:num/"
-
 plugins:
   - jekyll-asciidoc
-  - jekyll-paginate
   - jekyll-feed

@@ -1,0 +1,2 @@
+= 2015 -- Anything Goes
+:page-layout: page

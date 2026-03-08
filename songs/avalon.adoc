@@ -1,0 +1,10 @@
+= Avalon
+:page-layout: page
+
+=== Avalon
+
+.1993-1994 Vermilion Sailor Marching Band - Avalon - V Southview
+video::NLHhoprgbKo[youtube, width=640, height=360, align=center]
+
+[.text-center]
+link:/songs/[Vermilion Sailor Band Songs]

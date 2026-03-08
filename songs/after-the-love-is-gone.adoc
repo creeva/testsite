@@ -1,0 +1,24 @@
+= After The Love Is Gone
+:page-layout: page
+
+=== After the Love Is Gone
+
+.2014-2015 Vermilion Sailor Marching Band - After The Love Is Gone
+video::ZDJ0DaXJpUk[youtube, width=640, height=360, align=center]
+
+.2014-2015 Vermilion Sailor Marching Band - After The Love Is Gone - V Start 9-26-14
+video::P-9tb0_wCdE[youtube, width=640, height=360, align=center]
+
+.2014-2015 Vermilion Sailor Marching Band - After The Love Is Gone - V Ontario 10-3-14
+video::kBw4ydgN3TA[youtube, width=640, height=360, align=center]
+
+.2014-2015 Vermilion Sailor Marching Band - After The Love Is Gone - V Firelands 9-12-14
+video::8JPlKtLJG0I[youtube, width=640, height=360, align=center]
+
+.2014-2015 Vermilion Sailor Marching Band - After The Love Is Gone - Hudson Band Festival 10-4-14
+video::1QmzsIXsOO0[youtube, width=640, height=360, align=center]
+
+[.text-center]
+link:/songs/[Vermilion Sailor Band Songs]
+
+image::Vermilion-Marching-Band-2014-2015.jpg[,role="text-center"]

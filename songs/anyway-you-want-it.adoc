@@ -1,0 +1,12 @@
+= Anyway You Want It
+:page-layout: page
+
+=== Anyway You Want It
+
+.2012 Vermilion Sailor Alumni Band - Anyway You Want It
+video::n46bxdBh8yM[youtube, width=640, height=360, align=center]
+
+[.text-center]
+link:/songs/[Vermilion Sailor Band Songs]
+
+image::Sea-of-Faces.jpg[,role="text-center"]

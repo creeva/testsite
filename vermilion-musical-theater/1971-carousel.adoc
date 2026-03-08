@@ -1,0 +1,55 @@
+= 1971 -- Carousel
+:page-layout: page
+
+=== Carousel -- April 22-24, 1971
+
+image::carousel-1.jpg[,role="text-center"]
+
+“Carousel” is a classic American musical composed by Richard Rodgers with lyrics by Oscar Hammerstein II. The musical is based on the 1909 play “Liliom” by Ferenc Molnár and is set in a coastal town in Maine during the late 19th century. Here is a summary of the plot:
+
+The story begins with the introduction of Billy Bigelow, a charming but troubled carousel barker. He meets and falls in love with Julie Jordan, a sweet and naive millworker. Despite his rough exterior, Julie is drawn to Billy’s charisma, and they quickly become a couple.
+
+Their relationship faces challenges when Billy loses his job due to his temper and inability to conform to societal norms. Julie becomes pregnant, and they struggle to make ends meet. Desperate for money to support his family, Billy becomes involved in a robbery, which goes awry, and he takes his own life rather than be captured by the police.
+
+Billy arrives in the afterlife, where he is given a chance to redeem himself by making amends for the mistakes he made in life. He is granted the opportunity to return to Earth for one day to help his daughter, Louise, who has grown up without a father and is now a lonely and troubled teenager.
+
+Back on Earth, Billy tries to connect with Louise but struggles to break through her emotional walls. Meanwhile, Julie has faced her own hardships and has married a kind and dependable man named Enoch Snow.
+
+The musical explores themes of love, redemption, and the cycle of abuse. It features several memorable songs, including “If I Loved You,” “June Is Bustin’ Out All Over,” and “You’ll Never Walk Alone.”
+
+As the story unfolds, Billy’s actions and his attempt to make amends lead to a poignant and heart-wrenching conclusion. “Carousel” is known for its complex characters, emotional depth, and powerful storytelling, making it a timeless and enduring musical classic.
+
+Image Gallery:
+
+* 1971 Vermilion High School -- Carousel
+
+image::1971musicalpit.jpg[,role="text-center"]
+
+image::1971musical.jpeg[,role="text-center"]
+
+image::1971c1.jpg[,role="text-center"]
+
+image::1971c2.jpg[,role="text-center"]
+
+image::1971c3.jpg[,role="text-center"]
+
+image::1971c4.jpg[,role="text-center"]
+
+image::1971c5.jpg[,role="text-center"]
+
+image::1971c6.jpg[,role="text-center"]
+
+image::1971c7.jpg[,role="text-center"]
+
+image::1971c8.jpg[,role="text-center"]
+
+image::1971c9.jpg[,role="text-center"]
+
+image::1971c10.jpg[,role="text-center"]
+
+image::1971c11.jpg[,role="text-center"]
+
+image::1971c12.jpg[,role="text-center"]
+
+[.text-center]
++ link:/vermilion-musical-theater/[Vermilion Musical Theater]

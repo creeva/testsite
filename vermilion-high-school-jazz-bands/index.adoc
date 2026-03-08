@@ -1,0 +1,16 @@
+= Vermilion High School Jazz Bands
+:page-layout: page
+
+=== Vermilion High School Jazz Bands
+
+[.text-center]
+link:/vermilion-high-school-jazz-bands/1970-1979-vermilion-high-school-jazz-bands/[1970-1979 Vermilion High School Jazz Bands]
+
+[.text-center]
+link:/vermilion-high-school-jazz-bands/1980-1989-vermilion-high-school-jazz-bands/[1980-1989 Vermilion High School Jazz Bands]
+
+[.text-center]
+link:/vermilion-high-school-jazz-bands/1990-1999-vermilion-high-school-jazz-bands/[1990-1999 Vermilion High School Jazz Bands]
+
+[.text-center]
+link:/[Vermilion Bands]

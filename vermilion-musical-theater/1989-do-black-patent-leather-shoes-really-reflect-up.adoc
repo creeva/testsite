@@ -1,0 +1,35 @@
+= 1989 -- Do Black Patent Leather Shoes Really Reflect Up
+:page-layout: page
+
+=== Do Black Patent Leather Shoes Really Reflect Up
+
+image::1989black.jpeg[,role="text-center"]
+
+“Do Black Patent Leather Shoes Really Reflect Up?” is a musical comedy with a book and lyrics by John R. Powers and music by James Quinn. The musical is based on John R. Powers’ semi-autobiographical novel of the same name and is set in a Catholic school in the 1950s and 1960s. It humorously explores the experiences of Catholic school students as they grow up, grapple with faith, and navigate the challenges of adolescence. Here’s a summary of the plot:
+
+*Act 1: Growing Up in Catholic School*
+
+The musical begins with a group of Catholic school graduates reminiscing about their experiences at St. Bastion’s School in Chicago. They recall their childhood years, including the joys and challenges of attending a strict Catholic school.
+
+The central character, Eddie Ryan, narrates his journey from kindergarten through high school. He shares humorous and poignant anecdotes about the nuns, priests, and fellow students who shaped his Catholic education. Eddie’s stories revolve around school events, including First Communion, confession, and the annual May Crowning of the Virgin Mary.
+
+*Act 2: Adolescence and Faith*
+
+As the students progress into their teenage years, they face new challenges, including puberty, dating, and questioning their faith. Eddie experiences his first crush on Becky Bakowski, and their budding romance becomes a central plot point.
+
+The musical explores the conflicts and contradictions between the teachings of the Catholic Church and the changing values of the 1960s. The students grapple with questions about love, sex, and religious doctrine, often in humorous and irreverent ways.
+
+*Conclusion: Lessons Learned*
+
+In the end, the characters reflect on the valuable life lessons they learned at St. Bastion’s School. They come to appreciate the positive impact of their Catholic education, even as they acknowledge the humorous and absurd aspects of their experiences.
+
+“Do Black Patent Leather Shoes Really Reflect Up?” is known for its witty and satirical humor, as well as its nostalgic portrayal of Catholic school life. It explores themes of faith, adolescence, and the enduring influence of one’s education and upbringing.
+
+Image Gallery:
+
+* 1989 Vermilion High School -- Do Patent Leather Shoes Really Reflect Up
+
+image::1989musical.jpeg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-musical-theater/[Vermilion Musical Theater]

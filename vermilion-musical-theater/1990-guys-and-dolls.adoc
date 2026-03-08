@@ -1,0 +1,32 @@
+= 1990 -- Guys and Dolls
+:page-layout: page
+
+=== Guys and Dolls
+
+image::Guys_and_Dolls.png[,role="text-center"]
+
+“Guys and Dolls” is a beloved American musical with music and lyrics by Frank Loesser and a book by Jo Swerling and Abe Burrows. The story is based on the short stories of Damon Runyon and is set in the colorful and bustling world of New York City’s underground gambling scene. Here’s a summary of the plot:
+
+The musical follows the lives of two main couples:
+
+. Nathan Detroit and Miss Adelaide: Nathan Detroit is a perpetually cash-strapped gambler who runs "The Oldest Established Permanent Floating Crap Game in New York." He's been engaged to Miss Adelaide, a nightclub singer at the Hot Box Club, for 14 years. However, Miss Adelaide is becoming increasingly frustrated by Nathan's reluctance to tie the knot, which is affecting her health. She is convinced that they'll get married as soon as Nathan's gambling habit is kicked.
+. Sky Masterson and Sarah Brown: Sky Masterson is a suave, high-stakes gambler known for his charm and daring. He makes a bet with Nathan Detroit that he can't take Sarah Brown, a prim and proper missionary working at the Save-a-Soul Mission, to dinner in Havana, Cuba. Sky wins the bet and takes Sarah on an unexpected journey, during which they fall in love.
+
+The intertwining stories of these two couples provide the central plotlines. While Nathan tries to find a location for his craps game and finally marry Adelaide, Sky navigates his growing affection for Sarah and helps her mission.
+
+Throughout the musical, memorable songs like “Luck Be a Lady,” “Sit Down, You’re Rockin’ the Boat,” and “I’ve Never Been in Love Before” are performed.
+
+The story culminates in a series of comedic and dramatic twists, with both couples facing decisions about their futures. The characters ultimately find love and resolution in a vibrant and entertaining portrayal of the vibrant world of 1950s New York City. “Guys and Dolls” is celebrated for its witty dialogue, catchy songs, and engaging characters, making it a classic in the world of musical theater.
+
+Image Gallery:
+
+* 1990 Vermilion High School -- Guys and Dolls
+
+image::1990musical.jpeg[,role="text-center"]
+
+image::1990musical2.jpeg[,role="text-center"]
+
+image::1990musical3.jpeg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-musical-theater/[Vermilion Musical Theater]

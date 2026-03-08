@@ -1,0 +1,43 @@
+= 1983 -- Brigadoon
+:page-layout: page
+
+=== Brigadoon -- March 18-19, 25-26, 1983
+
+image::brigadoon.jpeg[,role="text-center"]
+
+“Brigadoon” is a classic American musical with music by Frederick Loewe, lyrics and book by Alan Jay Lerner. The story is set in the Scottish Highlands and revolves around a mysterious village that appears for only one day every hundred years. Here’s a summary of the plot:
+
+*Act 1: The Arrival in Brigadoon*
+
+The musical begins with two American tourists, Tommy Albright and Jeff Douglas, lost in the Scottish Highlands. They stumble upon the charming village of Brigadoon, which is in the midst of preparing for a wedding celebration. The villagers welcome the strangers, but they are mystified by the old-fashioned customs and clothing of the villagers.
+
+Tommy becomes captivated by a beautiful and spirited young woman named Fiona MacLaren, who is the bride’s sister. Jeff, on the other hand, is amused by the quirks of the villagers but remains skeptical about the authenticity of Brigadoon.
+
+Tommy and Fiona quickly fall in love, and Tommy is introduced to Mr. Lundie, the village schoolmaster, who explains the village’s magical secret. Brigadoon only exists for one day every hundred years. The enchantment was cast to preserve the village’s way of life and protect it from the outside world. Tommy must make a choice: to stay in Brigadoon with Fiona and embrace a life of love and tradition or return to his modern life in America.
+
+*Act 2: The Dilemma and Resolution*
+
+As the wedding day proceeds, Tommy grapples with his decision. Jeff, his skeptical friend, tries to persuade him to return to reality, but Tommy is torn between his love for Fiona and his life back home. He ultimately decides to leave Brigadoon and return to the modern world.
+
+Heartbroken, Fiona and the villagers watch as Tommy and Jeff depart. The village then magically disappears into the Highland mist.
+
+*Conclusion: The Resonance of Brigadoon*
+
+Back in New York City, Tommy cannot forget his time in Brigadoon or his love for Fiona. He struggles to adjust to his old life and realizes that he cannot live without her. He returns to Scotland, retracing his steps to the place where he first encountered Brigadoon.
+
+Miraculously, the village reappears for him, and Tommy is reunited with Fiona. Their love overcomes the challenges of time and tradition as they embrace their future together in the enchanted village.
+
+“Brigadoon” is celebrated for its beautiful songs, including “Almost Like Being in Love” and “Heather on the Hill,” and its exploration of themes such as the enduring power of love, the clash of tradition and modernity, and the enchantment of the past.
+
+Image Gallery:
+
+* 1983 Vermilion High School -- Brigadoon
+
+image::1983musical.jpeg[,role="text-center"]
+
+image::1983musical2.jpeg[,role="text-center"]
+
+image::1983brigadoon.jpeg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-musical-theater/[Vermilion Musical Theater]

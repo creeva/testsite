@@ -1,0 +1,15 @@
+= Are You Ready For This
+:page-layout: page
+
+=== Are You Ready For This
+
+.2002-2003 Vermilion Sailor Marching Band - Are You Ready For This
+video::6pLe4hAxCcI[youtube, width=640, height=360, align=center]
+
+.2002-2003 Vermilion Sailor Marching Band - Are You Ready For This Portion - Endzone
+video::_MtlnIyaOQI[youtube, width=640, height=360, align=center]
+
+[.text-center]
+link:/songs/[Vermilion Sailor Band Songs]
+
+image::2002-2003-Vermilion-Sailor-Marching-Band_4187767729_o.jpg[,role="text-center"]

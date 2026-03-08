@@ -1,0 +1,5 @@
+= Everything's Coming Up Roses
+:page-layout: page
+
+.1987 Vermilion Sailor Alumni Band - Everything Is Coming Up Roses
+video::M_0Qg8DJThE[youtube, width=640, height=360, align=center]

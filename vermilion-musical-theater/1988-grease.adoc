@@ -1,0 +1,65 @@
+= 1988 -- Grease
+:page-layout: page
+
+=== Grease -- March 18-19, 25-26, 1988
+
+image::grease1988-1.jpeg[,role="text-center"]
+
+“Grease” is a beloved American musical that originated as a 1971 stage production and later became a highly popular 1978 film adaptation. It was created by Jim Jacobs and Warren Casey, with music and lyrics by Jim Jacobs. Set in the 1950s, the story revolves around a group of high school students at Rydell High School and explores themes of teenage rebellion, identity, and the enduring power of young love. Here’s a summary of the plot:
+
+*Act 1: The Start of a New School Year*
+
+The musical opens at Rydell High School as the students return for a new school year. The Pink Ladies, a group of girls led by Betty Rizzo, and the T-Birds, a gang of boys led by Danny Zuko, are introduced. Danny had a summer fling with a girl named Sandy Dumbrowski, but he didn’t expect to see her again.
+
+To Danny’s surprise, Sandy enrolls at Rydell High, and their reunion is awkward as he tries to maintain his cool, rebellious image. Sandy feels hurt and rejected by Danny’s behavior, while Danny struggles to balance his feelings for her with his desire to fit in with his gang.
+
+*Act 2: Teenage Drama and Romance*
+
+The second act explores the various relationships and dramas of the students. Rizzo reveals that she might be pregnant, which creates tension within the Pink Ladies. Sandy, with the help of the Pink Ladies, undergoes a transformation from a sweet, innocent girl into a “greaser” girl to try to win Danny’s affection.
+
+The students prepare for the school’s big dance, the Rydell High School Hop, where the climax of the story takes place. Danny and Sandy attend separately, but as the evening progresses, they realize their deep feelings for each other and reunite in a touching duet.
+
+*Conclusion: A Fiery Finale*
+
+The musical concludes with the students coming to terms with their identities and choices. Rizzo’s pregnancy scare turns out to be a false alarm, and she reconciles with her friends. Danny and Sandy, despite their differences, rekindle their romance and drive off into the night in a classic car.
+
+“Grease” is known for its energetic and catchy songs, including “Summer Nights,” “Greased Lightnin’,” and “You’re the One That I Want.” It captures the spirit of teenage rebellion, friendship, and young love, set against the backdrop of the 1950s rock ‘n’ roll era.
+
+Image Gallery:
+
+* 1988 Vermilion High School -- Grease
+
+image::1988musical.jpeg[,role="text-center"]
+
+image::1988musical2.jpeg[,role="text-center"]
+
+image::1988g1.jpeg[,role="text-center"]
+
+image::1988g2.jpeg[,role="text-center"]
+
+image::1988g3.jpeg[,role="text-center"]
+
+image::1988g4.jpeg[,role="text-center"]
+
+image::1988g5.jpeg[,role="text-center"]
+
+image::1988g6.jpeg[,role="text-center"]
+
+image::1988g7.jpeg[,role="text-center"]
+
+image::1988g8.jpeg[,role="text-center"]
+
+image::1988g9.jpeg[,role="text-center"]
+
+image::1988g10.jpeg[,role="text-center"]
+
+image::1988g11.jpeg[,role="text-center"]
+
+image::1988g12.jpeg[,role="text-center"]
+
+image::1988g13.jpeg[,role="text-center"]
+
+image::1988g14.jpeg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-musical-theater/[Vermilion Musical Theater]

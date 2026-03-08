@@ -1,0 +1,43 @@
+= 1987 -- Oklahoma
+:page-layout: page
+
+=== Oklahoma -- April 3-4, 10-11, 1987
+
+image::ok1987.jpeg[,role="text-center"]
+
+“Oklahoma!” is a classic American musical with music by Richard Rodgers, lyrics by Oscar Hammerstein II, and a book by Oscar Hammerstein II and Richard Rodgers. It’s set in the Oklahoma Territory in the early 1900s and follows the love story of Curly McLain and Laurey Williams amidst the backdrop of a community on the brink of statehood. Here’s a summary of the plot:
+
+*Act 1:*
+
+The musical opens with a cowboy named Curly McLain singing the iconic song “Oh, What a Beautiful Mornin'” as he walks through the Oklahoma landscape. He is in love with Laurey Williams, a farm girl who is equally smitten with him, although they are both too proud to admit it.
+
+Laurey’s Aunt Eller, a no-nonsense and beloved member of the community, serves as a mediator and tries to bring Curly and Laurey together. However, things become complicated when a menacing and sinister farmhand named Jud Fry begins pursuing Laurey. Jud’s obsession with Laurey creates tension and unease in the community.
+
+The first act also introduces Ado Annie Carnes, a flirtatious girl who is courted by two men: Will Parker, a cowboy who has just returned from a trip to Kansas City, and Ali Hakim, a traveling peddler.
+
+*Act 2:*
+
+The second act of the musical is set during a box social, where local women prepare lunch baskets that are auctioned off to the highest bidder. Curly and Jud both bid for Laurey’s basket, and Curly wins. This leads to a confrontation between Curly and Jud, and the tension escalates.
+
+Meanwhile, Ado Annie faces a choice between Will and Ali Hakim, and her inability to choose one over the other causes comic chaos.
+
+As the box social continues, Laurey and Curly finally admit their love for each other, and they become engaged. However, Jud’s jealousy drives him to confront Curly in the smokehouse, leading to a violent struggle in which Curly emerges victorious. Jud is killed in the altercation.
+
+*Conclusion:*
+
+The musical ends with a sense of hope and optimism as the community comes together for a joyous dance at the local social. Curly and Laurey are married, and Ado Annie chooses Will over Ali Hakim. The musical culminates in the rousing and celebratory song “Oklahoma!”
+
+“Oklahoma!” is celebrated for its iconic songs, including “Oh, What a Beautiful Mornin’,” “The Surrey with the Fringe on Top,” and “People Will Say We’re in Love.” It explores themes of love, community, and the pursuit of happiness in a time of change and transition as the Oklahoma Territory becomes a state.
+
+Image Gallery:
+
+* 1987 Vermilion High School -- Oklahoma
+
+image::1987musical.jpeg[,role="text-center"]
+
+image::1987musical2.jpeg[,role="text-center"]
+
+image::1987ok0.jpeg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-musical-theater/[Vermilion Musical Theater]

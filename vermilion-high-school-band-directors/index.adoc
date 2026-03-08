@@ -1,0 +1,14 @@
+= Vermilion Band Directors
+:page-layout: page
+
+=== Vermilion Band Directors
+
+image::1955-James-Hoffman.jpg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/[Vermilion High School Band Directors]
+
+image::1.jpg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-high-school-band-directors/directors/[Vermilion Alumni Band Directors]

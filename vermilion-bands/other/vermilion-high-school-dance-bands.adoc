@@ -1,0 +1,45 @@
+= Vermilion High School Dance Bands
+:page-layout: page
+
+=== Vermilion High School Dance Bands
+
+image::1956danceband.jpg[,role="text-center"]
+
+[.text-center]
+1956 Vermilion High School Dance Band
+
+Director: William Burt
+
+Members: L. Lindsay, D. Gutherie, L. Roberts, M. Hollosy, L. Roberts, R. Roughton, D. Dickerhoff, C. Widdowson, H. Heys, C. Kyle, P. Jackson, M. Havrilla, J. Kropf, B. Ennis, S. Yeamans
+
+*Image Galleries* :
+
+* 1956 Vermilion High School Yearbook
+
+image::1956dancebandwrite.jpg[,role="text-center"]
+
+image::1958danceband.jpg[,role="text-center"]
+
+[.text-center]
+1958 Vermilion High School Dance Band
+
+Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+
+Members: Unlisted
+
+*Image Gallery* :
+
+* 1958 Vermilion High School Yearbook
+
+image::1959dance.jpg[,role="text-center"]
+
+Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+
+Members: Zalar, Mey, Gregg, Syfert, Neiding, Havrilla, Rogers, Feiszli, Boughton, Roberts, Hollosy, Yeamans, Greenhoe, Wiencke, Tarant
+
+*Image Gallery* :
+
+* 1959 Vermilion High School Yearbook
+
+[.text-center]
+link:/[Vermilion Bands]

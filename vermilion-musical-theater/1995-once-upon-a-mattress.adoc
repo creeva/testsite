@@ -1,0 +1,35 @@
+= 1995 -- Once Upon A Mattress
+:page-layout: page
+
+=== Once Upon A Mattress
+
+image::1995-onceupon.jpeg[,role="text-center"]
+
+“Once Upon a Mattress” is a musical comedy with music by Mary Rodgers, lyrics by Marshall Barer, and a book by Jay Thompson, Dean Fuller, and Marshall Barer. The musical is a humorous retelling of the classic fairy tale “The Princess and the Pea,” with a twist. Here’s a summary of the plot:
+
+*Act 1: The Introduction of the Royal Family*
+
+The musical opens in a medieval kingdom ruled by the devious Queen Aggravain and her mute husband, King Sextimus the Silent. The kingdom has a peculiar law: no one in the kingdom can marry until Prince Dauntless the Drab finds a suitable princess to marry.
+
+To test the suitability of princesses, Queen Aggravain subjects them to an impossible test: sleeping on a towering pile of mattresses with a single pea hidden at the bottom. If the princess feels the pea and cannot sleep, she is deemed a true princess.
+
+*Act 2: The Arrival of Princess Winnifred*
+
+The story takes a turn when a strong-willed and unrefined princess named Winnifred the Woebegone arrives at the castle. She immediately captures the heart of Prince Dauntless with her spunk and energy. However, Queen Aggravain is determined to sabotage Winnifred’s chances of passing the pea test.
+
+Winnifred’s attempts to win over the royal family are met with comical obstacles and challenges. She faces off against the scheming Queen in a series of hilarious confrontations.
+
+*Act 3: The Resolution and Marriage*
+
+In the final act, it becomes clear that Winnifred is a true princess when she feels the pea and cannot sleep. Prince Dauntless proposes to her, and she accepts. The kingdom rejoices, and a royal wedding is planned.
+
+Queen Aggravain’s plans to maintain her control over the kingdom are foiled, and King Sextimus is finally able to speak, breaking his silence. The musical concludes with the joyous celebration of Winnifred and Dauntless’s wedding, marking a new era of happiness and love in the kingdom.
+
+“Once Upon a Mattress” is known for its lighthearted humor, charming characters, and catchy songs, including “Shy,” “Happily Ever After,” and “Sensitivity.” It offers a comical twist on a classic fairy tale and explores themes of love, acceptance, and the importance of being true to oneself.
+
+image::1995musical.jpeg[,role="text-center"]
+
+image::1995musical2.jpeg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-musical-theater/[Vermilion Musical Theater]

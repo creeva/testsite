@@ -1,0 +1,41 @@
+= 1999 -- How to Succeed In Business Without Really Trying
+:page-layout: page
+
+=== How to Succeed In Business Without Really Trying
+
+image::1999succeed2.jpeg[,role="text-center"]
+
+“How to Succeed in Business Without Really Trying” is a satirical musical with music and lyrics by Frank Loesser and a book by Abe Burrows, Jack Weinstock, and Willie Gilbert. The musical is a witty and humorous commentary on the corporate world and the climb up the corporate ladder. Here’s a summary of the plot:
+
+*Act 1: Climbing the Corporate Ladder*
+
+The musical follows the ambitious young window washer, J. Pierrepont Finch, who comes across a self-help book titled “How to Succeed in Business Without Really Trying.” Taking the book’s advice to heart, Finch decides to pursue a career in the World Wide Wicket Company.
+
+Finch starts as a lowly mailroom clerk and quickly begins to rise through the ranks using clever strategies and tactics outlined in the book. He impresses the company’s president, J.B. Biggley, by pretending to be an expert in the company’s products and by cozying up to Biggley’s nephew, Bud Frump, who is also an employee.
+
+Finch also becomes romantically involved with Rosemary Pilkington, a secretary at the company who dreams of marrying a successful executive.
+
+*Act 2: The Rise and Challenges*
+
+In the second act, Finch continues his ascent within the company, even becoming the chairman of the board. His success attracts the attention of the highly competent but underappreciated secretary, Miss Jones, who sees through his scheming ways.
+
+Meanwhile, Rosemary longs for Finch to notice her and proposes to him, but he remains focused on his career.
+
+As the musical progresses, Finch’s web of lies begins to unravel. Bud Frump tries to expose Finch’s fraudulent tactics, and the other employees grow suspicious of his rapid rise.
+
+*Conclusion: Truth and Success*
+
+In the final scenes, Finch’s lies are exposed, and he is forced to admit to his manipulative tactics. However, instead of being fired, he is offered the presidency of the company due to his impressive performance.
+
+Finch realizes the importance of honesty and the value of true success, both in his career and in his personal life. He reconciles with Rosemary, and they embark on a genuine, loving relationship.
+
+The musical ends with a celebration of Finch’s success and a reflection on the humorous and absurd world of corporate America.
+
+“How to Succeed in Business Without Really Trying” is known for its clever satire, memorable songs like “I Believe in You” and “Brotherhood of Man,” and its humorous take on the corporate world’s quirks and challenges.
+
+image::1999musical.jpeg[,role="text-center"]
+
+image::1999musical2.jpeg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-musical-theater/[Vermilion Musical Theater]

@@ -1,0 +1,12 @@
+= Alexander's Ragtime Band
+:page-layout: page
+
+=== Alexander's Ragtime Band
+
+.1986 Vermilion Sailor Alumni Band - Alexander's Ragtime Band
+video::5dztjqc2uBs[youtube, width=640, height=360, align=center]
+
+[.text-center]
+link:/songs/[Vermilion Sailor Band Songs]
+
+image::Sea-of-Faces.jpg[,role="text-center"]

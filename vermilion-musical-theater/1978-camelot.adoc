@@ -1,0 +1,83 @@
+= 1978 -- Camelot
+:page-layout: page
+
+=== Camelot April 7-8, 14-15, 1978
+
+image::camelot1978-1.jpeg[,role="text-center"]
+
+“Camelot” is a classic American musical with a book and lyrics by Alan Jay Lerner and music by Frederick Loewe. It’s based on the Arthurian legend and specifically the 1958 T.H. White novel “The Once and Future King.” The musical centers around the legendary King Arthur and his quest to create an ideal kingdom, Camelot. Here’s a summary of the plot:
+
+*Act 1: The Establishment of Camelot*
+
+The musical opens with King Arthur’s desire to create a peaceful and just kingdom known as Camelot. He is guided by the sage advice of his mentor, Merlyn the magician. Arthur marries Guinevere, a spirited and intelligent young woman from a neighboring kingdom, and they are joined by Arthur’s loyal friend and knight, Sir Lancelot du Lac.
+
+As Arthur and Guinevere fall in love, they work together to establish a court of justice and honor, attracting knights from throughout the land. The Round Table is formed, symbolizing equality among the knights.
+
+*Act 2: The Challenges and Tragedy*
+
+As Arthur’s vision of Camelot becomes a reality, cracks begin to appear. Guinevere and Lancelot fall in love, leading to a love triangle that threatens the harmony of the kingdom.
+
+Meanwhile, Mordred, Arthur’s illegitimate son, schemes to undermine and overthrow his father’s rule. Mordred’s deceit and manipulation drive a wedge between Arthur and Guinevere, causing conflict and sorrow.
+
+In a climactic battle, Lancelot defends Camelot against an invading army, but his actions ultimately lead to the fall of the Round Table and the kingdom’s dissolution. Arthur confronts Mordred, and they mortally wound each other.
+
+*Conclusion: The Legacy of Camelot*
+
+In the aftermath of the battle, Arthur is gravely wounded and is taken to the magical isle of Avalon. He instructs a young boy, Tom of Warwick, to remember and pass on the ideals of Camelot.
+
+The musical concludes with Guinevere visiting a dying Arthur, and they reaffirm their love for each other. As Arthur passes away, Guinevere lights a candle, symbolizing the hope that the ideals of Camelot will live on.
+
+“Camelot” is celebrated for its beautiful music, including songs like “If Ever I Would Leave You” and “The Lusty Month of May,” as well as its exploration of themes such as honor, love, and the challenge of maintaining idealism in a world filled with conflict and betrayal.
+
+Image Gallery:
+
+* 1978 Vermilion High School -- Camelot
+
+image::1978musical.jpeg[,role="text-center"]
+
+image::1978musical2.jpeg[,role="text-center"]
+
+image::1978cama1.jpeg[,role="text-center"]
+
+image::1978cama2.jpeg[,role="text-center"]
+
+image::1978cama3.jpeg[,role="text-center"]
+
+image::1978cama4.jpeg[,role="text-center"]
+
+image::1978cama5.jpeg[,role="text-center"]
+
+image::1978cama6.jpeg[,role="text-center"]
+
+image::1978cama7.jpeg[,role="text-center"]
+
+image::1978cama8.jpeg[,role="text-center"]
+
+image::1978cama9.jpeg[,role="text-center"]
+
+image::1978cama10.jpeg[,role="text-center"]
+
+image::1978cam1.jpeg[,role="text-center"]
+
+image::1978cam2.jpeg[,role="text-center"]
+
+image::1978cam3.jpeg[,role="text-center"]
+
+image::1978cam4.jpeg[,role="text-center"]
+
+image::1978cam5.jpeg[,role="text-center"]
+
+image::1978cam6.jpeg[,role="text-center"]
+
+image::1978cam7.jpeg[,role="text-center"]
+
+image::1978cam8.jpeg[,role="text-center"]
+
+image::1978cam9.jpeg[,role="text-center"]
+
+image::1978cam10.jpeg[,role="text-center"]
+
+image::1978cam11.jpeg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-musical-theater/[Vermilion Music Theater]

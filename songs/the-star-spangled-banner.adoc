@@ -1,0 +1,8 @@
+= The Star Spangled Banner
+:page-layout: page
+
+.1986 Vermilion Sailor Marching Band Festival - Mass Star Spangled Banner
+video::BRqJkgv8TSk[youtube, width=640, height=360, align=center]
+
+.1997-1998 Vermilion Sailor Marching Band - Mass Star Spangled Banner - Sailor Band Festival
+video::BGO9-z1Ro3U[youtube, width=640, height=360, align=center]

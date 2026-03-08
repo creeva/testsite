@@ -1,0 +1,21 @@
+= Aftershock
+:page-layout: page
+
+=== Aftershock
+
+.1994-1995 Vermilion Sailor Marching Band - Closer - Aftershock
+video::mObmYOgqY8w[youtube, width=640, height=360, align=center]
+
+.2000-2001 Vermilion Sailor Marching Band - Aftershock
+video::fSPutU7Qvho[youtube, width=640, height=360, align=center]
+
+.2000-2001 Vermilion Sailor Marching Band - Aftershock - Vermilion Sailor Band Festival
+video::oQiF0UVbDO0[youtube, width=640, height=360, align=center]
+
+.2005-2006 Vermilion Sailor Marching Band - Vermilion Sailor Band Festival - Aftershock
+video::N4QJsCtN9jM[youtube, width=640, height=360, align=center]
+
+[.text-center]
+link:/songs/[Vermilion Sailor Band Songs]
+
+image::2001-Sailor-Marching-Band-1.jpg[,role="text-center"]

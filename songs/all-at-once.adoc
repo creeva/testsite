@@ -1,0 +1,12 @@
+= All At Once
+:page-layout: page
+
+=== All At Once
+
+.1994-1995 Vermilion Sailor Marching Band All At Once
+video::Zal4gbvuiXQ[youtube, width=640, height=360, align=center]
+
+[.text-center]
+link:/songs/[Vermilion Sailor Band Songs]
+
+image::1995seniorcheer.jpeg[,role="text-center"]

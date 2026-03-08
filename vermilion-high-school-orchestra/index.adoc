@@ -1,0 +1,23 @@
+= Vermilion High School Orchestra
+:page-layout: page
+
+=== Vermilion High School Orchestras
+
+image::1928orchestra.jpg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-high-school-orchestra/1920-1929-vermilion-high-school-orchestras/[1920-1929 Vermilion High School Orchestras]
+
+[.text-center]
+link:/vermilion-high-school-orchestra/1930-1939-vermilion-high-school-orchestras/[1930-1939 Vermilion High School Orchestras]
+
+image::1940orch.jpg[,role="text-center"]
+
+[.text-center]
+link:/vermilion-high-school-orchestra/1940-1949-vermilion-high-school-orchestras/[1940-1949 Vermilion High School Orchestra]
+
+[.text-center]
+link:/vermilion-high-school-orchestra/1970-1979-vermilion-high-school-orchestra/[1970-1979 Vermilion High School Orchestra]
+
+[.text-center]
+link:/[Vermilion Bands]

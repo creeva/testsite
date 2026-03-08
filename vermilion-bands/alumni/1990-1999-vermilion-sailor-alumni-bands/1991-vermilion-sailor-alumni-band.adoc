@@ -1,0 +1,20 @@
+= 1991 Vermilion Sailor Alumni Band
+:page-layout: page
+
+=== 1991 Vermilion Sailor Alumni Band
+
+image::alumnigeneric.jpeg[,role="text-center"]
+
+Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+
+Video Playlists:
+
+* 1991 Vermilion Sailor Alumni Band
+
+.1991 Vermilion Sailor Alumni Band Show
+video::gK8LYx3jWgE[youtube, width=640, height=360, align=center]
+
+image::9-10-1991.jpeg[,role="text-center"]
+
+[.text-center]
+link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/vermilion-bands/alumni/[rching Bands] – link:/vermilion-bands/alumni/1990-1999-vermilion-sailor-alumni-bands/[1990-1999 Vermilion Sailor Alumni Band]
