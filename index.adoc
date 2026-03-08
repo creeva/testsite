@@ -41,7 +41,8 @@ link:/testsite/vermilion-bands/alumni/[Vermilion Sailor Alumni Bands]
 
 {empty} +
 
-image::/testsite/images/1960con.jpg[, 500, align="center"]
+[.text-center.rounded]
+image::/testsite/images/1960con.jpg[1960 Concert Band,600]
 
 {empty} +
 
@@ -50,7 +51,8 @@ link:/testsite/vermilion-high-school-concert-bands/[Vermilion High School Concer
 
 {empty} +
 
-image::/testsite/images/1933orch.jpg[, 500, align="center"]
+[.text-center.rounded]
+image::/testsite/images/1933orch.jpg[1933 Orchestra, 600]
 
 {empty} +
 
@@ -59,7 +61,8 @@ link:/testsite/vermilion-high-school-orchestra/[Vermilion High School Orchestras
 
 {empty} +
 
-image::/testsite/images/1957pep.jpg[, 500, align="center"]
+[.text-center.rounded]
+image::/testsite/images/1957pep.jpg[1957 Pep Band, 600]
 
 {empty} +
 
@@ -68,7 +71,8 @@ link:/testsite/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]
 
 {empty} +
 
-image::/testsite/images/1990jazz.png[1990 Jazz Band, 500,role="text-center"]
+[.text-center.rounded]
+image::/testsite/images/1990jazz.png[1990 Jazz Band, 600"]
 
 {empty} +
 
@@ -77,7 +81,8 @@ link:/testsite/vermilion-high-school-jazz-bands/[Vermilion High School Jazz Band
 
 {empty} +
 
-image::/testsite/images/1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[, 500, align="center"]
+[.text-center.rounded]
+image::/testsite/images/1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[1953 German Band, 600]
 
 {empty} +
 
@@ -86,7 +91,8 @@ link:/testsite/vermilion-bands/other/[Other Vermilion Bands]
 
 {empty} +
 
-image::/testsite/images/1993musicman.jpeg[, 500, align="center"]
+[.text-center.rounded]
+image::/testsite/images/1993musicman.jpeg[1993 Music Mand, 600]
 
 {empty} +
 
