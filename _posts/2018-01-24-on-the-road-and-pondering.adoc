@@ -1,6 +1,7 @@
 = On The Road and Pondering…
 :page-layout: post
 :page-navtitle: On The Road and Pondering…
+:page-categories: stories
 :page-excerpt: I haven't had to travel in a few months, yet this week I'm in the tropical state of Nebraska enjoying the breeze through the palm trees while I dip my feet into the water. It's a wonderful feeling and the only thing missing is an alcoholic drink in my hands.
 :page-image: /testsite/images/2018-01-22-15.54.15-1.jpg
 :imagesdir: /testsite/images

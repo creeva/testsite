@@ -1,6 +1,7 @@
 = Dealing With Different Public Domain Laws
 :page-layout: post
 :page-navtitle: Dealing With Different Public Domain Laws
+:page-categories: geekery
 :page-excerpt: Recently I started contributing to the International Music Score Library Project and I've run into a small snag. Currently, I've only uploaded two pieces ( I did say I was going to contribute more to the public domain going forward) and I received the following message the day after I uploaded the pieces&#58;
 :page-image: /testsite/images/justice_icon-1.png
 :imagesdir: /testsite/images

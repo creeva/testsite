@@ -1,6 +1,7 @@
 = Getting to Know Gnome Conduit -- Intimation
 :page-layout: post
 :page-navtitle: Getting to Know Gnome Conduit -- Intimation
+:page-categories: geekery
 :page-excerpt: I previously wrote about gnome conduit a couple of weeks ago, and since then I've been actively chasing it in numerous ways. I have joined the mailing list for it and have become one of the main documentation writers for the end-user side of the party. I've put a lot of work in and discovered some nuances along the way.
 :page-image: /testsite/images/ubuntu-logo32.png
 :imagesdir: /testsite/images

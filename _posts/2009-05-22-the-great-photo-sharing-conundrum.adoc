@@ -1,6 +1,7 @@
 = The Great Photo Sharing Conundrum
 :page-layout: post
 :page-navtitle: The Great Photo Sharing Conundrum
+:page-categories: geekery
 :page-excerpt: My mother left me a comment yesterday (yes the mother I don't talk to) about one of the baby pictures. Her comment asked if I could send her an email with all the baby pictures we have. Here is where we have the gap in the usage level between the older and the newer generation. I remember years ago when everyone used to mail pictures around, but this was also a time when the pictures were normally 100kb or less in size. Even then business environments were complaining about the pictures clogging up their email systems ( no matter that they were sending 300KB full HTML emails each time). Now we fast forward to today.
 :page-image: /testsite/images/5129332_b75d25f016_m.jpg
 :imagesdir: /testsite/images

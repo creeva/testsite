@@ -1,6 +1,7 @@
 = Parody Song by Corndog from 7/7/04
 :page-layout: post
 :page-navtitle: Parody Song by Corndog from 7/7/04
+:page-categories: video-games
 :page-excerpt: What would Creeva Murkado do +
 If he was here right now? +
 He'd make a plan, and he'd follow through, +

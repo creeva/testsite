@@ -1,6 +1,7 @@
 = Life Caching  is better then Life Streams
 :page-layout: post
 :page-navtitle: Life Caching  is better then Life Streams
+:page-categories: geekery
 :page-excerpt: Life caching is setting up sites that you have complete control over to save data from sites over which you only have varied levels of control. Getting all of your metadata in one place. Saving each detail of data in its place so it's saved, used, and recyclable. Life caching is the next stage as the Data Portability Group moves forward. This is not the goal of the Data Portability Group -- it is just what their goal enables you to do. The work, however, is burdened on to you and I can say there is no easy way to do this and some data leakage and loss will always slip through the cracks, at least at this stage of the game.
 :page-image: /testsite/images/switch-1.jpg
 :imagesdir: /testsite/images

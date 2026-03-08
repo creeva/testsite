@@ -1,6 +1,7 @@
 = Congress Considering Strip Searching Students
 :page-layout: post
 :page-navtitle: Congress Considering Strip Searching Students
+:page-categories: stories
 :page-excerpt: Imagine an America in which school officials could strip-search every student in their school based on the unsubstantiated tip that one of them might have a joint. Congress is voting on a bill Tuesday or Wednesday that could make these police state tactics more common.
 :page-image: /testsite/images/justice_icon-1.png
 :imagesdir: /testsite/images

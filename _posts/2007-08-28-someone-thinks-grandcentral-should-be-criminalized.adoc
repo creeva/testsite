@@ -1,6 +1,7 @@
 = Someone Thinks GrandCentral Should Be Criminalized
 :page-layout: post
 :page-navtitle: Someone Thinks GrandCentral Should Be Criminalized
+:page-categories: geekery
 :page-excerpt: …Companies like Grand Centralshould be put out of business -- they pose a threat to every online merchant who accepts credit cards.
 :page-image: /testsite/images/undersea-cable-vietnam-1.jpg
 :imagesdir: /testsite/images

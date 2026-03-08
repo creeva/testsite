@@ -1,6 +1,7 @@
 = Worried About Skyhook Mapping Your Wifi Router To a GeoLocation?
 :page-layout: post
 :page-navtitle: Worried About Skyhook Mapping Your Wifi Router To a GeoLocation?
+:page-categories: geekery
 :page-excerpt: I was reading a story on slashdot about how Skyhook Wireless has been wardriving the United States mapping MAC addresses from the wireless routers it detects to your geographic location. Now first for those paranoid, they probably are not going to get your exact physical address but it will be "close" -- close is defined as within 500 feet.
 :page-image: /testsite/images/265039683_939c0061d2_m.jpg
 :imagesdir: /testsite/images

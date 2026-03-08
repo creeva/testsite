@@ -1,6 +1,7 @@
 = The Crossposting God Series Part 2 -- Vox
 :page-layout: post
 :page-navtitle: The Crossposting God Series Part 2 -- Vox
+:page-categories: geekery
 :page-excerpt: Vox is a blog community that really focuses on the community aspect. When Xie first started blogging on vox I kind of poo-pooed it. However, I didn't find some people that I knew from SWG that posted there, and ever since I can tell you it is definitely a close-knit community. Since I'm a crossposter I'm kind of on the outside, but I reply to comments, and Oh My Yod! is a blog I visit every other day.
 :page-image: /testsite/images/280433761_65835e5959_m.jpg
 :imagesdir: /testsite/images

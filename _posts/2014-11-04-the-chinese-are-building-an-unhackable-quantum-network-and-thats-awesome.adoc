@@ -1,6 +1,7 @@
 = The Chinese Are Building an Unhackable Quantum Network -- And That's Awesome!
 :page-layout: post
 :page-navtitle: The Chinese Are Building an Unhackable Quantum Network -- And That's Awesome!
+:page-categories: geekery
 :page-excerpt: Earlier today I received an email from a public relations person that I work with. The only text was "Scary" and this was the Hyperlink --
 :page-image: /testsite/images/file0001628037487-1.jpg
 :imagesdir: /testsite/images

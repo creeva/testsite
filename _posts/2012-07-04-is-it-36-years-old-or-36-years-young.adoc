@@ -1,6 +1,7 @@
 = Is it 36 Years Old or 36 Years Young?
 :page-layout: post
 :page-navtitle: Is it 36 Years Old or 36 Years Young?
+:page-categories: stories
 :page-excerpt: Today I celebrate my thirty-sixth birthday. I'm at the crossroads where I'm supposed to change my verbiage when someone asks how old I am. I don't think I'm really at the stage of saying I am thirty-six years old. However, since I'm still reading comics and collecting toys -- doesn't thirty-six years young kind of fit?
 :page-image: /testsite/images/typewriter-1.jpg
 :imagesdir: /testsite/images

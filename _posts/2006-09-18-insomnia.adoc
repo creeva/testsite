@@ -1,6 +1,7 @@
 = Insomnia
 :page-layout: post
 :page-navtitle: Insomnia
+:page-categories: stories
 :page-excerpt: I wish I could sleep more regularly and in a normal sleep pattern -- somehow this has eluded me. I've stopped playing late-night SWG -- as this doesn't help the issue. Tried taking melatonin -- I might be adding chamomile tea to my regular late-night regimen to get this whole sleep thing straightened out.
 :page-image: /testsite/images/thoughts-on-nirvana-1.jpg
 :imagesdir: /testsite/images

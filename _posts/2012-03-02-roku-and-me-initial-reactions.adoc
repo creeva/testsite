@@ -1,6 +1,7 @@
 = Roku and Me, Initial Reactions
 :page-layout: post
 :page-navtitle: Roku and Me, Initial Reactions
+:page-categories: geekery
 :page-excerpt: Earlier this week we ordered aRoku device from Amazon. We purchased the complete bells and whistles XS model. The main reason for this was I wanted a wired connection for the device instead of a wireless one. I knew a couple of people that owned the devices and loved them. I thought I would give it a try.
 :page-image: /testsite/images/270969697_fc9dcf3383.jpg
 :imagesdir: /testsite/images

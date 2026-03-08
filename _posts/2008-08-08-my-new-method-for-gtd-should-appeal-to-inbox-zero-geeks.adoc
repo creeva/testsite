@@ -1,6 +1,7 @@
 = My New Method for GTD Should Appeal to Inbox Zero Geeks
 :page-layout: post
 :page-navtitle: My New Method for GTD Should Appeal to Inbox Zero Geeks
+:page-categories: geekery
 :page-excerpt: I get distracted when I get home from work. I'm easily amused and have the "Ooooooooooooooooohhh Shiny" mentality type of distraction. I don't deny it. I don't exactly revel in it either. By the time I actually get around to doing some of the things I need to get done, it's late, I'm tired and cranky. If I put things off until the weekend we end up doing stuff and getting involved ("Is that a shiny over there?") and so things once again get overlooked. I'm not sure I would actually sleep if I didn't know for a certainty that it helps save my job and my marriage. So what can I do about it?
 :page-image: /testsite/images/1140504927_742767c88d_m.jpg
 :imagesdir: /testsite/images

@@ -1,6 +1,7 @@
 = How to Unprotect a Third-Party Encrypted PDF on OSX
 :page-layout: post
 :page-navtitle: How to Unprotect a Third-Party Encrypted PDF on OSX
+:page-categories: geekery
 :page-excerpt: This is just a quick tech note for those that might be fighting an encrypted PDF on OSX. I had a PDF that was encrypted by a third-party certificate that I had to install on my system. Once the certificate was installed, I could view the document -- but only in the official Adobe Acrobat reader.
 :page-image: /testsite/images/bth_Apple-logo-1.png
 :imagesdir: /testsite/images

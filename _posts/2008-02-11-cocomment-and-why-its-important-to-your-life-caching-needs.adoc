@@ -1,6 +1,7 @@
 = coComment and Why It's Important to Your Life Caching Needs
 :page-layout: post
 :page-navtitle: coComment and Why It's Important to Your Life Caching Needs
+:page-categories: geekery
 :page-excerpt: I've written a few articles on life caching. For those that need to catch up check out this article. For those that don't need the refresher course, let's dig in.
 :page-image: /testsite/images/switch-1.jpg
 :imagesdir: /testsite/images

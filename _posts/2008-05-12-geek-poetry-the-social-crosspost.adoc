@@ -1,6 +1,7 @@
 = Geek Poetry: The Social Crosspost
 :page-layout: post
 :page-navtitle: Geek Poetry: The Social Crosspost
+:page-categories: geekery
 :page-excerpt: I'm am a social creature +
 Or that is how I seem +
 I'm active on all the networks +

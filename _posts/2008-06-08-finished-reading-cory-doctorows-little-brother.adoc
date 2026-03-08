@@ -1,6 +1,7 @@
 = Finished Reading Cory Doctorow's Little Brother
 :page-layout: post
 :page-navtitle: Finished Reading Cory Doctorow's Little Brother
+:page-categories: stories
 :page-excerpt: Picture from here by Pablo Defendi
 :page-image: /testsite/images/2527139261_0bf374fce4_m.jpg
 :imagesdir: /testsite/images

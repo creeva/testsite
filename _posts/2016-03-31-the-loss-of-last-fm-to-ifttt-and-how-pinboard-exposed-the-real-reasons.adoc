@@ -1,6 +1,7 @@
 = The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons
 :page-layout: post
 :page-navtitle: The Loss of Last.fm to IFTTT and How Pinboard Exposed the Real Reasons
+:page-categories: geekery
 :page-excerpt: On March 9th I received the following email from IFTTT&#58;
 :page-image: /testsite/images/270969697_fc9dcf3383.jpg
 :imagesdir: /testsite/images

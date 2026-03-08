@@ -1,6 +1,7 @@
 = Lex's Costume Battle 2015
 :page-layout: post
 :page-navtitle: Lex's Costume Battle 2015
+:page-categories: stories
 :page-excerpt: The look I should have given halfway through
 :page-image: /testsite/images/22119548335_effa8b3fed_b-1.jpg
 :imagesdir: /testsite/images

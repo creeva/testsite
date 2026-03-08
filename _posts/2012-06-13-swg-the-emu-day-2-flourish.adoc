@@ -1,6 +1,7 @@
 = SWG the Emu -- Flourish
 :page-layout: post
 :page-navtitle: SWG the Emu -- Flourish
+:page-categories: video-games
 :page-excerpt: It's strange to back to the beginning. I've started over on the second server to visit, but each time the server had its own personality established. This server is in seedling form still becoming what it will be. Individuals are still getting their footing to find their little place in the world. Then you have the non-conformist that won't live up to their correct role.
 :page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images

@@ -1,6 +1,7 @@
 = Joe Cyrek a Friend Still Missed
 :page-layout: post
 :page-navtitle: Joe Cyrek a Friend Still Missed
+:page-categories: stories
 :page-excerpt: +
 It seems that we can't do enough these days to always fully realize those that are close to us. Things change and we don't get to do all the things we want to or say what we can. 7 years ago I lost my best friend to an automobile accident. I had never thought I would be a pallbearer so early in my life.
 :page-image: /testsite/images/kilt.jpg

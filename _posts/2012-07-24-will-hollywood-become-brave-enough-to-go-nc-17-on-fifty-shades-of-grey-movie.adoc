@@ -1,6 +1,7 @@
 = Will Hollywood Become Brave Enough To Go NC-17 on Fifty Shades of Grey Movie
 :page-layout: post
 :page-navtitle: Will Hollywood Become Brave Enough To Go NC-17 on Fifty Shades of Grey Movie
+:page-categories: stories
 :page-excerpt: Last weekend around the campfire we were having a discussion about the Fifty Shades of Grey movie that is in the works. The most important item was the rating -- would the movie go with an R rating or a full-blown NC-17? I think anything other than NC-17 would be a disservice to the film world. I have not read the book, but I have read the scenes. My wife has also finished it and has no interest in completing the trilogy.
 :page-image: /testsite/images/397488557_732c8923e3_m.jpg
 :imagesdir: /testsite/images

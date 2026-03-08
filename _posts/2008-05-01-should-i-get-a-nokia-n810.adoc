@@ -1,6 +1,7 @@
 = Should I Get a Nokia N810?
 :page-layout: post
 :page-navtitle: Should I Get a Nokia N810?
+:page-categories: geekery
 :page-excerpt: To get an n810 or not is the question. A few days ago I wrote a couple of blog posts from my wife's new n810. I have some reservations about the keyboard for "power writing", but that can be handled by a separate Bluetooth keyboard. I think that's not an issue.
 :page-image: /testsite/images/lost-poster-1.jpg
 :imagesdir: /testsite/images

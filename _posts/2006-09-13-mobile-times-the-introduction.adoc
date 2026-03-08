@@ -1,6 +1,7 @@
 = Mobile Times -- The Introduction
 :page-layout: post
 :page-navtitle: Mobile Times -- The Introduction
+:page-categories: geekery
 :page-excerpt: The 101 post of blogs -- what are your goals and ambitions for this site?
 :page-image: /testsite/images/undersea-cable-vietnam-1.jpg
 :imagesdir: /testsite/images

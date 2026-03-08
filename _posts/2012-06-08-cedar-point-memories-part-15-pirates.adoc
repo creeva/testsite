@@ -1,6 +1,7 @@
 = Cedar Point Memories -- Pirates!
 :page-layout: post
 :page-navtitle: Cedar Point Memories -- Pirates!
+:page-categories: stories
 :page-excerpt: I'm all screwed up on the timeline for getting these articles in order.   So for the moment, I'm going to throw the order aside and write about a beloved Cedar Point ride that no longer exists.   The ride is "The Pirate Ride" and it was located next to the Blue Streak.  It was a pirate-themed dark ride.
 :page-image: /testsite/images/cedarpoint.jpg
 :imagesdir: /testsite/images

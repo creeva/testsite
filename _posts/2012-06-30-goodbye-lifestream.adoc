@@ -1,6 +1,7 @@
 = Goodbye Lifestream
 :page-layout: post
 :page-navtitle: Goodbye Lifestream
+:page-categories: stories
 :page-excerpt: For years I ran a lifestream on my site. I started the stream because it would take all the events I did in a single day and save them in a tidy WordPress blog post. I would then have something to reference for any given day. The auto posting stopped working somewhere around two years ago.
 :page-image: /testsite/images/typewriter-1.jpg
 :imagesdir: /testsite/images

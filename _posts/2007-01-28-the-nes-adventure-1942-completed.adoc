@@ -1,6 +1,7 @@
 = The NES Adventure -- 1942 -- Completed
 :page-layout: post
 :page-navtitle: The NES Adventure -- 1942 -- Completed
+:page-categories: video-games
 :page-excerpt: In my quest to beat every game officially released for the NES system -- I started with 1942 the first game on the list.
 :page-image: /testsite/images/1039657168-00.jpg
 :imagesdir: /testsite/images

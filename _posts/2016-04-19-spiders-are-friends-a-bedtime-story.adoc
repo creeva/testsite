@@ -1,6 +1,7 @@
 = Spiders Are Friends -- A Bedtime Story
 :page-layout: post
 :page-navtitle: Spiders Are Friends -- A Bedtime Story
+:page-categories: stories
 :page-excerpt: This story started out as a Facebook post by my wife. I thought I would expand upon it and turn it into a story for my son. This is what I'm going to read to him for the bedtime story tonight.
 :page-image: /testsite/images/tiger-spider-13773658076EA-1.jpg
 :imagesdir: /testsite/images

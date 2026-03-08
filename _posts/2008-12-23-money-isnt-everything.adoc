@@ -1,6 +1,7 @@
 = Money Isn't Everything
 :page-layout: post
 :page-navtitle: Money Isn't Everything
+:page-categories: stories
 :page-excerpt: Money isn't everything. We treat it like it though. Some people can't understand when I say I don't necessarily want more though. I of course do want more money, but at the same time, I don't. What I truly want is more freedom, more time, and more enjoyment from what I do.
 :page-image: /testsite/images/751221191_fdb8eae75c_m.jpg
 :imagesdir: /testsite/images

@@ -1,6 +1,7 @@
 = Pieces of Me That Exist in the Cloud
 :page-layout: post
 :page-navtitle: Pieces of Me That Exist in the Cloud
+:page-categories: geekery
 :page-excerpt: Mobile computing is becoming my newest fascination. My previous fascinations included network-based storage, network redundancy, and network security. I enjoy making things do things that they were meant or designed to do. This is part of the soul that drives my curiosity to the edge of insanity and teeters over the maw of the great beyond. I think eventually I will completely lose it and tumble into that gaping mouth that will swallow my soul and my body whole.
 :page-image: /testsite/images/116015471_f0cbea5de9_m.jpg
 :imagesdir: /testsite/images

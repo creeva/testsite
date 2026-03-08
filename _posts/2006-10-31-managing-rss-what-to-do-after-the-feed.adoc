@@ -1,6 +1,7 @@
 = Managing RSS -- What To Do After The Feed?
 :page-layout: post
 :page-navtitle: Managing RSS -- What To Do After The Feed?
+:page-categories: geekery
 :page-excerpt: RSS -- great technology or a flop. In a lot of ways, it's like the push technology developed by Netscape years ago -- great in theory less so in practice.
 :page-image: /testsite/images/200px-Feed-icon.svg1_-1.png
 :imagesdir: /testsite/images

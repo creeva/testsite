@@ -1,6 +1,7 @@
 = PVP Lifestyle
 :page-layout: post
 :page-navtitle: PVP Lifestyle
+:page-categories: video-games
 :page-excerpt: Well, your krayt pearl collection looks shiny and costly. +
 how much did you pay for your bad uber blaster? +
 and how much did you spend on your black mokilok jacket? +

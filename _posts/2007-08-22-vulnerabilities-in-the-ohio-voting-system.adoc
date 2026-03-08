@@ -1,6 +1,7 @@
 = Vulnerabilities in the Ohio Voting System
 :page-layout: post
 :page-navtitle: Vulnerabilities in the Ohio Voting System
+:page-categories: geekery
 :page-excerpt: One of my readers (yes I actually have at least one that's not related or an outside friend) pointed out an article that he was working on that has been picked up by the media.
 :page-image: /testsite/images/justice_icon-1.png
 :imagesdir: /testsite/images

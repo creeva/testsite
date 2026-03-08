@@ -1,6 +1,7 @@
 = So I'm a Webmaster for My First Non-Profit
 :page-layout: post
 :page-navtitle: So I'm a Webmaster for My First Non-Profit
+:page-categories: stories
 :page-excerpt: So I've taken over the position of webmaster for the VCMA (Vermilion Community Music Association). This is going to start a new series as I'm going to use them as guinea pigs for what I've felt non-profits need to do to survive and thrive in the web 2.0 world. They are not a big organization, and I'm sure I received this position for my background and not my witty personality.
 :page-image: /testsite/images/378372229_3068555380_m.jpg
 :imagesdir: /testsite/images

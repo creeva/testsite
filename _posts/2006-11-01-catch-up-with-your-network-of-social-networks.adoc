@@ -1,6 +1,7 @@
 = Catch Up With Your Network of Social Networks
 :page-layout: post
 :page-navtitle: Catch Up With Your Network of Social Networks
+:page-categories: geekery
 :page-excerpt: iDea Labs &#58;&#58;&#58; Catch up with your network of Social Networks
 :page-image: /testsite/images/switch-1.jpg
 :imagesdir: /testsite/images

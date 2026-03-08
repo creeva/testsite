@@ -1,6 +1,7 @@
 = My First Web Browser
 :page-layout: post
 :page-navtitle: My First Web Browser
+:page-categories: geekery
 :page-excerpt: So reading my RSS feed I came across an article from Mashable -- the article was a poll that asked what was your first web browser. While many people are mourning the loss of Netscape, which AOL announced today would be discontinued, it was not my first web browser.
 :page-image: /testsite/images/200px-lynx-wikipedia-1.png
 :imagesdir: /testsite/images

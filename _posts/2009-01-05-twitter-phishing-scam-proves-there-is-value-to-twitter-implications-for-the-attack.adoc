@@ -1,6 +1,7 @@
 = Twitter Phishing Scam -- Proves There is Value To Twitter -- Implications For the Attack
 :page-layout: post
 :page-navtitle: Twitter Phishing Scam -- Proves There is Value To Twitter -- Implications For the Attack
+:page-categories: geekery
 :page-excerpt: The recent Twitter phishing scam had nontwitter users scratching their heads on why this service would be targeted for a phishing scam at all.. Most people view little or no monetary value to twitter accounts. For most people, this may actually be true. For people like Scoble or companies that promote themselves over Twitter, well the brand name damage caused by a hijacked Twitter account could be quite costly.
 :page-image: /testsite/images/watch_out.png
 :imagesdir: /testsite/images

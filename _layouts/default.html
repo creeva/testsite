@@ -240,6 +240,15 @@
             nav a { padding: 1rem 0.6rem; font-size: 0.75rem; }
         }
 
+        /* CATEGORY TITLE */
+        .category-title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid var(--border);
+        }
+
         /* PAGINATION */
         .pagination {
             display: flex;
@@ -280,6 +289,9 @@
         <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
         <nav>
             <a href="{{ site.baseurl }}/">Home</a>
+            <a href="{{ site.baseurl }}/category-geekery">Geekery</a>
+            <a href="{{ site.baseurl }}/category-video-games">Video Games</a>
+            <a href="{{ site.baseurl }}/category-stories">Stories</a>
             <a href="{{ site.baseurl }}/about">About</a>
         </nav>
     </div>

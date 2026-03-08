@@ -1,6 +1,7 @@
 = Trip To NASA's Plum Brook Station Open House
 :page-layout: post
 :page-navtitle: Trip To NASA's Plum Brook Station Open House
+:page-categories: stories
 :page-excerpt: So yesterday 06/01/08 Xie 'lanthia, Ghoulishcharm, and I made it out to NASA's Plumbrook Station facility.
 :page-image: /testsite/images/270969697_fc9dcf3383.jpg
 :imagesdir: /testsite/images

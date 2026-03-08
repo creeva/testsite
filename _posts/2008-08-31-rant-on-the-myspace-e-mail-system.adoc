@@ -1,6 +1,7 @@
 = Rant On The Myspace E-mail System
 :page-layout: post
 :page-navtitle: Rant On The Myspace E-mail System
+:page-categories: geekery
 :page-excerpt: Now you know if you read my blog regularly that I don't have the highest respect for Myspace. I have been using Myspace more and the issues of its flaw just become more glaring to me over time. +
 Issues&#58;
 :page-image: /testsite/images/2683876182_fbed6866d0_m.jpg

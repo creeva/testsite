@@ -1,6 +1,7 @@
 = The Ubuntu Journey -- Part 3
 :page-layout: post
 :page-navtitle: The Ubuntu Journey -- Part 3
+:page-categories: geekery
 :page-excerpt: Some random thoughts though I'm currently away from my laptop.
 :page-image: /testsite/images/ubuntu-logo32.png
 :imagesdir: /testsite/images

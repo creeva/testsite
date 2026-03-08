@@ -1,6 +1,7 @@
 = Retrometrics -- Mousetrap for Colecovision
 :page-layout: post
 :page-navtitle: Retrometrics -- Mousetrap for Colecovision
+:page-categories: video-games
 :page-excerpt: This piece was originally written for Duesr.com
 :page-image: /testsite/images/Mousetrap-2-1.jpg
 :imagesdir: /testsite/images

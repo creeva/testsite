@@ -1,6 +1,7 @@
 = SOE Idiot
 :page-layout: post
 :page-navtitle: SOE Idiot
+:page-categories: video-games
 :page-excerpt: This is my parody song from the SWG duping bug incident where many innocent players were banned. It is entitled SOE Idiot and was a spoof on Green Day's American Idiot.
 :page-image: /testsite/images/Star_Wars_Galaxies_Box_Art-1.jpg
 :imagesdir: /testsite/images

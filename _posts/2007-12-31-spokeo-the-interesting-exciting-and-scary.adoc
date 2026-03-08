@@ -1,6 +1,7 @@
 = Spokeo -- The Interesting, Exciting, and Scary
 :page-layout: post
 :page-navtitle: Spokeo -- The Interesting, Exciting, and Scary
+:page-categories: geekery
 :page-excerpt: Spokeo is one of the latest Web 2.0 services I have tried here is how it works&#58;
 :page-image: /testsite/images/switch-1.jpg
 :imagesdir: /testsite/images

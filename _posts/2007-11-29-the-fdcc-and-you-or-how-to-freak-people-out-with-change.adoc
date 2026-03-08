@@ -1,6 +1,7 @@
 = The FDCC and You or How to Freak People Out With Change.
 :page-layout: post
 :page-navtitle: The FDCC and You or How to Freak People Out With Change.
+:page-categories: geekery
 :page-excerpt: Currently, where I work we are implementing to roll out the NIST's FDCC guidelines. All government agencies are mandated to be migrated to the "one desktop" architecture across the board. Meaning each agency whether it be DHS or the Department of Agriculture will have the same settings applied to their machine.
 :page-image: /testsite/images/justice_icon-1.png
 :imagesdir: /testsite/images

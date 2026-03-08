@@ -1,6 +1,7 @@
 = Blog Merge
 :page-layout: post
 :page-navtitle: Blog Merge
+:page-categories: geekery
 :page-excerpt: Ok, I took all my blogs -- with the exception of SNN, and migrated them all into this page. Hopefully, this will give a more concise reading experience to my friends, family, and suffering folks that read my writings.
 :page-image: /testsite/images/200px-Feed-icon.svg1_-1.png
 :imagesdir: /testsite/images

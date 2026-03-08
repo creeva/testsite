@@ -1,6 +1,7 @@
 = Harry Potter and the Sales of Wal-Martium
 :page-layout: post
 :page-navtitle: Harry Potter and the Sales of Wal-Martium
+:page-categories: stories
 :page-excerpt: +
 So I joined in the cultural phenomenon that is finally over -- the purchasing of Harry Potter and the Deathly Hallows. I arrived at about 11&#58;30 and didn't see any sort of line in the store and my naivete had me believing that maybe it wasn't going to be that big of a thing so I proceeded to start to do my shopping.
 :page-image: /testsite/images/07-21-07_0001.jpg
