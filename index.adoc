@@ -7,19 +7,22 @@ title: Vermilion Bands
 
 == Vermilion Bands
 
+{empty} +
 [.text-center]
 Now Hear This! We are presenting the Vermilion Historic Marching Bands.
+{empty} +
 
 video::IGZOJ64LuWs[youtube, width=640, height=360, align="center"]
 
+{empty} +
 [.text-center]
 What time is it? Band Time!
 
 [.text-center]
 link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
 
-[.text-center]
-image::/testsite/images/alumnigeneric.jpeg[, 500, align="center"]
+
+image::/testsite/images/alumnigeneric.jpeg[Alumni Generic, 500, align="center"]
 
 [.text-center]
 link:/testsite/vermilion-bands/alumni/[Vermilion Sailor Alumni Bands]
