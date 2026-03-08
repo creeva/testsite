@@ -1,12 +1,21 @@
 title: Creeva's World 3.0
 baseurl: /testsite
 description: Creeva's personal site
+
 exclude:
-- LICENSE
-- README.adoc
-- Gemfile
-- Gemfile.lock
-- Rakefile
+  - LICENSE
+  - README.adoc
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: post
+
 asciidoc: {}
 asciidoctor:
   base_dir: :docdir
@@ -14,11 +23,14 @@ asciidoctor:
   attributes:
     - icons=font
     - idseparator=_
-    - stylesdir=css
+    - imagesdir=/testsite/images
     - source-highlighter=coderay
     - liquid
+
 paginate: 10
 paginate_path: "/page:num/"
+
 plugins:
   - jekyll-asciidoc
   - jekyll-paginate
+  - jekyll-feed
