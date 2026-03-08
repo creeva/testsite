@@ -5,8 +5,7 @@ title: Vermilion Bands
 
 {empty} +
 
-
-[.center]
+[.text-center]
 Now Hear This! We are presenting the Vermilion Historic Marching Bands.
 
 {empty} +
@@ -29,40 +28,66 @@ image::/testsite/images/1994-Sailor-Marching-Band-1.jpeg[1994 Marching Band, 500
 [.text-center]
 link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
 
-
 {empty} +
 
 image::/testsite/images/alumnigeneric.jpeg[Alumni Generic, 500, align="center"]
 
+{empty} +
+
 [.text-center]
 link:/testsite/vermilion-bands/alumni/[Vermilion Sailor Alumni Bands]
 
+{empty} +
+
 image::/testsite/images/1960con.jpg[, 500, align="center"]
+
+{empty} +
+
 [.text-center]
 link:/testsite/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]
 
+{empty} +
+
 image::/testsite/images/1933orch.jpg[, 500, align="center"]
+
+{empty} +
 
 [.text-center]
 link:/testsite/vermilion-high-school-orchestra/[Vermilion High School Orchestras]
 
+{empty} +
+
 image::/testsite/images/1957pep.jpg[, 500, align="center"]
+
+{empty} +
 
 [.text-center]
 link:/testsite/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]
 
+{empty} +
+
+image::/testsite/images/1990jazz.png[1990 Jazz Band, 500,role="text-center"]
+
+{empty} +
+
 [.text-center]
 link:/testsite/vermilion-high-school-jazz-bands/[Vermilion High School Jazz Bands]
 
+{empty} +
+
 image::/testsite/images/1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[, 500, align="center"]
+
+{empty} +
 
 [.text-center]
 link:/testsite/vermilion-bands/other/[Other Vermilion Bands]
 
+{empty} +
+
 image::/testsite/images/1993musicman.jpeg[, 500, align="center"]
+
+{empty} +
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]
 
-[.text-center]
-__________________________________________________________________________________  + __________________________________________________________________________________  + link:/testsite/[Vermilion Bands] _____ link:/testsite/vermilion-high-school-band-directors/[Vermilion Band Directors] _____ link:/testsite/vermilion-band-history/[Band History] ____ link:/testsite/media-links/[Media Links] _____ link:/testsite/songs/[Songs] _  + __________________________________________________________________________________  + __________________________________________________________________________________

@@ -138,7 +138,51 @@
             border-radius: 6px;
             display: block;
             margin: 1rem auto;
-            loading: lazy;
+        }
+
+        /* ── AsciiDoc image blocks ───────────────────────────────── */
+        /* Asciidoctor wraps block images in <div class="imageblock"> */
+        .imageblock {
+            margin: 1rem 0;
+        }
+        .imageblock .content {
+            display: block;
+        }
+        .imageblock img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 6px;
+            display: block;
+            margin: 0 auto;
+        }
+
+        /* ── Centering ───────────────────────────────────────────── */
+        /* [.text-center] block role */
+        .text-center,
+        .imageblock.text-center,
+        .imageblock.text-center .content {
+            text-align: center;
+        }
+        .text-center img,
+        .imageblock.text-center img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* ── Rounded corners ─────────────────────────────────────── */
+        /* role="rounded" or WordPress is-style-rounded */
+        .imageblock.rounded img,
+        .imageblock.is-style-rounded img,
+        img.rounded,
+        img.is-style-rounded {
+            border-radius: 16px;
+        }
+
+        /* role="circle" for fully circular images */
+        .imageblock.circle img,
+        img.circle {
+            border-radius: 50%;
         }
         .entry-content a { color: #5b2d8e; }
         .entry-content ul, .entry-content ol {
@@ -289,7 +333,7 @@
                         <li><a href="https://www.flickr.com/photos/vhsalumniband/" title="Flickr"><i class="fab fa-flickr"></i></a></li>
                         <li><a href="https://www.linkedin.com/groups/12153056/" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a></li>
                         <li><a href="https://github.com/creeva/vhsalumniband" title="GitHub"><i class="fab fa-github"></i></a></li>
-                        <li><a href="mailto:vhsalumniband@gmail.com" title="Email"><i class="fas fa-envelope"></i></a></li>
+                        <li><a href="/cdn-cgi/l/email-protection#daacb2a9bbb6afb7b4b3b8bbb4be9abdb7bbb3b6f4b9b5b7" title="Email"><i class="fas fa-envelope"></i></a></li>
                     </ul>
                 </div>
                 <div class="widget">
@@ -315,11 +359,4 @@
 
 </div>
 
-<script>
-  document.querySelectorAll('.entry-content img').forEach(function(img) {
-    img.setAttribute('loading', 'lazy');
-  });
-</script>
-
-</body>
-</html>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><sc
