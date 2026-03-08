@@ -3,11 +3,12 @@ layout: default
 title: Media Links
 ---
 
-= Media Links
+== Media Links
 
-=== Media Links
+{empty} +
 
-image::/testsite/images/VLS-2006_pdf__page_43_of_99_4.jpg[,role="text-center"]
+[.text-center.rounded]
+image::/testsite/images/VLS-2006_pdf__page_43_of_99_4.jpg[,600]
 
 The following media links are available:
 
@@ -16,4 +17,5 @@ The following media links are available:
 * link:https://soundcloud.com/vermilion-sailor-alumni-band[Vermilion Sailor Alumni Band Sound Cloud]
 * link:https://www.vermilionschools.org/Alumni.aspx[Vermilion High School Alumni Site (Yearbook Link on Page)]
 
-image::/testsite/images/22008461_1575824059107432_3670404565882790069_n.jpg[,role="text-center"]
+[.text-center.rounded]
+image::/testsite/images/22008461_1575824059107432_3670404565882790069_n.jpg[,600]
