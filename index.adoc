@@ -6,7 +6,7 @@ title: Vermilion Bands
 {empty} +
 
 [.text-center]
-Now Hear This! We are presenting the Vermilion Historic Marching Bands.
+_Now Hear This! We are presenting the Vermilion Historic Marching Bands._
 
 {empty} +
 
@@ -17,12 +17,12 @@ video::IGZOJ64LuWs[youtube, width=640, height=360, align="center"]
 {empty} +
 
 [.text-center]
-What time is it? Band Time!
+_What time is it?_ *Band Time!*
 
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1994-Sailor-Marching-Band-1.jpeg[1994 Marching Band, 600]
+image::/testsite/images/1994marchingband.jpeg[1994 Marching Band, 600]
 
 {empty} +
 
