@@ -5,16 +5,25 @@ title: Videos
 
 == Video Links
 
+{empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1999-2000-Sailor-Marching-Band_4169765288_o.jpg[,600
+image::/testsite/images/1999-2000-Sailor-Marching-Band_4169765288_o.jpg[,600]
+
+{empty} +
 
 Vermilion Sailor Alumni band hosts all of its videos on YouTube. Original source highlight videos as well as videos of individual songs are included in the playlists arranged by year and band (High School or Alumni) that performed them. Over a thousand videos are available on the link:https://www.youtube.com/@vermilionsailoralumniband/[YouTube page] . Playlists below link to individual groups.
+
+{empty} +
 
 [.text-center.rounded]
 image::/testsite/images/vhsmajorettes77vv.jpg[,600]
 
+{empty} +
+
 *Vermilion Sailor Marching Band Video Playlists:*
+
+{empty} +
 
 * link:https://www.youtube.com/watch?v=jYvLun5_qHE&list=PLqposBlPPQd-jWPGovPv8pXcEJo86QuyA&pp=gAQBiAQB[1985-1986 Vermilion Sailor Marching Band]
 * link:https://www.youtube.com/watch?v=BRqJkgv8TSk&list=PLqposBlPPQd8j1dp_hrtuq3ep5jC5xOKN&pp=gAQBiAQB[1986-1987 Vermilion Sailor Marching Band]
@@ -57,11 +66,16 @@ image::/testsite/images/vhsmajorettes77vv.jpg[,600]
 * 2024-2025 Vermilion Sailor Marching Band
 * 2025-2026 Vermilion Sailor Marching Band
 
+{empty} +
 
 [.text-center.rounded]
 image::/testsite/images/joealumni.jpg[,600"]
 
+{empty} +
+
 *Vermilion Sailor Alumni Band Video Playlists:*
+
+{empty} +
 
 * link:https://www.youtube.com/watch?v=1IEAAbwKmZ8&list=PLqposBlPPQd_QglsRY88p5x3ZJh2pnf6b&pp=gAQBiAQB[1986 Vermilion Sailor Alumni Band]
 * link:https://www.youtube.com/watch?v=Zbsp0krLuB0&list=PLqposBlPPQd8sb6ceYqnsd2xn5DknKhaU&pp=gAQBiAQB[1987 Vermilion Sailor Alumni Band]
@@ -93,17 +107,23 @@ image::/testsite/images/joealumni.jpg[,600"]
 * link:https://www.youtube.com/watch?v=ablJQaPXDjE&list=PLqposBlPPQd_ytdahR5w_xYiwYEaBbs-C&pp=gAQBiAQB[2021 Vermilion Sailor Alumni Band]
 * link:https://www.youtube.com/watch?v=YFsRfxQ99HM&list=PLqposBlPPQd8-hWJwX-U8cTFfYKmBQqLX&pp=gAQBiAQB[2022 Vermilion Sailor Alumni Band]
 
+{empty} +
 
 [.text-center.rounded]
 image::/testsite/images/1986-1987-Spring-Musical-Oklahoma-16-Vermilion-High-School-Vermilion-OH.jpg[,600]
 
+{empty} +
+
 *Other Related Video Playlists:*
+
+{empty} +
 
 * link:https://www.youtube.com/watch?v=0f-SghWbfJg&list=PLqposBlPPQd9I1_qrRFLb5xekLmstfQHO&pp=gAQBiAQB[1989-1990 Vermilion Sailor Symphonic Band]
 * link:https://www.youtube.com/watch?v=0f-SghWbfJg&list=PLqposBlPPQd-OuSnMfbZ1bJuMg4Z4rJLO&pp=gAQBiAQB[1989-1990 Vermilion Sailor Jazz Band]
 * link:https://www.youtube.com/watch?v=-pZw6Q4Agzk&list=PLqposBlPPQd9Jec5Fadr2yjcn4UF5ekDz&pp=gAQBiAQB[Highlight Videos]
 * link:https://www.youtube.com/watch?v=1uGSEg1j4ck&list=PLqposBlPPQd_JloD8M7yXdQiel2n3YGJ-&pp=gAQBiAQB[Misc. Videos]
 
+{empty} +
 
 [.text-center.rounded]
 image::/testsite/images/1967-1968-2019-07-23-10.50.32-scaled-1.jpg[,600]
