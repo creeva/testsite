@@ -5,6 +5,8 @@ title: Join/Contact Us
 
 == To Join The Alumni Band
 
+{empty} +
+
 [.text-center.rounded]
 image::/testsite/images/2014alumni.jpg[2014 Alumni, 600]
 
@@ -12,14 +14,30 @@ Participation in the Vermilion Sailor Alumni Band is open to all graduates of Ve
 
 To join the Vermilion Sailor Alumni Band and to alerted of events, please fill out this form:
 
+{empty} +
+
 * link:https://forms.gle/R3MWfMK3gCUEB3eX9[Vermilion Sailor Alumni Band Registration]
 
-=== Contact For Other Matters
+{empty} +
+
+{empty} +
+
+=== Contact Us For Other Matters
+
+{empty} +
 
 [.text-center.rounded]
 image::/testsite/images/1956-1957-Vermilion-Sailor-Marching-Band-Group-Picture-Vermilion-OH.jpg[1956-1957 Sailor Marching Band,600]
 
+{empty} +
+
+{empty} +
+
 For other inquiries, we can be contacted via email link:mailto:vhsalumniband@gmail.com?subject=VHS%20Alumni%20Band[vhsalumniband@gmail.com] or use our link:https://www.facebook.com/vhsalumniband/[Facebook Page] for a faster response.
+
+{empty} +
+
+{empty} +
 
 [.text-center.rounded]
 image::/testsite/images/1991-Majorettes.jpg[1991 Majorettes, 600]
