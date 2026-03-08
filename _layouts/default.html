@@ -325,5 +325,10 @@
     <p>© {{ site.time | date: '%Y' }} {{ site.title }} &mdash; Built with Jekyll</p>
 </footer>
 
+<script>
+  document.querySelectorAll('.post-content img').forEach(function(img) {
+    img.setAttribute('loading', 'lazy');
+  });
+</script>
 </body>
 </html>
