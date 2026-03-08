@@ -6,7 +6,7 @@ title: Vermilion Bands
 {empty} +
 
 
-[.text-center]
+[.center]
 Now Hear This! We are presenting the Vermilion Historic Marching Bands.
 
 {empty} +
