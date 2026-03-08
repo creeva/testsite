@@ -10,7 +10,11 @@ title: Join/Contact Us
 [.text-center.rounded]
 image::/testsite/images/2014alumni.jpg[2014 Alumni, 600]
 
+{empty} +
+
 Participation in the Vermilion Sailor Alumni Band is open to all graduates of Vermilion High School that participated in the music program. With permission from the director, friends and family of VHS graduates have also become members of the Vermilion Sailor Alumni Band.
+
+{empty} +
 
 To join the Vermilion Sailor Alumni Band and to alerted of events, please fill out this form:
 
