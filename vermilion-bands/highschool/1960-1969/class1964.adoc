@@ -7,7 +7,7 @@ title: 1963-1964 Vermilion Sailor Marching Band
 
 === 1963-1964 Vermilion Sailor Marching Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Head Majorette: Linda Harrison
 
@@ -16,7 +16,7 @@ Image Gallery:
 * link:https://photos.app.goo.gl/EcCJ5fnH43688kJ37[1963-1964 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/y5uA2MNiJXPGZzjv8[1964 Vermilion High School Yearbook]
 
-image::/images/1964-Band-Write-up.jpg[,role="text-center"]
+image::/testsite/images/1964-Band-Write-up.jpg[,role="text-center"]
 
 *The 1964 Sailor Marching Band*
 
@@ -26,19 +26,19 @@ _After spending a Summer in Chicago, Mr. Burt returned to the band filled with n
 
 _The Band will resume practice after the spring concert in preparation for a trip to the Lions' International Convention in Toronto._
 
-image::/images/5-22-1963.jpeg[,role="text-center"]
+image::/testsite/images/5-22-1963.jpeg[,role="text-center"]
 
-image::/images/6-3-1964.jpeg[,role="text-center"]
+image::/testsite/images/6-3-1964.jpeg[,role="text-center"]
 
-image::/images/6-17-1964.jpeg[,role="text-center"]
+image::/testsite/images/6-17-1964.jpeg[,role="text-center"]
 
-image::/images/9-4-1963.jpeg[,role="text-center"]
+image::/testsite/images/9-4-1963.jpeg[,role="text-center"]
 
-image::/images/9-25-1963-2.jpeg[,role="text-center"]
+image::/testsite/images/9-25-1963-2.jpeg[,role="text-center"]
 
-image::/images/4-1-1964.jpeg[,role="text-center"]
+image::/testsite/images/4-1-1964.jpeg[,role="text-center"]
 
-image::/images/5-20-1964.jpeg[,role="text-center"]
+image::/testsite/images/5-20-1964.jpeg[,role="text-center"]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]

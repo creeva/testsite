@@ -7,7 +7,7 @@ title: 1990 -- Guys and Dolls
 
 === Guys and Dolls
 
-image::/images/Guys_and_Dolls.png[,role="text-center"]
+image::/testsite/images/Guys_and_Dolls.png[,role="text-center"]
 
 “Guys and Dolls” is a beloved American musical with music and lyrics by Frank Loesser and a book by Jo Swerling and Abe Burrows. The story is based on the short stories of Damon Runyon and is set in the colorful and bustling world of New York City’s underground gambling scene. Here’s a summary of the plot:
 
@@ -26,11 +26,11 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/CbXaNWGvoX4mtdk59[1990 Vermilion High School -- Guys and Dolls]
 
-image::/images/1990musical.jpeg[,role="text-center"]
+image::/testsite/images/1990musical.jpeg[,role="text-center"]
 
-image::/images/1990musical2.jpeg[,role="text-center"]
+image::/testsite/images/1990musical2.jpeg[,role="text-center"]
 
-image::/images/1990musical3.jpeg[,role="text-center"]
+image::/testsite/images/1990musical3.jpeg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-musical-theater/[Vermilion Musical Theater]
+link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

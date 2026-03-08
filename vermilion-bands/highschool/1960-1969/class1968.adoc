@@ -7,7 +7,7 @@ title: 1967-1968 Vermilion Sailor Marching Band
 
 === 1967-1968 Vermilion Sailor Marching Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Head Majorette: Candy Athey
 
@@ -18,7 +18,7 @@ Members: M. Bachman, P. Bachman, G. Bacus, B. Berk, T. Boggess, P. Booker, C. Br
 * link:https://photos.app.goo.gl/hjP8zRNiPwcZWypX6[1967-1968 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/9xjaCSqQfzbjijhc8[1968 Vermilion High School Yearbook]
 
-image::/images/1967-1968-2019-07-23-10.49.48.jpg[,role="text-center"]
+image::/testsite/images/1967-1968-2019-07-23-10.49.48.jpg[,role="text-center"]
 
 *Candy Chosen Head Majorette*
 
@@ -30,7 +30,7 @@ _There were six freshmen, ten sophomores, and five juniors trying out this year 
 
 _Congratulations to the girls who were chosen: Candy Athey head majorette, Ava Wise, Gail Washabaugh, Carol Gleason, Janet Leahy, Janet Newbill, and Jackie Lenhart._
 
-image::/images/1967-1968-2019-07-23-10.51.38.jpg[,role="text-center"]
+image::/testsite/images/1967-1968-2019-07-23-10.51.38.jpg[,role="text-center"]
 
 *Banquet "67"*
 
@@ -42,7 +42,7 @@ _The evening started out with a fine dinner prepared by Mrs. Duncon and the staf
 
 _The evening was very enjoyable and memorable to all._
 
-image::/images/1967-1968-2019-07-23-10.51.45.jpg[,role="text-center"]
+image::/testsite/images/1967-1968-2019-07-23-10.51.45.jpg[,role="text-center"]
 
 *Band Magazine Drive On*
 
@@ -56,7 +56,7 @@ _Each student who sells a subscription to one of the following four magazines wi
 
 _Each salesman will carry identification with him_
 
-image::/images/1967-1968-2019-07-23-10.52.20.jpg[,role="text-center"]
+image::/testsite/images/1967-1968-2019-07-23-10.52.20.jpg[,role="text-center"]
 
 *Sailor Band Marches Again*
 
@@ -76,7 +76,7 @@ _A good band requires planning, time, patience, and spirit. But before any march
 
 _A good band is made up of individuals who must: 1: "Be at the right place, at the right time, with the right equipment, in the right frame of mind"; 2. "March with the feeling of good rhythm!"; and 3. have "Espirit de corps!" Vermilion's Sailor Marching Band has all of these qualities, stick around during the half-time and see what they can do with them._
 
-image::/images/1967-1968-2019-07-23-10.53.39.jpg[,role="text-center"]
+image::/testsite/images/1967-1968-2019-07-23-10.53.39.jpg[,role="text-center"]
 
 *Nostalgia Strikes Senior Band*
 
@@ -90,7 +90,7 @@ _Last Friday the Senior band members received corsages and boutonnieres from the
 
 _Although they will have the opportunity to march again next spring for the Memorial Day and Fish Festival Parades, it just won't be the same as a football show. The memory of the last game will stay with them for a long time to come._
 
-image::/images/1967-1968-2019-07-23-10.53.42.jpg[,role="text-center"]
+image::/testsite/images/1967-1968-2019-07-23-10.53.42.jpg[,role="text-center"]
 
 *Festival Success*
 
@@ -100,7 +100,7 @@ _The Bellevue High band opened the evening with the flag-raising ceremonies. The
 
 _After the festival, the units were treated to ham sandwiches and pop by the Bellevue Band Boosters._
 
-image::/images/1967-1968-2019-07-23-10.53.45.jpg[,role="text-center"]
+image::/testsite/images/1967-1968-2019-07-23-10.53.45.jpg[,role="text-center"]
 
 *Farewell Salute*
 
@@ -112,23 +112,23 @@ _These Seniors stuck with it through summer practices, wrong notes, concerts, so
 
 _Good luck and Best wishes, seniors, in your upcoming "debut" with the world. Underclassmen, keep up the great work and be proud you are a Salilor_ .
 
-image::/images/8-3-1967.jpeg[,role="text-center"]
+image::/testsite/images/8-3-1967.jpeg[,role="text-center"]
 
-image::/images/9-28-1967.jpeg[,role="text-center"]
+image::/testsite/images/9-28-1967.jpeg[,role="text-center"]
 
-image::/images/10-12-1967.jpeg[,role="text-center"]
+image::/testsite/images/10-12-1967.jpeg[,role="text-center"]
 
-image::/images/10-19-1967.jpeg[,role="text-center"]
+image::/testsite/images/10-19-1967.jpeg[,role="text-center"]
 
-image::/images/10-26-1967.jpeg[,role="text-center"]
+image::/testsite/images/10-26-1967.jpeg[,role="text-center"]
 
-image::/images/11-2-1967.jpeg[,role="text-center"]
+image::/testsite/images/11-2-1967.jpeg[,role="text-center"]
 
-image::/images/11-2-1967-2.jpeg[,role="text-center"]
+image::/testsite/images/11-2-1967-2.jpeg[,role="text-center"]
 
-image::/images/11-30-1967.jpeg[,role="text-center"]
+image::/testsite/images/11-30-1967.jpeg[,role="text-center"]
 
-image::/images/6-6-1968.jpeg[,role="text-center"]
+image::/testsite/images/6-6-1968.jpeg[,role="text-center"]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]

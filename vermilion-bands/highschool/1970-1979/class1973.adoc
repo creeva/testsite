@@ -7,7 +7,7 @@ title: 1972-1973 Vermilion Sailor Marching Band
 
 === 1972-1973 Vermilion Sailor Marching Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Head Majorette: Jennifer Conn
 
@@ -17,47 +17,47 @@ Head Majorette: Jennifer Conn
 * link:https://photos.app.goo.gl/6gRCbubpTqmLNJjz8[1973 Vermilion High School Yearbook]
 * link:https://photos.app.goo.gl/EBVCp8AyyGhdhKRK9[1973 Vermilion High School -- Music Man]
 
-image::/images/1973marwrite.jpg[,role="text-center"]
+image::/testsite/images/1973marwrite.jpg[,role="text-center"]
 
-image::/images/1973-Majorette-Squad.jpg[,role="text-center"]
+image::/testsite/images/1973-Majorette-Squad.jpg[,role="text-center"]
 
-image::/images/2019-07-23-11.07.14.jpg[,role="text-center"]
+image::/testsite/images/2019-07-23-11.07.14.jpg[,role="text-center"]
 
-image::/images/2019-07-23-11.07.32.jpg[,role="text-center"]
+image::/testsite/images/2019-07-23-11.07.32.jpg[,role="text-center"]
 
-image::/images/2019-07-23-13.14.02.jpg[,role="text-center"]
+image::/testsite/images/2019-07-23-13.14.02.jpg[,role="text-center"]
 
-image::/images/2019-07-23-13.14.11.jpg[,role="text-center"]
+image::/testsite/images/2019-07-23-13.14.11.jpg[,role="text-center"]
 
-image::/images/2019-07-23-13.14.21.jpg[,role="text-center"]
+image::/testsite/images/2019-07-23-13.14.21.jpg[,role="text-center"]
 
-image::/images/2019-07-23-13.14.34.jpg[,role="text-center"]
+image::/testsite/images/2019-07-23-13.14.34.jpg[,role="text-center"]
 
-image::/images/2019-07-23-13.14.42.jpg[,role="text-center"]
+image::/testsite/images/2019-07-23-13.14.42.jpg[,role="text-center"]
 
-image::/images/2019-07-23-13.14.53.jpg[,role="text-center"]
+image::/testsite/images/2019-07-23-13.14.53.jpg[,role="text-center"]
 
-image::/images/9-21-1972.jpeg[,role="text-center"]
+image::/testsite/images/9-21-1972.jpeg[,role="text-center"]
 
-image::/images/9-28-1972.jpeg[,role="text-center"]
+image::/testsite/images/9-28-1972.jpeg[,role="text-center"]
 
-image::/images/10-5-1972.jpeg[,role="text-center"]
+image::/testsite/images/10-5-1972.jpeg[,role="text-center"]
 
-image::/images/10-5-1972-2.jpeg[,role="text-center"]
+image::/testsite/images/10-5-1972-2.jpeg[,role="text-center"]
 
-image::/images/10-12-1972.jpeg[,role="text-center"]
+image::/testsite/images/10-12-1972.jpeg[,role="text-center"]
 
-image::/images/10-19-1972.jpeg[,role="text-center"]
+image::/testsite/images/10-19-1972.jpeg[,role="text-center"]
 
-image::/images/10-26-1972.jpeg[,role="text-center"]
+image::/testsite/images/10-26-1972.jpeg[,role="text-center"]
 
-image::/images/11-2-1972.jpeg[,role="text-center"]
+image::/testsite/images/11-2-1972.jpeg[,role="text-center"]
 
-image::/images/12-7-1972.jpeg[,role="text-center"]
+image::/testsite/images/12-7-1972.jpeg[,role="text-center"]
 
-image::/images/3-15-1973.jpeg[,role="text-center"]
+image::/testsite/images/3-15-1973.jpeg[,role="text-center"]
 
-image::/images/3-22-1973.jpeg[,role="text-center"]
+image::/testsite/images/3-22-1973.jpeg[,role="text-center"]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]

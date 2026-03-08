@@ -7,7 +7,7 @@ title: 1978 -- Camelot
 
 === Camelot April 7-8, 14-15, 1978
 
-image::/images/camelot1978-1.jpeg[,role="text-center"]
+image::/testsite/images/camelot1978-1.jpeg[,role="text-center"]
 
 “Camelot” is a classic American musical with a book and lyrics by Alan Jay Lerner and music by Frederick Loewe. It’s based on the Arthurian legend and specifically the 1958 T.H. White novel “The Once and Future King.” The musical centers around the legendary King Arthur and his quest to create an ideal kingdom, Camelot. Here’s a summary of the plot:
 
@@ -37,51 +37,51 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/vnE873N4J2dmnzkL6[1978 Vermilion High School -- Camelot]
 
-image::/images/1978musical.jpeg[,role="text-center"]
+image::/testsite/images/1978musical.jpeg[,role="text-center"]
 
-image::/images/1978musical2.jpeg[,role="text-center"]
+image::/testsite/images/1978musical2.jpeg[,role="text-center"]
 
-image::/images/1978cama1.jpeg[,role="text-center"]
+image::/testsite/images/1978cama1.jpeg[,role="text-center"]
 
-image::/images/1978cama2.jpeg[,role="text-center"]
+image::/testsite/images/1978cama2.jpeg[,role="text-center"]
 
-image::/images/1978cama3.jpeg[,role="text-center"]
+image::/testsite/images/1978cama3.jpeg[,role="text-center"]
 
-image::/images/1978cama4.jpeg[,role="text-center"]
+image::/testsite/images/1978cama4.jpeg[,role="text-center"]
 
-image::/images/1978cama5.jpeg[,role="text-center"]
+image::/testsite/images/1978cama5.jpeg[,role="text-center"]
 
-image::/images/1978cama6.jpeg[,role="text-center"]
+image::/testsite/images/1978cama6.jpeg[,role="text-center"]
 
-image::/images/1978cama7.jpeg[,role="text-center"]
+image::/testsite/images/1978cama7.jpeg[,role="text-center"]
 
-image::/images/1978cama8.jpeg[,role="text-center"]
+image::/testsite/images/1978cama8.jpeg[,role="text-center"]
 
-image::/images/1978cama9.jpeg[,role="text-center"]
+image::/testsite/images/1978cama9.jpeg[,role="text-center"]
 
-image::/images/1978cama10.jpeg[,role="text-center"]
+image::/testsite/images/1978cama10.jpeg[,role="text-center"]
 
-image::/images/1978cam1.jpeg[,role="text-center"]
+image::/testsite/images/1978cam1.jpeg[,role="text-center"]
 
-image::/images/1978cam2.jpeg[,role="text-center"]
+image::/testsite/images/1978cam2.jpeg[,role="text-center"]
 
-image::/images/1978cam3.jpeg[,role="text-center"]
+image::/testsite/images/1978cam3.jpeg[,role="text-center"]
 
-image::/images/1978cam4.jpeg[,role="text-center"]
+image::/testsite/images/1978cam4.jpeg[,role="text-center"]
 
-image::/images/1978cam5.jpeg[,role="text-center"]
+image::/testsite/images/1978cam5.jpeg[,role="text-center"]
 
-image::/images/1978cam6.jpeg[,role="text-center"]
+image::/testsite/images/1978cam6.jpeg[,role="text-center"]
 
-image::/images/1978cam7.jpeg[,role="text-center"]
+image::/testsite/images/1978cam7.jpeg[,role="text-center"]
 
-image::/images/1978cam8.jpeg[,role="text-center"]
+image::/testsite/images/1978cam8.jpeg[,role="text-center"]
 
-image::/images/1978cam9.jpeg[,role="text-center"]
+image::/testsite/images/1978cam9.jpeg[,role="text-center"]
 
-image::/images/1978cam10.jpeg[,role="text-center"]
+image::/testsite/images/1978cam10.jpeg[,role="text-center"]
 
-image::/images/1978cam11.jpeg[,role="text-center"]
+image::/testsite/images/1978cam11.jpeg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-musical-theater/[Vermilion Music Theater]
+link:/testsite/vermilion-musical-theater/[Vermilion Music Theater]

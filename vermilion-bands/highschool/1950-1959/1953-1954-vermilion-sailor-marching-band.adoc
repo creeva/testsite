@@ -7,9 +7,9 @@ title: 1953-1954 Vermilion Sailor Marching Band
 
 === 1953-1954 Vermilion Sailor Marching Band
 
-image::/images/1954band.jpg[,role="text-center"]
+image::/testsite/images/1954band.jpg[,role="text-center"]
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Head Majorette: Nadine Miskow
 
@@ -20,14 +20,14 @@ Members: Leslie Roberts, Ward, Peterka, Rapprick, L. Widdowson, Gregg, Kyle, M. 
 * link:https://photos.app.goo.gl/cYqgrGyiS85qjh3A9[1953-1954 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/LyL2Gat6NgxPvP9N7[1954 Vermilion High School Yearbook]
 
-image::/images/1954bandwrite.jpg[,role="text-center"]
+image::/testsite/images/1954bandwrite.jpg[,role="text-center"]
 
-image::/images/1954bandhoff.jpg[,role="text-center"]
+image::/testsite/images/1954bandhoff.jpg[,role="text-center"]
 
-image::/images/1954maj.jpg[,role="text-center"]
+image::/testsite/images/1954maj.jpg[,role="text-center"]
 
 Members: Jeanette Wiseman, Nancy Mehnert, Barbara Wright, Nadine Miskow, Peggy David, Elizabeth Shook
 
-image::/images/1954majwrite.jpg[,role="text-center"]
+image::/testsite/images/1954majwrite.jpg[,role="text-center"]
 
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

@@ -8,34 +8,34 @@ title: 1970-1979 Vermilion Sailor Marching Bands
 === 1970-1979 Vermilion Sailor Marching Bands
 
 [.text-center]
-link:/vermilion-bands/highschool/1970-1979/class1970/[1969-1970 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1970-1979/class1970/[1969-1970 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/1970-1979/class1971/[1970-1971 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1970-1979/class1971/[1970-1971 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/1970-1979/class1972/[1971-1972 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1970-1979/class1972/[1971-1972 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/1970-1979/class1973/[1972-1973 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1970-1979/class1973/[1972-1973 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/1970-1979/class1974/[1973-1974 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1970-1979/class1974/[1973-1974 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/1970-1979/class1975/[1974-1975 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1970-1979/class1975/[1974-1975 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/1970-1979/class1976/[1975-1976 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1970-1979/class1976/[1975-1976 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/1970-1979/class1977/[1976-1977 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1970-1979/class1977/[1976-1977 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/1970-1979/class1978/[1977-1978 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1970-1979/class1978/[1977-1978 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/1970-1979/class1979/[1978-1979 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1970-1979/class1979/[1978-1979 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]

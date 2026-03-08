@@ -21,9 +21,9 @@ Director: Kurt Dieringer
 .2008-2009 Vermilion Sailor Marching Band - Halftime Show - V Clearview
 video::-4WxmRoEuBI[youtube, width=640, height=360, align=center]
 
-image::/images/VLS-2009_pdf__page_45_of_95_7.jpg[,role="text-center"]
+image::/testsite/images/VLS-2009_pdf__page_45_of_95_7.jpg[,role="text-center"]
 
-image::/images/VLS-2009_pdf__page_46_of_95_2.jpg[,role="text-center"]
+image::/testsite/images/VLS-2009_pdf__page_46_of_95_2.jpg[,role="text-center"]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]

@@ -8,34 +8,34 @@ title: 2010-2019 Vermilion Sailor Alumni Bands
 === 2010-2019 Vermilion Sailor Alumni Bands
 
 [.text-center]
-link:/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2010-vermilion-sailor-alumni-band/[2010 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2010-vermilion-sailor-alumni-band/[2010 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2011-vermilion-sailor-alumni-band/[2011 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2011-vermilion-sailor-alumni-band/[2011 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2012-vermilion-sailor-alumni-band/[2012 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2012-vermilion-sailor-alumni-band/[2012 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2013-vermilion-sailor-alumni-band/[2013 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2013-vermilion-sailor-alumni-band/[2013 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2014-vermilion-sailor-alumni-band/[2014 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2014-vermilion-sailor-alumni-band/[2014 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2015-vermilion-sailor-alumni-band/[2015 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2015-vermilion-sailor-alumni-band/[2015 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2016-vermilion-sailor-alumni-band/[2016 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2016-vermilion-sailor-alumni-band/[2016 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2017-vermilion-sailor-alumni-band/[2017 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2017-vermilion-sailor-alumni-band/[2017 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2018-vermilion-sailor-alumni-band/[2018 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2018-vermilion-sailor-alumni-band/[2018 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2019-vermilion-sailor-alumni-band/[2019 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/2019-vermilion-sailor-alumni-band/[2019 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/vermilion-bands/alumni/[rching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/testsite/vermilion-bands/alumni/[rching Bands]

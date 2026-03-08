@@ -7,7 +7,7 @@ title: 1971 -- Carousel
 
 === Carousel -- April 22-24, 1971
 
-image::/images/carousel-1.jpg[,role="text-center"]
+image::/testsite/images/carousel-1.jpg[,role="text-center"]
 
 “Carousel” is a classic American musical composed by Richard Rodgers with lyrics by Oscar Hammerstein II. The musical is based on the 1909 play “Liliom” by Ferenc Molnár and is set in a coastal town in Maine during the late 19th century. Here is a summary of the plot:
 
@@ -27,33 +27,33 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/njfByNVwMr7ChbQP6[1971 Vermilion High School -- Carousel]
 
-image::/images/1971musicalpit.jpg[,role="text-center"]
+image::/testsite/images/1971musicalpit.jpg[,role="text-center"]
 
-image::/images/1971musical.jpeg[,role="text-center"]
+image::/testsite/images/1971musical.jpeg[,role="text-center"]
 
-image::/images/1971c1.jpg[,role="text-center"]
+image::/testsite/images/1971c1.jpg[,role="text-center"]
 
-image::/images/1971c2.jpg[,role="text-center"]
+image::/testsite/images/1971c2.jpg[,role="text-center"]
 
-image::/images/1971c3.jpg[,role="text-center"]
+image::/testsite/images/1971c3.jpg[,role="text-center"]
 
-image::/images/1971c4.jpg[,role="text-center"]
+image::/testsite/images/1971c4.jpg[,role="text-center"]
 
-image::/images/1971c5.jpg[,role="text-center"]
+image::/testsite/images/1971c5.jpg[,role="text-center"]
 
-image::/images/1971c6.jpg[,role="text-center"]
+image::/testsite/images/1971c6.jpg[,role="text-center"]
 
-image::/images/1971c7.jpg[,role="text-center"]
+image::/testsite/images/1971c7.jpg[,role="text-center"]
 
-image::/images/1971c8.jpg[,role="text-center"]
+image::/testsite/images/1971c8.jpg[,role="text-center"]
 
-image::/images/1971c9.jpg[,role="text-center"]
+image::/testsite/images/1971c9.jpg[,role="text-center"]
 
-image::/images/1971c10.jpg[,role="text-center"]
+image::/testsite/images/1971c10.jpg[,role="text-center"]
 
-image::/images/1971c11.jpg[,role="text-center"]
+image::/testsite/images/1971c11.jpg[,role="text-center"]
 
-image::/images/1971c12.jpg[,role="text-center"]
+image::/testsite/images/1971c12.jpg[,role="text-center"]
 
 [.text-center]
-+ link:/vermilion-musical-theater/[Vermilion Musical Theater]
++ link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

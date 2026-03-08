@@ -17,6 +17,6 @@ video::82Gm548jCWI[youtube, width=640, height=360, align=center]
 video::8JuakuyPaLo[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/songs/[Vermilion Sailor Band Songs]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
 
-image::/images/1992-seniors.jpg[,role="text-center"]
+image::/testsite/images/1992-seniors.jpg[,role="text-center"]

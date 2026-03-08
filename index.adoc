@@ -1,87 +1,56 @@
 ---
 layout: default
-title: Vermilion Sailor Alumni Band
+title: Vermilion Bands
 ---
 
 = Vermilion Bands
 
-[.text-center]
-== Vermilion Bands
+=== Vermilion Bands
 
 [.text-center]
 Now Hear This! We are presenting the Vermilion Historic Marching Bands.
 
-[.text-center]
-video::IGZOJ64LuWs[youtube, width=760, height=515]
-
-'''
+.YouTube video player
+video::IGZOJ64LuWs[youtube, width=640, height=360, align=center]
 
 [.text-center]
 What time is it? Band Time!
 
 [.text-center]
-image::/images/1994-Sailor-Marching-Band-1.jpg[Vermilion Sailor Marching Band 1994, role="rounded"]
+link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
+
+image::/testsite/images/alumnigeneric.jpeg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
+link:/testsite/vermilion-bands/alumni/[Vermilion Sailor Alumni Bands]
 
-'''
-
-[.text-center]
-image::/images/alumnigeneric.jpeg[Vermilion Sailor Alumni Band, role="rounded"]
+image::/testsite/images/1960con.jpg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-bands/alumni/[Vermilion Sailor Alumni Bands]
+link:/testsite/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]
 
-'''
-
-[.text-center]
-image::/images/1960con.jpg[Vermilion High School Concert Bands, role="rounded"]
+image::/testsite/images/1933orch.jpg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]
+link:/testsite/vermilion-high-school-orchestra/[Vermilion High School Orchestras]
 
-'''
-
-[.text-center]
-image::/images/1933orch.jpg[Vermilion High School Orchestras, role="rounded"]
+image::/testsite/images/1957pep.jpg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-high-school-orchestra/[Vermilion High School Orchestras]
-
-'''
+link:/testsite/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]
 
 [.text-center]
-image::/images/1957pep.jpg[Vermilion High School Pep Bands, role="rounded"]
+link:/testsite/vermilion-high-school-jazz-bands/[Vermilion High School Jazz Bands]
+
+image::/testsite/images/1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]
+link:/testsite/vermilion-bands/other/[Other Vermilion Bands]
 
-'''
-
-[.text-center]
-link:/vermilion-high-school-jazz-bands/[image::/images/1979jazz.jpg[Vermilion High School Jazz Bands, role="rounded"]]
+image::/testsite/images/1993musicman.jpeg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-high-school-jazz-bands/[Vermilion High School Jazz Bands]
-
-'''
+link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]
 
 [.text-center]
-image::/images/1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[Other Vermilion Bands, role="rounded"]
-
-[.text-center]
-link:/vermilion-bands/other/[Other Vermilion Bands]
-
-'''
-
-[.text-center]
-image::/images/1993musicman.jpeg[Vermilion Musical Theater]
-
-[.text-center]
-link:/vermilion-musical-theater/[Vermilion Musical Theater]
-
-'''
-
-[.text-center]
-link:/[Vermilion Bands] | link:/vermilion-high-school-band-directors/[Vermilion Band Directors] | link:/vermilion-band-history/[Band History] | link:/media-links/[Media Links] | link:/songs/[Songs]
+__________________________________________________________________________________  + __________________________________________________________________________________  + link:/testsite/[Vermilion Bands] _____ link:/testsite/vermilion-high-school-band-directors/[Vermilion Band Directors] _____ link:/testsite/vermilion-band-history/[Band History] ____ link:/testsite/media-links/[Media Links] _____ link:/testsite/songs/[Songs] _  + __________________________________________________________________________________  + __________________________________________________________________________________

@@ -7,13 +7,13 @@ title: 1995-1996 Vermilion Sailor Marching Band
 
 === 1995-1996 Vermilion Sailor Marching Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Head Majorette: Adrien Hess
 
 Members:
 
-image::/images/1996marmem.jpeg[,role="text-center"]
+image::/testsite/images/1996marmem.jpeg[,role="text-center"]
 
 Image Galleries:
 
@@ -28,11 +28,11 @@ Video Playlists:
 .1995-1996 Vermilion Sailor Marching Band - Highlight Video
 video::1apcYKp2f58[youtube, width=640, height=360, align=center]
 
-image::/images/1995-Flags-Group-1_4322564715_o.jpg[,role="text-center"]
+image::/testsite/images/1995-Flags-Group-1_4322564715_o.jpg[,role="text-center"]
 
-image::/images/1996-Seniors.jpg[,role="text-center"]
+image::/testsite/images/1996-Seniors.jpg[,role="text-center"]
 
-image::/images/scan4111_4323290084_o.jpg[,role="text-center"]
+image::/testsite/images/scan4111_4323290084_o.jpg[,role="text-center"]
 
 *New marchers get early start*
 
@@ -42,7 +42,7 @@ _All percussionists also reported to begin their music workout on July 31 from 1
 
 _Any new marchers or percussionists still interested in joining the band need to begin attending sessions this week. Call the senior high band office at 967-0641 for more information._
 
-image::/images/File0946_4323289954_o.jpg[,role="text-center"]
+image::/testsite/images/File0946_4323289954_o.jpg[,role="text-center"]
 
 *Sailor Marching Band begins camp*
 
@@ -52,7 +52,7 @@ _"By concetrating our sessions into two weeks, we hope to not only focus our eff
 
 _Practices will run from August 7 to August 18 in double sessions from 9 a.m. to 12 noon, and 7 p.m. and 9 p.m, with Friday practices from 9 a.m. to 1 p.m. with none at night._
 
-image::/images/File2421_4323290502_o.jpg[,role="text-center"]
+image::/testsite/images/File2421_4323290502_o.jpg[,role="text-center"]
 
 *Fiedler leads band flag corp*
 
@@ -68,7 +68,7 @@ _Her enthusiasm carries over to her students who execute their flag maneuvers wi
 
 _Lisa teaches at Sailorway Middle School and is the wife of Roy Fiedler and mother of Jonathan and Nicholas Fiedler._
 
-image::/images/File2422_4322555421_o.jpg[,role="text-center"]
+image::/testsite/images/File2422_4322555421_o.jpg[,role="text-center"]
 
 *Clark lands VHS majorette corp*
 
@@ -88,7 +88,7 @@ _When asked how she came to be involved as the majorette advisor, Dawn replied, 
 
 _Dawn is the daughter of Dave and Judy Henry, wife of Rick Clark, and mother of Ashley and Branden Clark._
 
-image::/images/File2424_4322555461_o.jpg[,role="text-center"]
+image::/testsite/images/File2424_4322555461_o.jpg[,role="text-center"]
 
 *Emery is band assistant director*
 
@@ -104,7 +104,7 @@ _Her first day of band practice this August provided not only a trip down memory
 
 _Bobbi is the daughter of Jerry and Nancy Emery of Vermilion._
 
-image::/images/scan4116_4323290156_o.jpg[,role="text-center"]
+image::/testsite/images/scan4116_4323290156_o.jpg[,role="text-center"]
 
 *Three's not a crowd in VHS band*
 
@@ -126,7 +126,7 @@ _One thing that all three Grotes agree about is that long after high school has 
 
 _Nichole, Brandon, and Lisa's parents are Donald and Cynthia Grote, both of whom grew up in Vermilion._
 
-image::/images/File2428_4323290780_o.jpg[,role="text-center"]
+image::/testsite/images/File2428_4323290780_o.jpg[,role="text-center"]
 
 *Marching Band approaches festival season*
 
@@ -140,7 +140,7 @@ _In addition to festivals, our band performs twice annually in televised events 
 
 _Please join us in supporting our band at the above festivals. For traveling directions call the Band Office 967-0641._
 
-image::/images/File2434_4322555747_o.jpg[,role="text-center"]
+image::/testsite/images/File2434_4322555747_o.jpg[,role="text-center"]
 
 *Goddard to emcee annual band festival*
 
@@ -150,7 +150,7 @@ _Dick Goddard will once again serve as emcee of the event as bands from across n
 
 _Of course, no Vermilion Band Festival would be complete without our own two local instrumental groups.Look for a spirited performance from our Alumni Band under the direction of Bill Burt. Holding with tradition, our own Sailor Band will close the show. Director Joe Price urges, "Come share the enthusiasm of these dedicated musicians as they proudly present their shows to kick off Woollybear weekend." Tickets are available at the gate $3 for adults and $2 for seniors and students._  +
 
-image::/images/File0886_4322553921_o.jpg[,role="text-center"]
+image::/testsite/images/File0886_4322553921_o.jpg[,role="text-center"]
 
 *Schools welcome out-of-town bands*
 
@@ -164,7 +164,7 @@ _Once again, the Vermilion Local School District is no small part of the festivi
 
 _Vermilion Intermediate School Principal George Harizal writes a letter to welcome each of the bands, and the VIS P.TO. sells food and refreshments as a fundraiser to band members. Watkin called the school district's part of the welcoming committee, "super hospitality."_
 
-image::/images/File0940_4322554431_o.jpg[,role="text-center"]
+image::/testsite/images/File0940_4322554431_o.jpg[,role="text-center"]
 
 *Letter to the Editor*
 
@@ -182,19 +182,19 @@ _I am extremely proud to be associated with all of you._
 
 _Joseph N. PriceSailor Marching Band Director_
 
-image::/images/8-8-1995.jpeg[,role="text-center"]
+image::/testsite/images/8-8-1995.jpeg[,role="text-center"]
 
-image::/images/9-2-1995.jpeg[,role="text-center"]
+image::/testsite/images/9-2-1995.jpeg[,role="text-center"]
 
-image::/images/9-26-1995.jpeg[,role="text-center"]
+image::/testsite/images/9-26-1995.jpeg[,role="text-center"]
 
-image::/images/10-24-1995.jpeg[,role="text-center"]
+image::/testsite/images/10-24-1995.jpeg[,role="text-center"]
 
-image::/images/11-7-1995.jpeg[,role="text-center"]
+image::/testsite/images/11-7-1995.jpeg[,role="text-center"]
 
-image::/images/6-4-1996.jpeg[,role="text-center"]
+image::/testsite/images/6-4-1996.jpeg[,role="text-center"]
 
-image::/images/6-25-1996.jpeg[,role="text-center"]
+image::/testsite/images/6-25-1996.jpeg[,role="text-center"]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]

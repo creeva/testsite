@@ -23,6 +23,6 @@ video::Yz4h2LDubZQ[youtube, width=640, height=360, align=center]
 video::9O7qMGQEZ5c[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/songs/[Vermilion Sailor Band Songs]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
 
-image::/images/2003-2004-Group-Photo.jpg[,role="text-center"]
+image::/testsite/images/2003-2004-Group-Photo.jpg[,role="text-center"]

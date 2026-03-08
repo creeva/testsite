@@ -7,4 +7,4 @@ title: Fight Song -- Anchors Away
 
 === Fight Song -- Anchors Away
 
-image::/images/VLS-2009_pdf__page_44_of_95_1.jpg[,role="text-center"]
+image::/testsite/images/VLS-2009_pdf__page_44_of_95_1.jpg[,role="text-center"]

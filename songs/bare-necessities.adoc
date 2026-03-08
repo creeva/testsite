@@ -11,6 +11,6 @@ title: Bare Necessities
 video::_7P_kNniq7Q[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/songs/[Vermilion Sailor Band Songs]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
 
-image::/images/20645498_1537961949575437_482799086311200440_o.jpg[,role="text-center"]
+image::/testsite/images/20645498_1537961949575437_482799086311200440_o.jpg[,role="text-center"]

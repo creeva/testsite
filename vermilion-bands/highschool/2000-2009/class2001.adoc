@@ -7,7 +7,7 @@ title: 2000-2001 Vermilion Sailor Marching Band
 
 === 2000-2001 Vermilion Sailor Marching Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 *Image Galleries:*
 
@@ -22,13 +22,13 @@ Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-
 .2000-2001 Vermilion Sailor Marching Band - Highlight Video
 video::nfOhOymGUGE[youtube, width=640, height=360, align=center]
 
-image::/images/2001-major.jpg[,role="text-center"]
+image::/testsite/images/2001-major.jpg[,role="text-center"]
 
-image::/images/2001-fc.jpg[,role="text-center"]
+image::/testsite/images/2001-fc.jpg[,role="text-center"]
 
-image::/images/2001-writeup.jpg[,role="text-center"]
+image::/testsite/images/2001-writeup.jpg[,role="text-center"]
 
 The
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]

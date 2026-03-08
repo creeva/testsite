@@ -19,7 +19,7 @@ title: 2017-2018 Vermilion Sailor Marching Band
 .2017-2018 Vermilion Sailor Marching Band - 09-07-17 - Orrville Festival
 video::0A_S62QNxII[youtube, width=640, height=360, align=center]
 
-image::/images/34036308_1825784457459850_3663562646281519104_n.jpg[,role="text-center"]
+image::/testsite/images/34036308_1825784457459850_3663562646281519104_n.jpg[,role="text-center"]
 
 *Vermilion Photojournal -- 8/30/17 -- Vermilion marching band program offers students more opportunities (original link here)*  + By: Melanie Williamson
 
@@ -46,4 +46,4 @@ The younger students will join the marching band on the field during the half ti
 The mini majorette and color guard groups are scheduled to be starting the first week of school, and will be open to students in kindergarten through eighth grade. Future Sailor Night is scheduled for Friday, October 6, when the Vermilion football team takes on Port Clinton at home.
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

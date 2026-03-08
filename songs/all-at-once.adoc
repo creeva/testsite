@@ -11,6 +11,6 @@ title: All At Once
 video::Zal4gbvuiXQ[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/songs/[Vermilion Sailor Band Songs]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
 
-image::/images/1995seniorcheer.jpeg[,role="text-center"]
+image::/testsite/images/1995seniorcheer.jpeg[,role="text-center"]

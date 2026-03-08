@@ -14,6 +14,6 @@ video::YaOx8lFJbfc[youtube, width=640, height=360, align=center]
 video::czMf5AuxmOM[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/songs/[Vermilion Sailor Band Songs]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
 
-image::/images/Vermilion-Marching-Band-2015-2016.jpg[,role="text-center"]
+image::/testsite/images/Vermilion-Marching-Band-2015-2016.jpg[,role="text-center"]

@@ -14,6 +14,6 @@ video::8Nkzh81BadE[youtube, width=640, height=360, align=center]
 video::-gKQZKQRDKA[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/songs/[Vermilion Sailor Band Songs]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]

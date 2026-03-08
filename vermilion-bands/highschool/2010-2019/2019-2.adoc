@@ -7,7 +7,7 @@ title: 2018-2019 Vermilion Sailor Marching Band
 
 === 2018-2019 Vermilion Sailor Marching Band
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 *Image Galleries:*
 
@@ -21,4 +21,4 @@ image::/images/Sea-of-Faces.jpg[,role="text-center"]
 video::5sqEap95K5A[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

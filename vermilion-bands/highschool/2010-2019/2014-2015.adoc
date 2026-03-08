@@ -7,7 +7,7 @@ title: 2014-2015 Vermilion Sailor Marching Band
 
 === 2014-2015 Vermilion Sailor Marching Band
 
-image::/images/Vermilion-Marching-Band-2014-2015.jpg[,role="text-center"]
+image::/testsite/images/Vermilion-Marching-Band-2014-2015.jpg[,role="text-center"]
 
 *Image Galleries:*
 
@@ -22,4 +22,4 @@ image::/images/Vermilion-Marching-Band-2014-2015.jpg[,role="text-center"]
 video::EyvNwnOuUMw[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

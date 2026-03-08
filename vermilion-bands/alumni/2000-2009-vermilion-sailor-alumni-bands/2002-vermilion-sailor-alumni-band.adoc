@@ -7,9 +7,9 @@ title: 2002 Vermilion Sailor Alumni Band
 
 === 2002 Vermilion Sailor Alumni Band
 
-image::/images/54-2002-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]
+image::/testsite/images/54-2002-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 *Image Galleries:*
 
@@ -23,4 +23,4 @@ Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-
 video::hAajlw8VjPg[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/vermilion-bands/alumni/[rching Bands] – link:/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/[2000-2009 Vermilion Sailor Alumni Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/testsite/vermilion-bands/alumni/[rching Bands] – link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/[2000-2009 Vermilion Sailor Alumni Bands]

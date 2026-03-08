@@ -7,7 +7,7 @@ title: 1977 -- Oklahoma
 
 === Oklahoma -- March 25-26, April 1-2, 1977
 
-image::/images/ok1977.jpeg[,role="text-center"]
+image::/testsite/images/ok1977.jpeg[,role="text-center"]
 
 “Oklahoma!” is a classic American musical with music by Richard Rodgers, lyrics by Oscar Hammerstein II, and a book by Oscar Hammerstein II and Richard Rodgers. It’s set in the Oklahoma Territory in the early 1900s and follows the love story of Curly McLain and Laurey Williams amidst the backdrop of a community on the brink of statehood. Here’s a summary of the plot:
 
@@ -37,73 +37,73 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/1D5m6Ge98cYoKPP7A[1977 Vermilion High School -- Oklahoma]
 
-image::/images/1977musical.jpeg[,role="text-center"]
+image::/testsite/images/1977musical.jpeg[,role="text-center"]
 
-image::/images/1977oka1.jpeg[,role="text-center"]
+image::/testsite/images/1977oka1.jpeg[,role="text-center"]
 
-image::/images/1977oka2.jpeg[,role="text-center"]
+image::/testsite/images/1977oka2.jpeg[,role="text-center"]
 
-image::/images/1977oka3.jpeg[,role="text-center"]
+image::/testsite/images/1977oka3.jpeg[,role="text-center"]
 
-image::/images/1977oka4.jpeg[,role="text-center"]
+image::/testsite/images/1977oka4.jpeg[,role="text-center"]
 
-image::/images/1977oka5.jpeg[,role="text-center"]
+image::/testsite/images/1977oka5.jpeg[,role="text-center"]
 
-image::/images/1977oka6.jpeg[,role="text-center"]
+image::/testsite/images/1977oka6.jpeg[,role="text-center"]
 
-image::/images/1977oka7.jpeg[,role="text-center"]
+image::/testsite/images/1977oka7.jpeg[,role="text-center"]
 
-image::/images/1977oka8.jpeg[,role="text-center"]
+image::/testsite/images/1977oka8.jpeg[,role="text-center"]
 
-image::/images/1977oka9.jpeg[,role="text-center"]
+image::/testsite/images/1977oka9.jpeg[,role="text-center"]
 
-image::/images/1977oka10.jpeg[,role="text-center"]
+image::/testsite/images/1977oka10.jpeg[,role="text-center"]
 
-image::/images/1977oka11.jpeg[,role="text-center"]
+image::/testsite/images/1977oka11.jpeg[,role="text-center"]
 
-image::/images/1977oka12.jpeg[,role="text-center"]
+image::/testsite/images/1977oka12.jpeg[,role="text-center"]
 
-image::/images/1977oka13.jpeg[,role="text-center"]
+image::/testsite/images/1977oka13.jpeg[,role="text-center"]
 
-image::/images/1977oka14.jpeg[,role="text-center"]
+image::/testsite/images/1977oka14.jpeg[,role="text-center"]
 
-image::/images/1977oka15.jpeg[,role="text-center"]
+image::/testsite/images/1977oka15.jpeg[,role="text-center"]
 
-image::/images/1977oka16.jpeg[,role="text-center"]
+image::/testsite/images/1977oka16.jpeg[,role="text-center"]
 
-image::/images/1977oka17.jpeg[,role="text-center"]
+image::/testsite/images/1977oka17.jpeg[,role="text-center"]
 
-image::/images/1977oka18.jpeg[,role="text-center"]
+image::/testsite/images/1977oka18.jpeg[,role="text-center"]
 
-image::/images/1977oka19.jpeg[,role="text-center"]
+image::/testsite/images/1977oka19.jpeg[,role="text-center"]
 
-image::/images/1977oka20.jpeg[,role="text-center"]
+image::/testsite/images/1977oka20.jpeg[,role="text-center"]
 
-image::/images/1977oka21.jpeg[,role="text-center"]
+image::/testsite/images/1977oka21.jpeg[,role="text-center"]
 
-image::/images/1977oka22.jpeg[,role="text-center"]
+image::/testsite/images/1977oka22.jpeg[,role="text-center"]
 
-image::/images/1977ok1.jpeg[,role="text-center"]
+image::/testsite/images/1977ok1.jpeg[,role="text-center"]
 
-image::/images/1977ok2.jpeg[,role="text-center"]
+image::/testsite/images/1977ok2.jpeg[,role="text-center"]
 
-image::/images/1977ok3.jpeg[,role="text-center"]
+image::/testsite/images/1977ok3.jpeg[,role="text-center"]
 
-image::/images/1977ok4.jpeg[,role="text-center"]
+image::/testsite/images/1977ok4.jpeg[,role="text-center"]
 
-image::/images/1977ok5.jpeg[,role="text-center"]
+image::/testsite/images/1977ok5.jpeg[,role="text-center"]
 
-image::/images/1977ok6.jpeg[,role="text-center"]
+image::/testsite/images/1977ok6.jpeg[,role="text-center"]
 
-image::/images/1977ok7.jpeg[,role="text-center"]
+image::/testsite/images/1977ok7.jpeg[,role="text-center"]
 
-image::/images/1977ok8.jpeg[,role="text-center"]
+image::/testsite/images/1977ok8.jpeg[,role="text-center"]
 
-image::/images/1977ok9.jpeg[,role="text-center"]
+image::/testsite/images/1977ok9.jpeg[,role="text-center"]
 
-image::/images/1977ok10.jpeg[,role="text-center"]
+image::/testsite/images/1977ok10.jpeg[,role="text-center"]
 
-image::/images/1977ok11.jpeg[,role="text-center"]
+image::/testsite/images/1977ok11.jpeg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-musical-theater/[Vermilion Musical Theater]
+link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

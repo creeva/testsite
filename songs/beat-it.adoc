@@ -20,6 +20,6 @@ video::xvmg9RSzbrc[youtube, width=640, height=360, align=center]
 video::y0Gd1XMX03s[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/songs/[Vermilion Sailor Band Songs]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
 
-image::/images/2023-2024-group-picture.jpeg[,role="text-center"]
+image::/testsite/images/2023-2024-group-picture.jpeg[,role="text-center"]

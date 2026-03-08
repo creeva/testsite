@@ -8,36 +8,36 @@ title: 2000-2009 Vermilion Sailor Marching Bands
 === 2000-2009 Vermilion Sailor Marching Bands
 
 [.text-center]
-link:/vermilion-bands/highschool/2000-2009/class2000/[1999-2000 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/2000-2009/class2000/[1999-2000 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/2000-2009/class2001/[2000-2001 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/2000-2009/class2001/[2000-2001 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/2000-2009/class2002/[2001-2002 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/2000-2009/class2002/[2001-2002 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/2000-2009/class2003/[2002-2003 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/2000-2009/class2003/[2002-2003 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/2000-2009/class2004/[2003-2004 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/2000-2009/class2004/[2003-2004 Vermilion Sailor Marching Band]
 
-image::/images/VLS-2005_pdf__page_33_of_97_6-1.jpg[,role="text-center"]
-
-[.text-center]
-link:/vermilion-bands/highschool/2000-2009/class2005/[2004-2005 Vermilion Sailor Marching Band]
+image::/testsite/images/VLS-2005_pdf__page_33_of_97_6-1.jpg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-bands/highschool/2000-2009/class2006/[2005-2006 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/2000-2009/class2005/[2004-2005 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/2000-2009/class2007/[2006-2007 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/2000-2009/class2006/[2005-2006 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/2000-2009/class2008/[2007-2008 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/2000-2009/class2007/[2006-2007 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/2000-2009/class2009/[2008-2009 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/2000-2009/class2008/[2007-2008 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
+link:/testsite/vermilion-bands/highschool/2000-2009/class2009/[2008-2009 Vermilion Sailor Marching Band]
+
+[.text-center]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]

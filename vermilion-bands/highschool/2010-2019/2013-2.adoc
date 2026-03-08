@@ -7,7 +7,7 @@ title: 2012-2013 Vermilion Sailor Marching Band
 
 === 2012-2013 Vermilion Sailor Marching Band
 
-image::/images/2012-2013-Group.jpg[,role="text-center"]
+image::/testsite/images/2012-2013-Group.jpg[,role="text-center"]
 
 *Image Galleries:*
 
@@ -21,11 +21,11 @@ image::/images/2012-2013-Group.jpg[,role="text-center"]
 .2012-2013 Vermilion Sailor Marching Band - Dream On
 video::uuEKw7yvsS0[youtube, width=640, height=360, align=center]
 
-image::/images/2013-Majroettes.jpg[,role="text-center"]
+image::/testsite/images/2013-Majroettes.jpg[,role="text-center"]
 
-image::/images/2013-Flags.jpg[,role="text-center"]
+image::/testsite/images/2013-Flags.jpg[,role="text-center"]
 
-image::/images/2013-Seniors.jpg[,role="text-center"]
+image::/testsite/images/2013-Seniors.jpg[,role="text-center"]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

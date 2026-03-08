@@ -7,7 +7,7 @@ title: 1999 -- How to Succeed In Business Without Really Trying
 
 === How to Succeed In Business Without Really Trying
 
-image::/images/1999succeed2.jpeg[,role="text-center"]
+image::/testsite/images/1999succeed2.jpeg[,role="text-center"]
 
 “How to Succeed in Business Without Really Trying” is a satirical musical with music and lyrics by Frank Loesser and a book by Abe Burrows, Jack Weinstock, and Willie Gilbert. The musical is a witty and humorous commentary on the corporate world and the climb up the corporate ladder. Here’s a summary of the plot:
 
@@ -37,9 +37,9 @@ The musical ends with a celebration of Finch’s success and a reflection on the
 
 “How to Succeed in Business Without Really Trying” is known for its clever satire, memorable songs like “I Believe in You” and “Brotherhood of Man,” and its humorous take on the corporate world’s quirks and challenges.
 
-image::/images/1999musical.jpeg[,role="text-center"]
+image::/testsite/images/1999musical.jpeg[,role="text-center"]
 
-image::/images/1999musical2.jpeg[,role="text-center"]
+image::/testsite/images/1999musical2.jpeg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-musical-theater/[Vermilion Musical Theater]
+link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

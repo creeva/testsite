@@ -7,7 +7,7 @@ title: 1957-1958 Vermilion Sailor Marching Band
 
 === 1957-1958 Vermilion Sailor Marching Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]  + Head Majorette: Martha Harrison
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]  + Head Majorette: Martha Harrison
 
 Members:
 
@@ -16,73 +16,73 @@ Members:
 * link:https://photos.app.goo.gl/p1yUhNEd1LiGxrwR9[1957-1958 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/QPz1fJJHziB4D7Ve9[1958 Vermilion High School Yearbook]
 
-image::/images/1958bandwrite.jpg[,role="text-center"]
+image::/testsite/images/1958bandwrite.jpg[,role="text-center"]
 
-image::/images/1958bandmaj.jpg[,role="text-center"]
+image::/testsite/images/1958bandmaj.jpg[,role="text-center"]
 
 Members: V. Christman, H. Hilyard, A. Feldkamp, M. Harrison, M. Thompson, C. Halley, P. Osberg
 
-image::/images/sandusky-register-May-12-1958-p-16.jpeg[,role="text-center"]
+image::/testsite/images/sandusky-register-May-12-1958-p-16.jpeg[,role="text-center"]
 
-image::/images/sandusky-register-Sep-07-1957-p-10.png[,role="text-center"]
+image::/testsite/images/sandusky-register-Sep-07-1957-p-10.png[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Fri__Feb_7__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Fri__Feb_7__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Fri__Feb_14__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Fri__Feb_14__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Fri__Feb_21__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Fri__Feb_21__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Fri__Jul_18__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Fri__Jul_18__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Fri__Sep_13__1957_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Fri__Sep_13__1957_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Mon__Dec_16__1957_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Mon__Dec_16__1957_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Mon__Jan_13__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Mon__Jan_13__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Mon__Mar_17__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Mon__Mar_17__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Sat__Dec_7__1957_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Sat__Dec_7__1957_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Sat__Feb_8__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Sat__Feb_8__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Sat__Jan_18__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Sat__Jan_18__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Sat__Jul_12__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Sat__Jul_12__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Sat__Jun_21__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Sat__Jun_21__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Thu__Feb_13__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Thu__Feb_13__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Thu__Jan_16__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Thu__Jan_16__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Thu__Mar_6__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Thu__Mar_6__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Thu__Mar_13__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Thu__Mar_13__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Thu__May_8__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Thu__May_8__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Thu__Nov_14__1957_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Thu__Nov_14__1957_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Thu__Nov_21__1957_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Thu__Nov_21__1957_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Tue__Feb_11__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Tue__Feb_11__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Tue__Jun_17__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Tue__Jun_17__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Tue__May_20__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Tue__May_20__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Tue__Nov_12__1957_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Tue__Nov_12__1957_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Wed__Aug_14__1957_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Wed__Aug_14__1957_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Wed__Jul_9__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Wed__Jul_9__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Wed__May_28__1958_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Wed__May_28__1958_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Wed__Oct_30__1957_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Wed__Oct_30__1957_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Wed__Sep_11__1957_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Wed__Sep_11__1957_.jpg[,role="text-center"]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

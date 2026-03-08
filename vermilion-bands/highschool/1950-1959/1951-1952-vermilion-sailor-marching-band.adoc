@@ -7,9 +7,9 @@ title: 1951-1952 Vermilion Sailor Marching Band
 
 === 1951-1952 Vermilion Sailor Marching Band
 
-image::/images/1952band.jpg[,role="text-center"]
+image::/testsite/images/1952band.jpg[,role="text-center"]
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Members: K. Ford, D. Rathbun, J. Szekely, L. Widdowson, N. Reifert, C. Carey, S. Langfitt, M. Hollosy, D. Dickerhoff, J. Hagerman, S. Stark, L. Peck, C. Guthrie, D. Kubishke, P. Reiber, J. Reifert, R. McCrady, A. Haber, H. Heyes, D. Parsons, G. Fulper, L. Mollohan, G. Wheeler, J. Neiding, R. Boughton, D. Hurd, L. Roberts, H. Dickason, P. Ward, C. Widdowson, G. Stwan, J. Neuber, J. Ridenour, H. Wieneke, P. Thayer, D. Smith, B. Poyer, D. Sandak, C. Kovacs, B. Maurer, B. Sandak, D. Cone, R. Greene, D. Lallathin, D. Guthrie, R. Eppler, D. Seatter
 
@@ -18,12 +18,12 @@ Members: K. Ford, D. Rathbun, J. Szekely, L. Widdowson, N. Reifert, C. Carey, S.
 * link:https://photos.app.goo.gl/gLGPS8HVRJvRFmB47[1951-1952 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/Qiq9UUgr2tY18QJr7[1952 Vermilion High School Yearbook]
 
-image::/images/1952bandwrite.jpg[,role="text-center"]
+image::/testsite/images/1952bandwrite.jpg[,role="text-center"]
 
-image::/images/1952bandmaj.jpg[,role="text-center"]
+image::/testsite/images/1952bandmaj.jpg[,role="text-center"]
 
 Members: Carol Lydic, Elona Peck, Mary Ann Wlodarsky, Donna Ruetenik, B. Marks, M. Weber, J. Price, P. Myers, B. Gendics, N. Miscow, B. Baynes, F. Hildum, D. Starnes, A. McKern, J. Bradley, N. Mehnert, B. Wright, E. Shook, S. Bachman, P. Payne, B. Russell, J. Wiseman, D. Boone, L. Lengye, E. Ruggles
 
-image::/images/1952bandmajwrite.jpg[,role="text-center"]
+image::/testsite/images/1952bandmajwrite.jpg[,role="text-center"]
 
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

@@ -17,6 +17,6 @@ video::HFHLFK4Hi3c[youtube, width=640, height=360, align=center]
 video::m64s7Y7MAEU[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/songs/[Vermilion Sailor Band Songs]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
 
-image::/images/1997-1998-Sailor-Marching-Band_4046979266_o.jpg[,role="text-center"]
+image::/testsite/images/1997-1998-Sailor-Marching-Band_4046979266_o.jpg[,role="text-center"]

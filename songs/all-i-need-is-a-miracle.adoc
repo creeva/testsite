@@ -20,6 +20,6 @@ video::eQifWssaDYA[youtube, width=640, height=360, align=center]
 video::nNNJH27Zvcw[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/songs/[Vermilion Sailor Band Songs]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
 
-image::/images/1987-Sailor-Marching-Band.jpg[,role="text-center"]
+image::/testsite/images/1987-Sailor-Marching-Band.jpg[,role="text-center"]

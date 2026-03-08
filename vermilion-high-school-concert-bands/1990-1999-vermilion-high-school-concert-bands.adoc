@@ -7,12 +7,12 @@ title: 1990-1999 Vermilion High School Concert Bands
 
 === 1990-1999 Vermilion High School Concert Bands
 
-image::/images/1990sym1.png[,role="text-center"]
+image::/testsite/images/1990sym1.png[,role="text-center"]
 
 [.text-center]
 1990 Vermilion High School Symphonic Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -20,12 +20,12 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/v1Xd7vco5GNMv9YM6[1990 Vermilion High School Yearbook]
 
-image::/images/1990sym2.png[,role="text-center"]
+image::/testsite/images/1990sym2.png[,role="text-center"]
 
 [.text-center]
 1990 Vermilion High School Symphonic Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -36,12 +36,12 @@ Image Gallery:
 .YouTube video player
 video::0f-SghWbfJg[youtube, width=640, height=360, align=center]
 
-image::/images/1991sym1.png[,role="text-center"]
+image::/testsite/images/1991sym1.png[,role="text-center"]
 
 [.text-center]
 1991 Vermilion High School Symphonic Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -49,12 +49,12 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/u8Mr3xVK58fm6zGA7[1991 Vermilion High School Yearbook]
 
-image::/images/1991sym2.png[,role="text-center"]
+image::/testsite/images/1991sym2.png[,role="text-center"]
 
 [.text-center]
 1991 Vermilion High School Symphonic Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -62,76 +62,76 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/u8Mr3xVK58fm6zGA7[1991 Vermilion High School Yearbook]
 
-image::/images/1991var1.png[,role="text-center"]
+image::/testsite/images/1991var1.png[,role="text-center"]
 
 [.text-center]
 1991 Vermilion High School Freshman Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
-image::/images/1991var1mem.png[,role="text-center"]
+image::/testsite/images/1991var1mem.png[,role="text-center"]
 
 Image Gallery:
 
 * link:https://photos.app.goo.gl/u8Mr3xVK58fm6zGA7[1991 Vermilion High School Yearbook]
 
-image::/images/1991var2.png[,role="text-center"]
+image::/testsite/images/1991var2.png[,role="text-center"]
 
 [.text-center]
 1991 Vermilion High School Freshman Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
-image::/images/1991var2mem.png[,role="text-center"]
+image::/testsite/images/1991var2mem.png[,role="text-center"]
 
 Image Gallery:
 
 * link:https://photos.app.goo.gl/u8Mr3xVK58fm6zGA7[1991 Vermilion High School Yearbook]
 
-image::/images/1992sym1.png[,role="text-center"]
+image::/testsite/images/1992sym1.png[,role="text-center"]
 
-image::/images/1992sym2.png[,role="text-center"]
+image::/testsite/images/1992sym2.png[,role="text-center"]
 
 [.text-center]
 1992 Vermilion High School Symphonic Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
-image::/images/1992symmem.png[,role="text-center"]
+image::/testsite/images/1992symmem.png[,role="text-center"]
 
 Image Gallery:
 
 * link:https://photos.app.goo.gl/jvm8my1ZbQJGbXrp8[1992 Vermilion High School Yearbook]
 
-image::/images/1992conwrite.png[,role="text-center"]
+image::/testsite/images/1992conwrite.png[,role="text-center"]
 
-image::/images/1993sym.png[,role="text-center"]
+image::/testsite/images/1993sym.png[,role="text-center"]
 
 [.text-center]
 1993 Vermilion High School Symphonic Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
-image::/images/1993symmem.png[,role="text-center"]
+image::/testsite/images/1993symmem.png[,role="text-center"]
 
 Image Gallery:
 
 * link:https://photos.app.goo.gl/j5AS7UFw57rirQzw6[1993 Vermilion High School Yearbook]
 
-image::/images/1993var.png[,role="text-center"]
+image::/testsite/images/1993var.png[,role="text-center"]
 
 [.text-center]
 1993 Vermilion High School Freshman Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -139,76 +139,76 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/j5AS7UFw57rirQzw6[1993 Vermilion High School Yearbook]
 
-image::/images/1993conwrite.png[,role="text-center"]
+image::/testsite/images/1993conwrite.png[,role="text-center"]
 
-image::/images/1994sym.png[,role="text-center"]
+image::/testsite/images/1994sym.png[,role="text-center"]
 
 [.text-center]
 1994 Vermilion High School Symphonic Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
-image::/images/1994symmem.png[,role="text-center"]
+image::/testsite/images/1994symmem.png[,role="text-center"]
 
 Image Gallery:
 
 * link:https://photos.app.goo.gl/fMkv3XWvtX1G3mPB8[1994 Vermilion High School Yearbook]
 
-image::/images/1994frosh.png[,role="text-center"]
+image::/testsite/images/1994frosh.png[,role="text-center"]
 
 [.text-center]
 1994 Vermilion High School Freshman Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members:
 
-image::/images/1994froshmem.png[,role="text-center"]
+image::/testsite/images/1994froshmem.png[,role="text-center"]
 
 Image Gallery:
 
 * link:https://photos.app.goo.gl/fMkv3XWvtX1G3mPB8[1994 Vermilion High School Yearbook]
 
-image::/images/1994conwrite.png[,role="text-center"]
+image::/testsite/images/1994conwrite.png[,role="text-center"]
 
-image::/images/1995sym.png[,role="text-center"]
+image::/testsite/images/1995sym.png[,role="text-center"]
 
 [.text-center]
 1995 Vermilion High School Symphonic Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members:
 
-image::/images/1995smymem.png[,role="text-center"]
+image::/testsite/images/1995smymem.png[,role="text-center"]
 
 Image Gallery:
 
 * link:https://photos.app.goo.gl/EtckdAC79qzTy7DT7[1995 Vermilion High School Yearbook]
 
-image::/images/1995frosh.png[,role="text-center"]
+image::/testsite/images/1995frosh.png[,role="text-center"]
 
 [.text-center]
 1995 Vermilion High School Freshman Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members:
 
-image::/images/1995froshmem.png[,role="text-center"]
+image::/testsite/images/1995froshmem.png[,role="text-center"]
 
 Image Gallery:
 
 * link:https://photos.app.goo.gl/EtckdAC79qzTy7DT7[1995 Vermilion High School Yearbook]
 
-image::/images/1996sym.png[,role="text-center"]
+image::/testsite/images/1996sym.png[,role="text-center"]
 
 [.text-center]
 1996 Vermilion High School Symphonic Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Listed in Image
 
@@ -216,27 +216,27 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/zLt9mNpPqHpUjfUq8[1996 Vermilion High School Yearbook]
 
-image::/images/1996frosh.png[,role="text-center"]
+image::/testsite/images/1996frosh.png[,role="text-center"]
 
 [.text-center]
 1996 Vermilion High School Freshman Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members:
 
-image::/images/1996froshmem.png[,role="text-center"]
+image::/testsite/images/1996froshmem.png[,role="text-center"]
 
 Image Gallery:
 
 * link:https://photos.app.goo.gl/zLt9mNpPqHpUjfUq8[1996 Vermilion High School Yearbook]
 
-image::/images/1997sym.png[,role="text-center"]
+image::/testsite/images/1997sym.png[,role="text-center"]
 
 [.text-center]
 1997 Vermilion High School Symphonic Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -244,12 +244,12 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/J3fab528iGtJPbNe6[1997 Vermilion High School Yearbook]
 
-image::/images/1997con.png[,role="text-center"]
+image::/testsite/images/1997con.png[,role="text-center"]
 
 [.text-center]
 1998 Vermilion High School Concert Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -257,12 +257,12 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/T5UEufAzKMCMmLuY9[1998 Vermilion High School Yearbook]
 
-image::/images/1998windens.png[,role="text-center"]
+image::/testsite/images/1998windens.png[,role="text-center"]
 
 [.text-center]
 1998 Vermilion High School Wind Ensemble
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Listed in Image
 
@@ -270,12 +270,12 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/T5UEufAzKMCMmLuY9[1998 Vermilion High School Yearbook]
 
-image::/images/1999windens.png[,role="text-center"]
+image::/testsite/images/1999windens.png[,role="text-center"]
 
 [.text-center]
 1999 Vermilion High School Wind Ensemble
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Listed in Image
 
@@ -283,12 +283,12 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/SzjTPZrYqnazrNj16[1999 Vermilion High School Yearbook]
 
-image::/images/1999con.png[,role="text-center"]
+image::/testsite/images/1999con.png[,role="text-center"]
 
 [.text-center]
 1999 Vermilion High School Concert Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Listed in Image
 
@@ -297,4 +297,4 @@ Image Gallery:
 * link:https://photos.app.goo.gl/SzjTPZrYqnazrNj16[1999 Vermilion High School Yearbook]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]

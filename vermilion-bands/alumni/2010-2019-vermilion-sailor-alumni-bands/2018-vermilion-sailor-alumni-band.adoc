@@ -7,9 +7,9 @@ title: 2018 Vermilion Sailor Alumni Band
 
 === 2018 Vermilion Sailor Alumni Band
 
-image::/images/42495756_1989429391080228_456387468300648448_n.jpg[,role="text-center"]
+image::/testsite/images/42495756_1989429391080228_456387468300648448_n.jpg[,role="text-center"]
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 *Image Galleries:*
 
@@ -23,4 +23,4 @@ Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-
 video::k_3m4ywq_V0[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/vermilion-bands/alumni/[rching Bands] – link:/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/[2010-2019 Vermilion Sailor Alumni Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/testsite/vermilion-bands/alumni/[rching Bands] – link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/[2010-2019 Vermilion Sailor Alumni Bands]

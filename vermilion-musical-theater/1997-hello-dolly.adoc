@@ -7,7 +7,7 @@ title: 1997 -- Hello, Dolly!
 
 === Hello, Dolly!
 
-image::/images/1997-hellodolly.jpeg[,role="text-center"]
+image::/testsite/images/1997-hellodolly.jpeg[,role="text-center"]
 
 “Hello, Dolly!” is a classic American musical with music and lyrics by Jerry Herman and a book by Michael Stewart. The musical is set in the 1890s and tells the story of Dolly Gallagher Levi, a matchmaker and widow, as she travels to Yonkers, New York, to find a suitable spouse for the wealthy and cantankerous bachelor, Horace Vandergelder. Here’s a summary of the plot:
 
@@ -35,9 +35,9 @@ In a memorable and show-stopping moment, Dolly performs the title song “Hello,
 
 “Hello, Dolly!” is known for its catchy songs, including the titular song, “Before the Parade Passes By,” and “It Only Takes a Moment.” The musical explores themes of love, ambition, and the power of human connection, all set against a backdrop of humor and charm.
 
-image::/images/1997musical.jpeg[,role="text-center"]
+image::/testsite/images/1997musical.jpeg[,role="text-center"]
 
-image::/images/1997musical2.jpeg[,role="text-center"]
+image::/testsite/images/1997musical2.jpeg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-musical-theater/[Vermilion Musical Theater]
+link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

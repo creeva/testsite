@@ -7,9 +7,9 @@ title: 1934-1935 Vermilion Sailor Marching Band
 
 === 1934-1935 Vermilion Sailor Marching Band
 
-image::/images/1935band.jpg[,role="text-center"]
+image::/testsite/images/1935band.jpg[,role="text-center"]
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Members: D. Krapp, J. Hart, M. Snyder, J. English, E. Johnson, D. Sahr, H. Will, M. Ball, A. Zier, D. Schisler, B. Kropf, J. Kneisel, C. Gegenheimer, M. Ball, B. Will, M. Sopko, P. Naegele,
 
@@ -18,13 +18,13 @@ Image Galleries:
 * link:https://photos.app.goo.gl/YAuMACWGNnBYWWPH8[1934-1935 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/gL5hmNkNVoTZBDPE7[1935 Vermilion High School Yearbook]
 
-image::/images/1935bandwrite.jpg[,role="text-center"]
+image::/testsite/images/1935bandwrite.jpg[,role="text-center"]
 
 *The Band*
 
 Added attraction at all basketball games held in the ship’s auditorium and at most football games has been the VHS band. During this year’s voyage the band has had smooth sailing under the able direction of Mr. James L. Hoffman. It is only recently the ship has had a band, but everyone agrees that it adds a lot to events on board.
 
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1930-1939-vermilion-sailor-marching-band/[1930-1939 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1930-1939-vermilion-sailor-marching-band/[1930-1939 Vermilion Sailor Marching Bands]
 
 [.text-center]
-__________________________________________________________________________________  + __________________________________________________________________________________  + link:/[Vermilion Bands] _____ link:/vermilion-high-school-band-directors/[Vermilion Band Directors] ______ link:/vermilion-band-history/[Band History] ____ link:/media-links/[Media Links] _____ link:/songs/[Songs]  + __________________________________________________________________________________  + __________________________________________________________________________________
+__________________________________________________________________________________  + __________________________________________________________________________________  + link:/testsite/[Vermilion Bands] _____ link:/testsite/vermilion-high-school-band-directors/[Vermilion Band Directors] ______ link:/testsite/vermilion-band-history/[Band History] ____ link:/testsite/media-links/[Media Links] _____ link:/testsite/songs/[Songs]  + __________________________________________________________________________________  + __________________________________________________________________________________

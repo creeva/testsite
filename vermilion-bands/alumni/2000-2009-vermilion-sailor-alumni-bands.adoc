@@ -7,45 +7,45 @@ title: 2000-2009 Vermilion Sailor Alumni Bands
 
 === 2000-2009 Vermilion Sailor Alumni Bands
 
-image::/images/alumnigeneric.jpeg[,role="text-center"]
+image::/testsite/images/alumnigeneric.jpeg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2000-vermilion-sailor-alumni-band-2/[2000 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2000-vermilion-sailor-alumni-band-2/[2000 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2001-vermilion-sailor-alumni-band/[2001 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2001-vermilion-sailor-alumni-band/[2001 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2002-vermilion-sailor-alumni-band/[2002 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2002-vermilion-sailor-alumni-band/[2002 Vermilion Sailor Alumni Band]
 
-image::/images/DSCF0073_4012673203_o.jpg[,role="text-center"]
-
-[.text-center]
-link:/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2003-vermilion-sailor-alumni-band/[2003 Vermilion Sailor Alumni Band]
-
-image::/images/sideline-alumni_4013465514_o.jpg[,role="text-center"]
+image::/testsite/images/DSCF0073_4012673203_o.jpg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2004-vermilion-sailor-alumni-band/[2004 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2003-vermilion-sailor-alumni-band/[2003 Vermilion Sailor Alumni Band]
 
-image::/images/08-2005-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]
-
-[.text-center]
-link:/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2005-vermilion-sailor-alumni-band/[2005 Vermilion Sailor Alumni Band]
+image::/testsite/images/sideline-alumni_4013465514_o.jpg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2006-vermilion-sailor-alumni-band/[2006 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2004-vermilion-sailor-alumni-band/[2004 Vermilion Sailor Alumni Band]
+
+image::/testsite/images/08-2005-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2007-vermilion-sailor-alumni-band/[2007 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2005-vermilion-sailor-alumni-band/[2005 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2008-vermilion-sailor-alumni-band/[2008 Vermilion Sailor Alumni Band]
-
-image::/images/IMG_0540_4013364668_o.jpg[,role="text-center"]
+link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2006-vermilion-sailor-alumni-band/[2006 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2009-vermilion-sailor-alumni-band/[2009 Vermilion Sailor Alumni Band]
+link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2007-vermilion-sailor-alumni-band/[2007 Vermilion Sailor Alumni Band]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/vermilion-bands/alumni/[rching Bands]
+link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2008-vermilion-sailor-alumni-band/[2008 Vermilion Sailor Alumni Band]
+
+image::/testsite/images/IMG_0540_4013364668_o.jpg[,role="text-center"]
+
+[.text-center]
+link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2009-vermilion-sailor-alumni-band/[2009 Vermilion Sailor Alumni Band]
+
+[.text-center]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/testsite/vermilion-bands/alumni/[rching Bands]

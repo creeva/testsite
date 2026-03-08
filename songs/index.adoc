@@ -7,40 +7,40 @@ title: Songs
 
 === Songs
 
-image::/images/2002-2003-Vermilion-Sailor-Marching-Band_4187767729_o.jpg[,role="text-center"]
+image::/testsite/images/2002-2003-Vermilion-Sailor-Marching-Band_4187767729_o.jpg[,role="text-center"]
 
 The following list includes songs that the Vermilion Sailor or the Sailor Alumni Marching Bands have played on the field or in the stands. The list is by no means complete and new songs will be added based on the memories of our musicians. An link:https://music.apple.com/us/playlist/vermilion-sailor-alumni-band/pl.u-oZylD01t5AJz7[Apple Music Playlist] based on songs played by Vermilion musical groups is available.
 
 *Marching Band Song List:*
 
-* link:/songs/1812-overture/[1812 Overture]
-* link:/songs/aftershock/[Aftershock]
-* link:/songs/after-the-love-is-gone/[After The Love Is Gone]
-* link:/songs/alma-mater/[Alma Mater]
-* link:/songs/alexanders-ragtime-band/[Alexander's Rag Time Band]
-* link:/songs/alive-and-amplified/[Alive and Amplified]
-* link:/songs/all-at-once/[All At Once]
-* link:/songs/all-i-need-is-a-miracle/[All I Need is a Miracle]
-* link:/songs/america-the-beautiful/[America The Beautiful]
-* link:/songs/american-woman/[American Woman]
+* link:/testsite/songs/1812-overture/[1812 Overture]
+* link:/testsite/songs/aftershock/[Aftershock]
+* link:/testsite/songs/after-the-love-is-gone/[After The Love Is Gone]
+* link:/testsite/songs/alma-mater/[Alma Mater]
+* link:/testsite/songs/alexanders-ragtime-band/[Alexander's Rag Time Band]
+* link:/testsite/songs/alive-and-amplified/[Alive and Amplified]
+* link:/testsite/songs/all-at-once/[All At Once]
+* link:/testsite/songs/all-i-need-is-a-miracle/[All I Need is a Miracle]
+* link:/testsite/songs/america-the-beautiful/[America The Beautiful]
+* link:/testsite/songs/american-woman/[American Woman]
 * Angels We Have Heard On High
-* link:/songs/anyway-you-want-it/[Anyway You Want It]
-* link:/songs/are-you-ready-for-this/[Are You Ready For This]
-* link:/songs/armada/[Armada]
-* link:/songs/artistry-and-rhythm/[Artistry and Rhythm]
-* link:/songs/at-the-hop/[At The Hop]
-* link:/songs/avalon/[Avalon]
-* link:/songs/bad-medicine/[Bad Medicine]
-* link:/songs/back-to-the-future/[Back To The Future]
-* link:/songs/back-in-the-ussr/[Back in the USSR]
+* link:/testsite/songs/anyway-you-want-it/[Anyway You Want It]
+* link:/testsite/songs/are-you-ready-for-this/[Are You Ready For This]
+* link:/testsite/songs/armada/[Armada]
+* link:/testsite/songs/artistry-and-rhythm/[Artistry and Rhythm]
+* link:/testsite/songs/at-the-hop/[At The Hop]
+* link:/testsite/songs/avalon/[Avalon]
+* link:/testsite/songs/bad-medicine/[Bad Medicine]
+* link:/testsite/songs/back-to-the-future/[Back To The Future]
+* link:/testsite/songs/back-in-the-ussr/[Back in the USSR]
 * Bandstand Boogie -- No Videos
-* link:/songs/barbara-ann/[Barbara Ann]
-* link:/songs/bare-necessities/[Bare Necessities]
-* link:/songs/basin-street-blues/[Basin Street Blues]
-* link:/songs/beat-it/[Beat It]
-* link:/songs/beatles-mashup/[Beatles Mash Up]
+* link:/testsite/songs/barbara-ann/[Barbara Ann]
+* link:/testsite/songs/bare-necessities/[Bare Necessities]
+* link:/testsite/songs/basin-street-blues/[Basin Street Blues]
+* link:/testsite/songs/beat-it/[Beat It]
+* link:/testsite/songs/beatles-mashup/[Beatles Mash Up]
 * Beginnings -- No Videos
-* link:/songs/bend-me-shake-me/[Bend Me Shake Me]
+* link:/testsite/songs/bend-me-shake-me/[Bend Me Shake Me]
 * Big Band Beats
 * Birdland
 * Bite The Hand That Feeds
@@ -51,7 +51,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Boot Scootin Boogie
 * Bugler's Holiday
 * Bully
-* link:/songs/by-the-sea/[By The Sea]
+* link:/testsite/songs/by-the-sea/[By The Sea]
 * By The Time I Get to Phoenix
 * Cadence
 * Can You Feel The Love Tonight
@@ -61,7 +61,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Can't Wait To Be King
 * Captain America March
 * Catch That Pepsi Spirit
-* link:/songs/celebrate-a-celebration/[Celebrate a Celebration]
+* link:/testsite/songs/celebrate-a-celebration/[Celebrate a Celebration]
 * Chameleon
 * Charge
 * Charleston
@@ -95,13 +95,13 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Enter Sandman
 * Everybody's Everything
 * Everything is Awesome
-* link:/songs/everythings-coming-up-roses/[Everything's Coming Up Roses]
+* link:/testsite/songs/everythings-coming-up-roses/[Everything's Coming Up Roses]
 * Eye of the Tiger
 * Fame
 * Fanfares
 * Feels So Good
 * Felize Navidad
-* link:/songs/fight-song-anchors-away/[Fight Song -- Anchors Aweigh]
+* link:/testsite/songs/fight-song-anchors-away/[Fight Song -- Anchors Aweigh]
 * Final Countdown
 * Firework
 * Footloose
@@ -137,8 +137,8 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Hooray for Hollywood
 * How Far I'll Go
 * Hurts So Bad
-* link:/songs/i-believe/[I Believe]
-* link:/songs/i-can-see-for-miles/[I Can See For Miles]
+* link:/testsite/songs/i-believe/[I Believe]
+* link:/testsite/songs/i-can-see-for-miles/[I Can See For Miles]
 * I Can't Turn You Loose
 * I Do
 * I Don't Care
@@ -160,7 +160,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * It's Maui Time
 * Jazzin'
 * Johnny B. Goode
-* link:/songs/joshua/[Joshua]
+* link:/testsite/songs/joshua/[Joshua]
 * Joy To The World
 * Jump
 * Jump, Jive, and Wail
@@ -179,7 +179,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Long Train Runnin'
 * Love Me With All of Your Heart
 * Lullaby of Broadway
-* link:/songs/macarthur-park/[Macarthur Park]
+* link:/testsite/songs/macarthur-park/[Macarthur Park]
 * Mack The Knife
 * Mad Cats
 * Magic Carpet Ride
@@ -229,7 +229,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Ride Captain Ride
 * Rock and Roll
 * Rock and Roll All Night
-* link:/songs/rock-around-the-clock/[Rock Around The Clock]
+* link:/testsite/songs/rock-around-the-clock/[Rock Around The Clock]
 * Rock Til You Drop
 * Rocking Robin
 * Roll Over Beethoven
@@ -248,7 +248,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Send In The Clowns
 * September
 * Seventeen
-* link:/songs/sgt-peppers-loney-hearts-club-band/[Sgt. Pepper's Lonely Hearts Club Band]
+* link:/testsite/songs/sgt-peppers-loney-hearts-club-band/[Sgt. Pepper's Lonely Hearts Club Band]
 * Shake Rattle and Roll
 * Shake Shake Shake Senora
 * Shakedown
@@ -266,14 +266,14 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Someone To Watch Over Me
 * Something
 * Son of a Preacher Man
-* link:/songs/soul-finger/[Soul Finger]
+* link:/testsite/songs/soul-finger/[Soul Finger]
 * Soul Man
 * Spirit In The Sky
 * Stairway to Heaven
 * Star Wars
 * Stars and Stripes Forever
-* link:/songs/the-star-spangled-banner/[The Star Spangled Banner]
-* link:/songs/the-story-in-your-eyes/[The Story In Your Eyes]
+* link:/testsite/songs/the-star-spangled-banner/[The Star Spangled Banner]
+* link:/testsite/songs/the-story-in-your-eyes/[The Story In Your Eyes]
 * Strike Force
 * The Stripper
 * Sugar Blues
@@ -320,7 +320,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Wake Me Up
 * Walk Like an Egyptian
 * Walk This Way
-* link:/songs/watermelon-man/[Watermelon Man]
+* link:/testsite/songs/watermelon-man/[Watermelon Man]
 * We Are With You
 * We Got The Funk
 * We're An American Band
@@ -424,4 +424,4 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Selection from Samson and Delila
 * Stately Dance
 
-image::/images/Class-of-1980-Band-Photo_4929917390_o.jpg[,role="text-center"]
+image::/testsite/images/Class-of-1980-Band-Photo_4929917390_o.jpg[,role="text-center"]

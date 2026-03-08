@@ -7,7 +7,7 @@ title: Shawn Perry
 
 === Shawn Perry
 
-image::/images/shawnperryinlawnchair.jpeg[,role="text-center"]
+image::/testsite/images/shawnperryinlawnchair.jpeg[,role="text-center"]
 
 Website: link:http://shawnperry.country/[shawnperry.country]
 
@@ -22,4 +22,4 @@ Since Shifting his focus to a solo career in 2015 with the release of his debut 
 In 2019 Shawn Perry released their new single “Lawnchair” to critical and commercial acclaim. The song was recorded by Grammy-winning producer Christian Davis at the Castle in Nashville and mastered by Grammy-winner Maor Applebaum in Los Angeles. The song made its debut on the country charts in March 2019 and has been steadily climbing ever since. Shawn has recently dropped the singles Six Feet Apart and Hardrock Hillbilly from his new album tiltled “All American Heartbreak” slated for release sometime in 2023.
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/other/[Other Vermilion Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/other/[Other Vermilion Bands]

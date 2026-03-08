@@ -7,9 +7,9 @@ title: 1955-1956 Vermilion Sailor Marching Band
 
 === 1955-1956 Vermilion Sailor Marching Band
 
-image::/images/1956-Marching-Band.jpg[,role="text-center"]
+image::/testsite/images/1956-Marching-Band.jpg[,role="text-center"]
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -18,7 +18,7 @@ Members: Unlisted
 * link:https://photos.app.goo.gl/Rknxgz4Q7AwjwRLy5[1955-1956 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/ePvpdG5L77B7XbL67[1956 Vermilion High School Yearbook]
 
-image::/images/1955-1956-Vermilion-Sailor-Marching-Band-Band-Writeup-Vermilion-OH.jpg[,role="text-center"]
+image::/testsite/images/1955-1956-Vermilion-Sailor-Marching-Band-Band-Writeup-Vermilion-OH.jpg[,role="text-center"]
 
 *Marching Band*
 
@@ -32,13 +32,13 @@ _Special shows included a Salute to Summer, Droodles, A Salute to Glenn Miller, 
 
 _The band had to work hard to present a different performance at each game, but favorable comments and increased spirit justified the hours spent._
 
-image::/images/1955-1956-Vermilion-Sailor-Marching-Band-Majorettes-Vermilion-OH.jpg[,role="text-center"]
+image::/testsite/images/1955-1956-Vermilion-Sailor-Marching-Band-Majorettes-Vermilion-OH.jpg[,role="text-center"]
 
 Majorettes Left to Right: A Hasenflue, J. Wiseman, E. Todd, L. Miskow, B. Russel, P. Noltner
 
-image::/images/The_Sandusky_Register_Tue__Nov_1__1955_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Tue__Nov_1__1955_.jpg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Wed__Nov_16__1955_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Wed__Nov_16__1955_.jpg[,role="text-center"]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

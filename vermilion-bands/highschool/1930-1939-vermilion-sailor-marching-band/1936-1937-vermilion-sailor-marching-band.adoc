@@ -7,16 +7,16 @@ title: 1936-1937 Vermilion Sailor Marching Band
 
 === 1936-1937 Vermilion Sailor Marching Band
 
-image::/images/1937orch.jpg[,role="text-center"]
+image::/testsite/images/1937orch.jpg[,role="text-center"]
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Image Galleries:
 
 * link:https://photos.app.goo.gl/bhPourNArBEpgxpP6[1936-1937 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/1pEMYVWR26TtwWQS9[1937 Vermilion High School Yearbook]
 
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1930-1939-vermilion-sailor-marching-band/[1930-1939 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1930-1939-vermilion-sailor-marching-band/[1930-1939 Vermilion Sailor Marching Bands]
 
 [.text-center]
-__________________________________________________________________________________  + __________________________________________________________________________________  + link:/[Vermilion Bands] _____ link:/vermilion-high-school-band-directors/[Vermilion Band Directors] ______ link:/vermilion-band-history/[Band History] ____ link:/media-links/[Media Links] _____ link:/songs/[Songs]  + __________________________________________________________________________________  + __________________________________________________________________________________
+__________________________________________________________________________________  + __________________________________________________________________________________  + link:/testsite/[Vermilion Bands] _____ link:/testsite/vermilion-high-school-band-directors/[Vermilion Band Directors] ______ link:/testsite/vermilion-band-history/[Band History] ____ link:/testsite/media-links/[Media Links] _____ link:/testsite/songs/[Songs]  + __________________________________________________________________________________  + __________________________________________________________________________________

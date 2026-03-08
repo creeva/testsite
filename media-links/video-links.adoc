@@ -7,11 +7,11 @@ title: Videos
 
 === Video Links
 
-image::/images/1999-2000-Sailor-Marching-Band_4169765288_o.jpg[,role="text-center"]
+image::/testsite/images/1999-2000-Sailor-Marching-Band_4169765288_o.jpg[,role="text-center"]
 
 Vermilion Sailor Alumni band hosts all of its videos on YouTube. Original source highlight videos as well as videos of individual songs are included in the playlists arranged by year and band (High School or Alumni) that performed them. Over a thousand videos are available on the link:https://www.youtube.com/@vermilionsailoralumniband/[YouTube page] . Playlists below link to individual groups.
 
-image::/images/vhsmajorettes77vv.jpg[,role="text-center"]
+image::/testsite/images/vhsmajorettes77vv.jpg[,role="text-center"]
 
 *Vermilion Sailor Marching Band Video Playlists:*
 
@@ -54,7 +54,7 @@ image::/images/vhsmajorettes77vv.jpg[,role="text-center"]
 * 2022-2023 Vermilion Sailor Marching Band
 * 2023-2024 Vermilion Sailor Marching Band
 
-image::/images/1.jpg[,role="text-center"]
+image::/testsite/images/1.jpg[,role="text-center"]
 
 *Vermilion Sailor Alumni Band Video Playlists:*
 
@@ -88,7 +88,7 @@ image::/images/1.jpg[,role="text-center"]
 * link:https://www.youtube.com/watch?v=ablJQaPXDjE&list=PLqposBlPPQd_ytdahR5w_xYiwYEaBbs-C&pp=gAQBiAQB[2021 Vermilion Sailor Alumni Band]
 * link:https://www.youtube.com/watch?v=YFsRfxQ99HM&list=PLqposBlPPQd8-hWJwX-U8cTFfYKmBQqLX&pp=gAQBiAQB[2022 Vermilion Sailor Alumni Band]
 
-image::/images/1986-1987-Spring-Musical-Oklahoma-16-Vermilion-High-School-Vermilion-OH.jpg[,role="text-center"]
+image::/testsite/images/1986-1987-Spring-Musical-Oklahoma-16-Vermilion-High-School-Vermilion-OH.jpg[,role="text-center"]
 
 *Other Related Video Playlists:*
 
@@ -97,4 +97,4 @@ image::/images/1986-1987-Spring-Musical-Oklahoma-16-Vermilion-High-School-Vermil
 * link:https://www.youtube.com/watch?v=-pZw6Q4Agzk&list=PLqposBlPPQd9Jec5Fadr2yjcn4UF5ekDz&pp=gAQBiAQB[Highlight Videos]
 * link:https://www.youtube.com/watch?v=1uGSEg1j4ck&list=PLqposBlPPQd_JloD8M7yXdQiel2n3YGJ-&pp=gAQBiAQB[Misc. Videos]
 
-image::/images/1967-1968-2019-07-23-10.50.32-scaled-1.jpg[,role="text-center"]
+image::/testsite/images/1967-1968-2019-07-23-10.50.32-scaled-1.jpg[,role="text-center"]

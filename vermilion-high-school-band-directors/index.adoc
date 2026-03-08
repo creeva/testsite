@@ -7,12 +7,12 @@ title: Vermilion Band Directors
 
 === Vermilion Band Directors
 
-image::/images/1955-James-Hoffman.jpg[,role="text-center"]
+image::/testsite/images/1955-James-Hoffman.jpg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/[Vermilion High School Band Directors]
+link:/testsite/vermilion-high-school-band-directors/[Vermilion High School Band Directors]
 
-image::/images/1.jpg[,role="text-center"]
+image::/testsite/images/1.jpg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-high-school-band-directors/directors/[Vermilion Alumni Band Directors]
+link:/testsite/vermilion-high-school-band-directors/directors/[Vermilion Alumni Band Directors]

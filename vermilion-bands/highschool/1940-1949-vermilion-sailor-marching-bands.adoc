@@ -8,48 +8,48 @@ title: 1940-1949 Vermilion Sailor Marching Bands
 === 1940-1949 Vermilion Sailor Marching Bands
 
 [.text-center]
-link:/vermilion-bands/highschool/1940-1949-vermilion-sailor-marching-bands/1939-1940-vermilion-sailor-marching-band/[1939-1940 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1940-1949-vermilion-sailor-marching-bands/1939-1940-vermilion-sailor-marching-band/[1939-1940 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/1940-1949-vermilion-sailor-marching-bands/1940-1941-vermilion-sailor-marching-band/[1940-1941 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1940-1949-vermilion-sailor-marching-bands/1940-1941-vermilion-sailor-marching-band/[1940-1941 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/vermilion-bands/highschool/1940-1949-vermilion-sailor-marching-bands/1941-1942-vermilion-sailor-marching-band/[1941-1942 Vermilion Sailor Marching Band]
+link:/testsite/vermilion-bands/highschool/1940-1949-vermilion-sailor-marching-bands/1941-1942-vermilion-sailor-marching-band/[1941-1942 Vermilion Sailor Marching Band]
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1942-1943 Vermilion Sailor Marching Band
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1943-1944 Vermilion Sailor Marching Band
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1944-1945 Vermilion Sailor Marching Band
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1945-1946 Vermilion Sailor Marching Band
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1946-1947 Vermilion Sailor Marching Band
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1947-1948 Vermilion Sailor Marching Band
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1948-1949 Vermilion Sailor Marching Band
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]

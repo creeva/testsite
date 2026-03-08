@@ -89,4 +89,4 @@ video::9PGIpf3wKI0[youtube, width=640, height=360, align=center]
 video::DHaKvXLQsD0[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/songs/[Vermilion Sailor Band Songs]
+link:/testsite/songs/[Vermilion Sailor Band Songs]

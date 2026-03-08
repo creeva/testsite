@@ -7,9 +7,9 @@ title: 1938-1939 Vermilion Sailor Marching Band
 
 === 1938-1939 Vermilion Sailor Marching Band
 
-image::/images/1939band.jpg[,role="text-center"]
+image::/testsite/images/1939band.jpg[,role="text-center"]
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Members: F. Moes, R. Lewis, C. Schmaltz, E. Kelm, C. Moes, P. Hodgson, P. Cipra, L. Bachman, E. Kropf, P. Trinter, P. Yaggy, M. Barnes, R. Lingelbach, I. Fandrich, J. Parsons, L. Hull, G. Derby, M. Snyder, D. Krapp, C. Kishman, E. Schwensen, L. Cipra, M. Ball, O. Zelinski, D. Trinter
 
@@ -18,7 +18,7 @@ Image Galleries:
 * link:https://photos.app.goo.gl/gWeA8jHEUYa8kXcZ9[1938-1939 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/4NpcV6U9KNAXVebA6[1939 Vermilion High School Yearbook]
 
-image::/images/1939bandwrite.jpg[,role="text-center"]
+image::/testsite/images/1939bandwrite.jpg[,role="text-center"]
 
 *The Band*
 
@@ -28,4 +28,4 @@ The band played for all home football and basketball games, doing its share in i
 
 Thirteen members of the local band are in the Erie County Band. They are: Donald Krapp, Martha Snyder, Charity Moes, Rodney Lewis, Charles Kishman, Charles Schmaltz, Paul Yaggy, Ruth Lingelbach, Janet Parsons, Lucille Hull, Leonard Cipra, Faith Moes, and Marguerite Ball.
 
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1930-1939-vermilion-sailor-marching-band/[1930-1939 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1930-1939-vermilion-sailor-marching-band/[1930-1939 Vermilion Sailor Marching Bands]

@@ -7,7 +7,7 @@ title: 1975 -- Man of La Mancha
 
 === Man of La Mancha -- April 11-12 and 18-19, 1975
 
-image::/images/manoflamancha.jpeg[,role="text-center"]
+image::/testsite/images/manoflamancha.jpeg[,role="text-center"]
 
 “Man of La Mancha” is a classic American musical with a book by Dale Wasserman, music by Mitch Leigh, and lyrics by Joe Darion. The musical is a play within a play, where the author Miguel de Cervantes, who is imprisoned during the Spanish Inquisition, presents a story to his fellow inmates. Here’s a summary of the plot:
 
@@ -37,49 +37,49 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/mLE3HqoPLEa3UBbz9[1975 Vermilion High School -- Man of La Mancha]
 
-image::/images/1975musical.jpeg[,role="text-center"]
+image::/testsite/images/1975musical.jpeg[,role="text-center"]
 
-image::/images/1975mlma1.jpg[,role="text-center"]
+image::/testsite/images/1975mlma1.jpg[,role="text-center"]
 
-image::/images/1975mlma2.jpg[,role="text-center"]
+image::/testsite/images/1975mlma2.jpg[,role="text-center"]
 
-image::/images/1975mlma3.jpg[,role="text-center"]
+image::/testsite/images/1975mlma3.jpg[,role="text-center"]
 
-image::/images/1975mlma4.jpg[,role="text-center"]
+image::/testsite/images/1975mlma4.jpg[,role="text-center"]
 
-image::/images/1975mlma5.jpg[,role="text-center"]
+image::/testsite/images/1975mlma5.jpg[,role="text-center"]
 
-image::/images/1975mlma6.jpg[,role="text-center"]
+image::/testsite/images/1975mlma6.jpg[,role="text-center"]
 
-image::/images/1975mlma7.jpg[,role="text-center"]
+image::/testsite/images/1975mlma7.jpg[,role="text-center"]
 
-image::/images/1975mlma8.jpg[,role="text-center"]
+image::/testsite/images/1975mlma8.jpg[,role="text-center"]
 
-image::/images/1975mlma9.jpeg[,role="text-center"]
+image::/testsite/images/1975mlma9.jpeg[,role="text-center"]
 
-image::/images/1975mlma10.jpeg[,role="text-center"]
+image::/testsite/images/1975mlma10.jpeg[,role="text-center"]
 
-image::/images/1975mlma11.jpeg[,role="text-center"]
+image::/testsite/images/1975mlma11.jpeg[,role="text-center"]
 
-image::/images/1975mlma12.jpeg[,role="text-center"]
+image::/testsite/images/1975mlma12.jpeg[,role="text-center"]
 
-image::/images/1975mlma13.jpeg[,role="text-center"]
+image::/testsite/images/1975mlma13.jpeg[,role="text-center"]
 
-image::/images/1975mlma14.jpeg[,role="text-center"]
+image::/testsite/images/1975mlma14.jpeg[,role="text-center"]
 
-image::/images/1975mlm1.jpeg[,role="text-center"]
+image::/testsite/images/1975mlm1.jpeg[,role="text-center"]
 
-image::/images/1975mlm2.jpeg[,role="text-center"]
+image::/testsite/images/1975mlm2.jpeg[,role="text-center"]
 
-image::/images/1975mlm3.jpeg[,role="text-center"]
+image::/testsite/images/1975mlm3.jpeg[,role="text-center"]
 
-image::/images/1975mlm4.jpeg[,role="text-center"]
+image::/testsite/images/1975mlm4.jpeg[,role="text-center"]
 
-image::/images/1975mlm5.jpeg[,role="text-center"]
+image::/testsite/images/1975mlm5.jpeg[,role="text-center"]
 
-image::/images/1975mlm6.jpeg[,role="text-center"]
+image::/testsite/images/1975mlm6.jpeg[,role="text-center"]
 
-image::/images/1975mlm7.jpeg[,role="text-center"]
+image::/testsite/images/1975mlm7.jpeg[,role="text-center"]
 
 [.text-center]
-link:/vermilion-musical-theater/[Vermilion Musical Theater]
+link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

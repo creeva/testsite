@@ -7,7 +7,7 @@ title: 1962-1963 Vermilion Sailor Marching Band
 
 === 1962-1963 Vermilion Sailor Marching Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Head Majorette: Linda Harrison
 
@@ -18,7 +18,7 @@ Members: J. Greene, D. Moeller, W. Washburn, A. Tatum, L. Harrison, P. Thornton,
 * link:https://photos.app.goo.gl/viCf8hTE2BrV2jVn8[1962-1963 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/2VKcBMvMVKzZTHc37[1963 Vermilion High School Yearbook]
 
-image::/images/1963-Band-Writeup.jpg[,role="text-center"]
+image::/testsite/images/1963-Band-Writeup.jpg[,role="text-center"]
 
 *Marching Band*
 
@@ -30,39 +30,39 @@ _No special trips were made this year, but with a full schedule of ten football 
 
 _Mr. William Burt is the bandmaster._
 
-image::/images/7-2-1963.jpeg[,role="text-center"]
+image::/testsite/images/7-2-1963.jpeg[,role="text-center"]
 
-image::/images/9-18-1963.jpeg[,role="text-center"]
+image::/testsite/images/9-18-1963.jpeg[,role="text-center"]
 
-image::/images/9-19-1962.jpeg[,role="text-center"]
+image::/testsite/images/9-19-1962.jpeg[,role="text-center"]
 
-image::/images/9-25-1963.jpeg[,role="text-center"]
+image::/testsite/images/9-25-1963.jpeg[,role="text-center"]
 
-image::/images/10-3-1962.jpeg[,role="text-center"]
+image::/testsite/images/10-3-1962.jpeg[,role="text-center"]
 
-image::/images/10-10-1962.jpeg[,role="text-center"]
+image::/testsite/images/10-10-1962.jpeg[,role="text-center"]
 
-image::/images/10-23-1963.jpeg[,role="text-center"]
+image::/testsite/images/10-23-1963.jpeg[,role="text-center"]
 
-image::/images/10-24-1962.jpeg[,role="text-center"]
+image::/testsite/images/10-24-1962.jpeg[,role="text-center"]
 
-image::/images/10-31-1962.jpeg[,role="text-center"]
+image::/testsite/images/10-31-1962.jpeg[,role="text-center"]
 
-image::/images/1962-10-24.jpeg[,role="text-center"]
+image::/testsite/images/1962-10-24.jpeg[,role="text-center"]
 
-image::/images/11-20-1963.jpeg[,role="text-center"]
+image::/testsite/images/11-20-1963.jpeg[,role="text-center"]
 
-image::/images/1107-1962.jpeg[,role="text-center"]
+image::/testsite/images/1107-1962.jpeg[,role="text-center"]
 
-image::/images/12-6-1963.jpeg[,role="text-center"]
+image::/testsite/images/12-6-1963.jpeg[,role="text-center"]
 
-image::/images/12-12-1962.jpeg[,role="text-center"]
+image::/testsite/images/12-12-1962.jpeg[,role="text-center"]
 
-image::/images/3-27-1963.jpeg[,role="text-center"]
+image::/testsite/images/3-27-1963.jpeg[,role="text-center"]
 
-image::/images/12-5-1962.jpeg[,role="text-center"]
+image::/testsite/images/12-5-1962.jpeg[,role="text-center"]
 
-image::/images/The_Sandusky_Register_Fri__Jun_1__1962_.jpg[,role="text-center"]
+image::/testsite/images/The_Sandusky_Register_Fri__Jun_1__1962_.jpg[,role="text-center"]
 
 [.text-center]
-link:/[Vermilion Bands] – link:/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]
+link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]

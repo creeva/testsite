@@ -7,8 +7,8 @@ title: Kimberly Judd
 
 === Kimberly Judd
 
-image::/images/IMG_6453.jpg[,role="text-center"]
+image::/testsite/images/IMG_6453.jpg[,role="text-center"]
 
 Kimberly Judd is the current Director of Bands at Vermilion High School having started in the 2017 school year. Mrs. Judd graduated from Otterbein University with a Bachelor of Music Education and has taught instrumental and vocal music for 18 years. In addition, she has directed 14 musicals and 3 plays over the course of her career. Kim has also played in multiple shows, ensembles, and churches. Mrs. Judd resides in Vermilion with her husband, Bob, and her daughter, Bella. When not in the band room, Mrs. Judd and her family enjoy going to Cedar Point and making trips to Walt Disney World Resort.
 
-image::/images/20645498_1537961949575437_482799086311200440_o.jpg[,role="text-center"]
+image::/testsite/images/20645498_1537961949575437_482799086311200440_o.jpg[,role="text-center"]

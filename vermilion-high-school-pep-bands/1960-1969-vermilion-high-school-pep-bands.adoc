@@ -7,9 +7,9 @@ title: 1960-1969 Vermilion High School Pep Bands
 
 === 1960-1969 Vermilion High School Pep Bands
 
-image::/images/1960pep.jpg[,role="text-center"]
+image::/testsite/images/1960pep.jpg[,role="text-center"]
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: M. Rognon, J. Shaw, S. Zalar, M. Havrilla, C. Gregg, P. Syfer, G. Mollohan, C. Kemmerer, E. Feiszli, K. Hollosy, M. Bodde, S. Malone, B. Mey, J. Kropf, S. Yeaman, L. Wiencke, A. Greehoe, J. Lindsay, K. Fisher, J. Jaworski, D. May, N. Welch, Z. Tarrant
 
@@ -17,12 +17,12 @@ Members: M. Rognon, J. Shaw, S. Zalar, M. Havrilla, C. Gregg, P. Syfer, G. Mollo
 
 * link:https://photos.app.goo.gl/Dy6nwYBsUpDoVbi18[1960 Vermilion High School Yearbook]
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1961 Vermilion High School Pep Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -30,12 +30,12 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/LQxmghrvgVS838GE6[1961 Vermilion High School Yearbook]
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1962 Vermilion High School Pep Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -43,12 +43,12 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/JiAUgSJgPAYrXiKc7[1962 Vermilion High School Yearbook]
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1963 Vermilion High School Pep Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -56,12 +56,12 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/2VKcBMvMVKzZTHc37[1963 Vermilion High School Yearbook]
 
-image::/images/1964pep.jpg[,role="text-center"]
+image::/testsite/images/1964pep.jpg[,role="text-center"]
 
 [.text-center]
 1964 Vermilion High School Pep Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Maryann Repic, Nancy Edmondson, Ruth Bauman, Peter Hart, Diane Smith, Dan Dropko, Dale McCullough, Dennis Johnson, Bill Clark, Jim McClimans, Sharon Schroeder, Robert Clark, Glenn Feiszli, Joyce Idol, Lucy Havrilla, Ken Risdon, Bob Idol, Jim Konnerth
 
@@ -69,12 +69,12 @@ Members: Maryann Repic, Nancy Edmondson, Ruth Bauman, Peter Hart, Diane Smith, D
 
 * link:https://photos.app.goo.gl/y5uA2MNiJXPGZzjv8[1964 Vermilion High School Yearbook]
 
-image::/images/1965pepband.jpg[,role="text-center"]
+image::/testsite/images/1965pepband.jpg[,role="text-center"]
 
 [.text-center]
 1965 Vermilion High School Pep Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -82,12 +82,12 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/gQeAHCHsdBt6KA4M7[1965 Vermilion High School Yearbook]
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1966 Vermilion High School Pep Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Bob Clark, Bob Duval, Sharon Schroeder, Dan Walker, Carol Yurovich, Debby Zerad, Lucy Havrilla, Sue Bachman, Ellen Trinter, Marie Agen, Penny Kishman, Diane Jeffrey, Jack McClurkin, Gary Dropko, Sue Backus, Sid Slone, Peter Hart, Bard Warner, Don McClimans, Mary Berk, Cliff Buckosh
 
@@ -95,12 +95,12 @@ Members: Bob Clark, Bob Duval, Sharon Schroeder, Dan Walker, Carol Yurovich, Deb
 
 * link:https://photos.app.goo.gl/coKtRh5gubKNcFFe7[1966 Vermilion High School Yearbook]
 
-image::/images/1967pep.jpg[,role="text-center"]
+image::/testsite/images/1967pep.jpg[,role="text-center"]
 
 [.text-center]
 1967 Vermilion High School Pep Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Peter Hart, Gary Dropko, Ted Konnerth, Bob Nichols, Garth Grob, Mike Heys, Debbis Zerad, Trudy Tischer, Sidney Slone, Lola Hall, Dennis Johnson, Dave Moes, Marie Agen, Ellen Trinter, Sue Backus, Barb Warner, Don McClimans, Sue Bachman, Jack McClurkin, John Neff, Diane Jeffrey, Deb Rust, Mike Liston
 
@@ -108,12 +108,12 @@ Members: Peter Hart, Gary Dropko, Ted Konnerth, Bob Nichols, Garth Grob, Mike He
 
 * link:https://photos.app.goo.gl/KCcNZ6oZpcj4jdes7[1967 Vermilion High School Yearbook]
 
-image::/images/11-30-1967.jpeg[,role="text-center"]
+image::/testsite/images/11-30-1967.jpeg[,role="text-center"]
 
 [.text-center]
 1968 Vermilion High School Pep Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Phillis Book, Ellen Brown, Mike Burley, Glenn Duncan, Robert Evenson, Ann Goudvis, Garth Grob, JoAnn Kerchinske, Ted Konnerth, Lunn McCullough, Jack McClurkin, Jim Neff, Robert Nichols, Amber Polzin, Debra Rust, Jerry Showalter, Sid Sloan, Judy Smarr, Harvey Steinmetz, JoAnn West
 
@@ -121,14 +121,14 @@ Members: Phillis Book, Ellen Brown, Mike Burley, Glenn Duncan, Robert Evenson, A
 
 * link:https://photos.app.goo.gl/9xjaCSqQfzbjijhc8[1968 Vermilion High School Yearbook]
 
-image::/images/1968marconpepwrite.jpg[,role="text-center"]
+image::/testsite/images/1968marconpepwrite.jpg[,role="text-center"]
 
-image::/images/Sea-of-Faces.jpg[,role="text-center"]
+image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1969 Vermilion High School Pep Band
 
-Director: link:/vermilion-high-school-band-directors/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -136,7 +136,7 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/Sw877M3Tx3dYYzD48[1969 Vermilion High School Yearbook]
 
-image::/images/1969music.jpg[,role="text-center"]
+image::/testsite/images/1969music.jpg[,role="text-center"]
 
 [.text-center]
-link:/[Vermilion Bands]
+link:/testsite/[Vermilion Bands]
