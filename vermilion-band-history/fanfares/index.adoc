@@ -21,13 +21,9 @@ image::/testsite/images/1960-1961-Vermilion-Sailor-Marching-Band-Maestro-Vermili
 
 link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt] arrived for the link:/testsite/vermilion-bands/highschool/1950-1959/class1956/[1956 school] year as a whirlwind of change for the band program. Mr. Burt believed that to be a successful marching band member, three things were required:
 
-{empty} +
-
 . Be at the right place, at the right time, with the right equipment, in the right frame of mind
 . March with the feeling of rhythm
 . Espirit de corp
-
-{empty} +
 
 Among the first changes he implemented was the band’s pre-game routine. The band began playing The Vermilion Fight Song during the pre-game and stood in double lines as the football team passed through the lines onto the field. Additionally, the band began the tradition of performing a different show for each home game. Though it was his first year, he planted the seeds that would later grow into the band’s unique identity.
 
@@ -39,8 +35,6 @@ image::/testsite/images/1953maj.jpg[,role="text-center"]
 
 The band was transformed into a traditional military-style marching band, even as other schools began shifting to dance-style marching bands. The Vermilion Sailor Marching Band aimed to convey strength, tradition, and authority through precise movements. Other marching bands were performing simple routines with less field movement. Vermilion’s military-style precision performances were a sharp contrast compared those other performances.
 
-{empty} +
-
 When the band entered the football field, they played a fanfare still in use today. This fanfare served as the announcement of the band’s arrival, grabbing attention and demanding notice from the crowd. It was the band’s way of competing with distractions like concession booths and making the statement: “We are the Vermilion Sailor Marching Band.”
 
 {empty} +
@@ -51,11 +45,7 @@ image::/testsite/images/1981line.jpg[,role="text-center"]
 
 The band’s marching style, often referred to as the “black line,” was a modified version of the Casavant method for marching. This style originated with Albert Casavant in the early 1950s at City High in Chattanooga, TN. Originally known as a precision drill, this style gained national attention during a Washington Redskins game broadcast in 1955, which coincidentally marked Mr. Burt’s first year teaching at Vermilion.
 
-{empty} +
-
 While it is sacrilegious to share another band’s picture or video on this website, it is essential to acknowledge the influence of other bands on the early Vermilion Sailor Marching Band routines. Some aspects that would continue in the program for decades, such as the end zone formation, the single straight line formation that visually enlarged the band, and the fanfare announcing the band’s arrival, were inspired by other bands.
-
-{empty} +
 
 Mr. Burt incorporated various elements from the video referenced below, including backward marching, the head majorette directing the band during crucial sections for dramatic effect, close-quarters marching, and the concluding bow. These elements became core parts of the band’s identity and have echoed through their performances.
 
@@ -71,8 +61,6 @@ image::/testsite/images/1956con.jpg[,role="text-center"]
 {empty} +
 
 Outside of marching band, Mr. Burt brought a few new options for instrumentalists in Vermilion for the link:/testsite/vermilion-bands/highschool/1950-1959/class1956/[1956 school year] . The first was renaming the Basketball Band that Mr. Hoffman created to the link:/testsite/vermilion-high-school-pep-bands/[Vermilion High School Pep Band] . The second was the creation of a link:/testsite/vermilion-bands/other/vermilion-high-school-dance-bands/[Vermilion High School Dance Band] . The Dance Band’s first performance was after the Vermilion High School Basketball Team’s Homecoming Game. This group would become the musical entertainment for high school dances and other events.
-
-{empty} +
 
 In 1952, the Vermilion Band Boosters conducted fundraising efforts to acquire new uniforms for the band. However, in 1956, the band decided to take a more proactive approach to fundraising. Band students initiated an annual tradition of selling magazine subscriptions as part of their fundraising program. Magazine subscriptions would continue as a fundraising program for the band for a couple of decades.
 
@@ -100,11 +88,7 @@ image::/testsite/images/1958bandfield.jpg[,role="text-center"]
 
 In the link:/testsite/vermilion-bands/highschool/1950-1959/class1958/[1958 school year,] significant changes came to the high school. The building underwent expansion on both the north and south sides, bringing in previously omitted amenities such as a study hall, industrial arts facility, cafeteria, and a new band room. With the addition of the new band room, band members no longer had to travel to the old South Street School for their practices.
 
-{empty} +
-
 A newspaper article called the band room “The ultimate in band room design”. It was designed to be soundproof and acoustically perfect. There were not any right angles in the room, acoustic tiling for the ceiling, and there were tiered levels for performers. The sides of the room were lined with storage lockers for instruments. At their disposal, as part of the band room, there was an office, ensemble room, and practice room. An article listed that the band room was the subject of controversy in town, but was vague if the controversy was the cost or modern design.
-
-{empty} +
 
 In October 31, 1957, the Vermilion Lions and American Legion jointly sponsored a Halloween Parade through downtown Vermilion. The event provided a fun and festive platform for local children to showcase their costumes and receive treats. The parade was led by the Sailor Marching Band. This cherished event has become an annual town tradition that endures, but eventually migrated to the high school stadium. While the band hasn’t always been present at this event, it has made numerous appearances. One notable occasion was the 1972 celebration when the band played over thirty-two songs.
 
@@ -124,8 +108,6 @@ image::/testsite/images/Cleveland_barons_old_ahl_200x200.png[,role="text-center"
 
 The 1958 and 1959 school years include a singular honor for Vermilion’s marching bands. This year’s marching band was the first high school band to play at a Cleveland Barons/Hershey Bears hockey game. The Cleveland Barons were a minor league hockey team in the American Hockey League (AHL). This iteration of the Cleveland Barons holds the honor of being the most successful team in AHL history. The team stopped competing in 1973. Later iterations of the team would be created for the NHL between 1976-1978 and another AHL team bore the name between 2001-2006.
 
-{empty} +
-
 Since the Cleveland Barons game was not considered a school event, school buses were not allowed to be used because of the state laws at the time. The Band Booster funds also could not be used due to those being set aside for the uniform fund. Two local civic organizations arrived with funds to charter a private bus and take the bus to the game. Vermilion mayor Fred Fischer issued a city proclamation declaring Wednesday, February 19, 1958, as “Vermilion Night at the Hockey Game”. Tickets were sold at various business in town and chartered buses were available for citizens that wished to attend the game. The band performed before the game and between periods. The Cleveland Barons awarded the band with an autographed hockey stick that hung in the band room. The band would return for the same performance on February 27, 1959.
 
 {empty} +
@@ -137,7 +119,6 @@ image::/testsite/images/harrymillercc-memday1958.jpeg[,role="text-center"]
 On Memorial Day 1958 the Vermilion Junior High Band played a very special performance. The link:https://www.vermilionohio.org/vermviews/vermviews-400.htm[Vermilion Views website covers this in an expanded story] , entitled Playing for Harry. Harry Miller was bedridden from an accident in his youth. He was also an ardent fan of the marching band. The High School and Junior High marching bands would stop in front of his house on South Street and give extended performances during parades. Unfortunately this year’s performance was the last one that Harry would enjoy. He would pass away the following September. The picture was originally shared by Vermilion Sailor Alumni Band member Steve Armstrong, Vermilion High School Class of 1963, who is in the front row to Rich Tarrant for the link:https://vermilionoh.org/[Vermilion Views website] .
 
 {empty} +
-
 
 image::/testsite/images/1959kidslook.jpeg[,role="text-center"]
 
@@ -152,8 +133,6 @@ image::/testsite/images/image-1.jpg[,role="text-center"]
 {empty} +
 
 During the link:/testsite/vermilion-bands/highschool/1950-1959/class1959/[1959 school year], the marching band had the honor of performing at the grand opening of the newly constructed Ritter Public Library. In 1954, a discussion took place to replace the smaller library that had opened in 1935. After five years of hard work, the dream of an expanded modern library finally became a reality. The band was there to add to the celebration. The link:https://ritterpubliclibrary.org/localhistory/library[Ritter Library website documents] the comprehensive journey that led to the creation of this institution.
-
-{empty} +
 
 Additionally, in the 1959 school year, a significant change occurred in the uniform design. The previous uniforms, which had served as a blueprint for later iconic ones, were replaced with a more “modern” standardized school band uniform. However, one element that remained unchanged was the hats, which retained the style of the previous bands.
 
@@ -190,43 +169,23 @@ image::/testsite/images/1959-10.jpg[,role="text-center"]
 
 Just a few years later, in link:/testsite/vermilion-bands/highschool/1960-1969/class1961/[1961] , the band started occasionally wearing the traditional iconic cross-strap design uniforms. This discrepancy has caused some confusion for the author of this history, as V-emblemed uniforms were still seen in pictures as late as link:/testsite/vermilion-bands/highschool/1960-1969/class1963/[1963]. It’s possible that the V-emblemed uniforms were used as warm-weather outfits, while the cross-strap design was reserved for colder weather.
 
-{empty} +
-
 It is essential to emphasize the complexity of the complete uniform ensemble worn by the band. The uniform had sixteen pieces that members had to keep track of when considering each pair of items in the ensemble. The base components of the uniform were the hat, pants, and jacket. Intricate details truly set Vermilion uniforms apart from other schools. Uniform complexity from that era frustrated some members, band moms, and directors alike.
-
-{empty} +
 
 Before getting into the uniform pieces, the color needs discussion. While the band uniforms looked black, they were in fact navy blue. Following the original British standard of navy blue, they were almost but not quite black. Mr. Henry would instill this fact into members if they referred to the uniforms as black. Adding to the confusion, the color was achieved using a red dye. A vast amount of dark red dye was used to achieve the shade. The red dye confused band members who received brand-new uniform for the season and red dye would stain their skin underneath after a rainstorm. The argument can remain among members on what they view the uniform color as (navy blue, black, or deep red), however, that’s an argument that has been had with Mr. Henry already.
 
-{empty} +
-
 The overall uniform design was based on the link:https://tbdbitl.osu.edu/[Ohio State Marching Band], which still marches in a similar uniform. The Ohio State Marching Band was formed in the 1800s as a naval ROTC band. For those curious why the uniform Vermilion used didn’t include purple and gold or have any visual connection to the school, now you know the naval and state connections. The uniform was for Sailors through and through. Ohio State will also let you know that their uniforms are navy blue and not black.
-
-{empty} +
 
 Getting into the band uniform, around 1961, the band began incorporating the “birdy”. The “birdy” was a plume on the marching band hat adding an elegant touch. Initially, an older captain’s style marching band hat was used with this configuration. However, a newer style of uniform hat was adopted in the 1966 school year, and remarkably, that design is still in use today. For the current band, select members receive a golden plume for performances. There is a weekly selection of golden plume recipients.
 
-{empty} +
-
 The jacket resembled a Navy pea coat with a band badge on the shoulder and had several components. Braids adorned each shoulder, and when performing a turn correctly, they would briefly fly up for a dramatic effect. Cross straps went over the shoulders and crossed in the front and back of the uniform. Finally, a shiny silver buckle held the straps down and together in the middle of the chest.
-
-{empty} +
 
 Band members sported a white Dickie Collar sweater top around their necks, tucked beneath their jackets. The Dickie Collar extended just below the visible area, ensuring it didn’t add the extra heat or bulk of a sweater, which would have been impractical with the heavy wool uniforms.
 
-{empty} +
-
 Every band member also donned white gloves. Most woodwind players cut off the fingertips of the gloves for ease of playing. The gloves were a consumable with some members going through multiple pairs in a season.
-
-{empty} +
 
 The band members wore matching shoes but looked more elaborate with the addition of cotton spats. These spats extended underneath the bottom part of the shoe and needed to be laced up and tightened properly. The bottom strap of the spat could experience wear. When the bottom spat strap was well-tightened, the shoe heel protected the strap. Certain years a vinyl spat was tried, but that wasn’t the traditional one. In the link:/testsite/vermilion-bands/highschool/1970-1979/class1974/[1974 school year] the marching band wore white rubber covers over their marching shoes that were purchased from Del’s Shoe Store at South Shore Shopping center. The shoes themselves were white for a few years, blending into the spat – but eventually settled in on black shoes.
 
-{empty} +
-
 The pants were simple and had white stripes running down the leg. The stripe allowed the band to showcase and enhance the visual effect of movement. The bottom of the pants would be covered and held tightly underneath the spats. Many veteran members would keep a roll of masking tape in their uniform bags and wind tape tightly around the bottom of their pants. This mashup of tape and pants ensured a consistent fit and prevented the pants from slipping out of the spats. The masking tape was hidden from the public by the spats.
-
-{empty} +
 
 Rain parkas were an optional part of the uniform. These parkas were essential for protecting the uniform from becoming soaked on cold fall days to prevent the band members from freezing. The parkas added little warmth but provided cover from the rain. Parkas were used as needed and not assigned to specific band members. In some seasons parkas were never needed, and in other seasons used at almost every performance.
 
@@ -237,8 +196,6 @@ image::/testsite/images/1980-Flag.jpg[,role="text-center"]
 {empty} +
 
 While research has not identified the definitive year, the early 1960s started the tradition of The Senior Show. The Senior Show is performed at the final home game of the year. That game is all Senior Appreciation Night. Before the game starts, all Seniors in Vermilion athletics and band are walked down the 50-yard with their parents and announced before the crowded stadium. For the half-time performance, Senior band members decide on the opening and closing numbers from their four years of marching.
-
-{empty} +
 
 The Senior show includes the whole band performing the opener. During the middle number, the Seniors are in the spotlight. The Seniors work with the band director to select a song to play as the second number. This number is usually unique and not in the standard repertoire of the band. Before playing as a Senior-only ensemble, the outgoing members would have their names announced to the crowd. As part of this number drum break normally occurs and involves band members doing different activities such as dancing, doing headstands while playing a bass drum, or running across the field spraying fire extinguishers that may or may not have been pilfered from the high school. The show ended with the Seniors rejoining the band for the closing number.
 
@@ -251,21 +208,13 @@ video::SNe7VoAZKVE[youtube, width=640, height=360, align=center]
 
 Another tradition that emerged in the early 1960s was the band banquet was held separately from the football team’s annual end-of-season dinner. Initially, the banquet occurred at Valleyview Elementary School. The banquet was organized yearly by the Vermilion Band Boosters. During this event, members of the eighth-grade band would serve the Marching Band their meals. Eventually, it evolved to include outgoing seniors giving small speeches about their experiences. The speeches eventually changed to outgoing members leaving a “last will and testament”.
 
-{empty} +
-
 The Last Will and Testament given by seniors at the banquet seems to have originated by at least the link:/testsite/vermilion-bands/highschool/1960-1969/class1967/[1966 banquet] . At this time and for a few more years the student newspaper, The Compass, would carry its entirety. While many of the early years were innocent and humorous, it would be fair to say that as the years progressed many inside jokes and allusions illicit behavior made it in. That isn’t to say they were necessarily problematic as much as straddled a line of acceptability that could make it past the director or parents balking too much about what was said.
 
-{empty} +
-
 Some sample Last Will and Testaments:
-
-{empty} +
 
 * link:/testsite/vermilion-bands/highschool/1960-1969/class1967/[Class of 1967]
 * link:/testsite/vermilion-bands/highschool/1970-1979/class1970/[Class of 1970]
 * link:/testsite/vermilion-bands/highschool/1970-1979/class1971/[Class of 1971]
-
-{empty} +
 
 Even the banquet would continue to evolve over the years. The eighth-grade band would eventually no longer attend, so the band members stopped receiving table-side service. The banquet migrated from Valleyview Elementary School to Vermilion High School and held in The Commons. Under Mr. Price’s directorship, the band included a concert where they performed songs from the season. The evolution has and will continue.
 
@@ -301,15 +250,9 @@ image::/testsite/images/nfl-game-program_1961-08-11_cle-det.jpeg[,role="text-cen
 
 The link:/testsite/vermilion-bands/highschool/1960-1969/class1962/[Class of 1962] proudly held the distinction of being the first Vermilion Sailor Marching Band iteration to perform at an NFL football game. On September 9, 1961, the Vermilion Sailor Marching Band stood tall, played fanfares, and marched onto the field at the Cleveland Municipal Stadium to deliver a halftime show during the link:https://www.clevelandbrowns.com/[Cleveland Browns] vs. Detroit Lions game. Although they aspired to be part of a Browns victory, the Lions emerged triumphant with a score of 35-7. Despite the loss, the Vermilion Sailor Marching Band was invited to future Cleveland Browns games for performances. The band performance was televised in Detroit.
 
-{empty} +
-
 In October 1962, the Vermilion Lions and American Legion jointly sponsored a Halloween Parade at the High School, providing a fun and festive platform for local children to showcase their costumes and receive treats. This cherished event has become an annual town tradition that endures. While the band hasn’t always been present at this event, it has made numerous appearances. One notable occasion was the 1972 celebration when the band played over thirty-two songs.
 
-{empty} +
-
 On November 1, 1962, the band participated in the “Miss America Homecoming Celebration” for Miss Jacquelyn Mayer, Miss America 1963, in Sandusky, OH. This performance was a parade through downtown Sandusky with twelve other area bands. After the parade, the members had to hurry back on the bus to make it back to Vermilion for the last home game of the season against Wellington.
-
-{empty} +
 
 The link:/testsite/vermilion-bands/highschool/1960-1969/class1963/[class of 1963] formed a committee to choose and design the high school marching band jackets. The design selected was similar to the school varsity jackets. Instead of purple and gold, the jackets would be navy blue with white trim. The back of the jacket received stitched lettering stating “Vermilion Sailor Band”. The graduation year was on the left sleeve with the owner’s name was on the right side near the bottom. Band honor letters and yearly gold bars were worn on the front left side. In later years while the band would transition to purple and gold, the majorettes would maintain the navy blue color scheme for their jackets.
 
@@ -321,8 +264,6 @@ image::/testsite/images/6-3-1964.jpeg[,role="text-center"]
 
 The link:/testsite/vermilion-bands/highschool/1960-1969/class1964/[class of 1964] was the first to go away on an overnight trip. The band was invited to perform at the Lion’s Club International Convention in Toronto, CA on July 7, 1964. Fundraising started in the spring of 1963 for the trip the following year. As part of this trip, special warm weather uniforms were purchased that entailed a white middie shirt, navy blue Bermuda shorts, white socks, and white Ked shows. The band lodged at Ryerson High School with three other bands. The trips also included a sightseeing tour of Toronto and a stop at Niagara Falls. While the band trips would eventually include other locations, Toronto was in the rotation for many years.
 
-{empty} +
-
 As the 1964 school year drew to a close, Mr. Burt encountered a delightful problem faced by many Band Directors – a surplus of music students. The city’s population had grown due to the opening of the nearby Ford Plant in 1958, which led to increased enrollment in the music program. To accommodate the growing numbers, Mr. Burt made changes such as allowing only sophomores through seniors to march in the Marching Band and starting students on instruments in fifth grade instead of fourth. Additionally, he sought assistance and, for the link:/testsite/vermilion-bands/highschool/1960-1969/class1965/[1965 school year] , Vermilion hired link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry] as Mr. Burt’s assistant to aid in the education of music students across the system.
 
 {empty} +
@@ -332,8 +273,6 @@ image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
 {empty} +
 
 The famous Sailor Marching Band artwork The Sea of Faces, was painted by Sandy Evenson ( link:/testsite/vermilion-bands/highschool/1960-1969/class1965/[class of 1965] ), if alumni memories are correct. The story is that Mr. Burt commented that after so many years of teaching the band just became a sea of faces. The band was a constant while the faces in the uniform changed. This inspired Sandy to create the artwork and it was a cherished gift that Mr. Burt kept in possession until he passed. Mr. Henry is depicted on the left of the band and Mr. Burt is on the right.
-
-{empty} +
 
 In 2018 Brent Gueth commissioned artist David Spencer to create a modern variation of The Sea of Faces inspired by the original. Mr. Burt, Mr. Henry, and Mr. Price variations were created. Copies were given to the Henry and Price families. Below are copies of the original proofs.
 
@@ -357,8 +296,6 @@ image::/testsite/images/10-21-1964.jpeg[,role="text-center"]
 
 The link:/testsite/vermilion-bands/highschool/1960-1969/class1966/[class of 1966] may have been the first to play at the link:https://www.vyc.us/[Vermilion Yacht Club] after the Memorial Day Parade. Evidence of this is based on how the parade was handled. Memorial Day for the marching band includes two activities; the Memorial Day Parade and a performance at the Vermilion Yacht Club. In 1966 the band started down the normal parade route on Main Street, instead of turning on Sandusky Street, the band continued across the bridge and marched directly to the Vermilion Yacht Club. The following week The link:https://www.vermilionphotojournal.com/[Vermilion Photojournal] published an editorial complaining that the Vermilion Yacht Club scheduled their event at a conflicting time and that the community deserved the right to see the high school band in the city’s only yearly parade. In later years, the band would finish the parade route and then travel to the Vermilion Yacht Club.
 
-{empty} +
-
 At that time, the Vermilion Music Program already had an established band booster organization. Mr. Henry collaborated with the Band Boosters and successfully transformed the program into a Music Boosters program, encompassing both the band and choir programs. In 1966, the Boosters received an equivalent of over $40,000 today, with a significant portion coming from their continued magazine subscription drive.
 
 {empty} +
@@ -368,8 +305,6 @@ image::/testsite/images/1966-1967-2019-07-23-10.46.49.jpg[,role="text-center"]
 {empty} +
 
 The link:/testsite/vermilion-bands/highschool/1960-1969/class1967/[class of 1967] experienced the last wave of benefits from the program’s growth before cuts were implemented. In a Vermilion Compass newspaper article, Lola Hall reflected on the class’s fortune as they were the last to begin their band journey in fourth grade, the last freshman class to march in the varsity band, and the last to participate in the Toronto Trip while wearing the “ole” style band hat.
-
-{empty} +
 
 Though Ms. Hall’s remarks weren’t entirely accurate, as the school later attempted to start a 4th grade orchestra program and reintroduced freshmen into the band, it was undoubtedly a significant change for the class of 1967, marking the end of an era. Fortunately, subsequent Vermilion Marching Bands were spared from wearing the “ole” style band hat again. However, what Ms. Hall failed to mention was that the class of 1967 was the last to rehearse in the old band room.
 
@@ -381,8 +316,6 @@ image::/testsite/images/6-15-1982-CT-full-page-final-1.jpeg[,role="text-center"]
 
 At the end of the 1967 season, a new performance opportunity was added to the band’s schedule – link:https://www.vermilionohio.com/festival-of-the-fish/[The Festival of Fish] . Held in June on Father’s Day weekend every year, the festival includes a parade among its festivities, and the Vermilion Marching Band regularly participates in it. In the 1990s, participation in the parade became optional for outgoing seniors, and Ms. Hall, being part of the class that experienced so many “lasts,” may have been among the first to march in the Festival of Fish Parade.
 
-{empty} +
-
 During the late 1980s to the early 2000s, the Vermilion Sailor Alumni Band also joined the Fish Festival Parade. Since there were no rehearsals, the band members rode on the back of a flatbed truck while playing through the parade. The tradition involved gathering at Mr. Burt’s house on Ferry Street early to decorate the truck, set up chairs and music stands, and enjoy a light party atmosphere before and during the parade. As the last members arrived, they hopped onto the truck and contributed to the parade festivities. The same scenario would repeat itself for The Woolybear Parade.
 
 {empty} +
@@ -393,11 +326,7 @@ image::/testsite/images/1994-06-00-Brent-Gueth-Vermilion-Alumni-Band-Fish-Festiv
 
 In the late 1960s or early 1970s, the Vermilion Marching Band was ready for a style change. A new marching band innovation called “Patterns of Motion” was crossing the country. This method, developed by Bill Moffit, the director of Michigan State University, was based on constant motion and utilized squads of four members, marching eight steps every five yards.
 
-{empty} +
-
 “Patterns of Motion” quickly became the dominant marching band style from the late 1960s to the 1990s and became known as the Traditional Style. Despite the shift to this new approach, some elements rooted in the modified Casavant style, which Vermilion had embraced for over a decade, persisted. For instance, the band started marching in squads of four, following the eight steps to every five-yard pattern. The Moffit style formed the basis for most routines and formations of the Vermilion Band, a tradition that continues with the Vermilion Sailor Alumni Band today.
-
-{empty} +
 
 Nevertheless, certain aspects, such as the line formation to start and specific drills that extended until the 2008 school year, remained influenced by the Casavant style. Examples include formations like the floating diamond or the heavy single-line section of MacArthur Park. In conversations during the 1990s about band styles with Mr. Henry, he occasionally referred to the band marching in a “traditional precision style.” This blend of influences from different eras persisted for decades, creating a unique and distinctive Vermilion style, often affectionately referred to as “The Vermilion Style” or “The Burt Style.”
 
@@ -414,11 +343,7 @@ image::/testsite/images/1957burtmic.png[,role="text-center"]
 
 Components of The Vermilion Style were in place and while parts remain, the bulk of the components that make up the style would be standardized through the link:/testsite/vermilion-bands/highschool/2000-2009/class2007/[2007 school year] . That isn’t to say that Mr. Burt, Mr. Henry, and Mr. Price all used the components in their drills, but they are all part of the Vermilion Style for that era.
 
-{empty} +
-
 It’s important to note that Vermilion marched toe to heel in a military style. This means that a marcher’s foot should always touch the ground with their toes first before their heel hits the ground. For some fast pieces, a marcher’s heel may never fully touch the ground. The step length is to march “8 to 5”. This means that there are eight steps exactly five yards. This stride is 22.5″ inches for every step forward or back. Each step normally hits the ground on the beat, this helps the band maintain the tempo to the music. Almost all steps and movements for the marching band start on the left foot.
-
-{empty} +
 
 Along with the step, band members were expected to display certain affectations in their performance. First and foremost band members should stand up straight with shoulders slightly back to display pride and confidence. When the band moves from a stationary spot to a forward movement, they are to perform a rare back. A rare back is performed by lifting the left foot and leaning the whole body back slightly before bringing the left down again in a fluid motion. When turning a direction shoulders should perform a flash where the member lifts their instrument for a quick turn to cause the shoulder braids to fly up slightly to accentuate the movement. The design of the band uniforms helps accentuate all of these maneuvers.
 
@@ -446,8 +371,6 @@ image::/testsite/images/1960get.jpg[,role="text-center"]
 
 *Common Vermilion Sailor Band Instructions*
 
-{empty} +
-
 * Mark Time (MT) -- The band marches in place without any forward movement.
 * Forward March (FM) -- The band marches forward in the direction they are currently facing if no direction is specified.
 * link:/testsite/songs/macarthur-park/[MacArthur Park]
@@ -472,8 +395,6 @@ image::/testsite/images/1968bass.jpg[,role="text-center"]
 
 link:/testsite/vermilion-bands/highschool/1960-1969/class1968/[1968] included the return of an orchestra program at Vermilion schools. After an absence of seventeen years, Mr. Burt and Mr. Henry restarted an orchestral string program. Students started their orchestral education in 4th grade. This last iteration of an orchestra lasted until the end of 1979.
 
-{empty} +
-
 A highlight of 1968 was the release of the renowned “ link:/testsite/songs/macarthur-park/[MacArthur Park].” Although it’s challenging to determine the first Vermilion Marching Band class to march to this tune, it has become an iconic routine. Mr. Burt crafted the original routine, which is still in use today. It serves as the best example of The Vermilion Style. Numerous Vermilion Marching Band seniors have chosen “MacArthur Park” as their closing number for their senior shows, adding to its timeless appeal. The routine features a high step, a close-quarters Casavanta style routine, leading into a fast break sixteen, and concluding with a captivating backward march covering twenty-four yards.
 
 {empty} +
@@ -484,8 +405,6 @@ video::Ex-cngDvpDA[youtube, width=640, height=360, align=center]
 {empty} +
 
 The link:/testsite/vermilion-bands/highschool/1960-1969/class1969/[graduating class of 1969] introduced a fresh element to their annual roster of activities – the high school musical. Over the years, this musical endeavor has not only been a source of passion but also a fundraising initiative for the Vermilion Music Department. Serving as a platform that seamlessly blends drama and choir students, the musical represents a collective effort. Within this collaboration, student musicians step into the role of providing musical accompaniment from the orchestra pit. Although the school primarily enlists student musicians for these roles, there are instances when external performers are brought in to provide assistance. The inaugural musical in 1969, “ link:/testsite/vermilion-musical-theater/1969-bye-bye-birde/[Bye Bye Birdie] “, marked the beginning of a tradition that has persisted as a resounding success year after year for musical theater in Vermilion.
-
-{empty} +
 
 From a marching band perspective, head majorette Candy Athey and her fellow majorettes attended a training camp in Smith-Walbridge, IN. While previous Majorettes had gone to training camps, this may be the first time the whole squad attended as a single unit.
 
@@ -501,35 +420,63 @@ When the football stadium opened it did not have a restroom, only portable toile
 
 The band also required a practice field. The practice field was created behind the high school on the side closest to Sweetbriar Dr. Decades of high school and alumni performers have practiced on this field, and it echoes with past musical performances. The one hope that endures is the houses adjacent to the field will always be fans of the marching band.
 
+{empty} +
+
 image::/testsite/images/11-12-1970.jpeg[,role="text-center"]
+
+{empty} +
 
 It seems the link:/testsite/vermilion-bands/highschool/1970-1979/class1971/[seniors of 1971] and their fellow marchers again drew the ire of the Vermilion Photojournal. Accusations stem from an away game where the band did not show the other school proper respect. Another accusation is that two band members were having a scandalous hot chocolate fight. While this story doesn’t necessarily showcase the best of the band’s history, it’s an important note. While the band does represent themselves and the school, they are still kids. No matter how disciplined the group is, on occasion, kids will still be kids.
 
 Tales of what former marchers did when their director wasn’t looking (and sometimes when they were) have spanned the globe and broken what the editor of 1970 Vermilion Photojournal would consider any form of acceptable behavior. Some students are naturally mischievous. The anecdotes can range from humorous to scandalous. Misdeeds can attributed to the energy of youth. The class of 1971 is not unique to band members who came before or after their graduating class. They are just the ones that had an editorial written about it.
 
+{empty} +
+
 image::/testsite/images/1977fieldw.jpg[,role="text-center"]
+
+{empty} +
 
 While not related to the class of 1971, on January 10, 1971, link:/testsite/vermilion-bands/highschool/1970-1979/class1977/[Wendy West] won a twirling competition for her age group at a twirling competition in North Royalton, OH. Wendy was a sixth grader at South Street School at the time. Wendy seems to have continued her twirling career through high school. Wendy was the head majorette of the Vermilion Sailor Marching for her graduating class of 1977.
 
+{empty} +
+
 image::/testsite/images/1972-Sailor-Marching-Band.jpg[,role="text-center"]
+
+{empty} +
 
 In the link:/testsite/vermilion-bands/highschool/1970-1979/class1972/[1972 school year] , after a five-year absence, Freshmen were once again welcomed as members of the Vermilion Marching Band. This led to a significant increase in band size, with a total of eighty members performing on the field. The following year saw even more growth, with the band expanding to one hundred members. Motivated by the band’s continued expansion and longstanding participation in band festivals, Mr. Burt and Mr. Henry collaborated to devise a plan for the following year.
 
+{empty} +
+
 image::/testsite/images/1973-first-festival.jpg[,role="text-center"]
+
+{empty} +
 
 The link:/testsite/vermilion-bands/highschool/1970-1979/class1973/[class of 1973] was the first to march in a festival of their own. The idea began taking shape towards the end of 1971, as Mr. Burt and Mr. Henry envisioned a grand event to celebrate the band and its exceptional program. By the spring of 1972, invitations were extended to other bands, inviting them to join Vermilion to showcase their musical talents.
 
 The inaugural festival was successful. The festival proceeds contributed to the Stadium Fund. In addition to the Vermilion band, several other bands participated, including Oberlin, Columbia Station, Clearview, Brooklyn, Copley, Anthony Wayne, and Nordonia. Each band that took part received a trophy and a commemorative patch.
 
+{empty} +
+
 image::/testsite/images/patch1972.jpg[,role="text-center"]
+
+{empty} +
 
 One sight that has become less common in Vermilion is the presence of The Sailor Marching Band Tag on vehicles. This oval purple sticker, adorned with yellow lettering and a yellow anchor in the center, proudly proclaimed “Vermilion Sailors.” Many band members, their families, and the community at large used to display this decal on their cars and school and student-owned instrument cases in the band room. The link:/testsite/vermilion-bands/highschool/1970-1979/class1974/[class of 1974] made a large impact on the tag’s reach into the community.
 
+{empty} +
+
 image::/testsite/images/10-11-1973.jpeg[,role="text-center"]
+
+{empty} +
 
 On October 13, 1973, Mayor John Maiden declared it as Vermilion Sailor Band “Tag” Day, marking the first official government holiday for the marching band. The purpose of this holiday was to recognize the Vermilion Band Boosters as a local service organization that significantly contributes to the betterment of society through its support of the Vermilion Sailor Marching Band. Citizens were encouraged to purchase the decal to support funding for the marching band. For many years, it was common to drive through town and spot these stickers proudly affixed to numerous cars, showing support for the beloved marching band.
 
+{empty} +
+
 image::/testsite/images/woolybear.webp[,role="text-center"]
+
+{empty} +
 
 In the link:/testsite/vermilion-bands/highschool/1970-1979/class1974/[1974 school year] , a new local festival kicked off in Birmingham, Ohio. It all started in 1972 when the PTA of the Firelands-Florence Township Elementary School sought fundraising opportunities. Around the same time, Dick Goddard, a local weatherman and newscaster from Channel 8, wanted to organize a festival dedicated to the woolybear and the legend of its weather-predicting abilities. This festival was to become Ohio’s equivalent of the Punxsutawney, Pennsylvania Groundhog’s Day celebration. Several cities competed to host this new festival, but ultimately Birmingham, Ohio, won.
 
@@ -543,20 +490,36 @@ Woolybear Weekend stands out as one of the few occasions when band participates 
 
 In 1999, another event was added to Woolybear Weekend – an appearance at Fox 8 News on the Friday morning before the Woolybear Festival. This additional appearance added to band members’ hectic schedule. Nevertheless, this annual tradition of the band’s appearance on Fox 8 News is an important part of Woolybear Weekend.
 
+{empty} +
+
 .YouTube video player
 video::2cALb4lxR8c[youtube, width=640, height=360, align=center]
 
+{empty} +
+
 Scheduling the marching band festival on Woolybear weekend has always been hectic for Vermilion Band Directors. The Woolybear Festival coincides with the Cleveland Browns away game. This schedule creates a dilemma for the Band Director.  Fox 8 waits to schedule The Woolybear Festival date after the NFL releases the season schedule. This schedule may take as late as May before it is released. The Band Director needs to know the date of the Woolybear Bear for the Band Festival invitations. Scheduling conflicts often arise for other marching bands, as they may have already committed to other events when the invitations arrive.
+
+{empty} +
 
 image::/testsite/images/21427132_1562458027125829_751290933339391647_o.jpg[,role="text-center"]
 
+{empty} +
+
 In recent years, the Band Festival is scheduled separately from The Woolybear Festival. While there are still instances of the Band Festival occurring on Woolybear Weekend, it is a coincidence since the Band Festival date is determined before the Woolybear Festival’s schedule is known. Due to this, the band festival has reverted to its original name, the Vermilion Sailor Marching Band Festival.
+
+{empty} +
 
 image::/testsite/images/1974-1975-Sailor-Marching-Band_4004470111_o.jpg[,role="text-center"]
 
-+ In the link:/testsite/vermilion-bands/highschool/1970-1979/class1975/[1975 school year] , Mr. Burt hit the milestone of conceiving and directing 200 half-time shows. This count is only for regular-season football games. By the time he retires, Mr. Burt would do over 240 of those shows. This number does not include the countless band trip performances, festival shows, playoff game shows, special appearances, or parades that he directed the Vermilion Sailor Marching Band. It also does not include the 11 Vermilion Sailor Alumni Band Shows or the Alumni Band’s 22 parade appearances. Due to his longevity, he will likely always hold the record for the number of times any other Vermilion band director has led the high school or Alumni Band members into a performance as the director.
+{empty} +
+
+In the link:/testsite/vermilion-bands/highschool/1970-1979/class1975/[1975 school year] , Mr. Burt hit the milestone of conceiving and directing 200 half-time shows. This count is only for regular-season football games. By the time he retires, Mr. Burt would do over 240 of those shows. This number does not include the countless band trip performances, festival shows, playoff game shows, special appearances, or parades that he directed the Vermilion Sailor Marching Band. It also does not include the 11 Vermilion Sailor Alumni Band Shows or the Alumni Band’s 22 parade appearances. Due to his longevity, he will likely always hold the record for the number of times any other Vermilion band director has led the high school or Alumni Band members into a performance as the director.
+
+{empty} +
 
 image::/testsite/images/1976-Ducky.jpg[,role="text-center"]
+
+{empty} +
 
 For decades students believed one origin story of The Ducky and how it came to be. Older members of the band may not be as familiar with the tale.  The story is attached to the link:/testsite/vermilion-bands/highschool/1970-1979/class1977/[1976-1977 season] . The legend goes:
 
@@ -564,19 +527,33 @@ _The Fall of 1976 was a particularly rainy season for the marching band. Mr. Bur
 
 That was the story told from the 1980s until the early 2000s. Unfortunately, it’s not quite as simple as that. The first part of the story about the duck comment and a student creating it might be true. That student was not Doug Kishman. By the time Mr. Kishman was in the band the logo was already on the uniforms and in use regularly. Mr. Kishman’s contribution is a bit more “impactful”. When Kishman arrived at the band the bass drum used the anchor logo. According to Mr. Kishman, he would play the drum so hard that he regularly would break the bass drum. Instead of adding the anchor logo back to the drumhead, he would paint The Ducky instead. The drum head was replaced multiple times, and each time with The Ducky. The Ducky just became another fixture of the drum heads.  Being placed on the bass drum head cemented the logo just a little further into the band’s identity. It also inspired a legend. Upon those drum heads, the band, and all of his later students, he made quite an impact.
 
+{empty} +
+
 image::/testsite/images/1977_kishman.jpg[,role="text-center"]
+
+{empty} +
 
 The Ducky made it onto the band uniform, official letterhead, duffle bags, jacket patches, and at least one Alumni Band member’s body as a tattoo. In the late 2000s, The Ducky was unofficially retired and disappeared from the marching band’s use. The myth states that a duck’s quack does not echo The Ducky proving that myth untrue. In the summer of 2023, the senior class organized an artwork competition to revive and modernize The Ducky logo. The good news is that The Ducky is soaring again, returning to its place in the Vermilion Marching Band’s identity.
 
 Research has not given up the identity of The Ducky creator. In the late 1960s, it was in The Compass for many articles about the band. In an article from 1965, a picture exists of Mr. Henry with The Ducky on his jacket. That seems to be the oldest spotted evidence of The Ducky logo. The Ducky will always be available to play his bass drum and ready to go when the Vermilion Sailor Marching Band needs him.
 
+{empty} +
+
 image::/testsite/images/Ducky-Patch.jpg[,role="text-center"]
+
+{empty} +
 
 The link:/testsite/vermilion-bands/highschool/1970-1979/class1978/[class of 1978] may hold the record for the most band members. The marching band that season included ninety-seven members, which by itself, may not break the record. It would be a contender for the largest Vermilion marching band with just that number. What puts it over the top is the fifty-seven alternates who practiced with the band, waiting in the wings to fill a hole when needed. While there may have been only ninety-seven members on the field, the group included one hundred and fifty-four members.
 
+{empty} +
+
 image::/testsite/images/1998-Sailorway-Middle-School-Yearbook-001.jpeg[,role="text-center"]
 
+{empty} +
+
 Sailorway Middle School opened in the link:/testsite/vermilion-bands/highschool/1970-1979/class1978/[1978 school year] . While this history covers the high school band, it would be quite the oversight to ignore mention of it. Mr. Henry was the director of middle school bands. Over the years, the school has changed mascots from the Skippers to the Seahawks. One thing has stayed identical, the Sailorway Middle School Fight Song (with a single-word lyric change). The fight song was written specifically for Sailorway Middle School by Mr. Henry. Some middle schools have school songs that are melodically identical or derivative of their school system’s high school. Some Middle schools may have songs that are more akin to Vermilion’s Alma Mater. The Sailorway Middle School is believed to be one of the few, if not only, unique fight songs written for a specific middle school.
+
+{empty} +
 
 *Sailorway Middle School Fight Song*
 
@@ -586,10 +563,16 @@ _We're on the hall, we're on the ball, we are the team with all the Fight, Fight
 
 _So give a cheer for we are here and with our banner flying high. Our blue and white, will proclaim that we will win another game._
 
+{empty} +
+
 image::/testsite/images/1979seniors.png[,role="text-center"]
+
+{empty} +
 
 Mr. Burt and Mr. Henry had started an orchestra program in the 1968 school year at the elementary school. The link:/testsite/vermilion-bands/highschool/1970-1979/class1979/[1979 school year] saw the link:/testsite/vermilion-high-school-orchestra/1970-1979-vermilion-high-school-orchestra/[orchestra return to the high school level] . Sadly, this also is the final year of an orchestral program in the Vermilion School System. Additionally, Mr. Henry founded the first high school jazz band. Mr. Burt had run a stage band focusing on pop and big band music for many years. Mr. Henry’s new group would focus on jazz music.
 
 As the link:/testsite/vermilion-bands/highschool/1970-1979/class1979/[1979 school year] closed out, the band members bid farewell to an era. Mr. Burt decided to step down and pass on the directing baton and marching band whistle. After twenty-four years leading the band through transformative changes, he felt it was time to embrace retirement. Although Mr. Burt briefly returned to serve as the Assistant Marching Band Director during the 1991-1992 school year, he remained a presence in the Vermilion Marching Band’s story. Leaving behind what is likely the largest impact on instrumental music education in Vermilion’s history. He also wasn’t quite finished with leaving a legacy on the band.
+
+{empty} +
 
 image::/testsite/images/1979-Eternally.jpg[,role="text-center"]

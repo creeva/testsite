@@ -14,11 +14,7 @@ image::/testsite/images/2002-2003-Vermilion-Sailor-Marching-Band_4187767729_o.jp
 
 The following list includes songs that the Vermilion Sailor or the Sailor Alumni Marching Bands have played on the field or in the stands. The list is by no means complete and new songs will be added based on the memories of our musicians. An link:https://music.apple.com/us/playlist/vermilion-sailor-alumni-band/pl.u-oZylD01t5AJz7[Apple Music Playlist] based on songs played by Vermilion musical groups is available.
 
-{empty} +
-
 *Marching Band Song List:*
-
-{empty} +
 
 * link:/testsite/songs/1812-overture/[1812 Overture]
 * link:/testsite/songs/aftershock/[Aftershock]
@@ -348,11 +344,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * A Young Man's Mind
 * Zoot Suit Riot
 
-{empty} +
-
 === Concert Band Songs
-
-{empty} +
 
 * An American in Paris
 * Bandology
@@ -393,11 +385,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Washington Post
 * The Wizard of Oz Fantasy
 
-{empty} +
-
 *Jazz/Stage/Dance Band Songs*
-
-{empty} +
 
 * Birdland
 * Blues in Hoss Flat
@@ -422,11 +410,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Summer Samba
 * Sweet Sue
 
-{empty} +
-
 === Orchestra Songs
-
-{empty} +
 
 * Anvil Chorus from Il Trovatore
 * Canzonetta
