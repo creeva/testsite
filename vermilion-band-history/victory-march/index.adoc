@@ -1,0 +1,31 @@
+---
+layout: default
+title: Vermilion's Musical Roots
+---
+
+== Victory March
+
+image::/testsite/images/2023-2024-group-picture.jpeg[,role="text-center"]
+
+In 2005, the Vermilion High School Hall of Fame was established with a clear purpose: to honor accomplished alumni who have achieved extraordinary success in their respective fields and to acknowledge individuals who have made outstanding contributions to the Vermilion Local Schools. Inductees into the Hall of Fame forever stand as representatives of the very best among us, their achievements serving as a testament to the excellent opportunities provided by the Vermilion Local Schools, including academics, arts, athletics, and other enriching programs.
+
+This esteemed Hall of Fame stands as a cherished tribute, celebrating those who have left a profound and lasting impact on our school community and extending their influence far beyond our school’s boundaries. Through their remarkable accomplishments and contributions, these inductees inspire and motivate current and future generations of students, encouraging them to strive for greatness and make a positive difference in the world.
+
+Vermilion Marching Band Members Inducted Into the Vermilion High School Hall of Fame:
+
+*2011 Inductees*
+
+link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt] , Director
+
+*2018 Inductees*
+
+Deborah Zerad Fallows, link:/testsite/vermilion-bands/highschool/1960-1969/class1967/[Class of 1967]  + link:/testsite/vermilion-high-school-band-directors/david-henry/[David J. Henry,] Director
+
+=== Off The Field
+
+.YouTube video player
+video::IGZOJ64LuWs[youtube, width=640, height=360, align=center]
+
+The music program in Vermilion has proven to be a breeding ground for lifelong musicians and dedicated band directors. It continues to ignite a passion for music in young students, guiding them on their musical journeys. Despite being a small town, the Vermilion school bands have seen thousands of students march and play in their ranks. As change is a natural part of life, not all past iterations of the band readily embrace it, but one thing remains constant: the sense of belonging to a family, a legacy.
+
+This legacy lives on through the current and future band directors of Vermilion, who carry the torch of tradition and spirit. While some traditions may evolve or fade over time with inevitable changes, the band today may look different from the basic maneuvers of Mr. Hoffman’s era, but it bears the same proud lineage of the Vermilion Sailor Marching Band. Each band member receives their roots from those who came before, while new roots are planted every year, ensuring the enduring continuity of this cherished legacy for generations to come.
