@@ -8,18 +8,12 @@ title: Vermilion Bands
 [.text-center]
 _Now Hear This! We are presenting the Vermilion Historic Marching Bands._
 
-{empty} +
-
-{empty} +
-
 video::IGZOJ64LuWs[youtube, width=640, height=360, align="center"]
 
 {empty} +
 
 [.text-center]
 _What time is it?_ *Band Time!*
-
-{empty} +
 
 [.text-center.rounded]
 image::/testsite/images/1994marchingband.jpeg[1994 Marching Band, 600]
@@ -29,8 +23,6 @@ image::/testsite/images/1994marchingband.jpeg[1994 Marching Band, 600]
 [.text-center]
 link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
 
-{empty} +
-
 [.text-center.rounded]
 image::/testsite/images/alumnigeneric.jpeg[Alumni Generic, 600]
 
@@ -38,8 +30,6 @@ image::/testsite/images/alumnigeneric.jpeg[Alumni Generic, 600]
 
 [.text-center]
 link:/testsite/vermilion-bands/alumni/[Vermilion Sailor Alumni Bands]
-
-{empty} +
 
 [.text-center.rounded]
 image::/testsite/images/1960con.jpg[1960 Concert Band,600]
@@ -49,8 +39,6 @@ image::/testsite/images/1960con.jpg[1960 Concert Band,600]
 [.text-center]
 link:/testsite/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]
 
-{empty} +
-
 [.text-center.rounded]
 image::/testsite/images/1933orch.jpg[1933 Orchestra, 600]
 
@@ -59,42 +47,26 @@ image::/testsite/images/1933orch.jpg[1933 Orchestra, 600]
 [.text-center]
 link:/testsite/vermilion-high-school-orchestra/[Vermilion High School Orchestras]
 
-{empty} +
-
 [.text-center.rounded]
 image::/testsite/images/1957pep.jpg[1957 Pep Band, 600]
-
-{empty} +
 
 [.text-center]
 link:/testsite/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]
 
-{empty} +
-
 [.text-center.rounded]
 image::/testsite/images/1990jazz.png[1990 Jazz Band, 600"]
-
-{empty} +
 
 [.text-center]
 link:/testsite/vermilion-high-school-jazz-bands/[Vermilion High School Jazz Bands]
 
-{empty} +
-
 [.text-center.rounded]
 image::/testsite/images/1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[1953 German Band, 600]
-
-{empty} +
 
 [.text-center]
 link:/testsite/vermilion-bands/other/[Other Vermilion Bands]
 
-{empty} +
-
 [.text-center.rounded]
 image::/testsite/images/1993musicman.jpeg[1993 Music Mand, 600]
-
-{empty} +
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]
