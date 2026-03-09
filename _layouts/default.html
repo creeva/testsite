@@ -324,6 +324,30 @@
             /* Stack content and sidebar */
             .site-content .content-wrap { flex-direction: column; }
             .featured-sidebar { width: 100%; }
+
+            /* Banner: full width, no max-height clipping */
+            .header-banner {
+                max-height: none;
+                width: 100vw;
+                margin-left: calc(-1 * ((100vw - 100%) / 2));
+            }
+            .header-banner img {
+                width: 100%;
+                height: auto;
+            }
+
+            /* Prevent horizontal overflow */
+            html, body {
+                overflow-x: hidden;
+                width: 100%;
+            }
+            .content-wrap {
+                padding: 0 12px;
+            }
+            img {
+                max-width: 100%;
+                height: auto;
+            }
         }
     </style>
 </head>
