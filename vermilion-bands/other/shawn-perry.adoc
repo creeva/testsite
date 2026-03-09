@@ -7,7 +7,7 @@ title: Shawn Perry
 
 === Shawn Perry
 
-image::/testsite/images/shawnperryinlawnchair.jpeg[,role="text-center"]
+image::shawnperryinlawnchair.jpeg[,role="text-center"]
 
 Website: link:http://shawnperry.country/[shawnperry.country]
 

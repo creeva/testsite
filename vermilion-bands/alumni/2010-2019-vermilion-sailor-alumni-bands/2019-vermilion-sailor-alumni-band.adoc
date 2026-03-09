@@ -7,7 +7,7 @@ title: 2019 Vermilion Sailor Alumni Band
 
 === 2019 Vermilion Sailor Alumni Band
 
-image::/testsite/images/2019-10-14-11.17.17.jpg[,role="text-center"]
+image::2019-10-14-11.17.17.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 

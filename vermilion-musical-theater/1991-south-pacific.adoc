@@ -7,7 +7,7 @@ title: 1991 -- South Pacific
 
 === South Pacific
 
-image::/testsite/images/sp1981-1.jpeg[,role="text-center"]
+image::sp1981-1.jpeg[,role="text-center"]
 
 “South Pacific” is a classic American musical based on James A. Michener’s Pulitzer Prize-winning novel “Tales of the South Pacific.” Set against the backdrop of World War II, the musical explores themes of love, prejudice, and the impact of war on individuals. Here’s a summary of the musical:
 
@@ -26,9 +26,9 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/VimBti57a5hA4Tcf9[1991 Vermilion High School -- South Pacific]
 
-image::/testsite/images/1991musical.jpeg[,role="text-center"]
+image::1991musical.jpeg[,role="text-center"]
 
-image::/testsite/images/1991musical2.jpeg[,role="text-center"]
+image::1991musical2.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

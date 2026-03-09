@@ -7,7 +7,7 @@ title: 1989 -- Do Black Patent Leather Shoes Really Reflect Up
 
 === Do Black Patent Leather Shoes Really Reflect Up
 
-image::/testsite/images/1989black.jpeg[,role="text-center"]
+image::1989black.jpeg[,role="text-center"]
 
 “Do Black Patent Leather Shoes Really Reflect Up?” is a musical comedy with a book and lyrics by John R. Powers and music by James Quinn. The musical is based on John R. Powers’ semi-autobiographical novel of the same name and is set in a Catholic school in the 1950s and 1960s. It humorously explores the experiences of Catholic school students as they grow up, grapple with faith, and navigate the challenges of adolescence. Here’s a summary of the plot:
 
@@ -33,7 +33,7 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/b7MBoqGCL8Wu3TpV9[1989 Vermilion High School -- Do Patent Leather Shoes Really Reflect Up]
 
-image::/testsite/images/1989musical.jpeg[,role="text-center"]
+image::1989musical.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

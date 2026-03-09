@@ -7,7 +7,7 @@ title: 2022-2023 Vermilion Sailor Marching Band
 
 === 2022-2023 Vermilion Sailor Marching Band
 
-image::/testsite/images/IMG_6413.jpg[,role="text-center"]
+image::IMG_6413.jpg[,role="text-center"]
 
 *Image Galleries:*
 

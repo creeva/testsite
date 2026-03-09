@@ -38,4 +38,4 @@ link:/testsite/songs/[Vermilion Sailor Band Songs]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/2003-2004-Group-Photo.jpg[,600]
+image::2003-2004-Group-Photo.jpg[,600]

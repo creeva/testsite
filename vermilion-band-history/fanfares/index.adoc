@@ -7,7 +7,7 @@ title: Fanfares (1955-1979)
 
 {empty} +
 
-image::/testsite/images/1955-Band.jpg[,role="text-center"]
+image::1955-Band.jpg[,role="text-center"]
 
 {empty} +
 
@@ -15,7 +15,7 @@ By the end of the link:/testsite/vermilion-bands/highschool/1950-1959/class1955/
 
 {empty} +
 
-image::/testsite/images/1960-1961-Vermilion-Sailor-Marching-Band-Maestro-Vermilion-OH.jpg[,role="text-center"]
+image::1960-1961-Vermilion-Sailor-Marching-Band-Maestro-Vermilion-OH.jpg[,role="text-center"]
 
 {empty} +
 
@@ -31,7 +31,7 @@ Among the first changes he implemented was the band’s pre-game routine. The ba
 
 {empty} +
 
-image::/testsite/images/1953maj.jpg[,role="text-center"]
+image::1953maj.jpg[,role="text-center"]
 
 {empty} +
 
@@ -41,7 +41,7 @@ When the band entered the football field, they played a fanfare still in use tod
 
 {empty} +
 
-image::/testsite/images/1981line.jpg[,role="text-center"]
+image::1981line.jpg[,role="text-center"]
 
 {empty} +
 
@@ -57,7 +57,7 @@ video::_8vKGHjqx8o[youtube, width=640, height=360, align=center]
 
 {empty} +
 
-image::/testsite/images/1956con.jpg[,role="text-center"]
+image::1956con.jpg[,role="text-center"]
 
 {empty} +
 
@@ -67,7 +67,7 @@ In 1952, the Vermilion Band Boosters conducted fundraising efforts to acquire ne
 
 {empty} +
 
-image::/testsite/images/1956droodle.jpg[,role="text-center"]
+image::1956droodle.jpg[,role="text-center"]
 
 {empty} +
 
@@ -75,7 +75,7 @@ Mr. Burt led the band to perform at the dedication of the new fire station on Oh
 
 {empty} +
 
-image::/testsite/images/1957-5.jpg[,role="text-center"]
+image::1957-5.jpg[,role="text-center"]
 
 {empty} +
 
@@ -83,7 +83,7 @@ During the link:/testsite/vermilion-bands/highschool/1950-1959/class1957/[1957 s
 
 {empty} +
 
-image::/testsite/images/1958bandfield.jpg[,role="text-center"]
+image::1958bandfield.jpg[,role="text-center"]
 
 {empty} +
 
@@ -95,7 +95,7 @@ In October 31, 1957, the Vermilion Lions and American Legion jointly sponsored a
 
 {empty} +
 
-image::/testsite/images/1958bandmaj.jpg[,role="text-center"]
+image::1958bandmaj.jpg[,role="text-center"]
 
 {empty} +
 
@@ -103,7 +103,7 @@ By the link:/testsite/vermilion-bands/highschool/1950-1959/class1958/[1958 schoo
 
 {empty} +
 
-image::/testsite/images/clevelandbarons.png[,role="text-center"]
+image::clevelandbarons.png[,role="text-center"]
 
 {empty} +
 
@@ -113,7 +113,7 @@ Since the Cleveland Barons game was not considered a school event, school buses 
 
 {empty} +
 
-image::/testsite/images/harrymillercc-memday1958.jpeg[,role="text-center"]
+image::harrymillercc-memday1958.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -121,7 +121,7 @@ On Memorial Day 1958 the Vermilion Junior High Band played a very special perfor
 
 {empty} +
 
-image::/testsite/images/1959kidslook.jpeg[,role="text-center"]
+image::1959kidslook.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -129,7 +129,7 @@ Starting in 1958 the band would hold summer concerts in the park. These concerts
 
 {empty} +
 
-image::/testsite/images/image-1.jpg[,role="text-center"]
+image::image-1.jpg[,role="text-center"]
 
 {empty} +
 
@@ -147,7 +147,7 @@ To promote this transformation and the band program, Mr. Burt took a groundbreak
 
 {empty} +
 
-image::/testsite/images/1959uniform-yard.jpeg[,role="text-center"]
+image::1959uniform-yard.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -155,7 +155,7 @@ For a few years, the Vermilion Band held a sock hop at the Vermilion Fire Depart
 
 {empty} +
 
-image::/testsite/images/1959-3.jpg[,role="text-center"]
+image::1959-3.jpg[,role="text-center"]
 
 {empty} +
 
@@ -163,7 +163,7 @@ The image above showcases the band’s uniforms featuring a modern, front-facing
 
 {empty} +
 
-image::/testsite/images/1959-10.jpg[,role="text-center"]
+image::1959-10.jpg[,role="text-center"]
 
 {empty} +
 
@@ -191,7 +191,7 @@ Rain parkas were an optional part of the uniform. These parkas were essential fo
 
 {empty} +
 
-image::/testsite/images/1980-Flag.jpg[,role="text-center"]
+image::1980-Flag.jpg[,role="text-center"]
 
 {empty} +
 
@@ -221,7 +221,7 @@ Even the banquet would continue to evolve over the years. The eighth-grade band 
 
 {empty} +
 
-image::/testsite/images/1965-1966-2019-07-23-10.42.01-copy.jpg[,role="text-center"]
+image::1965-1966-2019-07-23-10.42.01-copy.jpg[,role="text-center"]
 
 {empty} +
 
@@ -229,7 +229,7 @@ The Victory March was another tradition that has been around since at least the 
 
 {empty} +
 
-image::/testsite/images/1961maj.jpg[,role="text-center"]
+image::1961maj.jpg[,role="text-center"]
 
 {empty} +
 
@@ -237,7 +237,7 @@ On July 9, 1960, a new post office was opened at 5463 Liberty Avenue. The Vermil
 
 {empty} +
 
-image::/testsite/images/1960-1961-Vermilion-Sailor-Marching-Band-Massilon-Vermilion-OH.jpg[,role="text-center"]
+image::1960-1961-Vermilion-Sailor-Marching-Band-Massilon-Vermilion-OH.jpg[,role="text-center"]
 
 {empty} +
 
@@ -245,7 +245,7 @@ image::/testsite/images/1960-1961-Vermilion-Sailor-Marching-Band-Massilon-Vermil
 
 {empty} +
 
-image::/testsite/images/nfl-game-program_1961-08-11_cle-det.jpeg[,role="text-center"]
+image::nfl-game-program_1961-08-11_cle-det.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -259,7 +259,7 @@ The link:/testsite/vermilion-bands/highschool/1960-1969/class1963/[class of 1963
 
 {empty} +
 
-image::/testsite/images/6-3-1964.jpeg[,role="text-center"]
+image::6-3-1964.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -269,7 +269,7 @@ As the 1964 school year drew to a close, Mr. Burt encountered a delightful probl
 
 {empty} +
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 {empty} +
 
@@ -279,19 +279,19 @@ In 2018 Brent Gueth commissioned artist David Spencer to create a modern variati
 
 {empty} +
 
-image::/testsite/images/2018seaburt.png[,role="text-center"]
+image::2018seaburt.png[,role="text-center"]
 
 {empty} +
 
-image::/testsite/images/2018seahenry.png[,role="text-center"]
+image::2018seahenry.png[,role="text-center"]
 
 {empty} +
 
-image::/testsite/images/2018seaprice.png[,role="text-center"]
+image::2018seaprice.png[,role="text-center"]
 
 {empty} +
 
-image::/testsite/images/10-21-1964.jpeg[,role="text-center"]
+image::10-21-1964.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -301,7 +301,7 @@ At that time, the Vermilion Music Program already had an established band booste
 
 {empty} +
 
-image::/testsite/images/1966-1967-2019-07-23-10.46.49.jpg[,role="text-center"]
+image::1966-1967-2019-07-23-10.46.49.jpg[,role="text-center"]
 
 {empty} +
 
@@ -311,7 +311,7 @@ Though Ms. Hall’s remarks weren’t entirely accurate, as the school later att
 
 {empty} +
 
-image::/testsite/images/6-15-1982-CT-full-page-final-1.jpeg[,role="text-center"]
+image::6-15-1982-CT-full-page-final-1.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -321,7 +321,7 @@ During the late 1980s to the early 2000s, the Vermilion Sailor Alumni Band also 
 
 {empty} +
 
-image::/testsite/images/1994-06-00-Brent-Gueth-Vermilion-Alumni-Band-Fish-Festival-Parade-Vermilion-OH.jpg[,role="text-center"]
+image::1994-06-00-Brent-Gueth-Vermilion-Alumni-Band-Fish-Festival-Parade-Vermilion-OH.jpg[,role="text-center"]
 
 {empty} +
 
@@ -337,7 +337,7 @@ video::__aIhHtYzDA[youtube, width=640, height=360, align=center]
 
 {empty} +
 
-image::/testsite/images/1957burtmic.png[,role="text-center"]
+image::1957burtmic.png[,role="text-center"]
 
 {empty} +
 
@@ -349,7 +349,7 @@ Along with the step, band members were expected to display certain affectations 
 
 {empty} +
 
-image::/testsite/images/1965field-original.png[,role="text-center"]
+image::1965field-original.png[,role="text-center"]
 
 {empty} +
 
@@ -357,7 +357,7 @@ In The Vermilion Style band members are broken down into squad eights for routin
 
 {empty} +
 
-image::/testsite/images/1958hall.jpg[,role="text-center"]
+image::1958hall.jpg[,role="text-center"]
 
 {empty} +
 
@@ -365,7 +365,7 @@ When a band member looks at band directions for the first time, some terminology
 
 {empty} +
 
-image::/testsite/images/1960get.jpg[,role="text-center"]
+image::1960get.jpg[,role="text-center"]
 
 {empty} +
 
@@ -391,7 +391,7 @@ image::/testsite/images/1960get.jpg[,role="text-center"]
 
 {empty} +
 
-image::/testsite/images/1968bass.jpg[,role="text-center"]
+image::1968bass.jpg[,role="text-center"]
 
 {empty} +
 
@@ -411,7 +411,7 @@ From a marching band perspective, head majorette Candy Athey and her fellow majo
 
 {empty} +
 
-image::/testsite/images/vermilion-high-school.jpeg[,role="text-center"]
+image::vermilion-high-school.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -423,7 +423,7 @@ The band also required a practice field. The practice field was created behind t
 
 {empty} +
 
-image::/testsite/images/11-12-1970.jpeg[,role="text-center"]
+image::11-12-1970.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -433,7 +433,7 @@ Tales of what former marchers did when their director wasn’t looking (and some
 
 {empty} +
 
-image::/testsite/images/1977fieldw.jpg[,role="text-center"]
+image::1977fieldw.jpg[,role="text-center"]
 
 {empty} +
 
@@ -441,7 +441,7 @@ While not related to the class of 1971, on January 10, 1971, link:/testsite/verm
 
 {empty} +
 
-image::/testsite/images/1972-Sailor-Marching-Band.jpg[,role="text-center"]
+image::1972-Sailor-Marching-Band.jpg[,role="text-center"]
 
 {empty} +
 
@@ -449,7 +449,7 @@ In the link:/testsite/vermilion-bands/highschool/1970-1979/class1972/[1972 schoo
 
 {empty} +
 
-image::/testsite/images/1973-first-festival.jpg[,role="text-center"]
+image::1973-first-festival.jpg[,role="text-center"]
 
 {empty} +
 
@@ -459,7 +459,7 @@ The inaugural festival was successful. The festival proceeds contributed to the 
 
 {empty} +
 
-image::/testsite/images/patch1972.jpg[,role="text-center"]
+image::patch1972.jpg[,role="text-center"]
 
 {empty} +
 
@@ -467,7 +467,7 @@ One sight that has become less common in Vermilion is the presence of The Sailor
 
 {empty} +
 
-image::/testsite/images/10-11-1973.jpeg[,role="text-center"]
+image::10-11-1973.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -475,7 +475,7 @@ On October 13, 1973, Mayor John Maiden declared it as Vermilion Sailor Band “T
 
 {empty} +
 
-image::/testsite/images/woolybear.webp[,role="text-center"]
+image::woolybear.webp[,role="text-center"]
 
 {empty} +
 
@@ -501,7 +501,7 @@ Scheduling the marching band festival on Woolybear weekend has always been hecti
 
 {empty} +
 
-image::/testsite/images/21427132_1562458027125829_751290933339391647_o.jpg[,role="text-center"]
+image::21427132_1562458027125829_751290933339391647_o.jpg[,role="text-center"]
 
 {empty} +
 
@@ -509,7 +509,7 @@ In recent years, the Band Festival is scheduled separately from The Woolybear Fe
 
 {empty} +
 
-image::/testsite/images/1974-1975-Sailor-Marching-Band_4004470111_o.jpg[,role="text-center"]
+image::1974-1975-Sailor-Marching-Band_4004470111_o.jpg[,role="text-center"]
 
 {empty} +
 
@@ -517,7 +517,7 @@ In the link:/testsite/vermilion-bands/highschool/1970-1979/class1975/[1975 schoo
 
 {empty} +
 
-image::/testsite/images/1976-Ducky.jpg[,role="text-center"]
+image::1976-Ducky.jpg[,role="text-center"]
 
 {empty} +
 
@@ -529,7 +529,7 @@ That was the story told from the 1980s until the early 2000s. Unfortunately, it�
 
 {empty} +
 
-image::/testsite/images/1977_kishman.jpg[,role="text-center"]
+image::1977_kishman.jpg[,role="text-center"]
 
 {empty} +
 
@@ -539,7 +539,7 @@ Research has not given up the identity of The Ducky creator. In the late 1960s, 
 
 {empty} +
 
-image::/testsite/images/Ducky-Patch.jpg[,role="text-center"]
+image::Ducky-Patch.jpg[,role="text-center"]
 
 {empty} +
 
@@ -547,7 +547,7 @@ The link:/testsite/vermilion-bands/highschool/1970-1979/class1978/[class of 1978
 
 {empty} +
 
-image::/testsite/images/1998-Sailorway-Middle-School-Yearbook-001.jpeg[,role="text-center"]
+image::1998-Sailorway-Middle-School-Yearbook-001.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -572,7 +572,7 @@ will proclaim that we will win another game._
 
 {empty} +
 
-image::/testsite/images/1979seniors.jpg[,role="text-center"]
+image::1979seniors.jpg[,role="text-center"]
 
 {empty} +
 
@@ -582,7 +582,7 @@ As the link:/testsite/vermilion-bands/highschool/1970-1979/class1979/[1979 schoo
 
 {empty} +
 
-image::/testsite/images/1979-Eternally.jpg[,role="text-center"]
+image::1979-Eternally.jpg[,role="text-center"]
 
 {empty} +
 
@@ -613,7 +613,7 @@ _Editor notes:_
 
 {empty} +
 
-image::/testsite/images/image-2.jpg[,role="text-center"]
+image::image-2.jpg[,role="text-center"]
 
 {empty} +
 

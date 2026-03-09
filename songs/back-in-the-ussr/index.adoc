@@ -28,4 +28,4 @@ link:/testsite/songs/[Vermilion Sailor Band Songs]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1997-1998-Sailor-Marching-Band_4046979266_o.jpg[,600]
+image::1997-1998-Sailor-Marching-Band_4046979266_o.jpg[,600]

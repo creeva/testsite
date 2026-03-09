@@ -7,7 +7,7 @@ title: 2021 Vermilion Sailor Alumni Band
 
 === 2021 Vermilion Sailor Alumni Band
 
-image::/testsite/images/241895722_10223210162300612_6890469869139917707_n.jpeg[,role="text-center"]
+image::241895722_10223210162300612_6890469869139917707_n.jpeg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 

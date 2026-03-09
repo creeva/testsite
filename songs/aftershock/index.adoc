@@ -33,4 +33,4 @@ link:/testsite/songs/[Vermilion Sailor Band Songs]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/2001-Sailor-Marching-Band-1.jpg[,600]
+image::2001-Sailor-Marching-Band-1.jpg[,600]

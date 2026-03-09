@@ -7,7 +7,7 @@ title: 2014-2015 Vermilion Sailor Marching Band
 
 === 2014-2015 Vermilion Sailor Marching Band
 
-image::/testsite/images/Vermilion-Marching-Band-2014-2015.jpg[,role="text-center"]
+image::Vermilion-Marching-Band-2014-2015.jpg[,role="text-center"]
 
 *Image Galleries:*
 

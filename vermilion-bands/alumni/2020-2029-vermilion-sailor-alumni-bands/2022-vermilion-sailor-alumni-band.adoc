@@ -7,7 +7,7 @@ title: 2022 Vermilion Sailor Alumni Band
 
 === 2022 Vermilion Sailor Alumni Band
 
-image::/testsite/images/IMG_6482.jpg[,role="text-center"]
+image::IMG_6482.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 

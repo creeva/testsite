@@ -5,7 +5,7 @@ title: Vermilion's Musical Roots
 
 == Victory March
 
-image::/testsite/images/2023-2024-group-picture.jpeg[,role="text-center"]
+image::2023-2024-group-picture.jpeg[,role="text-center"]
 
 In 2005, the Vermilion High School Hall of Fame was established with a clear purpose: to honor accomplished alumni who have achieved extraordinary success in their respective fields and to acknowledge individuals who have made outstanding contributions to the Vermilion Local Schools. Inductees into the Hall of Fame forever stand as representatives of the very best among us, their achievements serving as a testament to the excellent opportunities provided by the Vermilion Local Schools, including academics, arts, athletics, and other enriching programs.
 
@@ -56,7 +56,7 @@ _Editor notes:_
 
 {empty} +
 
-image::/testsite/images/image-2.jpg[,role="text-center"]
+image::image-2.jpg[,role="text-center"]
 
 {empty} +
 

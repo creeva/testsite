@@ -7,7 +7,7 @@ title: 1986 -- Anything Goes
 
 === Anything Goes -- March 14-15, 21-22, 1986
 
-image::/testsite/images/any1986.jpeg[,role="text-center"]
+image::any1986.jpeg[,role="text-center"]
 
 “Anything Goes” is a classic American musical with music and lyrics by Cole Porter and a book by Guy Bolton, P.G. Wodehouse, Howard Lindsay, and Russel Crouse. The musical is set aboard an ocean liner in the 1930s and is filled with romance, mistaken identities, and comedic hijinks. Here’s a summary of the plot:
 
@@ -37,31 +37,31 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/9oUoa8XGnAuxv6d48[1986 Vermilion High School -- Anything Goes]
 
-image::/testsite/images/1986musical.jpeg[,role="text-center"]
+image::1986musical.jpeg[,role="text-center"]
 
-image::/testsite/images/1986musical2.jpeg[,role="text-center"]
+image::1986musical2.jpeg[,role="text-center"]
 
-image::/testsite/images/1986a1.jpeg[,role="text-center"]
+image::1986a1.jpeg[,role="text-center"]
 
-image::/testsite/images/1986a2.jpeg[,role="text-center"]
+image::1986a2.jpeg[,role="text-center"]
 
-image::/testsite/images/1986a3.jpeg[,role="text-center"]
+image::1986a3.jpeg[,role="text-center"]
 
-image::/testsite/images/1986a4.jpeg[,role="text-center"]
+image::1986a4.jpeg[,role="text-center"]
 
-image::/testsite/images/1986a5.jpeg[,role="text-center"]
+image::1986a5.jpeg[,role="text-center"]
 
-image::/testsite/images/1986a6.jpeg[,role="text-center"]
+image::1986a6.jpeg[,role="text-center"]
 
-image::/testsite/images/1986a7.jpeg[,role="text-center"]
+image::1986a7.jpeg[,role="text-center"]
 
-image::/testsite/images/1986a8.jpeg[,role="text-center"]
+image::1986a8.jpeg[,role="text-center"]
 
-image::/testsite/images/1986a9.jpeg[,role="text-center"]
+image::1986a9.jpeg[,role="text-center"]
 
-image::/testsite/images/1986a10.jpeg[,role="text-center"]
+image::1986a10.jpeg[,role="text-center"]
 
-image::/testsite/images/1986a11.jpeg[,role="text-center"]
+image::1986a11.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

@@ -8,7 +8,7 @@ title: Fight Song -- Anchors Away
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/VLS-2009_pdf__page_44_of_95_1.jpg[,role="text-center"]
+image::VLS-2009_pdf__page_44_of_95_1.jpg[,role="text-center"]
 
 {empty} +
 
@@ -18,4 +18,4 @@ link:/testsite/songs/[Vermilion Sailor Band Songs]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/Sea-of-Faces.jpg[,600]
+image::Sea-of-Faces.jpg[,600]

@@ -7,7 +7,7 @@ title: 1940-1949 Vermilion High School Orchestras
 
 === 1940-1949 Vermilion High School Orchestras
 
-image::/testsite/images/1940orch.jpg[,role="text-center"]
+image::1940orch.jpg[,role="text-center"]
 
 [.text-center]
 1939-1940 Vermilion High School Orchestra
@@ -18,9 +18,9 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/NwxuMTyaeohaST9UA[1940 Vermilion High School Yearbook]
 
-image::/testsite/images/1940orchwrite.jpg[,role="text-center"]
+image::1940orchwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1941orch.jpg[,role="text-center"]
+image::1941orch.jpg[,role="text-center"]
 
 [.text-center]
 1940-1941 Vermilion High School Orchestra
@@ -31,9 +31,9 @@ Image Galleries:
 
 * link:https://photos.app.goo.gl/bskEj2x29xDwJtS99[1941 Vermilion High School Yearbook]
 
-image::/testsite/images/1941orchwrite.jpg[,role="text-center"]
+image::1941orchwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1942orch.jpg[,role="text-center"]
+image::1942orch.jpg[,role="text-center"]
 
 [.text-center]
 1941-1942 Vermilion High School High Orchestra
@@ -44,7 +44,7 @@ Image Galleries:
 
 * link:https://photos.app.goo.gl/SFKRTexWpffboiZFA[1942 Vermilion High School Yearbook]
 
-image::/testsite/images/1942orchwrite.jpg[,role="text-center"]
+image::1942orchwrite.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-high-school-orchestra/[Vermilion High School Orchestras]

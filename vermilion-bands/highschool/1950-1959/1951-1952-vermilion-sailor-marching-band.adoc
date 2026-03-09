@@ -7,7 +7,7 @@ title: 1951-1952 Vermilion Sailor Marching Band
 
 === 1951-1952 Vermilion Sailor Marching Band
 
-image::/testsite/images/1952band.jpg[,role="text-center"]
+image::1952band.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
@@ -18,12 +18,12 @@ Members: K. Ford, D. Rathbun, J. Szekely, L. Widdowson, N. Reifert, C. Carey, S.
 * link:https://photos.app.goo.gl/gLGPS8HVRJvRFmB47[1951-1952 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/Qiq9UUgr2tY18QJr7[1952 Vermilion High School Yearbook]
 
-image::/testsite/images/1952bandwrite.jpg[,role="text-center"]
+image::1952bandwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1952bandmaj.jpg[,role="text-center"]
+image::1952bandmaj.jpg[,role="text-center"]
 
 Members: Carol Lydic, Elona Peck, Mary Ann Wlodarsky, Donna Ruetenik, B. Marks, M. Weber, J. Price, P. Myers, B. Gendics, N. Miscow, B. Baynes, F. Hildum, D. Starnes, A. McKern, J. Bradley, N. Mehnert, B. Wright, E. Shook, S. Bachman, P. Payne, B. Russell, J. Wiseman, D. Boone, L. Lengye, E. Ruggles
 
-image::/testsite/images/1952bandmajwrite.jpg[,role="text-center"]
+image::1952bandmajwrite.jpg[,role="text-center"]
 
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

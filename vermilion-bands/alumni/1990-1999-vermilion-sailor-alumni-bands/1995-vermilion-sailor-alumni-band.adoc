@@ -7,7 +7,7 @@ title: 1995 Vermilion Sailor Alumni Band
 
 === 1995 Vermilion Sailor Alumni Band
 
-image::/testsite/images/alumnigeneric.jpeg[,role="text-center"]
+image::alumnigeneric.jpeg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
@@ -18,7 +18,7 @@ Video Playlists:
 .1995 Vermilion Sailor Alumni Band - Festival Show
 video::ROSk2UhKGf8[youtube, width=640, height=360, align=center]
 
-image::/testsite/images/File0870_4322553793_o.jpg[,role="text-center"]
+image::File0870_4322553793_o.jpg[,role="text-center"]
 
 *Woolybear Band Festival is Sept. 30*
 
@@ -28,7 +28,7 @@ _Dick Goddard will once again serve as emcee of the event as bands from across n
 
 _Of course, no Vermilion Band Festival would be complete without our own two local instrumental groups.Look for a spirited performance from our Alumni Band under the direction of Bill Burt. Holding with tradition, our own Sailor Band will close the show. Director Joe Price urges, "Come share the enthusiasm of these dedicated musicians as they proudly present their shows to kick off Woollybear weekend." Tickets are available at the gate $3 for adults and $2 for seniors and students._
 
-image::/testsite/images/File2422_4322555421_o.jpg[,role="text-center"]
+image::File2422_4322555421_o.jpg[,role="text-center"]
 
 *Clark lands VHS majorette corp*
 
@@ -48,7 +48,7 @@ _When asked how she came to be involved as the majorette advisor, Dawn replied, 
 
 _Dawn is the daughter of Dave and Judy Henry, wife of Rick Clark, and mother of Ashley and Branden Clark._
 
-image::/testsite/images/File2424_4322555461_o.jpg[,role="text-center"]
+image::File2424_4322555461_o.jpg[,role="text-center"]
 
 *Emery is band assistant director*
 

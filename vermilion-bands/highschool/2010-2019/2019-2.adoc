@@ -7,7 +7,7 @@ title: 2018-2019 Vermilion Sailor Marching Band
 
 === 2018-2019 Vermilion Sailor Marching Band
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 *Image Galleries:*
 

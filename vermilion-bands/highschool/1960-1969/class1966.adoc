@@ -16,11 +16,11 @@ Head Majorette: Carol Wharton
 * link:https://photos.app.goo.gl/24ZD1FgS9mPiJYeg6[1965-1966 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/coKtRh5gubKNcFFe7[1966 Vermilion High School Yearbook]
 
-image::/testsite/images/1965-1966-2019-07-23-10.41.21.jpg[,role="text-center"]
+image::1965-1966-2019-07-23-10.41.21.jpg[,role="text-center"]
 
 Left to Right: Martha Idol, Jean Pratt, Linda Villa, Sue Fultz, Carol Wharton, Jana Hostler, Gail WadaBaugh, Ava Wise, Lyn Pierce
 
-image::/testsite/images/1965-1966-2019-07-23-10.41.52.jpg[,role="text-center"]
+image::1965-1966-2019-07-23-10.41.52.jpg[,role="text-center"]
 
 *Vermilion Campaign Over The Top*
 
@@ -38,7 +38,7 @@ _In addition to the many subscriptions, the boosters received a number of cash d
 
 _Proceeds from the annual subscription sale are used to purchase uniforms, choir robes, other equipment, and provide treats for band members_
 
-image::/testsite/images/1965-1966-2019-07-23-10.43.40.jpg[,role="text-center"]
+image::1965-1966-2019-07-23-10.43.40.jpg[,role="text-center"]
 
 *Music Boosters*
 
@@ -46,7 +46,7 @@ _The annual Lakeland Conference Choir Festival will be held Saturday, November 1
 
 _The choir festival is open to the public free of charge._
 
-image::/testsite/images/1965-1966-2019-07-23-10.43.46.jpg[,role="text-center"]
+image::1965-1966-2019-07-23-10.43.46.jpg[,role="text-center"]
 
 *Boosters Recognize Marchers*
 
@@ -62,7 +62,7 @@ _Music Boosters, which has been expanded to include the parents and friends of t
 
 _The Music Boosts provide the annual dinner for members of the marching band…._
 
-image::/testsite/images/1965-1966-2019-07-23-10.43.49.jpg[,role="text-center"]
+image::1965-1966-2019-07-23-10.43.49.jpg[,role="text-center"]
 
 *Winter Concert a Success*
 
@@ -72,7 +72,7 @@ _The popular "Sound of Music" was presented by the Varsity Choid as was "Elijah 
 
 _The Varsity Concert Band presented the last hour of the program with selections ranging from "The Nutcracker Suite" to Mancini. Of course, Mr. William Burt directed the entire concert and is now working to make the Spring Concert as much of a success._
 
-image::/testsite/images/1965-1966-2019-07-23-10.44.35.jpg[,role="text-center"]
+image::1965-1966-2019-07-23-10.44.35.jpg[,role="text-center"]
 
 *Spring Band Concert*
 
@@ -80,17 +80,17 @@ _During the evening of June 3 in the VHS gymnasium the Vermilion High School Con
 
 _Seniors highlighting the program will be a trombone trio of Joyce Idol, Lucy Havrilla, Susan Bachman; and a cornet trio of Bucky Clack, Dan Walker, and Sharon Schroeder._
 
-image::/testsite/images/8-4-1965.jpeg[,role="text-center"]
+image::8-4-1965.jpeg[,role="text-center"]
 
-image::/testsite/images/9-29-1965.jpeg[,role="text-center"]
+image::9-29-1965.jpeg[,role="text-center"]
 
-image::/testsite/images/10-6-1965.jpeg[,role="text-center"]
+image::10-6-1965.jpeg[,role="text-center"]
 
-image::/testsite/images/12-2-1965.jpeg[,role="text-center"]
+image::12-2-1965.jpeg[,role="text-center"]
 
-image::/testsite/images/12-9-1965.jpeg[,role="text-center"]
+image::12-9-1965.jpeg[,role="text-center"]
 
-image::/testsite/images/6-2-1966.jpeg[,role="text-center"]
+image::6-2-1966.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]

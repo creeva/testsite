@@ -13,7 +13,7 @@ link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price 2
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry 1998-2007]
 
-image::/testsite/images/4012692289_4208494d01_o.jpg[,role="text-center"]
+image::4012692289_4208494d01_o.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/william-burt/[Bill "Willy B" Burt 1986-1997]

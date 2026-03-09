@@ -25,11 +25,11 @@ Head Majorette: Cheryl Pena
 .1999-2000 Vermilion Sailor Marching Band - Highlight Video
 video::VXyQ6yXbU9A[youtube, width=640, height=360, align=center]
 
-image::/testsite/images/2000-writeup.jpg[,role="text-center"]
+image::2000-writeup.jpg[,role="text-center"]
 
 _The VHS marching band had a busy and exciting season this year. The repertoire included popular songs such as "American Woman" and "Eye of the Tiger." Along with football games the band also participated in numerous band festivals and parades. The VHS marching band performed on Fox 8 In The Morning as a promotion for the Woolbear Festival. They closed out their season with a performance in the Cleveland Christmas Parade._
 
-image::/testsite/images/2000-f-writeup.jpg[,role="text-center"]
+image::2000-f-writeup.jpg[,role="text-center"]
 
 _With the leadership of Cheryl Pena and Shannon Dickerhodd, both the majorette and flag corps achieved tremendous accomplishments and lasting friendships. The majorette squad started its practices early in July, more than a month before the band began. Flags started soon after. They performed shows including "Long Train Runnin'", "China Grove", "American Woman", "Missions", and "Venus". The marching band attended festivals at Southview and Elyria and hosted their annual festival over Woolybear weekend. The flag corp even found time to compete at a competition in which they placed first. Their season concluded with the Fox 8 Christmas Parade on Thanksgiving weekend where the majorette squad placed first._
 

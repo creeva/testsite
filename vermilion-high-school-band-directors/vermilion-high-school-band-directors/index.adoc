@@ -7,22 +7,22 @@ title: Vermilion High School Band Directors
 
 === Vermilion High School Band Directors
 
-image::/testsite/images/ackley2.jpeg[,role="text-center"]
+image::ackley2.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/eugene-ackley/[Eugene Ackley 1910-?]
 
-image::/testsite/images/1925orchestra.jpg[,role="text-center"]
+image::1925orchestra.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/flossie-mae-andrews-lee/[Flossie Mae Andrews Lees 1924-1927]
 
-image::/testsite/images/1929orch.jpg[,role="text-center"]
+image::1929orch.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/m-e-hutton/[M. E. Hutton 1927-1929]
 
-image::/testsite/images/1929classorch.jpg[,role="text-center"]
+image::1929classorch.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/clark-carmean/[Clark Carmean 1928-1929]
@@ -48,7 +48,7 @@ link:/testsite/vermilion-high-school-band-directors/nathaniel-oshaben/[Nathaniel
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/mike-komperda/[Mike Komperda 2014-2015]
 
-image::/testsite/images/caldwell.jpg[,role="text-center"]
+image::caldwell.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/rachel-caldwell/[Rachel Caldwell 2015-2016]

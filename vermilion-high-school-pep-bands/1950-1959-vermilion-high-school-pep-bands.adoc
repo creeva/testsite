@@ -7,7 +7,7 @@ title: 1950-1959 Vermilion High School Pep Bands
 
 === 1950-1959 Vermilion High School Pep Bands
 
-image::/testsite/images/image.jpg[,role="text-center"]
+image::image.jpg[,role="text-center"]
 
 [.text-center]
 1954 Vermilion High School Basketball Band
@@ -20,9 +20,9 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/LyL2Gat6NgxPvP9N7[1954 Vermilion High School Yearbook]
 
-image::/testsite/images/image-1.jpg[,role="text-center"]
+image::image-1.jpg[,role="text-center"]
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1955 Vermilion High School Basketball Band
@@ -35,7 +35,7 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/EoxKKUV8P3y9mpZHA[1955 Vermilion High School Yearbook]
 
-image::/testsite/images/1956pepband.jpg[,role="text-center"]
+image::1956pepband.jpg[,role="text-center"]
 
 [.text-center]
 1956 Vermilion High School Pep Band
@@ -48,9 +48,9 @@ Members: R. Roughton, S. Evenson, J. Szekely, P. Thayer, B. Ennis, S. Yeamans, J
 
 * link:https://photos.app.goo.gl/ePvpdG5L77B7XbL67[1956 Vermilion High School Yearbook]
 
-image::/testsite/images/1956pepbandwriteup.jpg[,role="text-center"]
+image::1956pepbandwriteup.jpg[,role="text-center"]
 
-image::/testsite/images/1957pep.jpg[,role="text-center"]
+image::1957pep.jpg[,role="text-center"]
 
 [.text-center]
 1957 Vermilion High School Pep Band
@@ -63,7 +63,7 @@ Members: Mey, Havrilla, Jackson, Kyle, Gregg, Widdowson, Callahan, Peterka, Kubi
 
 * link:https://photos.app.goo.gl/2nzozic9CPqPkwAY7[1957 Vermilion High School Yearbook]
 
-image::/testsite/images/1958pepband.jpg[,role="text-center"]
+image::1958pepband.jpg[,role="text-center"]
 
 [.text-center]
 1958 Vermilion High School Pep Band
@@ -76,7 +76,7 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/QPz1fJJHziB4D7Ve9[1958 Vermilion High School Yearbook]
 
-image::/testsite/images/1959pep.jpg[,role="text-center"]
+image::1959pep.jpg[,role="text-center"]
 
 [.text-center]
 1959 Vermilion High School Pep Band

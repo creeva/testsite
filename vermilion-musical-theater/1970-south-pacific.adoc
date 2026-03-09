@@ -7,7 +7,7 @@ title: 1970 -South Pacific
 
 === South Pacific -- April 16-18, 1970
 
-image::/testsite/images/southpacific.jpg[,role="text-center"]
+image::southpacific.jpg[,role="text-center"]
 
 Image Gallery:
 
@@ -26,33 +26,33 @@ As the musical unfolds, it delves into the characters’ struggles with their pe
 
 The musical ultimately addresses themes of love’s ability to transcend prejudice and the transformative power of human connections. It explores the impact of war on individuals and society while emphasizing the need to overcome racial and cultural divides. “South Pacific” remains a beloved classic, known for its compelling storytelling and timeless themes.
 
-image::/testsite/images/1970musicalpit.jpg[,role="text-center"]
+image::1970musicalpit.jpg[,role="text-center"]
 
-image::/testsite/images/1970music.jpeg[,role="text-center"]
+image::1970music.jpeg[,role="text-center"]
 
-image::/testsite/images/1970musical.jpeg[,role="text-center"]
+image::1970musical.jpeg[,role="text-center"]
 
-image::/testsite/images/1970sp02.jpg[,role="text-center"]
+image::1970sp02.jpg[,role="text-center"]
 
-image::/testsite/images/1970sp03.jpg[,role="text-center"]
+image::1970sp03.jpg[,role="text-center"]
 
-image::/testsite/images/1970sp04.jpg[,role="text-center"]
+image::1970sp04.jpg[,role="text-center"]
 
-image::/testsite/images/1970sp05.jpg[,role="text-center"]
+image::1970sp05.jpg[,role="text-center"]
 
-image::/testsite/images/1970sp06.jpg[,role="text-center"]
+image::1970sp06.jpg[,role="text-center"]
 
-image::/testsite/images/1970sp07.jpg[,role="text-center"]
+image::1970sp07.jpg[,role="text-center"]
 
-image::/testsite/images/1970sp08.jpg[,role="text-center"]
+image::1970sp08.jpg[,role="text-center"]
 
-image::/testsite/images/1970sp09.jpg[,role="text-center"]
+image::1970sp09.jpg[,role="text-center"]
 
-image::/testsite/images/1970sp10.jpg[,role="text-center"]
+image::1970sp10.jpg[,role="text-center"]
 
-image::/testsite/images/1970sp11.jpg[,role="text-center"]
+image::1970sp11.jpg[,role="text-center"]
 
-image::/testsite/images/1970sp12.jpg[,role="text-center"]
+image::1970sp12.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

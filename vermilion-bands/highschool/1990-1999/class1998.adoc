@@ -13,7 +13,7 @@ Head Majorette: Stacie Moralez
 
 Members:
 
-image::/testsite/images/1998marmem.jpg[,role="text-center"]
+image::1998marmem.jpg[,role="text-center"]
 
 *Image Galleries:*
 
@@ -29,11 +29,11 @@ image::/testsite/images/1998marmem.jpg[,role="text-center"]
 .1997-1998 Vermilion Sailor Marching Band - Highlight Video
 video::e1cc_QMjOOQ[youtube, width=640, height=360, align=center]
 
-image::/testsite/images/1998-majorettes.jpg[,role="text-center"]
+image::1998-majorettes.jpg[,role="text-center"]
 
-image::/testsite/images/1998-flag-corp.jpg[,role="text-center"]
+image::1998-flag-corp.jpg[,role="text-center"]
 
-image::/testsite/images/1998marwrite.jpg[,role="text-center"]
+image::1998marwrite.jpg[,role="text-center"]
 
 *Marking Time*
 
@@ -45,7 +45,7 @@ _The band participated in four festivals this year including their own Woolybear
 
 _This year the band will be graduating 21 seniors. This is the biggest number of seniors to graduate from the Marching Band program since 1982._
 
-image::/testsite/images/1998majwrite.jpg[,role="text-center"]
+image::1998majwrite.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]

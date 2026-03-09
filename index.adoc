@@ -12,49 +12,49 @@ video::IGZOJ64LuWs[youtube, width=640, height=360, align="center"]
 _What time is it?_ *Band Time!*
 
 [.text-center.rounded]
-image::/testsite/images/1990-1.jpg[,600,role="text-center"]
+image::1990-1.jpg[,600,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
 
 [.text-center.rounded]
-image::/testsite/images/alumnigeneric.jpeg[Alumni Generic, 600]
+image::alumnigeneric.jpeg[Alumni Generic, 600]
 
 [.text-center]
 link:/testsite/vermilion-bands/alumni/[Vermilion Sailor Alumni Bands]
 
 [.text-center.rounded]
-image::/testsite/images/1960con.jpg[1960 Concert Band,600]
+image::1960con.jpg[1960 Concert Band,600]
 
 [.text-center]
 link:/testsite/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]
 
 [.text-center.rounded]
-image::/testsite/images/1933orch.jpg[1933 Orchestra, 600]
+image::1933orch.jpg[1933 Orchestra, 600]
 
 [.text-center]
 link:/testsite/vermilion-high-school-orchestra/[Vermilion High School Orchestras]
 
 [.text-center.rounded]
-image::/testsite/images/1957pep.jpg[1957 Pep Band, 600]
+image::1957pep.jpg[1957 Pep Band, 600]
 
 [.text-center]
 link:/testsite/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]
 
 [.text-center.rounded]
-image::/testsite/images/1990jazz.png[1990 Jazz Band, 600"]
+image::1990jazz.png[1990 Jazz Band, 600"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-jazz-bands/[Vermilion High School Jazz Bands]
 
 [.text-center.rounded]
-image::/testsite/images/1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[1953 German Band, 600]
+image::1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[1953 German Band, 600]
 
 [.text-center]
 link:/testsite/vermilion-bands/other/[Other Vermilion Bands]
 
 [.text-center.rounded]
-image::/testsite/images/1993musicman.jpeg[1993 Music Mand, 600]
+image::1993musicman.jpeg[1993 Music Mand, 600]
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

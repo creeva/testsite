@@ -7,7 +7,7 @@ title: Vermilion High School Dance Bands
 
 === Vermilion High School Dance Bands
 
-image::/testsite/images/1956danceband.jpg[,role="text-center"]
+image::1956danceband.jpg[,role="text-center"]
 
 [.text-center]
 1956 Vermilion High School Dance Band
@@ -20,9 +20,9 @@ Members: L. Lindsay, D. Gutherie, L. Roberts, M. Hollosy, L. Roberts, R. Roughto
 
 * link:https://photos.app.goo.gl/ePvpdG5L77B7XbL67[1956 Vermilion High School Yearbook]
 
-image::/testsite/images/1956dancebandwrite.jpg[,role="text-center"]
+image::1956dancebandwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1958danceband.jpg[,role="text-center"]
+image::1958danceband.jpg[,role="text-center"]
 
 [.text-center]
 1958 Vermilion High School Dance Band
@@ -35,7 +35,7 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/QPz1fJJHziB4D7Ve9[1958 Vermilion High School Yearbook]
 
-image::/testsite/images/1959dance.jpg[,role="text-center"]
+image::1959dance.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 

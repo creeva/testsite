@@ -172,7 +172,7 @@ link:/testsite/vermilion-musical-theater/2022-the-sound-of-music/[2022 -- The So
 [.text-center]
 link:/testsite/vermilion-musical-theater/2023-beauty-and-the-beast/[2023 -- Beauty and the Beast]
 
-image::/testsite/images/addamsfamily.jpeg[,role="text-center"]
+image::addamsfamily.jpeg[,role="text-center"]
 
 [.text-center]
 2024 – The Addams Family

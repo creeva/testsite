@@ -28,4 +28,4 @@ link:/testsite/songs/[Vermilion Sailor Band Songs]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1992-seniors.jpg[,600]
+image::1992-seniors.jpg[,600]

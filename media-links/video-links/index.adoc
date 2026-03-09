@@ -8,7 +8,7 @@ title: Videos
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1999-2000-Sailor-Marching-Band_4169765288_o.jpg[,600]
+image::1999-2000-Sailor-Marching-Band_4169765288_o.jpg[,600]
 
 {empty} +
 
@@ -17,7 +17,7 @@ Vermilion Sailor Alumni band hosts all of its videos on YouTube. Original source
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/vhsmajorettes77vv.jpg[,600]
+image::vhsmajorettes77vv.jpg[,600]
 
 {empty} +
 
@@ -67,7 +67,7 @@ image::/testsite/images/vhsmajorettes77vv.jpg[,600]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/joealumni.jpg[,600"]
+image::joealumni.jpg[,600"]
 
 {empty} +
 
@@ -106,7 +106,7 @@ image::/testsite/images/joealumni.jpg[,600"]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1986-1987-Spring-Musical-Oklahoma-16-Vermilion-High-School-Vermilion-OH.jpg[,600]
+image::1986-1987-Spring-Musical-Oklahoma-16-Vermilion-High-School-Vermilion-OH.jpg[,600]
 
 {empty} +
 
@@ -120,4 +120,4 @@ image::/testsite/images/1986-1987-Spring-Musical-Oklahoma-16-Vermilion-High-Scho
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1967-1968-2019-07-23-10.50.32-scaled-1.jpg[,600]
+image::1967-1968-2019-07-23-10.50.32-scaled-1.jpg[,600]

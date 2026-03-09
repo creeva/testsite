@@ -7,7 +7,7 @@ title: Eugene Ackley
 
 === Eugene Ackley
 
-image::/testsite/images/ackley2.jpeg[,role="text-center"]
+image::ackley2.jpeg[,role="text-center"]
 
 Eugene Baker Ackley is the earliest band director recorded on this site. He was born November 1, 1871 in Illinois. Mr. Ackley came from a musical family, and took up the cornet at 12. He studied with Carl Kaltenborn of New York who had been the solo cornetist with Gilmore’s famous band for 12 years. At one time, Mr. Ackley enjoyed the reputation of being one of the best B flat cornetists in the country.
 

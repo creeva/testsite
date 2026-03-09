@@ -38,4 +38,4 @@ link:/testsite/songs/[Vermilion Sailor Band Songs]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/Vermilion-Marching-Band-2014-2015.jpg[,600]
+image::Vermilion-Marching-Band-2014-2015.jpg[,600]

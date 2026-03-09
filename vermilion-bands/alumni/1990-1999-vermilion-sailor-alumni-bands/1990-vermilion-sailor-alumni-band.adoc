@@ -7,7 +7,7 @@ title: 1990 Vermilion Sailor Alumni Band
 
 === 1990 Vermilion Sailor Alumni Band
 
-image::/testsite/images/alumnigeneric.jpeg[,role="text-center"]
+image::alumnigeneric.jpeg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
@@ -18,7 +18,7 @@ Video Playlists:
 .1990 Vermilion Sailor Alumni Band Show
 video::DCcUg8oepMU[youtube, width=640, height=360, align=center]
 
-image::/testsite/images/5-14-1990.jpeg[,role="text-center"]
+image::5-14-1990.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/testsite/vermilion-bands/alumni/[rching Bands] – link:/testsite/vermilion-bands/alumni/1990-1999-vermilion-sailor-alumni-bands/[1990-1999 Vermilion Sailor Alumni Band]

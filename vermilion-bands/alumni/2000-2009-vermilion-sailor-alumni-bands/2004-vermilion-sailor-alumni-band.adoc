@@ -7,7 +7,7 @@ title: 2004 Vermilion Sailor Alumni Band
 
 === 2004 Vermilion Sailor Alumni Band
 
-image::/testsite/images/sideline-alumni_4013465514_o.jpg[,role="text-center"]
+image::sideline-alumni_4013465514_o.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 

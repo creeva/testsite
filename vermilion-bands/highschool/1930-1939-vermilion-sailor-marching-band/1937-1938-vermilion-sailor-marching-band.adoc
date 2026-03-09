@@ -7,7 +7,7 @@ title: 1937-1938 Vermilion Sailor Marching Band
 
 === 1937-1938 Vermilion Sailor Marching Band
 
-image::/testsite/images/1938orch.jpg[,role="text-center"]
+image::1938orch.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
@@ -18,7 +18,7 @@ Image Galleries:
 * link:https://photos.app.goo.gl/AA44Z5kPCzj7TmZK6[1937-1938 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/WSa3F1zigGT2BaPm7[1938 Vermilion High School Yearbook]
 
-image::/testsite/images/1938orchwrite.jpg[,role="text-center"]
+image::1938orchwrite.jpg[,role="text-center"]
 
 *Orchestra*
 

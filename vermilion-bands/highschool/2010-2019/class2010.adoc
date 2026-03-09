@@ -21,11 +21,11 @@ Director: link:/testsite/vermilion-high-school-band-directors/nathaniel-oshaben/
 .2009-2010 Vermilion Sailor Marching Band - Thriller
 video::K7D_IkQ-Axc[youtube, width=640, height=360, align=center]
 
-image::/testsite/images/VLS-2010_pdf__page_45_of_97_16.jpg[,role="text-center"]
+image::VLS-2010_pdf__page_45_of_97_16.jpg[,role="text-center"]
 
-image::/testsite/images/VLS-2010_pdf__page_46_of_97_16.jpg[,role="text-center"]
+image::VLS-2010_pdf__page_46_of_97_16.jpg[,role="text-center"]
 
-image::/testsite/images/VLS-2010_pdf__page_44_of_97_23.jpg[,role="text-center"]
+image::VLS-2010_pdf__page_44_of_97_23.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

@@ -22,7 +22,7 @@ link:/testsite/vermilion-bands/highschool/1980-1989/class1983/[1982-1983 Vermili
 [.text-center]
 link:/testsite/vermilion-bands/highschool/1980-1989/class1984/[1983-1984 Vermilion Sailor Marching Band]
 
-image::/testsite/images/1985-Sailor-Marching-Band.jpg[,role="text-center"]
+image::1985-Sailor-Marching-Band.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-bands/highschool/1980-1989/class1985/[1984-1985 Vermilion Sailor Marching Band]

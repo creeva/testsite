@@ -7,7 +7,7 @@ title: 2004-2005 Vermilion Sailor Marching Band
 
 === 2004-2005 Vermilion Sailor Marching Band
 
-image::/testsite/images/VLS-2005_pdf__page_33_of_97_6-1.jpg[,role="text-center"]
+image::VLS-2005_pdf__page_33_of_97_6-1.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
@@ -25,6 +25,6 @@ Head Majorette: Melissa Hamman
 .2004-2005 Vermilion Sailor Marching Band - Highlight Video
 video::piNx99n2Pdw[youtube, width=640, height=360, align=center]
 
-image::/testsite/images/VLS-2005_pdf__page_33_of_97_6-1.jpg[,role="text-center"]
+image::VLS-2005_pdf__page_33_of_97_6-1.jpg[,role="text-center"]
 
-image::/testsite/images/VLS-2005_pdf__page_34_of_97_7.jpg[,role="text-center"]
+image::VLS-2005_pdf__page_34_of_97_7.jpg[,role="text-center"]

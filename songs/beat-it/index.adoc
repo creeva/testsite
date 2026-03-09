@@ -33,4 +33,4 @@ link:/testsite/songs/[Vermilion Sailor Band Songs]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/2023-2024-group-picture.jpeg[,600]
+image::2023-2024-group-picture.jpeg[,600]

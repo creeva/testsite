@@ -7,7 +7,7 @@ title: 1952-1953 Vermilion Sailor Marching Band
 
 === 1952-1953 Vermilion Sailor Marching Band
 
-image::/testsite/images/1953band.jpg[,role="text-center"]
+image::1953band.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
@@ -20,21 +20,21 @@ Members: Unlisted
 * link:https://photos.app.goo.gl/kARareEEBAvzAMpb9[1952-1953 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/x6nAZrFyeZUAYo3Y6[1953 Vermilion High School Yearbook]
 
-image::/testsite/images/1953bandwrite.jpg[,role="text-center"]
+image::1953bandwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1953maj.jpg[,role="text-center"]
+image::1953maj.jpg[,role="text-center"]
 
 Members: Bradley, Mehnert, Wright, Miskow, David, Shook
 
-image::/testsite/images/1953majwriteup.jpg[,role="text-center"]
+image::1953majwriteup.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Sat__Apr_11__1953_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Sat__Apr_11__1953_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Thu__Dec_18__1952_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Thu__Dec_18__1952_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Thu__Sep_11__1952_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Thu__Sep_11__1952_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Tue__Oct_28__1952_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Tue__Oct_28__1952_.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

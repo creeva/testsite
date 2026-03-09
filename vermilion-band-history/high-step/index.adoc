@@ -33,7 +33,7 @@ _Editor notes:_
 
 {empty} +
 
-image::/testsite/images/image-2.jpg[,role="text-center"]
+image::image-2.jpg[,role="text-center"]
 
 {empty} +
 

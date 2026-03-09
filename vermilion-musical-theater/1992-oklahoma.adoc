@@ -7,7 +7,7 @@ title: 1992 -- Oklahoma
 
 === Oklahoma -- March 27-28, April 3-4, 1992
 
-image::/testsite/images/ok1992.jpg[,role="text-center"]
+image::ok1992.jpg[,role="text-center"]
 
 “Oklahoma!” is a classic American musical with music by Richard Rodgers, lyrics by Oscar Hammerstein II, and a book by Oscar Hammerstein II and Richard Rodgers. It’s set in the Oklahoma Territory in the early 1900s and follows the love story of Curly McLain and Laurey Williams amidst the backdrop of a community on the brink of statehood. Here’s a summary of the plot:
 
@@ -37,11 +37,11 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/KoLBsSdNM1c7Ue8b6[1992 Vermilion High School -- Oklahoma]
 
-image::/testsite/images/1992musical.jpeg[,role="text-center"]
+image::1992musical.jpeg[,role="text-center"]
 
-image::/testsite/images/1992musical2.jpeg[,role="text-center"]
+image::1992musical2.jpeg[,role="text-center"]
 
-image::/testsite/images/1992oka1.jpeg[,role="text-center"]
+image::1992oka1.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

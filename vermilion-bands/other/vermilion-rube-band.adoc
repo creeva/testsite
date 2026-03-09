@@ -7,44 +7,44 @@ title: Vermilion Rube Band
 
 === Vermilion Rube Band
 
-image::/testsite/images/rubband.jpg[,role="text-center"]
+image::rubband.jpg[,role="text-center"]
 
-image::/testsite/images/The_Chronicle_Telegram_Thu__Oct_31__1946_.jpg[,role="text-center"]
+image::The_Chronicle_Telegram_Thu__Oct_31__1946_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Chronicle_Telegram_Wed__Jul_30__1947_.jpg[,role="text-center"]
+image::The_Chronicle_Telegram_Wed__Jul_30__1947_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Evening_Independent_Wed__Sep_23__1936_.jpg[,role="text-center"]
+image::The_Evening_Independent_Wed__Sep_23__1936_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Fri__Apr_9__1937_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Fri__Apr_9__1937_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Fri__Aug_11__1939_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Fri__Aug_11__1939_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Fri__May_21__1948_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Fri__May_21__1948_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Fri__Oct_1__1948_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Fri__Oct_1__1948_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Fri__Oct_2__1936_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Fri__Oct_2__1936_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Mon__Jul_26__1943_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Mon__Jul_26__1943_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Mon__Oct_21__1946_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Mon__Oct_21__1946_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Sat__Aug_11__1945_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Sat__Aug_11__1945_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Sat__Sep_25__1948_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Sat__Sep_25__1948_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Thu__Aug_9__1945_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Thu__Aug_9__1945_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Thu__Aug_24__1950_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Thu__Aug_24__1950_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Thu__Oct_24__1946_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Thu__Oct_24__1946_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Tue__Apr_26__1938_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Tue__Apr_26__1938_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Tue__Aug_18__1953_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Tue__Aug_18__1953_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Tue__Jul_20__1943_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Tue__Jul_20__1943_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Wed__May_26__1948_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Wed__May_26__1948_.jpg[,role="text-center"]
 
-image::/testsite/images/The_Sandusky_Register_Wed__Sep_10__1947_.jpg[,role="text-center"]
+image::The_Sandusky_Register_Wed__Sep_10__1947_.jpg[,role="text-center"]

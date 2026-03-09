@@ -13,7 +13,7 @@ Head Majorette: Wendy West
 
 Members:
 
-image::/testsite/images/1977marmem.jpg[,role="text-center"]
+image::1977marmem.jpg[,role="text-center"]
 
 *Image Galleries:*
 
@@ -21,19 +21,19 @@ image::/testsite/images/1977marmem.jpg[,role="text-center"]
 * link:https://photos.app.goo.gl/UBnB1nZJsKmKEkvt8[1977 Vermilion High School Yearbook]
 * link:https://photos.app.goo.gl/1D5m6Ge98cYoKPP7A[1977 Vermilion High School -- Oklahoma]
 
-image::/testsite/images/1977marwrite.jpg[,role="text-center"]
+image::1977marwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1977sen.jpg[,role="text-center"]
+image::1977sen.jpg[,role="text-center"]
 
-image::/testsite/images/1976-1977-img964.jpg[,role="text-center"]
+image::1976-1977-img964.jpg[,role="text-center"]
 
-image::/testsite/images/9-23-1976.jpeg[,role="text-center"]
+image::9-23-1976.jpeg[,role="text-center"]
 
-image::/testsite/images/9-30-1976.jpeg[,role="text-center"]
+image::9-30-1976.jpeg[,role="text-center"]
 
-image::/testsite/images/1-27-1977.jpeg[,role="text-center"]
+image::1-27-1977.jpeg[,role="text-center"]
 
-image::/testsite/images/10-14-1976.jpeg[,role="text-center"]
+image::10-14-1976.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]

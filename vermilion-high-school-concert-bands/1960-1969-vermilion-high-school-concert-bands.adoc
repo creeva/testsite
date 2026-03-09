@@ -7,7 +7,7 @@ title: 1960-1969 Vermilion High School Concert Bands
 
 === 1960-1969 Vermilion High School Concert Bands
 
-image::/testsite/images/1960con.jpg[,role="text-center"]
+image::1960con.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
@@ -17,7 +17,7 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/Dy6nwYBsUpDoVbi18[1960 Vermilion High School Yearbook]
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1961 Vermilion High School Concert Band
@@ -30,11 +30,11 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/LQxmghrvgVS838GE6[1961 Vermilion High School Yearbook]
 
-image::/testsite/images/1961marwrite.jpg[,role="text-center"]
+image::1961marwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1961marwrite2.jpg[,role="text-center"]
+image::1961marwrite2.jpg[,role="text-center"]
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1962 Vermilion High School Concert Band
@@ -47,7 +47,7 @@ Members: Unlisted
 
 * 1962 Vermilion High School Yearbook
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1963 Vermilion High School Concert Band
@@ -60,7 +60,7 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/2VKcBMvMVKzZTHc37[1963 Vermilion High School Yearbook]
 
-image::/testsite/images/1964con.jpg[,role="text-center"]
+image::1964con.jpg[,role="text-center"]
 
 [.text-center]
 1964 Vermilion High School Concert Band
@@ -73,7 +73,7 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/y5uA2MNiJXPGZzjv8[1964 Vermilion High School Yearbook]
 
-image::/testsite/images/1965con.jpg[,role="text-center"]
+image::1965con.jpg[,role="text-center"]
 
 [.text-center]
 1965 Vermilion High School Concert Band
@@ -86,9 +86,9 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/gQeAHCHsdBt6KA4M7[1965 Vermilion High School Yearbook]
 
-image::/testsite/images/1965bandwrite.jpg[,role="text-center"]
+image::1965bandwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1966con.jpg[,role="text-center"]
+image::1966con.jpg[,role="text-center"]
 
 [.text-center]
 1966 Vermilion High School Concert Band
@@ -101,7 +101,7 @@ Members: Bob Clark, Bob Duval, Dan Walker, Debbie Zerad, Ted Konnerth, Ken Kishm
 
 * link:https://photos.app.goo.gl/coKtRh5gubKNcFFe7[1966 Vermilion High School Yearbook]
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1967 Vermilion High School Concert Band
@@ -114,7 +114,7 @@ Members: R. Duval, K. Horn, M. Idol, J. Pratt, D. Zerad, P. Booker, M. Heys, K. 
 
 * link:https://photos.app.goo.gl/KCcNZ6oZpcj4jdes7[1967 Vermilion High School Yearbook]
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1968 Vermilion High School Concert Band
@@ -127,9 +127,9 @@ Members: Unlisted
 
 * link:https://photos.app.goo.gl/9xjaCSqQfzbjijhc8[1968 Vermilion High School Yearbook]
 
-image::/testsite/images/1968marconpepwrite.jpg[,role="text-center"]
+image::1968marconpepwrite.jpg[,role="text-center"]
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1969 Vermilion High School Concert Band

@@ -23,4 +23,4 @@ link:/testsite/songs/[Vermilion Sailor Band Songs]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1999-2000-Sailor-Marching-Band_4169765288_o.jpg[,600]
+image::1999-2000-Sailor-Marching-Band_4169765288_o.jpg[,600]

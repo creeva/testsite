@@ -7,7 +7,7 @@ title: Vermilion's Musical Roots
 
 {empty} +
 
-image::/testsite/images/crystalgardensdancehall.jpeg[,role="text-center"]
+image::crystalgardensdancehall.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -17,7 +17,7 @@ In 1906, the town managed to have its own amusement park, link:https://www.vermi
 
 {empty} +
 
-image::/testsite/images/linwood2.jpeg[,role="text-center"]
+image::linwood2.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -25,7 +25,7 @@ Even older than Crystal Beach, the area now occupied by link:https://linwoodpark
 
 {empty} +
 
-image::/testsite/images/The_Sandusky_Star_Journal_Sat__Jul_10__1920_.jpg[,role="text-center"]
+image::The_Sandusky_Star_Journal_Sat__Jul_10__1920_.jpg[,role="text-center"]
 
 {empty} +
 
@@ -35,7 +35,7 @@ Green Book Cleveland has an link:https://greenbookcleveland.org/locations/elbert
 
 {empty} +
 
-image::/testsite/images/jackmiles.jpg[,role="text-center"]
+image::jackmiles.jpg[,role="text-center"]
 
 {empty} +
 
@@ -43,7 +43,7 @@ In 1919, the Vermilion-on-the-Lake resort was established to sell cottages to va
 
 {empty} +
 
-image::/testsite/images/vlighth.jpeg[,role="text-center"]
+image::vlighth.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -54,7 +54,7 @@ This does not preclude that students were not involved in these singular or mult
 
 {empty} +
 
-image::/testsite/images/watertower.jpeg[,role="text-center"]
+image::watertower.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -87,7 +87,7 @@ _Editor notes:_
 
 {empty} +
 
-image::/testsite/images/image-2.jpg[,role="text-center"]
+image::image-2.jpg[,role="text-center"]
 
 {empty} +
 

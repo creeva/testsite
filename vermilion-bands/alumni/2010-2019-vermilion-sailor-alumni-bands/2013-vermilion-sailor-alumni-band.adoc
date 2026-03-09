@@ -7,7 +7,7 @@ title: 2013 Vermilion Sailor Alumni Band
 
 === 2013 Vermilion Sailor Alumni Band
 
-image::/testsite/images/08-2013-Vermilion-Sailor-Alumni-Band.jpg-.jpg[,role="text-center"]
+image::08-2013-Vermilion-Sailor-Alumni-Band.jpg-.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 

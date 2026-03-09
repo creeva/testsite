@@ -23,4 +23,4 @@ link:/testsite/songs/[Vermilion Sailor Band Songs]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/Sea-of-Faces.jpg[,600]
+image::Sea-of-Faces.jpg[,600]

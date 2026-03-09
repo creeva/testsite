@@ -13,7 +13,7 @@ Head Majorette: Melanie Freidman
 
 Members:
 
-image::/testsite/images/1992marmem.jpg[,role="text-center"]
+image::1992marmem.jpg[,role="text-center"]
 
 *Image Galleries:*
 
@@ -28,9 +28,9 @@ image::/testsite/images/1992marmem.jpg[,role="text-center"]
 .1991-1992 Vermilion Sailor Marching Band - Highlight Video
 video::DQXbWVEcgW4[youtube, width=640, height=360, align=center]
 
-image::/testsite/images/1992-seniors.jpg[,role="text-center"]
+image::1992-seniors.jpg[,role="text-center"]
 
-image::/testsite/images/1992-writeup.jpg[,role="text-center"]
+image::1992-writeup.jpg[,role="text-center"]
 
 *Marching to the Beat*
 
@@ -44,15 +44,15 @@ _Parades provided a change of routine. The band marched in the Vermilion Woolybe
 
 _Performances and practices brought members into close friendships and gave them many memories of good times at VHS._
 
-image::/testsite/images/7-30-1991.jpeg[,role="text-center"]
+image::7-30-1991.jpeg[,role="text-center"]
 
-image::/testsite/images/8-27-1991.jpeg[,role="text-center"]
+image::8-27-1991.jpeg[,role="text-center"]
 
-image::/testsite/images/9-24-1991.jpeg[,role="text-center"]
+image::9-24-1991.jpeg[,role="text-center"]
 
-image::/testsite/images/10-1-1991.jpeg[,role="text-center"]
+image::10-1-1991.jpeg[,role="text-center"]
 
-image::/testsite/images/6-2-1992.jpeg[,role="text-center"]
+image::6-2-1992.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]

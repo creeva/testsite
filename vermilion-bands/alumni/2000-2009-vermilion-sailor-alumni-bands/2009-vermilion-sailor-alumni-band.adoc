@@ -7,7 +7,7 @@ title: 2009 Vermilion Sailor Alumni Band
 
 === 2009 Vermilion Sailor Alumni Band
 
-image::/testsite/images/IMG_0540_4013364668_o.jpg[,role="text-center"]
+image::IMG_0540_4013364668_o.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 

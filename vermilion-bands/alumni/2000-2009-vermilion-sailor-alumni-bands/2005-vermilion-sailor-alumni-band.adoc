@@ -7,7 +7,7 @@ title: 2005 Vermilion Sailor Alumni Band
 
 === 2005 Vermilion Sailor Alumni Band
 
-image::/testsite/images/08-2005-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]
+image::08-2005-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 

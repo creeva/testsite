@@ -7,12 +7,12 @@ title: Vermilion High School Concert Bands
 
 === Vermilion High School Concert Bands
 
-image::/testsite/images/1951band.jpg[,role="text-center"]
+image::1951band.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-concert-bands/1950-1959-vermilion-high-school-concert-bands/[1950-1959 Vermilion High School Concert Bands]
 
-image::/testsite/images/1960con.jpg[,role="text-center"]
+image::1960con.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-concert-bands/1960-1969-vermilion-high-school-concert-bands/[1960-1969 Vermilion High School Concert Bands]
@@ -26,17 +26,17 @@ link:/testsite/vermilion-high-school-concert-bands/1980-1989-vermilion-high-scho
 [.text-center]
 link:/testsite/vermilion-high-school-concert-bands/1990-1999-vermilion-high-school-concert-bands/[1990-1999 Vermilion High School Concert Bands]
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 2000-2009 Vermilion High School Concert Bands
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 2010-2019 Vermilion High School Concert Bands
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 2020-2029 Vermilion High School Concert Bands

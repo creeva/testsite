@@ -7,7 +7,7 @@ title: 1990-1999 Vermilion High School Pep Bands
 
 === 1990-1999 Vermilion High School Pep Bands
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1990 Vermilion High School Pep Band
@@ -20,7 +20,7 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/v1Xd7vco5GNMv9YM6[1990 Vermilion High School Yearbook]
 
-image::/testsite/images/1991pep.png[,role="text-center"]
+image::1991pep.png[,role="text-center"]
 
 [.text-center]
 1991 Vermilion High School Pep Band
@@ -33,7 +33,7 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/u8Mr3xVK58fm6zGA7[1991 Vermilion High School Yearbook]
 
-image::/testsite/images/1992pep.png[,role="text-center"]
+image::1992pep.png[,role="text-center"]
 
 [.text-center]
 1992 Vermilion High School Pep Band
@@ -46,7 +46,7 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/jvm8my1ZbQJGbXrp8[1992 Vermilion High School Yearbook]
 
-image::/testsite/images/1993pep.png[,role="text-center"]
+image::1993pep.png[,role="text-center"]
 
 [.text-center]
 1993 Vermilion High School Pep Band
@@ -59,7 +59,7 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/j5AS7UFw57rirQzw6[1993 Vermilion High School Yearbook]
 
-image::/testsite/images/1994pep.png[,role="text-center"]
+image::1994pep.png[,role="text-center"]
 
 [.text-center]
 1994 Vermilion High School Pep Band
@@ -72,7 +72,7 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/fMkv3XWvtX1G3mPB8[1994 Vermilion High School Yearbook]
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1995 Vermilion High School Pep Band
@@ -85,7 +85,7 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/EtckdAC79qzTy7DT7[1995 Vermilion High School Yearbook]
 
-image::/testsite/images/1996pep.jpeg[,role="text-center"]
+image::1996pep.jpeg[,role="text-center"]
 
 [.text-center]
 1996 Vermilion High School Pep Band
@@ -98,7 +98,7 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/zLt9mNpPqHpUjfUq8[1996 Vermilion High School Yearbook]
 
-image::/testsite/images/Sea-of-Faces.jpg[,role="text-center"]
+image::Sea-of-Faces.jpg[,role="text-center"]
 
 [.text-center]
 1997 Vermilion High School Pep Band
@@ -111,7 +111,7 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/J3fab528iGtJPbNe6[1997 Vermilion High School Yearbook]
 
-image::/testsite/images/1998pep.png[,role="text-center"]
+image::1998pep.png[,role="text-center"]
 
 [.text-center]
 1998 Vermilion High School Pep Band
@@ -124,7 +124,7 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/T5UEufAzKMCMmLuY9[1998 Vermilion High School Yearbook]
 
-image::/testsite/images/1999pep.png[,role="text-center"]
+image::1999pep.png[,role="text-center"]
 
 [.text-center]
 1999 Vermilion High School Pep Band
@@ -133,7 +133,7 @@ Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Jose
 
 Members:
 
-image::/testsite/images/1999pepmem.png[,role="text-center"]
+image::1999pepmem.png[,role="text-center"]
 
 Image Gallery:
 

@@ -16,9 +16,9 @@ Image Galleries:
 * link:https://photos.app.goo.gl/xnvHtkf5qpAVRYH88[2007-2008 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/AjTNQkwPzYp8JDh9A[2008 Vermilion High School Yearbook]
 
-image::/testsite/images/VLS-2008_pdf__page_44_of_90_7.jpg[,role="text-center"]
+image::VLS-2008_pdf__page_44_of_90_7.jpg[,role="text-center"]
 
-image::/testsite/images/VLS-2008_pdf__page_45_of_90_4.jpg[,role="text-center"]
+image::VLS-2008_pdf__page_45_of_90_4.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]

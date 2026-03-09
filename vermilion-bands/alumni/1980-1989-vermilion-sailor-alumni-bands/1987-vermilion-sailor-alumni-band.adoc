@@ -7,7 +7,7 @@ title: 1987 Vermilion Sailor Alumni Band
 
 === 1987 Vermilion Sailor Alumni Band
 
-image::/testsite/images/alumnigeneric.jpeg[,role="text-center"]
+image::alumnigeneric.jpeg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 

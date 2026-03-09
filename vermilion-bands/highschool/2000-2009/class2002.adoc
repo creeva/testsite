@@ -22,15 +22,15 @@ Head Majorette: Ashley Clark
 
 * link:https://www.youtube.com/watch?v=pZ3PK7Ww6nk&list=PLqposBlPPQd-7-V-m92kl1Hl3_YN1PqZF&pp=gAQBiAQB[2001-2002 Vermilion Sailor Marching Band]
 
-image::/testsite/images/2002-maj.jpg[,role="text-center"]
+image::2002-maj.jpg[,role="text-center"]
 
-image::/testsite/images/2002-writeup.jpg[,role="text-center"]
+image::2002-writeup.jpg[,role="text-center"]
 
 _This year, was a time no one will ever forget. September 11th, 2001 brought students, friends, and families close together. With the help of the marching band, the town kept the flags flying and their hearts in tune._
 
 _To start off the year with a fresh beginning, the Sailor Marching Band kept their spirits high in the heat of practicing their drills during the summer camp. Late in July, started the training for new marchers. The Freshmen caught on quickly with their success and participation, brought a great last season for the senior class to remember. Keeping the crowds on their feet during the games, the Marching Band also, participated in festivals and parades such as the Christmas Parade, Woolybear Festival, and the Fish Festival._
 
-image::/testsite/images/2002-maj-writeup.jpg[,role="text-center"]
+image::2002-maj-writeup.jpg[,role="text-center"]
 
 _Football fields, band festivals, and competition sites were made much more interesting and colorful by the performances of the VHS majorettes and flags. Numerous festivals, and the Cleveland Chrismas parade, and the annual Wooybear festival kept both groups busy during the fall._
 

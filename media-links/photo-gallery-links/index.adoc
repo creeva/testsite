@@ -8,7 +8,7 @@ title: Photo Galleries
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/Class-of-1980-Band-Photo_4929917390_o.jpg[,600"]
+image::Class-of-1980-Band-Photo_4929917390_o.jpg[,600"]
 
 {empty} +
 
@@ -17,7 +17,7 @@ The links below are all hosted on Google Photos which helps with the thousands o
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1971-1972.jpg[,600]
+image::1971-1972.jpg[,600]
 
 {empty} +
 
@@ -106,7 +106,7 @@ image::/testsite/images/1971-1972.jpg[,600]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/21768228_1774917999186994_7930990405576023305_n.jpg[,600]
+image::21768228_1774917999186994_7930990405576023305_n.jpg[,600]
 
 {empty} +
 
@@ -137,7 +137,7 @@ image::/testsite/images/21768228_1774917999186994_7930990405576023305_n.jpg[,600
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1973-Majorette-Squad.jpg[,600]
+image::1973-Majorette-Squad.jpg[,600]
 
 {empty} +
 
@@ -255,7 +255,7 @@ image::/testsite/images/1973-Majorette-Squad.jpg[,600]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/img834.jpg[,600]
+image::img834.jpg[,600]
 
 {empty} +
 
@@ -290,7 +290,7 @@ image::/testsite/images/img834.jpg[,600]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[,600]
+image::1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[,600]
 
 {empty} +
 
@@ -309,4 +309,4 @@ image::/testsite/images/1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[,
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/VLS-2010_pdf__page_44_of_97_14.jpg[,600"]
+image::VLS-2010_pdf__page_44_of_97_14.jpg[,600"]

@@ -7,7 +7,7 @@ title: Marching Into The Stadium (1928-1955)
 
 {empty} +
 
-image::/testsite/images/Schools_C.jpeg[,role="text-center"]
+image::Schools_C.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -17,7 +17,7 @@ Subsequent additions and investments in Vermilion education were primarily direc
 
 {empty} +
 
-image::/testsite/images/1955-James-Hoffman.jpg[,role="text-center"]
+image::1955-James-Hoffman.jpg[,role="text-center"]
 
 {empty} +
 
@@ -27,7 +27,7 @@ link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman
 
 {empty} +
 
-image::/testsite/images/1939band.jpg[,role="text-center"]
+image::1939band.jpg[,role="text-center"]
 
 {empty} +
 
@@ -35,7 +35,7 @@ The existence of the Erie County Band creates a certain level of ambiguity in ho
 
 {empty} +
 
-image::/testsite/images/1935orch.jpg[,role="text-center"]
+image::1935orch.jpg[,role="text-center"]
 
 {empty} +
 
@@ -43,7 +43,7 @@ It wasn’t until the link:https://photos.app.goo.gl/gL5hmNkNVoTZBDPE7[1935 year
 
 {empty} +
 
-image::/testsite/images/1935band.jpg[,role="text-center"]
+image::1935band.jpg[,role="text-center"]
 
 {empty} +
 
@@ -51,7 +51,7 @@ While not directly related to the band program, but of significance in school hi
 
 {empty} +
 
-image::/testsite/images/1940band.jpg[,role="text-center"]
+image::1940band.jpg[,role="text-center"]
 
 {empty} +
 
@@ -59,7 +59,7 @@ A notable aspect regarding the link:/testsite/vermilion-bands/highschool/1940-19
 
 {empty} +
 
-image::/testsite/images/1942memorial.jpeg[,role="text-center"]
+image::1942memorial.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -132,7 +132,7 @@ Your banner ever fly on high._
 
 {empty} +
 
-image::/testsite/images/1951bandmaj.jpg[,role="text-center"]
+image::1951bandmaj.jpg[,role="text-center"]
 
 {empty} +
 
@@ -140,7 +140,7 @@ In link:/testsite/vermilion-bands/highschool/1950-1959/1950-1951-vermilion-sailo
 
 {empty} +
 
-image::/testsite/images/1953band.jpg[,role="text-center"]
+image::1953band.jpg[,role="text-center"]
 
 {empty} +
 
@@ -150,7 +150,7 @@ With the addition of the majorette squad to the band, on September 12, 1952, the
 
 {empty} +
 
-image::/testsite/images/vhs1963.jpg[,role="text-center"]
+image::vhs1963.jpg[,role="text-center"]
 
 {empty} +
 
@@ -160,7 +160,7 @@ The absence of a designated band room in the newly constructed high school posed
 
 {empty} +
 
-image::/testsite/images/1953-Majorettes.jpg[,role="text-center"]
+image::1953-Majorettes.jpg[,role="text-center"]
 
 {empty} +
 
@@ -168,7 +168,7 @@ A new annual tradition started in 1952 at Vermilion High School – Homecoming. 
 
 {empty} +
 
-image::/testsite/images/1954maj.jpg[,role="text-center"]
+image::1954maj.jpg[,role="text-center"]
 
 {empty} +
 
@@ -201,7 +201,7 @@ _Editor notes:_
 
 {empty} +
 
-image::/testsite/images/image-2.jpg[,role="text-center"]
+image::image-2.jpg[,role="text-center"]
 
 {empty} +
 

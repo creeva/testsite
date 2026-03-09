@@ -8,7 +8,7 @@ title: Join/Contact Us
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/2014alumni.jpg[2014 Alumni, 600]
+image::2014alumni.jpg[2014 Alumni, 600]
 
 {empty} +
 
@@ -25,7 +25,7 @@ To join the Vermilion Sailor Alumni Band and to alerted of events, please fill o
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1956-1957-Vermilion-Sailor-Marching-Band-Group-Picture-Vermilion-OH.jpg[1956-1957 Sailor Marching Band,600]
+image::1956-1957-Vermilion-Sailor-Marching-Band-Group-Picture-Vermilion-OH.jpg[1956-1957 Sailor Marching Band,600]
 
 {empty} +
 
@@ -34,4 +34,4 @@ For other inquiries, we can be contacted via email link:mailto:vhsalumniband@gma
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1991-Majorettes.jpg[1991 Majorettes, 600]
+image::1991-Majorettes.jpg[1991 Majorettes, 600]

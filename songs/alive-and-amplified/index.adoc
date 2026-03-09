@@ -18,4 +18,4 @@ link:/testsite/songs/[Vermilion Sailor Band Songs]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/VLS-2012_pdf__page_42_of_74_2.jpg[,600]
+image::VLS-2012_pdf__page_42_of_74_2.jpg[,600]

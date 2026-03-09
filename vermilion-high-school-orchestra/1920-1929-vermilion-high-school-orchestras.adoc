@@ -7,7 +7,7 @@ title: 1920-1929 Vermilion High School Orchestras
 
 === 1920-1929 Vermilion High School Orchestras
 
-image::/testsite/images/1925orchestra.jpg[,role="text-center"]
+image::1925orchestra.jpg[,role="text-center"]
 
 [.text-center]
 1925 Vermilion High School Orchestra
@@ -18,9 +18,9 @@ Image Gallery
 
 * link:https://photos.app.goo.gl/K81ChWrnNNdVk6y49[1925 Vermilion High School Yearbook]
 
-image::/testsite/images/1925orchwrite.jpg[,role="text-center"]
+image::1925orchwrite.jpg[,role="text-center"]
 
-image::/testsite/images/unknownphoto.jpeg[,role="text-center"]
+image::unknownphoto.jpeg[,role="text-center"]
 
 [.text-center]
 1926 Vermilion High School Orchestra
@@ -31,9 +31,9 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/1mJLAcpJ3qDnbjDa8[1926 Vermilion High School Yearbook]
 
-image::/testsite/images/1926orchwriteup.jpg[,role="text-center"]
+image::1926orchwriteup.jpg[,role="text-center"]
 
-image::/testsite/images/1927orchestra.jpg[,role="text-center"]
+image::1927orchestra.jpg[,role="text-center"]
 
 [.text-center]
 1927 Vermilion High School Orchestra
@@ -44,9 +44,9 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/DfC39JymWHWCxPuR9[1927 Vermilion High School Yearbook]
 
-image::/testsite/images/1927orchwrite.jpg[,role="text-center"]
+image::1927orchwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1928orchestra.jpg[,role="text-center"]
+image::1928orchestra.jpg[,role="text-center"]
 
 [.text-center]
 1928 Vermilion High School Orchestra
@@ -57,9 +57,9 @@ Image Galleries:
 
 * link:https://photos.app.goo.gl/ETFRKvikTW6Z6SwQ6[1928 Vermilion High School Yearbook]
 
-image::/testsite/images/1928orchwrite.jpg[,role="text-center"]
+image::1928orchwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1929orch.jpg[,role="text-center"]
+image::1929orch.jpg[,role="text-center"]
 
 [.text-center]
 1929 Miss Hutton’s Orchestra
@@ -70,9 +70,9 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/sHrgrNBXPBDoSaje8[1929 Vermilion High School Yearbook]
 
-image::/testsite/images/1929orchwrite.jpg[,role="text-center"]
+image::1929orchwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1929classorch.jpg[,role="text-center"]
+image::1929classorch.jpg[,role="text-center"]
 
 [.text-center]
 1929 Vermilion High School Classical Orchestra
@@ -83,6 +83,6 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/sHrgrNBXPBDoSaje8[1929 Vermilion High School Yearbook]
 
-image::/testsite/images/1929classorchwrite.jpg[,role="text-center"]
+image::1929classorchwrite.jpg[,role="text-center"]
 
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-high-school-orchestra/[Vermilion High School Orchestras]

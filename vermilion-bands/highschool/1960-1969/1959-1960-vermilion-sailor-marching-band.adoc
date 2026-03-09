@@ -7,7 +7,7 @@ title: 1959-1960 Vermilion Sailor Marching Band
 
 === 1959-1960 Vermilion Sailor Marching Band
 
-image::/testsite/images/1960-2.jpg[,role="text-center"]
+image::1960-2.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
 
@@ -20,9 +20,9 @@ Members: Creel, Bushong, Toth, Hilyard, Thompson, Gorbach, Summers, Washburn, Ha
 * link:https://photos.app.goo.gl/wNNMArHEGXefYzp79[1959-1960 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/Dy6nwYBsUpDoVbi18[1960 Vermilion High School Yearbook]
 
-image::/testsite/images/1960marwrite.jpg[,role="text-center"]
+image::1960marwrite.jpg[,role="text-center"]
 
-image::/testsite/images/1960-30.jpg[,role="text-center"]
+image::1960-30.jpg[,role="text-center"]
 
 Members: Janice Barthel, Carole Hailey, Mary Ann Thompson
 

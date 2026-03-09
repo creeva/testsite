@@ -7,7 +7,7 @@ title: 1970-1979 Vermilion High School Jazz Bands
 
 === 1970-1979 Vermilion High School Jazz Bands
 
-image::/testsite/images/1979jazz2.jpg[,role="text-center"]
+image::1979jazz2.jpg[,role="text-center"]
 
 [.text-center]
 1979 Vermilion High School Jazz Band

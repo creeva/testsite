@@ -7,7 +7,7 @@ title: 2017 Vermilion Sailor Alumni Band
 
 === 2017 Vermilion Sailor Alumni Band
 
-image::/testsite/images/22008439_1574972682525903_2229607400039259286_n.jpg[,role="text-center"]
+image::22008439_1574972682525903_2229607400039259286_n.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 

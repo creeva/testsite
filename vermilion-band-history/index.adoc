@@ -7,7 +7,7 @@ title: Band History
 
 {empty} +
 
-image::/testsite/images/1956-Marching-Band.jpg[,role="text-center"]
+image::1956-Marching-Band.jpg[,role="text-center"]
 
 {empty} +
 
@@ -41,7 +41,7 @@ _Editor notes:_
 
 {empty} +
 
-image::/testsite/images/image-2.jpg[,role="text-center"]
+image::image-2.jpg[,role="text-center"]
 
 {empty} +
 

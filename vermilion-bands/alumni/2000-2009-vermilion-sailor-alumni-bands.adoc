@@ -7,7 +7,7 @@ title: 2000-2009 Vermilion Sailor Alumni Bands
 
 === 2000-2009 Vermilion Sailor Alumni Bands
 
-image::/testsite/images/alumnigeneric.jpeg[,role="text-center"]
+image::alumnigeneric.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2000-vermilion-sailor-alumni-band-2/[2000 Vermilion Sailor Alumni Band]
@@ -18,17 +18,17 @@ link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/20
 [.text-center]
 link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2002-vermilion-sailor-alumni-band/[2002 Vermilion Sailor Alumni Band]
 
-image::/testsite/images/DSCF0073_4012673203_o.jpg[,role="text-center"]
+image::DSCF0073_4012673203_o.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2003-vermilion-sailor-alumni-band/[2003 Vermilion Sailor Alumni Band]
 
-image::/testsite/images/sideline-alumni_4013465514_o.jpg[,role="text-center"]
+image::sideline-alumni_4013465514_o.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2004-vermilion-sailor-alumni-band/[2004 Vermilion Sailor Alumni Band]
 
-image::/testsite/images/08-2005-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]
+image::08-2005-Vermilion-Sailor-Alumni-Band.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2005-vermilion-sailor-alumni-band/[2005 Vermilion Sailor Alumni Band]
@@ -42,7 +42,7 @@ link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/20
 [.text-center]
 link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2008-vermilion-sailor-alumni-band/[2008 Vermilion Sailor Alumni Band]
 
-image::/testsite/images/IMG_0540_4013364668_o.jpg[,role="text-center"]
+image::IMG_0540_4013364668_o.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/2009-vermilion-sailor-alumni-band/[2009 Vermilion Sailor Alumni Band]

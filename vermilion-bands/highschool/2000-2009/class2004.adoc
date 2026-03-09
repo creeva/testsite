@@ -21,9 +21,9 @@ Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Jose
 .2003-2004 Vermilion Sailor Marching Band - Highlight Video
 video::ByPybkLI00M[youtube, width=640, height=360, align=center]
 
-image::/testsite/images/VLS-2004_pdf__page_30_of_95_2.jpg[,role="text-center"]
+image::VLS-2004_pdf__page_30_of_95_2.jpg[,role="text-center"]
 
-image::/testsite/images/VLS-2004_pdf__page_30_of_95_4.jpg[,role="text-center"]
+image::VLS-2004_pdf__page_30_of_95_4.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]

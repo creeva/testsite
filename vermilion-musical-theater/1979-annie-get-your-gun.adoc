@@ -7,7 +7,7 @@ title: 1979 -- Annie Get Your Gun
 
 === Annie Get Your Gun
 
-image::/testsite/images/1979anniegun.jpeg[,role="text-center"]
+image::1979anniegun.jpeg[,role="text-center"]
 
 “Annie Get Your Gun” is a classic American musical with music and lyrics by Irving Berlin and a book by Herbert Fields and Dorothy Fields. Loosely based on the life of sharpshooter Annie Oakley, the musical tells the story of Annie Oakley’s rise to fame in Buffalo Bill’s Wild West Show and her romantic relationship with fellow sharpshooter Frank Butler. Here’s a summary of the plot:
 
@@ -37,67 +37,67 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/knTWZuF2ZbdiK9TW8[1979 Vermilion High School -- Annie Get Your Gun]
 
-image::/testsite/images/1979musical2.jpeg[,role="text-center"]
+image::1979musical2.jpeg[,role="text-center"]
 
-image::/testsite/images/1979musical.jpeg[,role="text-center"]
+image::1979musical.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga1.jpeg[,role="text-center"]
+image::1979agga1.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga2.jpeg[,role="text-center"]
+image::1979agga2.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga3.jpeg[,role="text-center"]
+image::1979agga3.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga4.jpeg[,role="text-center"]
+image::1979agga4.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga5.jpeg[,role="text-center"]
+image::1979agga5.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga6.jpeg[,role="text-center"]
+image::1979agga6.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga7.jpeg[,role="text-center"]
+image::1979agga7.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga8.jpeg[,role="text-center"]
+image::1979agga8.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga9.jpeg[,role="text-center"]
+image::1979agga9.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga10.jpeg[,role="text-center"]
+image::1979agga10.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga11.jpeg[,role="text-center"]
+image::1979agga11.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga12.jpeg[,role="text-center"]
+image::1979agga12.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga13.jpeg[,role="text-center"]
+image::1979agga13.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga14.jpeg[,role="text-center"]
+image::1979agga14.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga15.jpeg[,role="text-center"]
+image::1979agga15.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga16.jpeg[,role="text-center"]
+image::1979agga16.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agga17.jpeg[,role="text-center"]
+image::1979agga17.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg1.jpeg[,role="text-center"]
+image::1979agg1.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg2.jpeg[,role="text-center"]
+image::1979agg2.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg3.jpeg[,role="text-center"]
+image::1979agg3.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg4.jpeg[,role="text-center"]
+image::1979agg4.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg5.jpeg[,role="text-center"]
+image::1979agg5.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg6.jpeg[,role="text-center"]
+image::1979agg6.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg7.jpeg[,role="text-center"]
+image::1979agg7.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg8.jpeg[,role="text-center"]
+image::1979agg8.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg9.jpeg[,role="text-center"]
+image::1979agg9.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg10.jpeg[,role="text-center"]
+image::1979agg10.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg11.jpeg[,role="text-center"]
+image::1979agg11.jpeg[,role="text-center"]
 
-image::/testsite/images/1979agg12.jpeg[,role="text-center"]
+image::1979agg12.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

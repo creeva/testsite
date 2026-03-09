@@ -7,7 +7,7 @@ title: Vermilion High School Orchestra
 
 === Vermilion High School Orchestras
 
-image::/testsite/images/1928orchestra.jpg[,role="text-center"]
+image::1928orchestra.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-orchestra/1920-1929-vermilion-high-school-orchestras/[1920-1929 Vermilion High School Orchestras]
@@ -15,7 +15,7 @@ link:/testsite/vermilion-high-school-orchestra/1920-1929-vermilion-high-school-o
 [.text-center]
 link:/testsite/vermilion-high-school-orchestra/1930-1939-vermilion-high-school-orchestras/[1930-1939 Vermilion High School Orchestras]
 
-image::/testsite/images/1940orch.jpg[,role="text-center"]
+image::1940orch.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-high-school-orchestra/1940-1949-vermilion-high-school-orchestras/[1940-1949 Vermilion High School Orchestra]

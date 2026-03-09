@@ -22,7 +22,7 @@ link:/testsite/vermilion-bands/highschool/2000-2009/class2003/[2002-2003 Vermili
 [.text-center]
 link:/testsite/vermilion-bands/highschool/2000-2009/class2004/[2003-2004 Vermilion Sailor Marching Band]
 
-image::/testsite/images/VLS-2005_pdf__page_33_of_97_6-1.jpg[,role="text-center"]
+image::VLS-2005_pdf__page_33_of_97_6-1.jpg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-bands/highschool/2000-2009/class2005/[2004-2005 Vermilion Sailor Marching Band]

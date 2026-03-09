@@ -7,7 +7,7 @@ title: 1996 -- Crazy For You
 
 === Crazy For You
 
-image::/testsite/images/1996-Crazyforyou.jpeg[,role="text-center"]
+image::1996-Crazyforyou.jpeg[,role="text-center"]
 
 “Crazy for You” is a musical with music and lyrics by George Gershwin, lyrics by Ira Gershwin, and a book by Ken Ludwig. The musical is a lighthearted romantic comedy set in the 1930s and features many classic Gershwin songs. Here’s a summary of the plot:
 
@@ -29,9 +29,9 @@ In the end, Bobby’s show is a smashing success, saving the theater and ensurin
 
 “Crazy for You” is known for its lively dance numbers and classic Gershwin songs, including “I Got Rhythm,” “Embraceable You,” and “Nice Work If You Can Get It.” The musical is a joyful celebration of love, music, and the pursuit of one’s dreams.
 
-image::/testsite/images/1996musical.jpeg[,role="text-center"]
+image::1996musical.jpeg[,role="text-center"]
 
-image::/testsite/images/1996musical2.jpeg[,role="text-center"]
+image::1996musical2.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

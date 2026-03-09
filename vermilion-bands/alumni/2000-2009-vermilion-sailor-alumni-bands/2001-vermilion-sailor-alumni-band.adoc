@@ -7,7 +7,7 @@ title: 2001 Vermilion Sailor Alumni Band
 
 === 2001 Vermilion Sailor Alumni Band
 
-image::/testsite/images/DSCF0160_4012691105_o.jpg[,role="text-center"]
+image::DSCF0160_4012691105_o.jpg[,role="text-center"]
 
 Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
 

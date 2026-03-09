@@ -7,7 +7,7 @@ title: 1983 -- Brigadoon
 
 === Brigadoon -- March 18-19, 25-26, 1983
 
-image::/testsite/images/brigadoon.jpeg[,role="text-center"]
+image::brigadoon.jpeg[,role="text-center"]
 
 “Brigadoon” is a classic American musical with music by Frederick Loewe, lyrics and book by Alan Jay Lerner. The story is set in the Scottish Highlands and revolves around a mysterious village that appears for only one day every hundred years. Here’s a summary of the plot:
 
@@ -37,11 +37,11 @@ Image Gallery:
 
 * link:https://photos.app.goo.gl/58uQFpMPQySQBUiw8[1983 Vermilion High School -- Brigadoon]
 
-image::/testsite/images/1983musical.jpeg[,role="text-center"]
+image::1983musical.jpeg[,role="text-center"]
 
-image::/testsite/images/1983musical2.jpeg[,role="text-center"]
+image::1983musical2.jpeg[,role="text-center"]
 
-image::/testsite/images/1983brigadoon.jpeg[,role="text-center"]
+image::1983brigadoon.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

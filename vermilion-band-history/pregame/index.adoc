@@ -7,7 +7,7 @@ title: Pregame (1874-1929)
 
 {empty} +
 
-image::/testsite/images/1920-State-Street-School.jpeg[,role="text-center"]
+image::1920-State-Street-School.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -15,7 +15,7 @@ Vermilion’s educational landscape experienced a significant shift during the 1
 
 {empty} +
 
-image::/testsite/images/vhstuba.jpeg[,role="text-center"]
+image::vhstuba.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -25,7 +25,7 @@ More information on the history of Vermilion Schools is covered by link:https://
 
 {empty} +
 
-image::/testsite/images/avermiliongarvv.jpeg[,role="text-center"]
+image::avermiliongarvv.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -41,7 +41,7 @@ On Wednesday, August 30, 1911, the twenty-ninth annual reunion and tournament of
 
 {empty} +
 
-image::/testsite/images/The_Sandusky_Star_Journal_Sat__Feb_12__1921_.jpg[,role="text-center"]
+image::The_Sandusky_Star_Journal_Sat__Feb_12__1921_.jpg[,role="text-center"]
 
 {empty} +
 
@@ -49,7 +49,7 @@ Mr. Ackley took charge of the Vermilion Band in February 1921. The goal was to c
 
 {empty} +
 
-image::/testsite/images/1924-03-6.jpeg[,role="text-center"]
+image::1924-03-6.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -59,7 +59,7 @@ Over the years, many Vermilion students participated in the Erie County Band. Wh
 
 {empty} +
 
-image::/testsite/images/1926alumnisong.jpeg[,role="text-center"]
+image::1926alumnisong.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -96,7 +96,7 @@ Alumni, the pride of our school._
 
 {empty} +
 
-image::/testsite/images/1925orchestra.jpg[,role="text-center"]
+image::1925orchestra.jpg[,role="text-center"]
 
 {empty} +
 
@@ -104,7 +104,7 @@ The link:/testsite/vermilion-high-school-orchestra/1920-1929-vermilion-high-scho
 
 {empty} +
 
-image::/testsite/images/1929orch.jpg[,role="text-center"]
+image::1929orch.jpg[,role="text-center"]
 
 {empty} +
 
@@ -112,7 +112,7 @@ The link:/testsite/vermilion-high-school-orchestra/1920-1929-vermilion-high-scho
 
 {empty} +
 
-image::/testsite/images/1929classorch.jpg[,role="text-center"]
+image::1929classorch.jpg[,role="text-center"]
 
 {empty} +
 
@@ -145,7 +145,7 @@ _Editor notes:_
 
 {empty} +
 
-image::/testsite/images/image-2.jpg[,role="text-center"]
+image::image-2.jpg[,role="text-center"]
 
 {empty} +
 

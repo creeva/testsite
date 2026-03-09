@@ -7,7 +7,7 @@ title: 1998 -- Fiddler on the Roof
 
 === Fiddler on the Roof
 
-image::/testsite/images/1998-fiddler.jpeg[,role="text-center"]
+image::1998-fiddler.jpeg[,role="text-center"]
 
 + “Fiddler on the Roof” is a classic American musical with music by Jerry Bock, lyrics by Sheldon Harnick, and a book by Joseph Stein. It’s based on the stories of Sholem Aleichem and is set in the early 20th century in the Russian village of Anatevka. The musical tells the story of Tevye, a Jewish milkman, and his family as they grapple with tradition, change, and the challenges of a rapidly changing world. Here’s a summary of the plot:
 
@@ -33,9 +33,9 @@ As they prepare to depart, Tevye reflects on the changes that have shaken their 
 
 “Fiddler on the Roof” is celebrated for its iconic songs, including “Tradition,” “Matchmaker, Matchmaker,” “Sunrise, Sunset,” and “If I Were a Rich Man.” It explores themes of family, tradition, love, and the resilience of the human spirit in the face of profound change and adversity.
 
-image::/testsite/images/1998musical.jpeg[,role="text-center"]
+image::1998musical.jpeg[,role="text-center"]
 
-image::/testsite/images/1998musical2.jpeg[,role="text-center"]
+image::1998musical2.jpeg[,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]

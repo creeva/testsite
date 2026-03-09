@@ -8,7 +8,7 @@ title: Media Links
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/VLS-2006_pdf__page_43_of_99_4.jpg[,600]
+image::VLS-2006_pdf__page_43_of_99_4.jpg[,600]
 
 {empty} +
 
@@ -22,4 +22,4 @@ The following media links are available:
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/22008461_1575824059107432_3670404565882790069_n.jpg[,600]
+image::22008461_1575824059107432_3670404565882790069_n.jpg[,600]

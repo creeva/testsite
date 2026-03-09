@@ -22,11 +22,11 @@ Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Jose
 .2000-2001 Vermilion Sailor Marching Band - Highlight Video
 video::nfOhOymGUGE[youtube, width=640, height=360, align=center]
 
-image::/testsite/images/2001-major.jpg[,role="text-center"]
+image::2001-major.jpg[,role="text-center"]
 
-image::/testsite/images/2001-fc.jpg[,role="text-center"]
+image::2001-fc.jpg[,role="text-center"]
 
-image::/testsite/images/2001-writeup.jpg[,role="text-center"]
+image::2001-writeup.jpg[,role="text-center"]
 
 The
 

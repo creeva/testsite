@@ -7,7 +7,7 @@ title: A Kaleidoscope Drill (2007 - 2016)
 
 
 
-image::/testsite/images/caldwell.jpg[,role="text-center"]
+image::caldwell.jpg[,role="text-center"]
 
 2016 - Caldwell arrives and Leaves
 
@@ -50,7 +50,7 @@ _Editor notes:_
 
 {empty} +
 
-image::/testsite/images/image-2.jpg[,role="text-center"]
+image::image-2.jpg[,role="text-center"]
 
 {empty} +
 

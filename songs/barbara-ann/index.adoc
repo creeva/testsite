@@ -48,4 +48,4 @@ link:/testsite/songs/[Vermilion Sailor Band Songs]
 {empty} +
 
 [.text-center.rounded]
-image::/testsite/images/1986-Sailor-Marching-Band.jpg[,600]
+image::1986-Sailor-Marching-Band.jpg[,600]

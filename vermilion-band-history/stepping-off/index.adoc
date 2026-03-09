@@ -9,7 +9,7 @@ The link:/testsite/vermilion-bands/highschool/1980-1989/class1980/[class of 1980
 
 {empty} +
 
-image::/testsite/images/1993-1994vhsmb058.jpg[,role="text-center"]
+image::1993-1994vhsmb058.jpg[,role="text-center"]
 
 {empty} +
 
@@ -17,7 +17,7 @@ At this point the Vermilion Sailor Marching band performances or routines were b
 
 {empty} +
 
-image::/testsite/images/1986-candid.png[,role="text-center"]
+image::1986-candid.png[,role="text-center"]
 
 {empty} +
 
@@ -49,7 +49,7 @@ While it has happened for away band festivals such as the Anthony Wayne festival
 
 {empty} +
 
-image::/testsite/images/1980Oberlin.png[,role="text-center"]
+image::1980Oberlin.png[,role="text-center"]
 
 {empty} +
 
@@ -167,7 +167,7 @@ After the band waits anxiously for the final time of the game to run out, upon a
 
 {empty} +
 
-image::/testsite/images/1995parade.jpeg[,role="text-center"]
+image::1995parade.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -177,7 +177,7 @@ The Vermilion Sailor Marching Band has performed in hundreds of parades of the y
 
 {empty} +
 
-image::/testsite/images/1987group.jpg[,role="text-center"]
+image::1987group.jpg[,role="text-center"]
 
 {empty} +
 
@@ -185,7 +185,7 @@ Documentation is scarce on when the practice started or when it ended but as par
 
 {empty} +
 
-image::/testsite/images/3-23-1987.jpeg[,role="text-center"]
+image::3-23-1987.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -193,7 +193,7 @@ The 1980 school year started a new painful tradition for the band directors, tra
 
 {empty} +
 
-image::/testsite/images/1980sleeping.jpg[,role="text-center"]
+image::1980sleeping.jpg[,role="text-center"]
 
 {empty} +
 
@@ -201,7 +201,7 @@ The final big thing for the link:/testsite/vermilion-bands/highschool/1980-1989/
 
 {empty} +
 
-image::/testsite/images/1981-flags.jpg[,role="text-center"]
+image::1981-flags.jpg[,role="text-center"]
 
 {empty} +
 
@@ -209,7 +209,7 @@ One of the first large changes that arrived in the band for the link:/testsite/v
 
 {empty} +
 
-image::/testsite/images/1981Olympics.jpg[,role="text-center"]
+image::1981Olympics.jpg[,role="text-center"]
 
 {empty} +
 
@@ -221,7 +221,7 @@ In the end, two buses loaded with band members returned to Vermilion, albeit two
 
 {empty} +
 
-image::/testsite/images/banddp.jpeg[,role="text-center"]
+image::banddp.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -229,7 +229,7 @@ One new method of fundraising that Mr. Henry used was corporate sponsorship. The
 
 {empty} +
 
-image::/testsite/images/2006baptism.jpeg[,role="text-center"]
+image::2006baptism.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -243,7 +243,7 @@ Things mature and grow over time, and with maturity, there is always an attempt 
 
 {empty} +
 
-image::/testsite/images/1982-Sailor-Marching-Band.jpg[,role="text-center"]
+image::1982-Sailor-Marching-Band.jpg[,role="text-center"]
 
 {empty} +
 
@@ -251,7 +251,7 @@ The marching band directors of the Lakeland Conference voted to make changes to 
 
 {empty} +
 
-image::/testsite/images/1983tuba.jpg[,role="text-center"]
+image::1983tuba.jpg[,role="text-center"]
 
 {empty} +
 
@@ -263,7 +263,7 @@ This change would last for years and still makes occasional appearances in the a
 
 {empty} +
 
-image::/testsite/images/1983marsen.jpeg[,role="text-center"]
+image::1983marsen.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -271,7 +271,7 @@ Additionally, for the link:/testsite/vermilion-bands/highschool/1980-1989/class1
 
 {empty} +
 
-image::/testsite/images/1984oly.png[,role="text-center"]
+image::1984oly.png[,role="text-center"]
 
 {empty} +
 
@@ -287,7 +287,7 @@ _The feeling I experienced that Sunday (May 20, 1984) will undoubtedly live fore
 
 {empty} +
 
-image::/testsite/images/1985tommy.jpeg[,role="text-center"]
+image::1985tommy.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -295,7 +295,7 @@ For many marchers over the last forty years, Thomas “Tommy” Perkins is a pic
 
 {empty} +
 
-image::/testsite/images/1985blacktube.png[,role="text-center"]
+image::1985blacktube.png[,role="text-center"]
 
 {empty} +
 
@@ -309,7 +309,7 @@ The answer likely is somewhere in the middle. A logical guess is that it was con
 
 {empty} +
 
-image::/testsite/images/2001-Vermilion-Sailor-Alumni-Band-024.jpg[,role="text-center"]
+image::2001-Vermilion-Sailor-Alumni-Band-024.jpg[,role="text-center"]
 
 {empty} +
 
@@ -323,7 +323,7 @@ video::1IEAAbwKmZ8[youtube, width=640, height=360, align=center]
 
 {empty} +
 
-image::/testsite/images/5-20-1985.jpeg[,role="text-center"]
+image::5-20-1985.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -331,7 +331,7 @@ By the mid-1980s the Vermilion Sailor Marching Band wasn’t the only local band
 
 {empty} +
 
-image::/testsite/images/1986backward.jpg[,role="text-center"]
+image::1986backward.jpg[,role="text-center"]
 
 {empty} +
 
@@ -339,7 +339,7 @@ Sophomore of the link:/testsite/vermilion-bands/highschool/1980-1989/class1986/[
 
 {empty} +
 
-image::/testsite/images/1988-sailor-marching-band.jpg[,role="text-center"]
+image::1988-sailor-marching-band.jpg[,role="text-center"]
 
 {empty} +
 
@@ -355,7 +355,7 @@ The class of 1988 added a new annual event in November 1987 with its appearance 
 
 {empty} +
 
-image::/testsite/images/1989jazz.jpg[,role="text-center"]
+image::1989jazz.jpg[,role="text-center"]
 
 {empty} +
 
@@ -363,7 +363,7 @@ The first recorded date for the combined Soundsation and link:/testsite/vermilio
 
 {empty} +
 
-image::/testsite/images/1990parade.png[,role="text-center"]
+image::1990parade.png[,role="text-center"]
 
 {empty} +
 
@@ -371,7 +371,7 @@ For the link:/testsite/vermilion-bands/highschool/1990-1999/class1990/[1990 scho
 
 {empty} +
 
-image::/testsite/images/1991seniors2.png[,role="text-center"]
+image::1991seniors2.png[,role="text-center"]
 
 {empty} +
 
@@ -379,7 +379,7 @@ In 1991 the band added a fundraiser, the Band Booster Discount Card. The discoun
 
 {empty} +
 
-image::/testsite/images/1992-seniors.jpg[,role="text-center"]
+image::1992-seniors.jpg[,role="text-center"]
 
 {empty} +
 
@@ -389,7 +389,7 @@ For students who participated in either the 1991 and 1992 or the 1992 and 1993 s
 
 {empty} +
 
-image::/testsite/images/1995seniorcheer.jpeg[,role="text-center"]
+image::1995seniorcheer.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -423,7 +423,7 @@ Starting Band: _Yes, yes, yes we do -- we've got spirit how bout you_  + Replyin
 
 {empty} +
 
-image::/testsite/images/1992Frankenstein.jpg[,role="text-center"]
+image::1992Frankenstein.jpg[,role="text-center"]
 
 {empty} +
 
@@ -439,7 +439,7 @@ Caller: _Let me see you do the Frankenstein_  + Group: _What did you say_  + Cal
 
 {empty} +
 
-image::/testsite/images/2011alumnidawn.jpg[,role="text-center"]
+image::2011alumnidawn.jpg[,role="text-center"]
 
 {empty} +
 
@@ -447,7 +447,7 @@ Dawn Clark, class of 1981 and daughter to Mr. Henry, was brought in for the link
 
 {empty} +
 
-image::/testsite/images/1994brentpete.jpeg[,role="text-center"]
+image::1994brentpete.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -471,7 +471,7 @@ In 1993, the City of Vermilion established a sister city relationship with Paimp
 
 {empty} +
 
-image::/testsite/images/1994soundsation.jpeg[,role="text-center"]
+image::1994soundsation.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -479,7 +479,7 @@ Something new arrived for the Soundsations choral group in Vermilion in the 1994
 
 {empty} +
 
-image::/testsite/images/1993-1994sunset.jpeg[,role="text-center"]
+image::1993-1994sunset.jpeg[,role="text-center"]
 
 {empty} +
 
@@ -487,7 +487,7 @@ In the winter of 1993, Mr Henry created another musical group in the Vermilion i
 
 {empty} +
 
-image::/testsite/images/1993-1994vhsmb03.jpg[,role="text-center"]
+image::1993-1994vhsmb03.jpg[,role="text-center"]
 
 {empty} +
 
@@ -517,7 +517,7 @@ _Editor notes:_
 
 {empty} +
 
-image::/testsite/images/image-2.jpg[,role="text-center"]
+image::image-2.jpg[,role="text-center"]
 
 {empty} +
 
