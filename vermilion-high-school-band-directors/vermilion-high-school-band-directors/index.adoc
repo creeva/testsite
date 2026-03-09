@@ -15,17 +15,17 @@ link:/testsite/vermilion-high-school-band-directors/eugene-ackley/[Eugene Ackley
 image::/testsite/images/1925orchestra.jpg[,role="text-center"]
 
 [.text-center]
-Flossie Mae Andrews Lees 1924-1927
+link:/testsite/vermilion-high-school-band-directors/flossie-mae-andrews-lee/[Flossie Mae Andrews Lees 1924-1927]
 
 image::/testsite/images/1929orch.jpg[,role="text-center"]
 
 [.text-center]
-M. E. Hutton 1927-1929
+link:/testsite/vermilion-high-school-band-directors/m-e-hutton/[M. E. Hutton 1927-1929]
 
 image::/testsite/images/1929classorch.jpg[,role="text-center"]
 
 [.text-center]
-Clark Carmean 1928-1929
+link:/testsite/vermilion-high-school-band-directors/clark-carmean/[Clark Carmean 1928-1929]
 
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman 1928-1955]

@@ -6,6 +6,7 @@ title: Photo Galleries
 == Photo Gallery Links
 
 {empty} +
+
 [.text-center.rounded]
 image::/testsite/images/Class-of-1980-Band-Photo_4929917390_o.jpg[,600"]
 
