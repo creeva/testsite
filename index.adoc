@@ -3,20 +3,16 @@ layout: default
 title: Vermilion Bands
 ---
 
-{empty} +
-
 [.text-center]
-_Now Hear This! We are presenting the Vermilion Historic Marching Bands._
+*_Now Hear This! We are presenting the Vermilion Historic Marching Bands._*
 
 video::IGZOJ64LuWs[youtube, width=640, height=360, align="center"]
-
-{empty} +
 
 [.text-center]
 _What time is it?_ *Band Time!*
 
 [.text-center.rounded]
-image::/testsite/images/1994marmem.jpeg[,600,role="text-center"]
+image::/testsite/images/1990-1.jpg[,600,role="text-center"]
 
 [.text-center]
 link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
