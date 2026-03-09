@@ -25,6 +25,8 @@ link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt] 
 . March with the feeling of rhythm
 . Espirit de corp
 
+{empty} +
+
 Among the first changes he implemented was the band’s pre-game routine. The band began playing The Vermilion Fight Song during the pre-game and stood in double lines as the football team passed through the lines onto the field. Additionally, the band began the tradition of performing a different show for each home game. Though it was his first year, he planted the seeds that would later grow into the band’s unique identity.
 
 {empty} +
@@ -101,7 +103,7 @@ By the link:/testsite/vermilion-bands/highschool/1950-1959/class1958/[1958 schoo
 
 {empty} +
 
-image::/testsite/images/Cleveland_barons_old_ahl_200x200.png[,role="text-center"]
+image::/testsite/images/clevelandbarons.png[,role="text-center"]
 
 {empty} +
 
@@ -623,5 +625,4 @@ _I am committed to ensuring the accuracy of the band's history, and I welcome an
 
 {empty} +
 
-.YouTube video player
 video::sKFC6ffJb2k[youtube, width=640, height=360, align=center]
