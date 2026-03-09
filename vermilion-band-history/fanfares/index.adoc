@@ -572,7 +572,7 @@ will proclaim that we will win another game._
 
 {empty} +
 
-image::/testsite/images/1979seniors.png[,role="text-center"]
+image::/testsite/images/1979seniors.jpg[,role="text-center"]
 
 {empty} +
 
