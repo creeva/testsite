@@ -5,17 +5,11 @@ title: 1812 Overture
 
 == 1812 Overture
 
-{empty} +
-
 .1997 Vermilion Sailor Alumni Band - 1812 Overture - Vermilion Band Festival
 video::uIRTKX6ZIPM[youtube, width=640, height=360, align=center]
 
-{empty} +
-
 [.text-center]
 link:/testsite/songs/[Vermilion Sailor Band Songs]
-
-{empty} +
 
 [.text-center.rounded]
 image::/testsite/images/Sea-of-Faces.jpg[,600]

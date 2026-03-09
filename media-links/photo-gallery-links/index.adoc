@@ -5,25 +5,15 @@ title: Photo Galleries
 
 == Photo Gallery Links
 
-{empty} +
-
 [.text-center.rounded]
 image::/testsite/images/Class-of-1980-Band-Photo_4929917390_o.jpg[,600"]
 
-{empty} +
-
 The links below are all hosted on Google Photos which helps with the thousands of images from marching bands, yearbooks, and other relevant sources. The amount of images is unfortunately too much to reliably manage directly on the website. Some galleries have many images, others just one or two. This is due to what has just been given for our use. If you have images you would like to see hosted on the site, please reach out.
-
-{empty} +
 
 [.text-center.rounded]
 image::/testsite/images/1971-1972.jpg[,600]
 
-{empty} +
-
 *Vermilion Sailor Marching Bands:*
-
-{empty} +
 
 * link:https://photos.app.goo.gl/YAuMACWGNnBYWWPH8[1934-1935 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/bhPourNArBEpgxpP6[1936-1937 Vermilion Sailor Marching Band]
@@ -105,16 +95,10 @@ image::/testsite/images/1971-1972.jpg[,600]
 * link:https://photos.app.goo.gl/cyXciuMuQv89CrH57[2021-2022 Vermilion Sailor Marching Band]
 * link:https://photos.app.goo.gl/ftzFGu9EMUUKT973A[2022-2023 Vermilion Sailor Marching Band]
 
-{empty} +
-
 [.text-center.rounded]
 image::/testsite/images/21768228_1774917999186994_7930990405576023305_n.jpg[,600]
 
-{empty} +
-
 *Vermilion Sailor Alumni Bands:*
-
-{empty} +
 
 * link:https://photos.app.goo.gl/rnC3NRmFVkmvKx1TA[2001 Vermilion Sailor Alumni Band]
 * link:https://photos.app.goo.gl/uxqrHx7sNQTRcg6n7[2002 Vermilion Sailor Alumni Band]
@@ -138,16 +122,10 @@ image::/testsite/images/21768228_1774917999186994_7930990405576023305_n.jpg[,600
 * link:https://photos.app.goo.gl/ngdcZsTqS1tKY2ME8[2021 Vermilion Sailor Alumni Band]
 * link:https://photos.app.goo.gl/3kc6PK6V2kz426tm8[2022 Vermilion Sailor Alumni Band]
 
-{empty} +
-
 [.text-center.rounded]
 image::/testsite/images/1973-Majorette-Squad.jpg[,600]
 
-{empty} +
-
 *Vermilion Yearbooks:*
-
-{empty} +
 
 * link:https://photos.app.goo.gl/Dv6oCexhQo46y4FZ6[1919 Vermilion High School Yearbook]
 * link:https://photos.app.goo.gl/VKnstsVk7ESG9kneA[1920 Vermilion High School Yearbook]
@@ -258,16 +236,10 @@ image::/testsite/images/1973-Majorette-Squad.jpg[,600]
 * 2025 Vermilion High School Yearbook
 * 2026 Vermilion High School Yearbook
 
-{empty} +
-
 [.text-center.rounded]
 image::/testsite/images/img834.jpg[,600]
 
-{empty} +
-
 *Musicals:*
-
-{empty} +
 
 * link:https://photos.app.goo.gl/bzkeGKh5NipBsLZFA[1969 Vermilion High School -- Bye Bye Birdie]
 * link:https://photos.app.goo.gl/bXjyt2hMVd5z3AQV9[1970 Vermilion High School -- South Pacific]
@@ -295,16 +267,10 @@ image::/testsite/images/img834.jpg[,600]
 * link:https://photos.app.goo.gl/tivNFb5BHzHMWMpE7[1993 Vermilion High School -- Music Man]
 * link:https://photos.app.goo.gl/JeQwSu3bSzWE8P8DA[1994 Vermilion High School -- Anything Goes]
 
-{empty} +
-
 [.text-center.rounded]
 image::/testsite/images/1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[,600]
 
-{empty} +
-
 *Other:*
-
-{empty} +
 
 * link:https://photos.app.goo.gl/qQn9jor9pF4KeHZA6[1986-1987 Vermilion Sailor Jazz Band]
 * link:https://photos.app.goo.gl/7Uo8ACHWvCcqjk7u5[1996-1997 Vermilion High School Other Pictures]
@@ -315,8 +281,6 @@ image::/testsite/images/1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[,
 * link:https://photos.app.goo.gl/iJeoc7z91BPN8amW9[Vermilion Alumni Band Miscellaneous]
 * link:https://photos.app.goo.gl/85QirfAJjmpGRo1v5[Vermilion High School Band Miscellaneous]
 * link:https://photos.app.goo.gl/Ahjn41fvXy8FMNLo7[Vermilion High School Miscellaneous]
-
-{empty} +
 
 [.text-center.rounded]
 image::/testsite/images/VLS-2010_pdf__page_44_of_97_14.jpg[,600"]
