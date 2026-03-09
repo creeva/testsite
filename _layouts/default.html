@@ -261,11 +261,69 @@
             background: #fff;
         }
 
+        /* HAMBURGER BUTTON — hidden on desktop */
+        .menu-toggle {
+            display: none;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 8px;
+            color: #333;
+            font-size: 1.4rem;
+            line-height: 1;
+        }
+        .menu-toggle:hover { color: #5b2d8e; }
+
         /* RESPONSIVE */
         @media (max-width: 768px) {
+            /* Show hamburger, hide full nav by default */
+            .menu-toggle { display: block; }
+
+            .primary-menu {
+                display: none;
+                flex-direction: column;
+                position: absolute;
+                top: 60px;
+                left: 0;
+                right: 0;
+                background: #fff;
+                border-top: 1px solid #ddd;
+                border-bottom: 1px solid #ddd;
+                box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+                z-index: 200;
+            }
+            .primary-menu.is-open { display: flex; }
+
+            .primary-menu li { width: 100%; }
+            .primary-menu li a {
+                padding: 14px 20px;
+                font-size: 0.95rem;
+                border-bottom: 1px solid #f0f0f0;
+                width: 100%;
+            }
+            .primary-menu li a:hover { background: #f5f0fa; }
+
+            /* Sub-menus: show inline indented, not absolute */
+            .primary-menu li ul {
+                display: block;
+                position: static;
+                border: none;
+                box-shadow: none;
+                min-width: 0;
+                background: #f9f9f9;
+            }
+            .primary-menu li ul li a {
+                padding: 11px 20px 11px 36px;
+                font-size: 0.88rem;
+                color: #555;
+            }
+
+            /* nav wrapper needs position:relative for the dropdown */
+            .primary-menu-wrap { position: relative; }
+
+            /* Stack content and sidebar */
             .site-content .content-wrap { flex-direction: column; }
             .featured-sidebar { width: 100%; }
-            .primary-menu li a { padding: 14px 10px; font-size: 0.8rem; }
         }
     </style>
 </head>
@@ -277,6 +335,7 @@
         <nav class="primary-menu-wrap">
             <div class="top-nav-wrapper">
                 <div class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></div>
+                <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">&#9776;</button>
                 <ul class="primary-menu">
                     <li{% if page.url == '/' %} class="current-menu-item"{% endif %}>
                         <a href="{{ site.baseurl }}/">Vermilion Bands</a>
@@ -359,4 +418,24 @@
 
 </div>
 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><sc
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script>
+  (function() {
+    var btn = document.querySelector('.menu-toggle');
+    var menu = document.querySelector('.primary-menu');
+    if (!btn || !menu) return;
+    btn.addEventListener('click', function() {
+      var isOpen = menu.classList.toggle('is-open');
+      btn.setAttribute('aria-expanded', isOpen);
+      btn.innerHTML = isOpen ? '&#10005;' : '&#9776;';
+    });
+    // Close menu when a link is tapped
+    menu.addEventListener('click', function(e) {
+      if (e.target.tagName === 'A') {
+        menu.classList.remove('is-open');
+        btn.setAttribute('aria-expanded', false);
+        btn.innerHTML = '&#9776;';
+      }
+    });
+  })();
+</script>
