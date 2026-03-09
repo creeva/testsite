@@ -5,9 +5,14 @@ title: Vermilion's Musical Roots
 
 == Vermilion's Musical Roots
 
+{empty} +
+
 image::/testsite/images/crystalgardensdancehall.jpeg[,role="text-center"]
 
+{empty} +
+
 Vermilion has enjoyed a rich musical heritage spanning over 150 years. The musical culture that thrived among residents was influenced by the opening of link:https://www.cedarpoint.com/[Cedar Point] in 1870. This iconic resort and later amusement park undeniably played a pivotal role in transforming the region into a sought-after destination for the escapism of vacations. As tourists began flocking to the area, venues were created to cater to their entertainment needs. Cottages, resorts, and entertainment hubs emerged in the region, eventually earning it the moniker “Vacationland,” a title officially recognized since the 1962 link:https://missohio.org/[Miss Ohio Beauty Pageant] .
+
 
 In 1906, the town managed to have its own amusement park, link:https://www.vermilionohio.org/crystalbeach.html[C] link:https://www.vermilionohio.org/crystalbeach.html[rystal Beach] . While not as expansive or well-visited as Cedar Point, this park managed to operate successfully and attract visitors for 56 years. On May 29, 1925, a new gem within the park, Crystal Gardens, was unveiled. The initial admission fee to this ballroom was ten cents. For their dime, patrons were granted access to performances by some of the era’s most renowned artists. Legendary musicians such as Tommy Dorsey, Count Basie, Guy Lombardo, Gene Krupa, Louis Armstrong, Duke Ellington, Cab Calloway, Woody Herman, The Everly Brothers, The Kingston Trio, and Lawrence Welk all left their mark on Crystal Garden’s stage.
 
