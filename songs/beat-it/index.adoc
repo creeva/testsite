@@ -1,0 +1,36 @@
+---
+layout: default
+title: Beat It
+---
+
+== Beat It
+
+{empty} +
+
+.2023-2024 Vermilion Sailor Marching Band - Beat It - 9-8-2023
+video::mEvhJLLuksc[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2023-2024 Vermilion Sailor Marching Band - Beat It - 9-9-202
+video::LKTSzf0gfaI[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2023-2024 Vermilion Sailor Marching Band - Beat It - 9-15-2023
+video::xvmg9RSzbrc[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2023-2024 Vermilion Sailor Marching Band - Beat It - Video 2 - 9-8-2023
+video::y0Gd1XMX03s[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/2023-2024-group-picture.jpeg[,600]

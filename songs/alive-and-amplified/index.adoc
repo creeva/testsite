@@ -1,0 +1,21 @@
+---
+layout: default
+title: Alive and Amplified
+---
+
+== Alive and Amplified
+
+{empty} +
+
+.2011-2012 Vermilion Sailor Marching Band - Alive And Amplified
+video::LonWFfoeZPY[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/VLS-2012_pdf__page_42_of_74_2.jpg[,600]

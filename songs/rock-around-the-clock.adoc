@@ -1,9 +1,0 @@
----
-layout: default
-title: Rock Around The Clock
----
-
-= Rock Around The Clock
-
-.1987 Vermilion Sailor Alumni Band - Rock Around The Clock
-video::OvLr2pbyIdY[youtube, width=640, height=360, align=center]

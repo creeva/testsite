@@ -1,0 +1,51 @@
+---
+layout: default
+title: Barbara Ann
+---
+
+== Barbara Ann
+
+{empty} +
+
+.1985-1986 Vermilion Sailor Marching Band - Barbara Ann
+video::S-87l7TF8YY[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1985-1986 Vermilion Sailor Marching Band - Barbara Ann - Amherst High School Showcase of Bands
+video::8zHcD3GGwEE[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1985-1986 Vermilion Sailor Marching Band - Barbara Ann - Vermilion Sailor Marching Band Festival
+video::XDpZvNLxSUM[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1987-1988 Vermilion Sailor Marching Band - Barbara Ann - Senior Show Vermilion
+video::9XBZTHoa2HA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1995-1996 Vermilion Sailor Marching Band - Barbara Ann - Vermilion Sailor Band Festival - 9-30-1995
+video::vbRGSpzebUo[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2002 Vermilion Sailor Alumni Band - Barbara Ann
+video::dQg6oFaPHJ0[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2002 Vermilion Sailor Alumni Band - Second Source - Barbara Ann
+video::1tEJzpaIsJ4[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/1986-Sailor-Marching-Band.jpg[,600]

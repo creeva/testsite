@@ -1,0 +1,26 @@
+---
+layout: default
+title: The Star Spangled Banner
+---
+
+== The Star Spangled Banner
+
+{empty} +
+
+.1986 Vermilion Sailor Marching Band Festival - Mass Star Spangled Banner
+video::BRqJkgv8TSk[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - Mass Star Spangled Banner - Sailor Band Festival
+video::BGO9-z1Ro3U[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/Sea-of-Faces.jpg[,600]

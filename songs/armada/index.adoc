@@ -1,0 +1,31 @@
+---
+layout: default
+title: Armada
+---
+
+== Armada
+
+{empty} +
+
+.1991-1992 Vermilion Sailor Marching Band - Armada
+video::8Tns7U9sUiI[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1993-1994 Vermilion Sailor Marching Band - Armada - Dover Festival
+video::4WUhiUGajzA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1993-1994 Vermilion Sailor Marching Band - Armada - V Firelands
+video::0Vw43-rSXxY[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/Sea-of-Faces.jpg[,600]

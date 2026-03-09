@@ -1,0 +1,36 @@
+---
+layout: default
+title: Soul Finger
+---
+
+== Soul Finger
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - Soul Finger - BW Festival
+video::ces_TwdLJ7E[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - Soul Finger - Full Show 1
+video::wwW_NWExXo0[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - Soul Finger - Vermilion Sailor Band Festival
+video::frSc1yofxEo[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - Soul Finger - W 8th Grade
+video::a4qALV9oQGo[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/Sea-of-Faces.jpg[,600]

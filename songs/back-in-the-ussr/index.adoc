@@ -1,0 +1,31 @@
+---
+layout: default
+title: Back In The USSR
+---
+
+== Back In The USSR
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - Back in the USSR - The End
+video::m64s7Y7MAEU[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - Back In The USSR / The End
+video::HFHLFK4Hi3c[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - Back in the USSR - The End
+video::m64s7Y7MAEU[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/1997-1998-Sailor-Marching-Band_4046979266_o.jpg[,600]

@@ -1,0 +1,36 @@
+---
+layout: default
+title: All I Need Is A Miracle
+---
+
+== All I Need Is A Miracle
+
+{empty} +
+
+.1986-1987 Vermilion Sailor Marching Band - All I Need is a Miracle - VHS Marching Band Festival
+video::KvX_eSacZLA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1986-1987 Vermilion Sailor Marching Band - All I Need Is A Miracle - Elyria Band Festival
+video::2Ezm9rNcUnQ[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1986-1987 Vermilion Sailor Marching Band - All I Need Is A Miracle - Senior Show
+video::eQifWssaDYA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1986-1987 Vermilion Sailor Marching Band - All I Need Is A Miracle - Play Off Game Willoughby
+video::nNNJH27Zvcw[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/1987-Sailor-Marching-Band.jpg[,600]

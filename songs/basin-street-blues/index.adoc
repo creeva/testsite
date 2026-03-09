@@ -1,0 +1,41 @@
+---
+layout: default
+title: Basin Street Blues
+---
+
+== Basin Street Blues
+
+{empty} +
+
+.1986 Vermilion Sailor Alumni Band - Basin Street Blues
+video::XCVYAZ3b1bI[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1996 Vermilion Sailor Alumni Band - Basin Street Blues - Vermilion Band Festival
+video::W8mzCiIe020[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2007 Vermilion Sailor Alumni Band - Basin Street Blues
+video::XqABw0-Bolw[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2010 Vermilion Sailor Alumni Band - Practice - Basin St Blues
+video::3qjjgEGxSzA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2010 Vermilion Sailor Alumni Band - Basin Street Blues - Tribute to 'WIlly B'
+video::KfIGwnk3r6Q[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/228-2007-Vermilion-Sailor-Alumni-Band.jpg[,600]

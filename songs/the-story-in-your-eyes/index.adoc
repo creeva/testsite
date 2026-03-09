@@ -1,0 +1,31 @@
+---
+layout: default
+title: The Story in Your Eyes
+---
+
+== The Story in Your Eyes
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - The Story In Your Eyes - BW Festival
+video::ikKs-MSshx4[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - The Story In Your Eyes - Full Show 1
+video::0H8K1QQIPSM[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - The Story In Your Eyes - Vermilion Sailor Band Festival
+video::2Id3ynSzirU[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/Sea-of-Faces.jpg[,600]

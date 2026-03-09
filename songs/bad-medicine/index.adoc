@@ -1,0 +1,36 @@
+---
+layout: default
+title: Bad Medicine
+---
+
+== Bad Medicine
+
+{empty} +
+
+.2016 Vermilion Sailor Alumni Band - Bad Medicine
+video::Jkj6PQ986dw[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2018 Vermilion Sailor Alumni Band - Bad Medicine Practice
+video::m4aNhhwt9sc[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2018 Vermilion Sailor Alumni Band - Bad Medicine
+video::3XDgcSv-64M[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2019 Vermilion Sailor Alumni Band - Bad Medicine
+video::xrl-bjxVqBA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/Sea-of-Faces.jpg[,600]

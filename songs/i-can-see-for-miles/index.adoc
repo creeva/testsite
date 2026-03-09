@@ -1,0 +1,31 @@
+---
+layout: default
+title: I Can See For Miles
+---
+
+== I Can See For Miles
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - I Can See For Miles - V Firelands
+video::365A7b9OXwI[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - I Can See For Miles - Vermilion Sailor Band Festival
+video::udcICVRL4zU[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - I Can See For Miles
+video::7W5xFvaBszs[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/Sea-of-Faces.jpg[,600]

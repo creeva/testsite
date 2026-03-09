@@ -1,0 +1,26 @@
+---
+layout: default
+title: Artistry and Rhythm
+---
+
+== Artistry and Rhythm
+
+{empty} +
+
+.1991 Vermilion Sailor Alumni Band - Artistry and Rhythm
+video::8Nkzh81BadE[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1994 Vermilion Sailor Alumni Band - Artistry and Rhythm
+video::-gKQZKQRDKA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/Sea-of-Faces.jpg[,600]

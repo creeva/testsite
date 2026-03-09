@@ -1,0 +1,31 @@
+---
+layout: default
+title: America The Beautiful
+---
+
+== America The Beautiful
+
+{empty} +
+
+.2000-2001 Vermilion Sailor Marching Band - America The Beautiful
+video::bnT8uXT8-6Q[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2002-2003 Vermilion Sailor Marching Band - America The Beautiful - Sailor Marching Band Festival
+video::kiEdlAmnWqs[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2002-2003 Vermilion Sailor Marching Band - America The Beautiful - Anthony Wayne Showcase of Bands
+video::KuAa8-Gkrfg[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/2001-Sailor-Marching-Band-1.jpg[,600]

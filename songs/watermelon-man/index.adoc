@@ -1,0 +1,21 @@
+---
+layout: default
+title: Watermelon Man
+---
+
+== Watermelon Man
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - Watermelon Man - Full Show 2
+video::WDQJIqXEgcE[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/Sea-of-Faces.jpg[,600]

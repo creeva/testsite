@@ -1,0 +1,21 @@
+---
+layout: default
+title: All At Once
+---
+
+== All At Once
+
+{empty} +
+
+.1994-1995 Vermilion Sailor Marching Band All At Once
+video::Zal4gbvuiXQ[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/1995seniorcheer.jpeg[,600]

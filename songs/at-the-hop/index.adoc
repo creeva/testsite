@@ -1,0 +1,31 @@
+---
+layout: default
+title: At The Hop
+---
+
+== At The Hop
+
+{empty} +
+
+.1991-1992 Vermilion Sailor Marching Band - At The Hop - Eighth Grade Night
+video::yRPEjF951VA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1999-2000 Vermilion Sailor Marching Band - At The Hop With Eighth Graders
+video::82Gm548jCWI[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1999-2000 Vermilion Sailor Marching Band - At The Hop
+video::8JuakuyPaLo[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/1992-seniors.jpg[,600]

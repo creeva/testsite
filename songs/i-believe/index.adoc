@@ -1,0 +1,21 @@
+---
+layout: default
+title: I Believe
+---
+
+== I Believe
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - I Believe
+video::fL-MLvrFtG0[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/Sea-of-Faces.jpg[,600]

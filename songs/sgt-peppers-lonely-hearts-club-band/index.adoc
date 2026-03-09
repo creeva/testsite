@@ -1,0 +1,21 @@
+---
+layout: default
+title: Sgt. Pepper's Loney Hearts Club Band
+---
+
+== Sgt. Pepper's Loney Hearts Club Band
+
+{empty} +
+
+.1997-1998 Vermilion Sailor Marching Band - Sgt Peppers Lonely Hearts Club Band - With a Little Help
+video::Vn2iLyHh3do[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/Sea-of-Faces.jpg[,600]

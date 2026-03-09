@@ -1,0 +1,24 @@
+---
+layout: default
+title: Watermelon Man
+---
+
+== Twelfth Street Rag
+
+{empty} +
+
+.2018 Vermilion Sailor Alumni Band  - 12th Street Rag
+video::f8kCywYKAgk[youtube, width=640, height=360, align=center]
+
+.2018 Vermilion Sailor Alumni Band  - 12th Street Rag Practice
+video::Qe1afwRgqbQ[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/Sea-of-Faces.jpg[,600]

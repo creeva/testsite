@@ -1,0 +1,26 @@
+---
+layout: default
+title: Back To The Future
+---
+
+== Back To The Future
+
+{empty} +
+
+.1992-1993 Vermilion Sailor Marching Band - Back To The Future - Senior Show
+video::ViCdMEs_WKA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1992-1993 Vermilion Sailor Marching Band - Back To The Future - Full Show 2
+video::XKJtuv94k2s[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/1993-Vermilion-Sailor-Marching-Band.jpg[,600]

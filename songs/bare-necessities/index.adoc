@@ -1,0 +1,21 @@
+---
+layout: default
+title: Bare Necessities
+---
+
+== Bare Necessities
+
+{empty} +
+
+.2017-2018 Vermilion Sailor Marching Band - Bare Necessities - 10-6-17 - V Port Clinton
+video::_7P_kNniq7Q[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:/testsite/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::/testsite/images/20645498_1537961949575437_482799086311200440_o.jpg[,600]
