@@ -37,38 +37,32 @@ image::/testsite/images/1942memorial.jpeg[,role="text-center"]
 
 On May 30, 1942, The Vermilion High School Marching Band performed in the Memorial Day parade. What is unique is that is the oldest known photographic evidence of the high school performing. in the parade.
 
-.YouTube video player
 video::r9_zeAqQCn0[youtube, width=640, height=360, align=center]
 
 The origin of the link:https://www.youtube.com/watch?v=-WOIsQ5IW5g[Vermilion Fight Song/Anchor's Aweigh] , including its year of composition and composer, remains unverified despite research efforts. Nonetheless, it is essential to acknowledge that the Vermilion Fight Song has held its position as the official school song, continuing to resonate as a battle cry through the school’s halls.
 
 *Fight Song*
 
-_Fight on VermilionFight on VermilionFight on to Victory_
-
-_We have the pepand also the repand loyal we'll ever be_
-
-_Bring on the Banner Purple and gold. Cheer on the team As in days of old._
-
-_Break that defense and fight to the end. We want a victory!_
-
-_V H S Fight!_
+[verse]
+_Fight on VermilionFight on Vermilion Fight on to Victory
+We have the pepand also the repand loyal we'll ever be
+Bring on the Banner Purple and gold. Cheer on the team As in days of old.
+Break that defense and fight to the end. We want a victory!
+V H S Fight!_
 
 *Anchors Aweigh*
 
-_Anchors Aweigh, my boys Anchors Aweigh_
+[verse]
+_Anchors Aweigh, my boys Anchors Aweigh
+Hail to our ship, Vermilion Sailing down the bay.
+Hey! Hey! Hey!
+Hail to our galant crew Sailors so bold. Fighting for V H S and the glory of the purple and gold._
 
-_Hail to our ship, Vermilion Sailing down the bay._
-
-_Hey! Hey! Hey!_
-
-_Hail to our galant crew Sailors so bold. Fighting for V H S and the glory of the purple and gold._
-
-Throughout its history, the fight song has gone through various changes. In the 1950s, the fight song had a link:https://youtu.be/ZcQMCdxNY48[more vigorous and faster tempo] than its current version. The original phrase “ link:https://youtu.be/ZcQMCdxNY48[Fight, Fight, Fight, Fight] ,” as documented in a yearbook, was used instead of the present “ link:https://www.youtube.com/watch?v=-WOIsQ5IW5g[V H S Fight] ” phrase. Additionally, the Vermilion Sailor Alumni Band has put its twist on it, substituting the original phrasing with “Vermilion Sailor Alumni Band!”
+Throughout its history, the fight song has gone through various changes. In the 1950s, the fight song had a link:https://youtu.be/ZcQMCdxNY48[more vigorous and faster tempo] than its current version. The original phrase “link:https://youtu.be/ZcQMCdxNY48[_Fight, Fight, Fight, Fight_]”, as documented in a yearbook, was used instead of the present “link:https://www.youtube.com/watch?v=-WOIsQ5IW5g[_V H S Fight_] ” phrase. Additionally, the Vermilion Sailor Alumni Band has put its twist on it, substituting the original phrasing with “_Vermilion Sailor Alumni Band!_”
 
 Before 1944, the fight song held special significance as the official and exclusive school anthem. The alterations in its rendition over time highlight the ever-evolving nature of Vermilion’s musical traditions and the ongoing legacy of its musical heritage. For years, there was a rumor that the fight song was composed by William Burt. However, since its existence predates the Alma Mater, this scenario is unlikely, and there might even be another “lost” Vermilion Fight Song. Mr. Burt’s involvement may probably have included creating the anchor’s away version or rearranging the song into its current form. Until further evidence emerges, the most reasonable assumption is that James Hoffman is the composer of the Vermilion Fight Song and was introduced to the school between 1935 and 1943.
 
-.YouTube video player
+
 video::7XxZ4H8XnL4[youtube, width=640, height=360, align=center]
 
 In 1944, the student council organized a competition to find a more suitable song for ceremonies than the Vermilion Fight Song. Among the submissions was “ link:https://youtu.be/d5Dh6M9sUnE[Alma Mater,] ” composed by senior student Paul Allen. Mr. Allen was born in Jerusalem and had lived in various countries before joining Vermilion during his sophomore year. The inspiration for creating an original composition stemmed from the piano lessons he was taking at the time. “Alma Mater” drew inspiration from the link:https://www.youtube.com/watch?v=lNV4XT2cUEE[Cornell Alma Mater] , which began with the line, “Up above Cuyahoga’s water.”
@@ -104,6 +98,8 @@ A new annual tradition started in 1952 at Vermilion High School – Homecoming. 
 image::/testsite/images/1954maj.jpg[,role="text-center"]
 
 The Band President and Secretary roles were introduced in the link:/testsite/vermilion-bands/highschool/1950-1959/1953-1954-vermilion-sailor-marching-band/[1954 school year] and the 1954 school year also marked the initial division between the marching and pep bands. The link:/testsite/vermilion-high-school-pep-bands/[pep band] , known then as The Basketball Band, was limited to fifteen members, each of whom had to audition for their positions. The pep band would perform at all home basketball games.
+
+Continue on to the next section, link:/testsite/vermilion-band-history/fanfares/[Fanfares (1955 - 1979)] to learn about the William Burt timeline, the roots of the marching band’s style, notable performances, the historic marching band uniform, the start of many traditions, Vermilion festivals, and the Ducky.
 
 === Breaking Down the Sections To Memorize The Music
 

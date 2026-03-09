@@ -3,11 +3,9 @@ layout: default
 title: Rachel Caldwell
 ---
 
-= Rachel Caldwell
+== Rachel Caldwell
 
-=== Rachel Caldwell
-
-image::/testsite/images/b743e3c85ecd73cb-Vermilion-Band-Cheer_8282015-1966.jpg[,role="text-center"]
+image::/testsite/images/caldwell.jpg[,role="text-center"]
 
 Rachel Caldwell graduated with a Bachelor of Music, Music Teacher Education from Ashland University in 2010. Before coming to Vermilion she served as Band Director for St. Paul High School from 2011-2013. Mrs. Caldwell was the first female Marching Band Director at Vermilion High School, a small achievement to the larger world – this was a change that came from over seventy-five years of previous directors of music in the district. Mrs. Caldwell started as the Director of Middle School bands in 2013. Before becoming the High School director in the 2015-2016 School Year she was an assistant to link:/testsite/vermilion-high-school-band-directors/mike-komperda/[Mr. Komperda] . Mrs. Caldwell moved on the following year to become Band Director for Fostoria City Schools.
 

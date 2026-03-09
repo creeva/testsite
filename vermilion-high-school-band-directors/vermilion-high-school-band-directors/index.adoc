@@ -48,6 +48,8 @@ link:/testsite/vermilion-high-school-band-directors/nathaniel-oshaben/[Nathaniel
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/mike-komperda/[Mike Komperda 2014-2015]
 
+image::/testsite/images/caldwell.jpg[,role="text-center"]
+
 [.text-center]
 link:/testsite/vermilion-high-school-band-directors/rachel-caldwell/[Rachel Caldwell 2015-2016]
 

@@ -13,12 +13,14 @@ image::/testsite/images/1956-Marching-Band.jpg[,role="text-center"]
 
 Researching the history of Vermilion can be challenging at times. Often, the focus for the town is on well-known landmarks and core aspects of the town’s identity, such as the color of river mud, water wheels, amusement parks, lighthouses, and past vacation resorts. These elements define common discussions on Vermilion’s history. Certain subjects, like McGarvey’s, inspire more ongoing conversation than the origin of the link:/testsite/songs/alma-mater/[Alma Mater].
 
-Small towns celebrate achievements and display metaphorical trophies as a source of pride. There is always a risk of overlooking the smaller stories that have evolved into traditions. These traditions become so ingrained in the community that the source of their origins is blurry or lost. The challenge lies in researching and documenting these traditions before they become too convoluted through word of mouth. This history attempts to untangle conflicting stories and shed light on the roots of traditions, connecting one end to the other as cleanly as possible regarding the Vermilion Sailor Marching Band and instrumental musical education in Vermilion.
+Small towns celebrate achievements and display metaphorical trophies as a source of pride. There is always a risk of overlooking the smaller stories that have evolved into traditions. These traditions become so ingrained in the community that the source of their origins is blurry or lost. The challenge lies in researching and documenting these traditions before they become too convoluted through word of mouth. This history attempts to untangle conflicting stories and shed light on the roots of traditions, connecting one end to the other as cleanly as possible regarding the link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Band] and instrumental musical education in Vermilion.
 
 
 === Breaking Down the Sections To Memorize The Music
 
-To ease the consumption of the of the band history, it has been broken up into several chapters covering the eras and major directors that shaped them. This history is full of images and video references from the Vermilion Sailor Alumni Band YouTube Page. It can be read in any order and can cover just the areas that a reader might be most interested. The chapters with summaries are broken down as follows:
+{empty} +
+
+To ease the consumption of the of the band history, it has been broken up into several chapters covering the eras and major directors that shaped them. This history is full of images and video references from the link:https://www.youtube.com/@vermilionsailoralumniband[Vermilion Sailor Alumni Band YouTube Page]. It can be read in any order and can cover just the areas that a reader might be most interested. The chapters with summaries are broken down as follows:
 
 * Introduction: link:/testsite/vermilion-band-history[Now Hear This! Presenting the Vermilion Sailor Marching Band!] 
 * Preface: link:/testsite/vermilion-band-history/musical-roots[Vermilion's Musical Roots] covers Vermilion's musical roots, Crystal Beach, Elberta Beach, and Vermilion-On-The-Lake.
@@ -51,5 +53,4 @@ _I am committed to ensuring the accuracy of the band's history, and I welcome an
 
 {empty} +
 
-.YouTube video player
 video::sKFC6ffJb2k[youtube, width=640, height=360, align=center]
