@@ -24,7 +24,7 @@ asciidoctor:
   attributes:
     - icons=font
     - idseparator=_
-    - imagesdir=/testsite/images
+    - imagesdir=/images
     - source-highlighter=coderay
     - liquid
 
