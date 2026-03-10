@@ -1,1 +1,0 @@
-image::file:///Users/creeva/Documents/github/testsite/images/crystalgardensdancehall.jpeg[test]
