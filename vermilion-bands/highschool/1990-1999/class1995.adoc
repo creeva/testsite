@@ -9,7 +9,7 @@ title: 1994-1995 Vermilion Sailor Marching Band
 
 image::4266085945_27ed569e50.jpg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]  + Head Majorette: Rebecca Enderle
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]  + Head Majorette: Rebecca Enderle
 
 Members:
 
@@ -82,4 +82,4 @@ image::6-13-1995.jpeg[,role="text-center"]
 image::6-27-1995.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]

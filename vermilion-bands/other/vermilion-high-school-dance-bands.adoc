@@ -27,7 +27,7 @@ image::1958danceband.jpg[,role="text-center"]
 [.text-center]
 1958 Vermilion High School Dance Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -37,7 +37,7 @@ Members: Unlisted
 
 image::1959dance.jpg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Zalar, Mey, Gregg, Syfert, Neiding, Havrilla, Rogers, Feiszli, Boughton, Roberts, Hollosy, Yeamans, Greenhoe, Wiencke, Tarant
 
@@ -46,4 +46,4 @@ Members: Zalar, Mey, Gregg, Syfert, Neiding, Havrilla, Rogers, Feiszli, Boughton
 * link:https://photos.app.goo.gl/BfEjSDFKu5TG8zsz9[1959 Vermilion High School Yearbook]
 
 [.text-center]
-link:/testsite/[Vermilion Bands]
+link:{baseurl}/[Vermilion Bands]

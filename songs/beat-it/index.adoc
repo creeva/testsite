@@ -28,7 +28,7 @@ video::y0Gd1XMX03s[youtube, width=640, height=360, align=center]
 {empty} +
 
 [.text-center]
-link:/testsite/songs/[Vermilion Sailor Band Songs]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
 
 {empty} +
 

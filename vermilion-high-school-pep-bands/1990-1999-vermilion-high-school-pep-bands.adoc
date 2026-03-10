@@ -12,7 +12,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1990 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -25,7 +25,7 @@ image::1991pep.png[,role="text-center"]
 [.text-center]
 1991 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -38,7 +38,7 @@ image::1992pep.png[,role="text-center"]
 [.text-center]
 1992 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -51,7 +51,7 @@ image::1993pep.png[,role="text-center"]
 [.text-center]
 1993 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -64,7 +64,7 @@ image::1994pep.png[,role="text-center"]
 [.text-center]
 1994 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -77,7 +77,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1995 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -90,7 +90,7 @@ image::1996pep.jpeg[,role="text-center"]
 [.text-center]
 1996 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -103,7 +103,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1997 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -116,7 +116,7 @@ image::1998pep.png[,role="text-center"]
 [.text-center]
 1998 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Listed in Image
 
@@ -129,7 +129,7 @@ image::1999pep.png[,role="text-center"]
 [.text-center]
 1999 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members:
 
@@ -140,4 +140,4 @@ Image Gallery:
 * link:https://photos.app.goo.gl/SzjTPZrYqnazrNj16[1999 Vermilion High School Yearbook]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]

@@ -7,7 +7,7 @@ title: 1971-1972 Vermilion Sailor Marching Band
 
 === 1971-1972 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Head Majorette: Joi Jeffery
 
@@ -35,4 +35,4 @@ image::2-17-1972-2.jpeg[,role="text-center"]
 image::2-17-1972.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]

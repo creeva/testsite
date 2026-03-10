@@ -10,7 +10,7 @@ title: Other Vermilion Bands
 image::Screen-Shot-2023-07-21-at-11.59.44-AM-1024x661-1.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-high-school-orchestra/[Vermilion High School Orchestra]
+link:{baseurl}/vermilion-high-school-orchestra/[Vermilion High School Orchestra]
 
 image::avermiliongarvv.jpeg[,role="text-center"]
 
@@ -20,7 +20,7 @@ Grand Army of the Republic Band
 image::1958danceband.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-bands/other/vermilion-high-school-dance-bands/[Vermilion High School Dance Bands]
+link:{baseurl}/vermilion-bands/other/vermilion-high-school-dance-bands/[Vermilion High School Dance Bands]
 
 image::1958starlightroomband.jpg[,role="text-center"]
 
@@ -30,12 +30,12 @@ image::1958starlightroomband.jpg[,role="text-center"]
 image::1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/?page_id=2854[Vermilion German Band]
+link:{baseurl}/?page_id=2854[Vermilion German Band]
 
 image::rubband.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-bands/other/vermilion-rube-band/[Vermilion Rube Band]
+link:{baseurl}/vermilion-bands/other/vermilion-rube-band/[Vermilion Rube Band]
 
 image::vcma1.webp[,role="text-center"]
 
@@ -50,7 +50,7 @@ Vermilion Community Music Association Windjammer Big Band
 image::shawnperryinlawnchair.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-bands/other/shawn-perry/[Shawn Perry]
+link:{baseurl}/vermilion-bands/other/shawn-perry/[Shawn Perry]
 
 image::Logo-Track-Dogs-Black-500px.png[,role="text-center"]
 
@@ -58,4 +58,4 @@ image::Logo-Track-Dogs-Black-500px.png[,role="text-center"]
 link:http://trackdogsmusic.com/[Track Dogs]
 
 [.text-center]
-link:/testsite/[Vermilion Bands]
+link:{baseurl}/[Vermilion Bands]

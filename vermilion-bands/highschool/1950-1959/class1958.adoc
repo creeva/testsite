@@ -7,7 +7,7 @@ title: 1957-1958 Vermilion Sailor Marching Band
 
 === 1957-1958 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]  + Head Majorette: Martha Harrison
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]  + Head Majorette: Martha Harrison
 
 Members:
 
@@ -85,4 +85,4 @@ image::The_Sandusky_Register_Wed__Oct_30__1957_.jpg[,role="text-center"]
 image::The_Sandusky_Register_Wed__Sep_11__1957_.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

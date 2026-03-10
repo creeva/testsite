@@ -9,7 +9,7 @@ title: 1960-1969 Vermilion High School Concert Bands
 
 image::1960con.jpg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -22,7 +22,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1961 Vermilion High School Concert Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -39,7 +39,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1962 Vermilion High School Concert Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -52,7 +52,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1963 Vermilion High School Concert Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -65,7 +65,7 @@ image::1964con.jpg[,role="text-center"]
 [.text-center]
 1964 Vermilion High School Concert Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -78,7 +78,7 @@ image::1965con.jpg[,role="text-center"]
 [.text-center]
 1965 Vermilion High School Concert Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -93,7 +93,7 @@ image::1966con.jpg[,role="text-center"]
 [.text-center]
 1966 Vermilion High School Concert Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Bob Clark, Bob Duval, Dan Walker, Debbie Zerad, Ted Konnerth, Ken Kishman, Jean Pratt, Mike Heys, Kevin Horn, Martha Idol, Phyllis Booker, Cinda Browning, Bonnie Johnson, Ken Watkins, Patty Martin Veith, Joyce Montgomery, Alan Congregane, Wayne Tucker, Pete Hart, Dennis Pintur, Russ Davidson, Robert Brown, Benny Smith, Joyce Idol, Lucy Havrilla, Sue Bachman, John Neff, Penny Kishman, Diane Jeffery, Jack McClurkin, Toni Yeamans, Debra Rust, Alice Risdon, Sherry Estes, Jan Hostler, Roberta Ries, Lola Hall, Sid Slone, Patty Creel, Bonnie Greenwood, Barb Warner, Don McClimans, Mary Berk, JoAnn West, Sue Fultz, Nancy Thoms, Pat Prieur, Amber Polzin, Lynette Cline, Charlotte Parsons, Roberta Johnson, Cindy Jones, Carol Gleason, Vicki Cashell, Judy Smarr, Rich Masin, David Wolford, Jack Yeamans, Larry Lunceford, Gary Dropko, Keith Siebert, Jack Maiden, Bob Thoms, Sherry Akers, Ann Yurovich, Linde Lenhart, Stu Naegele, Ellen Trinter, Marcia Will, Marie Agen, Glenn Duncan, Lon Washtak, Ellen Brown, Patty Harris, Cliff Buckosh, Dennis Johnson, David Moes, Sharon Schroeder, Carol Yurovich, Trudy Tisher, Anne Goudvis, Sue Backus, Nancy Karcher, Sue Fillmore, Jill Mikola, Sue Reiber, Lynn McCullough, Gayla Wolford, Pat Fillmore, Lisa Robbins
 
@@ -106,7 +106,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1967 Vermilion High School Concert Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: R. Duval, K. Horn, M. Idol, J. Pratt, D. Zerad, P. Booker, M. Heys, K. Kishman, T. Konnerth, P. Martin, J. Montgomery, R. Nichols, K. Watkins, L. Gauman, A. Buckholz, H. Coultrip, G. Grob, K. Hess, J. Kerchinske, V. Kobza, D. Marcum, J. Neff, L. Hall, S. Slone, B. Johnson, I. Wenzel, P. Hart, R. Brown, R. Davidson, D. Pintur, J. Smith, W. Johnson, S. Bachman, D. Jeffrey, P. Kishman, J. Neff, J. McClurkin, A Risdon, D. Rust, T. Yeamans, M. Liston, M. Minich, C. Trinter, C. Athey, B. Greenwood, C. Griswold, C. Buckosh, D. Johnson, J. Showalter, M. Burley, T. Bogess, S. Naegele, T. Stanford, N. Ayars, S. Fultz, R. Johnson, D. McClimans, P. Prieur, C. Gleason, A. Polzin, J. Smarr, J. West, K. Burger, D. Burrows, A. Schlesselman, L. Thompson, B. Warner, C. Dropko, L. Lunceford, K. Siebert, R. Thoms, H. Casterline, R. Cline, M. Griffith, R. Shobert, D. Tanset, M. Agen, E. Trinter, E. Brown, G. Duncan, L, Washtak, M. Johnson, D. Walker, D. Moes, T. Tischer, A. Goudvis, V. Kobza, C. Browning, S. Backus, M. Karcher, J. Mikola, S. Reibert, P. Fillmore, L. McCullough, M. Hart, S. Heberling, B. Shellhouse, M. Wakefield, K. Ziemke, S. Fultz, D. Forcum, J. Prat, M. Idol, C. Washbaugh, A. Wise, C. Gleason
 
@@ -119,7 +119,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1968 Vermilion High School Concert Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -134,7 +134,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1969 Vermilion High School Concert Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: A. Athey, N. Karchnet, C. Griswold, N. McClimans, R. Browning, M. Hart, S. Heberling, N. Jeffery, J. Kobza, P. Mangus, J. McClurkin, G. Rogers, B. Schellhouse, D. Wakefield, M. Wakefield, M. Will, K. Ziemke, S. Akers, S. Baker, K. Bachman, T. Boggess, K. Burger, D. Burrows, G. Cipra, P. Curran, K. Goswick, J. Green, S. Huffstatler, G. Kishman, H. Kishman, K. Klingshirn, N. Novotny, R. Ochse, B. Snell, A. Schlesselman, D. Tatum, L. Thompson, N. Ward, I. Zalar, C. Grob, P. Joy, P. McGraw, T. Stanford, M. Johnson, P. Novotny, A. Sciarini, R. Shanks, D. Walker, M. Wolf, T. inn, M. Burley, G. Mehnery, J. Showalter, H. Steinmentz, E. Anderson M. Bachman, D. Belner, B. Berk, D. Booker, H. Coultrip, W. Faris, J. Ford, G. Grob. J. Jordan, J. Kerchinske, R. Lengtel, B. Masin, R. McClimans, F. Moes, M. Nedro, J. Neff, D. Pretzer, R. Rust, D. Schwensen, R. Trinter, J. Wendell, L. West, G. Backus, K. Hasenflue, V. Kobza, P. Parmer, R. Adams, B. Hobart, J. Liljegren, R. Martin, P. Newton, M. Ball, K. Burt, R. Evenson, G. Fee, D. Griswold, S. Koepke, M. Liston, M. Minich, C. Opatken, C. Shuman, C. Trinter, L. Brown, H. Casterline, R. Greenwood, C. Kropf, J. Pintur, G. Prete, D. Sennhenn, D. Shobert, R. Shobert, J. Strehle, A. Nicoll, P. Coleman, K. Burrows, H. Enlow, S. Zahn
 
@@ -143,4 +143,4 @@ Members: A. Athey, N. Karchnet, C. Griswold, N. McClimans, R. Browning, M. Hart,
 * link:https://photos.app.goo.gl/9xjaCSqQfzbjijhc8[1969 Vermilion High School Yearbook]
 
 [.text-center]
-link:/testsite/[Vermilion Bands]
+link:{baseurl}/[Vermilion Bands]

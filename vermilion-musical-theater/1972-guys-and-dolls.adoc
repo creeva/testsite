@@ -23,4 +23,4 @@ The story culminates in a series of comedic and dramatic twists, with both coupl
 image::1972musical.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]
+link:{baseurl}/vermilion-musical-theater/[Vermilion Musical Theater]

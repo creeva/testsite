@@ -16,4 +16,4 @@ image::2019-2020-Vermilion-Sailor-Marching-Band-Group-Photo.jpg[,role="text-cent
 image::2020-1.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

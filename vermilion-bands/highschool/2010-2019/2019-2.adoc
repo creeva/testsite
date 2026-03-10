@@ -21,4 +21,4 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 video::5sqEap95K5A[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

@@ -7,7 +7,7 @@ title: 1997-1998 Vermilion Sailor Marching Band
 
 === 1997-1998 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Head Majorette: Stacie Moralez
 
@@ -48,4 +48,4 @@ _This year the band will be graduating 21 seniors. This is the biggest number of
 image::1998majwrite.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]

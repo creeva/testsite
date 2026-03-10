@@ -32,4 +32,4 @@ image::6-24-1971.jpeg[,role="text-center"]
 image::11-12-1970.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]

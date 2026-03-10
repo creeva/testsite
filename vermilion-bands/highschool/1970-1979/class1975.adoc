@@ -7,7 +7,7 @@ title: 1974-1975 Vermilion Sailor Marching Band
 
 === 1974-1975 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Head Majorette: Terry Hofecker
 
@@ -36,4 +36,4 @@ image::11-7-1974.jpeg[,role="text-center"]
 image::5-1-1975.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]

@@ -12,7 +12,7 @@ image::1979orch2.jpg[,role="text-center"]
 [.text-center]
 1979 Vermilion High School Orchestra
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Listed in Image
 
@@ -21,4 +21,4 @@ Image Gallery:
 * link:https://photos.app.goo.gl/x3GhP5cewTM1JjHY8[1979 Vermilion High School Yearbook]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-high-school-orchestra/[Vermilion High School Orchestra]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-high-school-orchestra/[Vermilion High School Orchestra]

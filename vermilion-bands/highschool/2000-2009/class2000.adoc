@@ -7,7 +7,7 @@ title: 1999-2000 Vermilion Sailor Marching Band
 
 === 1999-2000 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Head Majorette: Cheryl Pena
 
@@ -34,4 +34,4 @@ image::2000-f-writeup.jpg[,role="text-center"]
 _With the leadership of Cheryl Pena and Shannon Dickerhodd, both the majorette and flag corps achieved tremendous accomplishments and lasting friendships. The majorette squad started its practices early in July, more than a month before the band began. Flags started soon after. They performed shows including "Long Train Runnin'", "China Grove", "American Woman", "Missions", and "Venus". The marching band attended festivals at Southview and Elyria and hosted their annual festival over Woolybear weekend. The flag corp even found time to compete at a competition in which they placed first. Their season concluded with the Fox 8 Christmas Parade on Thanksgiving weekend where the majorette squad placed first._
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]

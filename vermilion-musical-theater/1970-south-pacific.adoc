@@ -55,4 +55,4 @@ image::1970sp11.jpg[,role="text-center"]
 image::1970sp12.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]
+link:{baseurl}/vermilion-musical-theater/[Vermilion Musical Theater]

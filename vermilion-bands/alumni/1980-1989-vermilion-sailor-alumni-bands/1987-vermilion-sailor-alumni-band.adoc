@@ -9,7 +9,7 @@ title: 1987 Vermilion Sailor Alumni Band
 
 image::alumnigeneric.jpeg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Video Playlists:
 
@@ -19,4 +19,4 @@ Video Playlists:
 video::Zbsp0krLuB0[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/testsite/vermilion-bands/alumni/[rching Bands] – link:/testsite/vermilion-bands/alumni/1980-1989-vermilion-sailor-alumni-bands/[1980-1989 Vermilion Sailor Alumni Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:{baseurl}/vermilion-bands/alumni/[rching Bands] – link:{baseurl}/vermilion-bands/alumni/1980-1989-vermilion-sailor-alumni-bands/[1980-1989 Vermilion Sailor Alumni Bands]

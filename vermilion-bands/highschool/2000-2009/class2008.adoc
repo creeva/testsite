@@ -7,7 +7,7 @@ title: 2007-2008 Vermilion Sailor Marching Band
 
 === 2007-2008 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/kurt-dieringer/[Kurt Dieringer]
+Director: link:{baseurl}/vermilion-high-school-band-directors/kurt-dieringer/[Kurt Dieringer]
 
 Head Majorette: Lauren Zientarski
 
@@ -21,4 +21,4 @@ image::VLS-2008_pdf__page_44_of_90_7.jpg[,role="text-center"]
 image::VLS-2008_pdf__page_45_of_90_4.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]

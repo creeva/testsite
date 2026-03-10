@@ -12,7 +12,7 @@ image::1980sym.jpg[,role="text-center"]
 [.text-center]
 1980 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -21,7 +21,7 @@ image::1980var.jpg[,role="text-center"]
 [.text-center]
 1980 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -32,7 +32,7 @@ image::1980frosh.jpg[,role="text-center"]
 [.text-center]
 1980 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -43,7 +43,7 @@ image::1981sym.jpg[,role="text-center"]
 [.text-center]
 1981 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -52,7 +52,7 @@ image::1981var.jpg[,role="text-center"]
 [.text-center]
 1981 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -63,7 +63,7 @@ image::1981frosh.jpg[,role="text-center"]
 [.text-center]
 1981 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -76,7 +76,7 @@ image::1982sym.jpg[,role="text-center"]
 [.text-center]
 1982 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -85,7 +85,7 @@ image::1982var.jpg[,role="text-center"]
 [.text-center]
 1982 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -94,7 +94,7 @@ image::1982frosh.jpg[,role="text-center"]
 [.text-center]
 1982 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -105,7 +105,7 @@ image::1983sym.jpg[,role="text-center"]
 [.text-center]
 1983 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -114,7 +114,7 @@ image::1983var.jpg[,role="text-center"]
 [.text-center]
 1983 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -125,7 +125,7 @@ image::1983frosh.jpg[,role="text-center"]
 [.text-center]
 1983 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -136,7 +136,7 @@ image::1984sym.jpg[,role="text-center"]
 [.text-center]
 1984 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: listed in Image
 
@@ -145,7 +145,7 @@ image::1984var.jpg[,role="text-center"]
 [.text-center]
 1984 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -154,7 +154,7 @@ image::1984frosh.jpg[,role="text-center"]
 [.text-center]
 1984 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -165,7 +165,7 @@ image::1985sym.jpg[,role="text-center"]
 [.text-center]
 1985 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -174,7 +174,7 @@ image::1985var.jpg[,role="text-center"]
 [.text-center]
 1985 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -183,7 +183,7 @@ image::1985frosh.jpg[,role="text-center"]
 [.text-center]
 1985 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -194,7 +194,7 @@ image::1986sym.jpg[,role="text-center"]
 [.text-center]
 1986 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -203,7 +203,7 @@ image::1986var.jpg[,role="text-center"]
 [.text-center]
 1986 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -214,7 +214,7 @@ image::1986frosh.jpg[,role="text-center"]
 [.text-center]
 1986 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -223,7 +223,7 @@ image::1987sym.jpg[,role="text-center"]
 [.text-center]
 1987 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -234,7 +234,7 @@ image::1987var.jpg[,role="text-center"]
 [.text-center]
 1987 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -243,7 +243,7 @@ image::1987frosh.jpg[,role="text-center"]
 [.text-center]
 1987 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -254,7 +254,7 @@ image::1988sy.jpg[,role="text-center"]
 [.text-center]
 1988 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -265,7 +265,7 @@ image::1988frosh.jpg[,role="text-center"]
 [.text-center]
 1988 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -278,7 +278,7 @@ image::1989sym.jpg[,role="text-center"]
 [.text-center]
 1989 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -287,7 +287,7 @@ image::1989sym2.jpg[,role="text-center"]
 [.text-center]
 1989 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -296,7 +296,7 @@ image::1989frosh1.jpg[,role="text-center"]
 [.text-center]
 1989 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -305,11 +305,11 @@ image::1989frosh2.jpg[,role="text-center"]
 [.text-center]
 1989 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
 image::1989conwrite.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]

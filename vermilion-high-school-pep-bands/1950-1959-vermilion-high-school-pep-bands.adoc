@@ -12,7 +12,7 @@ image::image.jpg[,role="text-center"]
 [.text-center]
 1954 Vermilion High School Basketball Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:{baseurl}/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Members: Unlisted
 
@@ -27,7 +27,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1955 Vermilion High School Basketball Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:{baseurl}/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Members: Unlisted
 
@@ -40,7 +40,7 @@ image::1956pepband.jpg[,role="text-center"]
 [.text-center]
 1956 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: R. Roughton, S. Evenson, J. Szekely, P. Thayer, B. Ennis, S. Yeamans, J. Kropf, J. Lindsay, C. Widdowson, D. Hurd, K. Hollosy, C. Finnegan, L. Roberts, L. Roberts, K. Peterka, D. Kubishke, M. Hollowsy, L. Widdowson, M. Hacrilla, P. Jackson, C. Kyle, H. Heys.
 
@@ -55,7 +55,7 @@ image::1957pep.jpg[,role="text-center"]
 [.text-center]
 1957 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Mey, Havrilla, Jackson, Kyle, Gregg, Widdowson, Callahan, Peterka, Kubishke, Hollosy, Lindsay, Roberts, Finnegan, D. Gutherie, K. Hollosy, Stark, DeVault, Wiencke, Greenhoe, Yeamans, Kropf, Buell, Evenson, Goolsby, Roughton
 
@@ -68,7 +68,7 @@ image::1958pepband.jpg[,role="text-center"]
 [.text-center]
 1958 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -81,7 +81,7 @@ image::1959pep.jpg[,role="text-center"]
 [.text-center]
 1959 Vermilion High School Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Peterka, Kubishke, Reifert, Mey, Rodgers, Havrilla, Gregg, Roberts, Hollosy, Boughton, Feiszli, Kelly, Kropf, Yeamans, Greenhoe, Wiencke, Jaworski, Mey, Evenson, Hildum, Tarrant, Zalar
 
@@ -90,4 +90,4 @@ Members: Peterka, Kubishke, Reifert, Mey, Rodgers, Havrilla, Gregg, Roberts, Hol
 * link:https://photos.app.goo.gl/BfEjSDFKu5TG8zsz9[1959 Vermilion High School Yearbook]
 
 [.text-center]
-+ link:/testsite/[Vermilion Bands]
++ link:{baseurl}/[Vermilion Bands]

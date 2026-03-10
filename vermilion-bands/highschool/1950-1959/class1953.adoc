@@ -9,7 +9,7 @@ title: 1952-1953 Vermilion Sailor Marching Band
 
 image::1953band.jpg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:{baseurl}/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Head Majorette: Nadine Miskow
 
@@ -37,4 +37,4 @@ image::The_Sandusky_Register_Thu__Sep_11__1952_.jpg[,role="text-center"]
 image::The_Sandusky_Register_Tue__Oct_28__1952_.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

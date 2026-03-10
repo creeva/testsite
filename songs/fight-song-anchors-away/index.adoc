@@ -13,7 +13,7 @@ image::VLS-2009_pdf__page_44_of_95_1.jpg[,role="text-center"]
 {empty} +
 
 [.text-center]
-link:/testsite/songs/[Vermilion Sailor Band Songs]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
 
 {empty} +
 

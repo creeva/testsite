@@ -57,4 +57,4 @@ image::1982gd9.jpeg[,role="text-center"]
 image::1982gd10.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]
+link:{baseurl}/vermilion-musical-theater/[Vermilion Musical Theater]

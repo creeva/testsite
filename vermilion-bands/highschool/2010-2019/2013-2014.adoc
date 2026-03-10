@@ -24,4 +24,4 @@ video::D63WBnR9_Z4[youtube, width=640, height=360, align=center]
 image::2013-2014-8.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

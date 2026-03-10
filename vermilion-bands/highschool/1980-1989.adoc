@@ -8,36 +8,36 @@ title: 1980-1989 Vermilion Sailor Marching Bands
 === 1980-1989 Vermilion Sailor Marching Bands
 
 [.text-center]
-link:/testsite/vermilion-bands/highschool/1980-1989/class1980/[1979-1980 Vermilion Sailor Marching Band]
+link:{baseurl}/vermilion-bands/highschool/1980-1989/class1980/[1979-1980 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/testsite/vermilion-bands/highschool/1980-1989/class1981/[1980-1981 Vermilion Sailor Marching Band]
+link:{baseurl}/vermilion-bands/highschool/1980-1989/class1981/[1980-1981 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/testsite/vermilion-bands/highschool/1980-1989/class1982/[1981-1982 Vermilion Sailor Marching Band]
+link:{baseurl}/vermilion-bands/highschool/1980-1989/class1982/[1981-1982 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/testsite/vermilion-bands/highschool/1980-1989/class1983/[1982-1983 Vermilion Sailor Marching Band]
+link:{baseurl}/vermilion-bands/highschool/1980-1989/class1983/[1982-1983 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/testsite/vermilion-bands/highschool/1980-1989/class1984/[1983-1984 Vermilion Sailor Marching Band]
+link:{baseurl}/vermilion-bands/highschool/1980-1989/class1984/[1983-1984 Vermilion Sailor Marching Band]
 
 image::1985-Sailor-Marching-Band.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-bands/highschool/1980-1989/class1985/[1984-1985 Vermilion Sailor Marching Band]
+link:{baseurl}/vermilion-bands/highschool/1980-1989/class1985/[1984-1985 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/testsite/vermilion-bands/highschool/1980-1989/class1986/[1985-1986 Vermilion Sailor Marching Band]
+link:{baseurl}/vermilion-bands/highschool/1980-1989/class1986/[1985-1986 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/testsite/vermilion-bands/highschool/1980-1989/class1987/[1986-1987 Vermilion Sailor Marching Band]
+link:{baseurl}/vermilion-bands/highschool/1980-1989/class1987/[1986-1987 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/testsite/vermilion-bands/highschool/1980-1989/class1988/[1987-1988 Vermilion Sailor Marching Band]
+link:{baseurl}/vermilion-bands/highschool/1980-1989/class1988/[1987-1988 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/testsite/vermilion-bands/highschool/1980-1989/class1989/[1988-1989 Vermilion Sailor Marching Band]
+link:{baseurl}/vermilion-bands/highschool/1980-1989/class1989/[1988-1989 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]

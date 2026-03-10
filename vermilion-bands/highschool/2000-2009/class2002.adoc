@@ -7,7 +7,7 @@ title: 2001-2002 Vermilion Sailor Marching Band
 
 === 2001-2002 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Head Majorette: Ashley Clark
 
@@ -37,4 +37,4 @@ _Football fields, band festivals, and competition sites were made much more inte
 _But the winter was not the time to rest for the flag group as they entered competitions known as "Winter Color Guard." Under the direction of Lisa Fiedler and Lee Ann Mayer, the girls perfected a set routine that earned them top scores at every competition on the circuit. After winning the state competition, the group was even asked to move to a more difficult level for next year. Now, that's really good._
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/2000-2009/[2000-2009 Vermilion Sailor Marching Band]

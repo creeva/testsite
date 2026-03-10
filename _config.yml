@@ -27,6 +27,7 @@ asciidoctor:
     - imagesdir=/images
     - source-highlighter=coderay
     - liquid
+    - baseurl=/testsite
 
 plugins:
   - jekyll-asciidoc

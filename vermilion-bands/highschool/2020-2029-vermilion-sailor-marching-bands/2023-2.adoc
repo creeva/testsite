@@ -14,4 +14,4 @@ image::IMG_6413.jpg[,role="text-center"]
 * link:https://photos.app.goo.gl/ftzFGu9EMUUKT973A[2022-2023 Vermilion Sailor Marching Band]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

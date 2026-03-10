@@ -12,7 +12,7 @@ image::1990jazz.png[,role="text-center"]
 [.text-center]
 1990 Vermilion High School Jazz Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Jennifer Stein, Sean Newbill, Sandy Beach, Nate Ollis, Judy Lane, Rebecca Rust, Jim Corcino, Amy Middleton, Crissy Koller, Paul Trifiletti, Jeff Luther, Dave Howells, Fran Tanset, Jeff Lapp, Kris Schultz, Jenny Martin, Christine Oravec, John Wallace
 
@@ -34,7 +34,7 @@ image::1991jazz.png[,role="text-center"]
 [.text-center]
 1991 Vermilion High School Jazz Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Listed in Image
 
@@ -47,7 +47,7 @@ image::1992jazz.png[,role="text-center"]
 [.text-center]
 1992 Vermilion High School Jazz Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -62,7 +62,7 @@ image::1993jazz.png[,role="text-center"]
 [.text-center]
 1993 Vermilion High School Jazz Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -77,7 +77,7 @@ image::1994jazz.png[,role="text-center"]
 [.text-center]
 1994 Vermilion High School Jazz Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members:
 
@@ -92,7 +92,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1995 Vermilion High School Jazz Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -105,7 +105,7 @@ image::1996jazz.jpg[,role="text-center"]
 [.text-center]
 1996 Vermilion High School Jazz Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Listed in Image
 
@@ -118,7 +118,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1997 Vermilion High School Jazz Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Unlisted
 
@@ -131,7 +131,7 @@ image::1998jazz.png[,role="text-center"]
 [.text-center]
 1998 Vermilion High School Jazz Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Listed in Image
 
@@ -144,7 +144,7 @@ image::1999jazz.png[,role="text-center"]
 [.text-center]
 1999 Vermilion High School Jazz Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Members: Listed in Image
 
@@ -153,4 +153,4 @@ Image Gallery:
 * link:https://photos.app.goo.gl/SzjTPZrYqnazrNj16[1999 Vermilion High School Yearbook]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] -- link:/testsite/vermilion-high-school-jazz-bands/[Vermilion High School Jazz Bands]
+link:{baseurl}/[Vermilion Bands] -- link:{baseurl}/vermilion-high-school-jazz-bands/[Vermilion High School Jazz Bands]

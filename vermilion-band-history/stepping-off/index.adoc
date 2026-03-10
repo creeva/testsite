@@ -5,7 +5,7 @@ title: Stepping Off (1979-1994)
 
 == Stepping Off (1979-1994)
 
-The link:/testsite/vermilion-bands/highschool/1980-1989/class1980/[class of 1980] was under new direction by a familiar face, link:/testsite/vermilion-high-school-band-directors/david-henry/[Mr. Henry] was now the Director of the Vermilion Sailor Marching Band. This year brought two new band assistants to the band, link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price] and John Murphy. While a few changes would occur during his tenure, Mr. Henry and Mr. Burt held a shared belief in the band’s direction. Dawn Clark stated that her father believed the show belonged to the band and that he was just the producer. When the band was on the field, Mr. Henry was in the press box announcing the show, a job he performed during the Mr. Burt era. Whenever Mr. Henry performed the announcements for the band he would start with “Now hear this, this is your captain speaking..”
+The link:{baseurl}/vermilion-bands/highschool/1980-1989/class1980/[class of 1980] was under new direction by a familiar face, link:{baseurl}/vermilion-high-school-band-directors/david-henry/[Mr. Henry] was now the Director of the Vermilion Sailor Marching Band. This year brought two new band assistants to the band, link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price] and John Murphy. While a few changes would occur during his tenure, Mr. Henry and Mr. Burt held a shared belief in the band’s direction. Dawn Clark stated that her father believed the show belonged to the band and that he was just the producer. When the band was on the field, Mr. Henry was in the press box announcing the show, a job he performed during the Mr. Burt era. Whenever Mr. Henry performed the announcements for the band he would start with “Now hear this, this is your captain speaking..”
 
 {empty} +
 
@@ -131,7 +131,7 @@ video::2gy_NV-ejeA[youtube, width=640, height=360, align=center]
 
 *Eighth Grade Night*
 
-The link:/testsite/vermilion-bands/highschool/1990-1999/class1992/[1992 school year] brought a new middle performance to the band, Eighth Grade Night. Eighth Grade Night involves members of the middle school performing a number with the high school marching band. Middle School students will come in from the sideline after an opener and stand with the high school band in concert formation. After the song, the eighth graders would leave the field. This activity has evolved over the years and is now Future Sailors Night. It is as much of a celebration of these younger performers as it is a recruitment tool to get future members excited to join the marching band.
+The link:{baseurl}/vermilion-bands/highschool/1990-1999/class1992/[1992 school year] brought a new middle performance to the band, Eighth Grade Night. Eighth Grade Night involves members of the middle school performing a number with the high school marching band. Middle School students will come in from the sideline after an opener and stand with the high school band in concert formation. After the song, the eighth graders would leave the field. This activity has evolved over the years and is now Future Sailors Night. It is as much of a celebration of these younger performers as it is a recruitment tool to get future members excited to join the marching band.
 
 {empty} +
 
@@ -181,7 +181,7 @@ image::1987group.jpg[,role="text-center"]
 
 {empty} +
 
-Documentation is scarce on when the practice started or when it ended but as part of the link:/testsite/vermilion-bands/highschool/1980-1989/class1980/[1980 school year], first-year marchers were given a certificate to redeem for a varsity sweater or varsity band jacket that they could add their varsity letter to after their second year of marching. The end-of-season gifts were as follows, first-year marchers received their jackets, second-year marchers received their letters, third-year marchers received a band pin, and fourth-year marchers received their band pictures.
+Documentation is scarce on when the practice started or when it ended but as part of the link:{baseurl}/vermilion-bands/highschool/1980-1989/class1980/[1980 school year], first-year marchers were given a certificate to redeem for a varsity sweater or varsity band jacket that they could add their varsity letter to after their second year of marching. The end-of-season gifts were as follows, first-year marchers received their jackets, second-year marchers received their letters, third-year marchers received a band pin, and fourth-year marchers received their band pictures.
 
 {empty} +
 
@@ -197,7 +197,7 @@ image::1980sleeping.jpg[,role="text-center"]
 
 {empty} +
 
-The final big thing for the link:/testsite/vermilion-bands/highschool/1980-1989/class1980/[1980 school year] is the link:https://www.idaschools.org/band/[Ida Blue Streak Marching Band]. They traveled from Michigan and stayed the evening overnight with Blue Streak members staying at accommodating band members’ houses. This visiting band scenario continued for almost two decades, link:https://www.awbands.com/[Anthony Wayne Marching Generals] (first visiting in the 1986 school year) and Ida would be the bands that had this visitation to perform at the Vermilion Sailor Marching Band Festival. After the festival the visiting and Sailor bands would go to a band party hosted by a band member until heading home to their respective homes for the night. The next day Sailor Band Parents would bring back the visiting band members to the high school to load the buses and take their long trip home. After the 1982 Band Festival, the visiting band would normally stay and march in the Woolybear Festival parade when the festival moved to Vermilion.
+The final big thing for the link:{baseurl}/vermilion-bands/highschool/1980-1989/class1980/[1980 school year] is the link:https://www.idaschools.org/band/[Ida Blue Streak Marching Band]. They traveled from Michigan and stayed the evening overnight with Blue Streak members staying at accommodating band members’ houses. This visiting band scenario continued for almost two decades, link:https://www.awbands.com/[Anthony Wayne Marching Generals] (first visiting in the 1986 school year) and Ida would be the bands that had this visitation to perform at the Vermilion Sailor Marching Band Festival. After the festival the visiting and Sailor bands would go to a band party hosted by a band member until heading home to their respective homes for the night. The next day Sailor Band Parents would bring back the visiting band members to the high school to load the buses and take their long trip home. After the 1982 Band Festival, the visiting band would normally stay and march in the Woolybear Festival parade when the festival moved to Vermilion.
 
 {empty} +
 
@@ -205,7 +205,7 @@ image::1981-flags.jpg[,role="text-center"]
 
 {empty} +
 
-One of the first large changes that arrived in the band for the link:/testsite/vermilion-bands/highschool/1980-1989/class1981/[class of 1981] was a new Flag Corp, eventually called the Color Guard. Lisa Panebianco, formerly a member of the Bowling Green State University Marching Band, was hired as the advisor of the Color Guard. This band auxiliary unit would last until the 1986 school year, at which point the Color Guard was disbanded.
+One of the first large changes that arrived in the band for the link:{baseurl}/vermilion-bands/highschool/1980-1989/class1981/[class of 1981] was a new Flag Corp, eventually called the Color Guard. Lisa Panebianco, formerly a member of the Bowling Green State University Marching Band, was hired as the advisor of the Color Guard. This band auxiliary unit would last until the 1986 school year, at which point the Color Guard was disbanded.
 
 {empty} +
 
@@ -213,7 +213,7 @@ image::1981Olympics.jpg[,role="text-center"]
 
 {empty} +
 
-The link:/testsite/vermilion-bands/highschool/1980-1989/class1981/[Class of 1981] experienced the first major health crisis in the band’s history. On a scorching September 20, 1980, with temperatures soaring, the band performed during halftime at Oberlin College. After their performance, the buses embarked on their journey to Massillon for the evening band festival. To combat the heat of September, the band members diligently drank copious amounts of water throughout the day.
+The link:{baseurl}/vermilion-bands/highschool/1980-1989/class1981/[Class of 1981] experienced the first major health crisis in the band’s history. On a scorching September 20, 1980, with temperatures soaring, the band performed during halftime at Oberlin College. After their performance, the buses embarked on their journey to Massillon for the evening band festival. To combat the heat of September, the band members diligently drank copious amounts of water throughout the day.
 
 The relentless heat and the overall exhaustion of the day didn’t take their toll until after the band had completed their festival show. Shortly following their performance, a wave of illness and fainting swept through the band members. As a result, many band members were rushed to local hospitals, where they received much-needed fluids and IV treatments to rehydrate.
 
@@ -237,9 +237,9 @@ The Band Picnic is currently one without a distinct year. Band members from the 
 
 As part of the picnic activities, the Seniors would take first-year marchers into the Vermilion River and baptize them into the band. The seniors would give a band prayer and end it with “The Father, Son, and Mr. Henry”. Nothing was held against those band members who did not attend – just an annual tradition. However, if a member attended and refused the ceremony, they were dragged in and forced to do it.
 
-A similar initiation started in the link:/testsite/vermilion-bands/highschool/1990-1999/class1994/[1994 school year] which involved duct-taping freshmen to various objects. It seems in later years there was a combination of duct-taping and dragging for baptism in the Vermilion River routine for those who resisted the baptism. Eventually, in the late 1990s, this stopped being an unofficial tradition of students by themselves and included the parents and chaperones as part of a band-sanctioned event. While this was likely done to curb some of the behavior, former members have stated that parents would help catch their own children for the ceremony.
+A similar initiation started in the link:{baseurl}/vermilion-bands/highschool/1990-1999/class1994/[1994 school year] which involved duct-taping freshmen to various objects. It seems in later years there was a combination of duct-taping and dragging for baptism in the Vermilion River routine for those who resisted the baptism. Eventually, in the late 1990s, this stopped being an unofficial tradition of students by themselves and included the parents and chaperones as part of a band-sanctioned event. While this was likely done to curb some of the behavior, former members have stated that parents would help catch their own children for the ceremony.
 
-Things mature and grow over time, and with maturity, there is always an attempt to remove immature antics or behavior society has grown past accepting as appropriate. As chaperones arrived and the kids were watched, there was less dragging and more optional voluntary baptism of new members. By the link:/testsite/vermilion-bands/highschool/2000-2009/class2009/[2009 school year,] the director was actively discouraging the practice. It is unlikely today that hazing of any sort, as it used to exist, is happening at a band-sanctioned event today.
+Things mature and grow over time, and with maturity, there is always an attempt to remove immature antics or behavior society has grown past accepting as appropriate. As chaperones arrived and the kids were watched, there was less dragging and more optional voluntary baptism of new members. By the link:{baseurl}/vermilion-bands/highschool/2000-2009/class2009/[2009 school year,] the director was actively discouraging the practice. It is unlikely today that hazing of any sort, as it used to exist, is happening at a band-sanctioned event today.
 
 {empty} +
 
@@ -255,7 +255,7 @@ image::1983tuba.jpg[,role="text-center"]
 
 {empty} +
 
-The motto of “swing until you die” arrived for the tubas in the link:/testsite/vermilion-bands/highschool/1980-1989/class1983/[1983 school year]. The tuba squad, consisting of Marshall Micheals, John Banta, Ed Taylor, and Joe Lundy would change the purposes of the tuba squad in the band for years to come. This is the time when the tuba swing was introduced while marching and the tuba chase was added to the band. How did this come to be, well it was the squad themselves that introduced it.
+The motto of “swing until you die” arrived for the tubas in the link:{baseurl}/vermilion-bands/highschool/1980-1989/class1983/[1983 school year]. The tuba squad, consisting of Marshall Micheals, John Banta, Ed Taylor, and Joe Lundy would change the purposes of the tuba squad in the band for years to come. This is the time when the tuba swing was introduced while marching and the tuba chase was added to the band. How did this come to be, well it was the squad themselves that introduced it.
 
 Mr. Michaels explained the change, “ _We copied the circling and follow the leader routine off the University of Toledo's marching band. It was my idea though for doing the Broadway step, spinning around, and walking backward, although the others helped refine it. Mr. Henry let us do just about anything we want, just as long as we don't get too far from the band. It's a proven fact that a band is a better showing band when its tubas swing and do routines than a band that just has tubas and does nothing. Those bands are boring to watch. I think we're the only band in the conference that does something with tubas._ “
 
@@ -267,7 +267,7 @@ image::1983marsen.jpeg[,role="text-center"]
 
 {empty} +
 
-Additionally, for the link:/testsite/vermilion-bands/highschool/1980-1989/class1983/[1983 school year] , there was a modification to the Victory March at the end of the game. The band would form an anchor with the tubas in the lead as they marched across the field celebrating a Vermilion Sailor victory.
+Additionally, for the link:{baseurl}/vermilion-bands/highschool/1980-1989/class1983/[1983 school year] , there was a modification to the Victory March at the end of the game. The band would form an anchor with the tubas in the lead as they marched across the field celebrating a Vermilion Sailor victory.
 
 {empty} +
 
@@ -275,7 +275,7 @@ image::1984oly.png[,role="text-center"]
 
 {empty} +
 
-The link:/testsite/vermilion-bands/highschool/1980-1989/class1984/[Class of 1984] had a special reason to celebrate when one of their own, Tim Farley, became part of a select group of 3,600 Americans chosen by the Olympics to participate in the Olympic Torch relay. This relay covered a vast distance, spanning thirty-three states from New York City to Los Angeles. Tim’s leg of the journey brought him through Vermilion, where, despite the rainy weather, the town and the Vermilion Sailor Marching Band were there to greet him
+The link:{baseurl}/vermilion-bands/highschool/1980-1989/class1984/[Class of 1984] had a special reason to celebrate when one of their own, Tim Farley, became part of a select group of 3,600 Americans chosen by the Olympics to participate in the Olympic Torch relay. This relay covered a vast distance, spanning thirty-three states from New York City to Los Angeles. Tim’s leg of the journey brought him through Vermilion, where, despite the rainy weather, the town and the Vermilion Sailor Marching Band were there to greet him
 
 In Tim Farley’s own words about the event:
 
@@ -291,7 +291,7 @@ image::1985tommy.jpeg[,role="text-center"]
 
 {empty} +
 
-For many marchers over the last forty years, Thomas “Tommy” Perkins is a picture in the Vermilion Sailor Marching Band trophy case. For the link:/testsite/vermilion-bands/highschool/1980-1989/class1985/[classes of 1985] and link:/testsite/vermilion-bands/highschool/1980-1989/class1986/[1986] , he was a classmate and friend. On August 19, 1984 Thomas was heading to Saint Mary’s in Vermilion for 8:00 mass when he was in a car accident with a train on Risden Road. Thomas was to be a junior in the high school that upcoming school year. The band dedicated all of its performances in the upcoming season to Thomas. Thomas was in the tuba squad, so in his honor that year, one of the bands normally white tubas was painted black to mark the absence of him on the field. Thomas’s parents set up a scholarship in his name for future Vermilion Sailor Marching Band members. Finally, fellow Junior Patrick O’Leary designated a tree and installed a plaque in Thomas’s honor at Molly’s Vineyard.
+For many marchers over the last forty years, Thomas “Tommy” Perkins is a picture in the Vermilion Sailor Marching Band trophy case. For the link:{baseurl}/vermilion-bands/highschool/1980-1989/class1985/[classes of 1985] and link:{baseurl}/vermilion-bands/highschool/1980-1989/class1986/[1986] , he was a classmate and friend. On August 19, 1984 Thomas was heading to Saint Mary’s in Vermilion for 8:00 mass when he was in a car accident with a train on Risden Road. Thomas was to be a junior in the high school that upcoming school year. The band dedicated all of its performances in the upcoming season to Thomas. Thomas was in the tuba squad, so in his honor that year, one of the bands normally white tubas was painted black to mark the absence of him on the field. Thomas’s parents set up a scholarship in his name for future Vermilion Sailor Marching Band members. Finally, fellow Junior Patrick O’Leary designated a tree and installed a plaque in Thomas’s honor at Molly’s Vineyard.
 
 {empty} +
 
@@ -335,7 +335,7 @@ image::1986backward.jpg[,role="text-center"]
 
 {empty} +
 
-Sophomore of the link:/testsite/vermilion-bands/highschool/1980-1989/class1986/[1986 school year,] Janet Kurtz, was selected to perform as a member of the Spirit of America marching band. Janet would go to Geneva, Switzerland to perform as the group represented America in a 4th of July celebration. The band’s tour also included stops in Germany, England, France, Austria, Luxemburg, Belgium, and Holland over twenty days.
+Sophomore of the link:{baseurl}/vermilion-bands/highschool/1980-1989/class1986/[1986 school year,] Janet Kurtz, was selected to perform as a member of the Spirit of America marching band. Janet would go to Geneva, Switzerland to perform as the group represented America in a 4th of July celebration. The band’s tour also included stops in Germany, England, France, Austria, Luxemburg, Belgium, and Holland over twenty days.
 
 {empty} +
 
@@ -343,7 +343,7 @@ image::1988-sailor-marching-band.jpg[,role="text-center"]
 
 {empty} +
 
-By the 1980s the Vemilion Band’s annual fundraiser of magazine sales that started in 1956 stopped being a tradition. New things were needed to raise funds for the band. One smaller annual event was the band car wash. This has occurred at different venues in town such as Erie Electronics and Burger King. For a larger fundraiser, the link:/testsite/vermilion-bands/highschool/1980-1989/class1988/[class of 1988] teamed up with Steakhouse Outlets to offer an annual meat sale. This would be the largest fundraiser of the year for many years of band members.
+By the 1980s the Vemilion Band’s annual fundraiser of magazine sales that started in 1956 stopped being a tradition. New things were needed to raise funds for the band. One smaller annual event was the band car wash. This has occurred at different venues in town such as Erie Electronics and Burger King. For a larger fundraiser, the link:{baseurl}/vermilion-bands/highschool/1980-1989/class1988/[class of 1988] teamed up with Steakhouse Outlets to offer an annual meat sale. This would be the largest fundraiser of the year for many years of band members.
 
 {empty} +
 
@@ -359,7 +359,7 @@ image::1989jazz.jpg[,role="text-center"]
 
 {empty} +
 
-The first recorded date for the combined Soundsation and link:/testsite/vermilion-high-school-jazz-bands/[Vermilion Sailor Jazz Band] concert at German’s Villa occurred for the link:/testsite/vermilion-bands/highschool/1980-1989/class1989/[class the 1989]. This annual event was a fundraising opportunity for the Vermilion High School music programs. The concert would provide dinner and entertainment to the community.
+The first recorded date for the combined Soundsation and link:{baseurl}/vermilion-high-school-jazz-bands/[Vermilion Sailor Jazz Band] concert at German’s Villa occurred for the link:{baseurl}/vermilion-bands/highschool/1980-1989/class1989/[class the 1989]. This annual event was a fundraising opportunity for the Vermilion High School music programs. The concert would provide dinner and entertainment to the community.
 
 {empty} +
 
@@ -367,7 +367,7 @@ image::1990parade.png[,role="text-center"]
 
 {empty} +
 
-For the link:/testsite/vermilion-bands/highschool/1990-1999/class1990/[1990 school year], a special patriotic was on display on October 27, 1989, at the Vermilion vs. Sandusky football game. The stadium was lined with students from Vermilion and Sandusky holding 140 flags. The Blue Streaks Marching Band, The Sailorway Seahawk Marching Band, and the Vermilion Sailor Marching Band lined up in the center of the field. The Vermilion High School Chorale walked out onto the field and joined the group of three bands. The combined group performed America The Beautiful and the Star Spangled banner with additional narration from vice-principal Hobart Johnson.
+For the link:{baseurl}/vermilion-bands/highschool/1990-1999/class1990/[1990 school year], a special patriotic was on display on October 27, 1989, at the Vermilion vs. Sandusky football game. The stadium was lined with students from Vermilion and Sandusky holding 140 flags. The Blue Streaks Marching Band, The Sailorway Seahawk Marching Band, and the Vermilion Sailor Marching Band lined up in the center of the field. The Vermilion High School Chorale walked out onto the field and joined the group of three bands. The combined group performed America The Beautiful and the Star Spangled banner with additional narration from vice-principal Hobart Johnson.
 
 {empty} +
 
@@ -443,7 +443,7 @@ image::2011alumnidawn.jpg[,role="text-center"]
 
 {empty} +
 
-Dawn Clark, class of 1981 and daughter to Mr. Henry, was brought in for the link:/testsite/vermilion-bands/highschool/1990-1999/class1992/[1992 school year] as majorette advisor for the band. Originally Dawn performed this role as a favor to her father, but she continued in this for two decades after he retired. By the time Dawn retired from the position at the end of the link:/testsite/vermilion-bands/highschool/2010-2019/2013-2014/[2014 school year] , she became the longest-serving Vermilion Sailor Marching Band staff member who was not a director. Dawn also fulfills the role of head majorette for the Vermilion Sailor Alumni Band designing routines yearly for the alumni majorettes.
+Dawn Clark, class of 1981 and daughter to Mr. Henry, was brought in for the link:{baseurl}/vermilion-bands/highschool/1990-1999/class1992/[1992 school year] as majorette advisor for the band. Originally Dawn performed this role as a favor to her father, but she continued in this for two decades after he retired. By the time Dawn retired from the position at the end of the link:{baseurl}/vermilion-bands/highschool/2010-2019/2013-2014/[2014 school year] , she became the longest-serving Vermilion Sailor Marching Band staff member who was not a director. Dawn also fulfills the role of head majorette for the Vermilion Sailor Alumni Band designing routines yearly for the alumni majorettes.
 
 {empty} +
 
@@ -459,7 +459,7 @@ video::t8qisL6HQQc[youtube, width=640, height=360, align=center]
 
 {empty} +
 
-Due to the nature of being of the band’s appearances at public events, it was accustomed to being on TV. The link:/testsite/vermilion-bands/highschool/1990-1999/class1993/[class of 1993] happens to be the first one featured in a commercial. In the lead-up to the Cleveland Christmas Parade, Channel 8 filmed various area marching bands for tv spots advertising the parade. Marching band students brought in their uniforms to school that day and filmed it during concert band practice in the choir room. Amy Wooten was selected the one to deliver the line “Hi. We’re the Sailor Marching Band and we’re going to be in the TV8/American Legion Christmas Parade. Come and see us November 28” while the band played Angel’s We Have Heard On High.
+Due to the nature of being of the band’s appearances at public events, it was accustomed to being on TV. The link:{baseurl}/vermilion-bands/highschool/1990-1999/class1993/[class of 1993] happens to be the first one featured in a commercial. In the lead-up to the Cleveland Christmas Parade, Channel 8 filmed various area marching bands for tv spots advertising the parade. Marching band students brought in their uniforms to school that day and filmed it during concert band practice in the choir room. Amy Wooten was selected the one to deliver the line “Hi. We’re the Sailor Marching Band and we’re going to be in the TV8/American Legion Christmas Parade. Come and see us November 28” while the band played Angel’s We Have Heard On High.
 
 {empty} +
 
@@ -493,7 +493,7 @@ image::1993-1994vhsmb03.jpg[,role="text-center"]
 
 At the end of 1994 it was time for Mr. Henry to pass the torch to the next generation of the Vermilion Sailor Marching Band. The previous fall, the senior class closed their show to MacArthur Park. This was quite fitting since it was a show written during his tenure under Mr. Burt. Together they had made the routine a staple and the seniors were all in to make sure it was on the field one last time. His legacy to the music program includes the annual Vermilion Musicals, Vermilion Sailor Jazz Band, Vermilion Brass Group, Eighth Grade Night, The Cleveland Christmas Parade, the transformation of the music booster program, and his students who high-stepped and bowed in their final home show.
 
-Continue on to link:/testsite/vermilion-band-history/the-feature-down-in-front[The Feature Down In Front (1994 - 2007)] to read about the next chapter in the band’s history under the leadership of Joseph Price.
+Continue on to link:{baseurl}/vermilion-band-history/the-feature-down-in-front[The Feature Down In Front (1994 - 2007)] to read about the next chapter in the band’s history under the leadership of Joseph Price.
 
 === Breaking Down the Sections To Memorize The Music
 
@@ -501,16 +501,16 @@ Continue on to link:/testsite/vermilion-band-history/the-feature-down-in-front[T
 
 To ease the consumption of the of the band history, it has been broken up into several chapters covering the eras and major directors that shaped them. This history is full of images and video references from the link:https://www.youtube.com/@vermilionsailoralumniband[Vermilion Sailor Alumni Band YouTube Page]. It can be read in any order and can cover just the areas that a reader might be most interested. The chapters with summaries are broken down as follows:
 
-* Introduction: link:/testsite/vermilion-band-history[Now Hear This! Presenting the Vermilion Sailor Marching Band!] 
-* Preface: link:/testsite/vermilion-band-history/musical-roots[Vermilion's Musical Roots] covers Vermilion's musical roots, Crystal Beach, Elberta Beach, and Vermilion-On-The-Lake.
-* Chapter 1: link:/testsite/vermilion-band-history/pregame[Pregame (1874-1928)] covers the early Vermilion school system, link:/testsite/vermilion-high-school-band-directors/eugene-ackley/[Eugene Ackley], the Erie County Band, and the start of the link:/testsite/vermilion-high-school-orchestra/[Vermilion Orchestras].
-* Chapter 2: link:/testsite/vermilion-band-history/marching-into-the-stadium[Marching Into The Stadium (1929 - 1955)] goes over the link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman] era, the first majorettes, the conversion of the link:/testsite/vermilion-high-school-orchestra/[Vermilion Orchestras] to the Vermilion Concert Band, the start of the link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Band], link:/testsite/songs/fight-song-anchors-away/[Fight Song], and link:/testsite/songs/alma-mater/[Alma Mater].
-* Chapter 3: link:/testsite/vermilion-band-history/fanfares[Fanfares (1955 - 1979)] details the link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt] timeline, the roots of the marching bands style, notable performances, the historic marching band uniform, the start of many traditions, Vermilion festivals, and the Ducky.
-* Chapter 4: link:/testsite/vermilion-band-history/stepping-off[Stepping Off (1979 - 1994)] covers the link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry] era, a breakdown of the components that goes into a Vermilion Sailor Marching Band Show, corporate sponsorship, the band picnic, Tommy Perkins, the Cleveland Christmas Parade, the founding of the link:/testsite/vermilion-bands/alumni/[Vermilion Sailor Alumni Band], and Soundsations adding live instrumentation.
-* Chapter 5: link:/testsite/vermilion-band-history/the-feature-down-in-front[The Feature Down In Front (1994 - 2007)] details link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]'s leadership, the changing of uniforms, the long term contribution of the Color Guard, the Madrigral Festival, link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]'s final alumni show, and Winter Guard.
-* Chapter 6: link:/testsite/vermilion-band-history/a-kaleidoscope-drill[A Kaleidoscope Drill (2007 - 2016)] covers the timeline for the directorships of link:/testsite/vermilion-high-school-band-directors/kurt-dieringer/[Kurt Dieringer],link:/testsite/vermilion-high-school-band-directors/nathaniel-oshaben/[Nathaniel Oshaben], link:/testsite/vermilion-high-school-band-directors/mike-komperda/[Mike Komperda], and link:/testsite/vermilion-high-school-band-directors/rachel-caldwell/[Rachel Caldwell]. The band changed to a corp style, added Future Sailor Night, and Winter Guard starts to succeed in a big way.
-* Chapter 7: link:/testsite/vermilion-band-history/high-step[High Step (2016-Current)] details the arrival of link:/testsite/vermilion-high-school-band-directors/kimberly-judd/[Kimberly Judd], pushback from the community on changes to the band, and a leadership that cements the future success of the Vermilion Band Program.
-* Epilogue: link:/testsite/vermilion-band-history/victory-march[Victory March] focuses on the overall success of the band program and the Vermilion High School Hall of Fame.
+* Introduction: link:{baseurl}/vermilion-band-history[Now Hear This! Presenting the Vermilion Sailor Marching Band!] 
+* Preface: link:{baseurl}/vermilion-band-history/musical-roots[Vermilion's Musical Roots] covers Vermilion's musical roots, Crystal Beach, Elberta Beach, and Vermilion-On-The-Lake.
+* Chapter 1: link:{baseurl}/vermilion-band-history/pregame[Pregame (1874-1928)] covers the early Vermilion school system, link:{baseurl}/vermilion-high-school-band-directors/eugene-ackley/[Eugene Ackley], the Erie County Band, and the start of the link:{baseurl}/vermilion-high-school-orchestra/[Vermilion Orchestras].
+* Chapter 2: link:{baseurl}/vermilion-band-history/marching-into-the-stadium[Marching Into The Stadium (1929 - 1955)] goes over the link:{baseurl}/vermilion-high-school-band-directors/james-hoffman/[James Hoffman] era, the first majorettes, the conversion of the link:{baseurl}/vermilion-high-school-orchestra/[Vermilion Orchestras] to the Vermilion Concert Band, the start of the link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Band], link:{baseurl}/songs/fight-song-anchors-away/[Fight Song], and link:{baseurl}/songs/alma-mater/[Alma Mater].
+* Chapter 3: link:{baseurl}/vermilion-band-history/fanfares[Fanfares (1955 - 1979)] details the link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt] timeline, the roots of the marching bands style, notable performances, the historic marching band uniform, the start of many traditions, Vermilion festivals, and the Ducky.
+* Chapter 4: link:{baseurl}/vermilion-band-history/stepping-off[Stepping Off (1979 - 1994)] covers the link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry] era, a breakdown of the components that goes into a Vermilion Sailor Marching Band Show, corporate sponsorship, the band picnic, Tommy Perkins, the Cleveland Christmas Parade, the founding of the link:{baseurl}/vermilion-bands/alumni/[Vermilion Sailor Alumni Band], and Soundsations adding live instrumentation.
+* Chapter 5: link:{baseurl}/vermilion-band-history/the-feature-down-in-front[The Feature Down In Front (1994 - 2007)] details link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]'s leadership, the changing of uniforms, the long term contribution of the Color Guard, the Madrigral Festival, link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]'s final alumni show, and Winter Guard.
+* Chapter 6: link:{baseurl}/vermilion-band-history/a-kaleidoscope-drill[A Kaleidoscope Drill (2007 - 2016)] covers the timeline for the directorships of link:{baseurl}/vermilion-high-school-band-directors/kurt-dieringer/[Kurt Dieringer],link:{baseurl}/vermilion-high-school-band-directors/nathaniel-oshaben/[Nathaniel Oshaben], link:{baseurl}/vermilion-high-school-band-directors/mike-komperda/[Mike Komperda], and link:{baseurl}/vermilion-high-school-band-directors/rachel-caldwell/[Rachel Caldwell]. The band changed to a corp style, added Future Sailor Night, and Winter Guard starts to succeed in a big way.
+* Chapter 7: link:{baseurl}/vermilion-band-history/high-step[High Step (2016-Current)] details the arrival of link:{baseurl}/vermilion-high-school-band-directors/kimberly-judd/[Kimberly Judd], pushback from the community on changes to the band, and a leadership that cements the future success of the Vermilion Band Program.
+* Epilogue: link:{baseurl}/vermilion-band-history/victory-march[Victory March] focuses on the overall success of the band program and the Vermilion High School Hall of Fame.
 
 
 _Editor notes:_

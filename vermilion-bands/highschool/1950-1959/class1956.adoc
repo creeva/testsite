@@ -9,7 +9,7 @@ title: 1955-1956 Vermilion Sailor Marching Band
 
 image::1956-Marching-Band.jpg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -41,4 +41,4 @@ image::The_Sandusky_Register_Tue__Nov_1__1955_.jpg[,role="text-center"]
 image::The_Sandusky_Register_Wed__Nov_16__1955_.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

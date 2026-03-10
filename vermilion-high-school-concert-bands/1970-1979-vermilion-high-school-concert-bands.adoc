@@ -12,7 +12,7 @@ image::1970con.jpg[,role="text-center"]
 [.text-center]
 1970 Vermilion High School Concert Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -25,7 +25,7 @@ image::1971con.jpg[,role="text-center"]
 [.text-center]
 1971 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -38,7 +38,7 @@ image::1971varband.jpg[,role="text-center"]
 [.text-center]
 1971 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -53,7 +53,7 @@ image::1972conband.jpg[,role="text-center"]
 [.text-center]
 1972 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -66,7 +66,7 @@ image::1972varband.jpg[,role="text-center"]
 [.text-center]
 1972 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -79,7 +79,7 @@ image::1973sym.jpg[,role="text-center"]
 [.text-center]
 1973 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Listed in Image
 
@@ -92,7 +92,7 @@ image::1973var.jpg[,role="text-center"]
 [.text-center]
 1973 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -107,7 +107,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1974 Vermilion High School Concert Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -120,7 +120,7 @@ image::1975sym.jpg[,role="text-center"]
 [.text-center]
 1975 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -133,7 +133,7 @@ image::1975var1.jpg[,role="text-center"]
 [.text-center]
 1975 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: In Image
 
@@ -146,7 +146,7 @@ image::1975var2.jpg[,role="text-center"]
 [.text-center]
 1975 Vermilion High School Varsity Band 2
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: In Image
 
@@ -159,7 +159,7 @@ image::1975frosh.jpg[,role="text-center"]
 [.text-center]
 1975 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: In Image
 
@@ -172,7 +172,7 @@ image::1976frosh.jpg[,role="text-center"]
 [.text-center]
 1976 Vermilion High School Freshmen Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Unlisted
 
@@ -185,7 +185,7 @@ image::1977sym.jpg[,role="text-center"]
 [.text-center]
 1977 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Listed in Image
 
@@ -198,7 +198,7 @@ image::1977var.jpg[,role="text-center"]
 [.text-center]
 1977 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Listed in Image
 
@@ -211,7 +211,7 @@ image::1977frosh.jpg[,role="text-center"]
 [.text-center]
 1977 Vermilion High School Freshmen Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Listed in Image
 
@@ -224,7 +224,7 @@ image::1978sym.jpg[,role="text-center"]
 [.text-center]
 1978 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Listed in Image
 
@@ -237,7 +237,7 @@ image::1978var.jpg[,role="text-center"]
 [.text-center]
 1978 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Listed in Image
 
@@ -250,7 +250,7 @@ image::1978frosh.jpg[,role="text-center"]
 [.text-center]
 1978 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Listed in Image
 
@@ -263,7 +263,7 @@ image::1979sym.jpg[,role="text-center"]
 [.text-center]
 1979 Vermilion High School Symphonic Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Listed in Image
 
@@ -276,7 +276,7 @@ image::1979var.jpg[,role="text-center"]
 [.text-center]
 1979 Vermilion High School Varsity Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Listed in Image
 
@@ -289,7 +289,7 @@ image::1979frosh.jpg[,role="text-center"]
 [.text-center]
 1979 Vermilion High School Freshman Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Members: Listed in Image
 
@@ -298,4 +298,4 @@ Image Gallery:
 * link:https://photos.app.goo.gl/x3GhP5cewTM1JjHY8[1979 Vermilion High School Yearbook]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]

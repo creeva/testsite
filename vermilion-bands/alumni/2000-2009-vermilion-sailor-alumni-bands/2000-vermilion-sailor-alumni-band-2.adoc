@@ -9,7 +9,7 @@ title: 2000 Vermilion Sailor Alumni Band
 
 image::alumnigeneric.jpeg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 *Video Playlist:*
 
@@ -19,4 +19,4 @@ Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David
 video::-zqwpPn2IkQ[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/testsite/vermilion-bands/alumni/[rching Bands] – link:/testsite/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/[2000-2009 Vermilion Sailor Alumni Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:{baseurl}/vermilion-bands/alumni/[rching Bands] – link:{baseurl}/vermilion-bands/alumni/2000-2009-vermilion-sailor-alumni-bands/[2000-2009 Vermilion Sailor Alumni Bands]

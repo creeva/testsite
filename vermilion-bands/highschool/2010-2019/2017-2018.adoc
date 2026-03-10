@@ -46,4 +46,4 @@ The younger students will join the marching band on the field during the half ti
 The mini majorette and color guard groups are scheduled to be starting the first week of school, and will be open to students in kindergarten through eighth grade. Future Sailor Night is scheduled for Friday, October 6, when the Vermilion football team takes on Port Clinton at home.
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

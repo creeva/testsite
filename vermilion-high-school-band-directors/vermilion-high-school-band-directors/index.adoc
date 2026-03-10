@@ -10,48 +10,48 @@ title: Vermilion High School Band Directors
 image::ackley2.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/eugene-ackley/[Eugene Ackley 1910-?]
+link:{baseurl}/vermilion-high-school-band-directors/eugene-ackley/[Eugene Ackley 1910-?]
 
 image::1925orchestra.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/flossie-mae-andrews-lee/[Flossie Mae Andrews Lees 1924-1927]
+link:{baseurl}/vermilion-high-school-band-directors/flossie-mae-andrews-lee/[Flossie Mae Andrews Lees 1924-1927]
 
 image::1929orch.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/m-e-hutton/[M. E. Hutton 1927-1929]
+link:{baseurl}/vermilion-high-school-band-directors/m-e-hutton/[M. E. Hutton 1927-1929]
 
 image::1929classorch.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/clark-carmean/[Clark Carmean 1928-1929]
+link:{baseurl}/vermilion-high-school-band-directors/clark-carmean/[Clark Carmean 1928-1929]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman 1928-1955]
+link:{baseurl}/vermilion-high-school-band-directors/james-hoffman/[James Hoffman 1928-1955]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt 1955-1979]
+link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt 1955-1979]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry 1979-1994]
+link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry 1979-1994]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price 1994-2007]
+link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price 1994-2007]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/kurt-dieringer/[Kurt Dieringer 2007-2009]
+link:{baseurl}/vermilion-high-school-band-directors/kurt-dieringer/[Kurt Dieringer 2007-2009]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/nathaniel-oshaben/[Nathaniel Oshaben 2009-2014]
+link:{baseurl}/vermilion-high-school-band-directors/nathaniel-oshaben/[Nathaniel Oshaben 2009-2014]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/mike-komperda/[Mike Komperda 2014-2015]
+link:{baseurl}/vermilion-high-school-band-directors/mike-komperda/[Mike Komperda 2014-2015]
 
 image::caldwell.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/rachel-caldwell/[Rachel Caldwell 2015-2016]
+link:{baseurl}/vermilion-high-school-band-directors/rachel-caldwell/[Rachel Caldwell 2015-2016]
 
 [.text-center]
-link:/testsite/vermilion-high-school-band-directors/kimberly-judd/[Kimberly Judd 2016-Current]
+link:{baseurl}/vermilion-high-school-band-directors/kimberly-judd/[Kimberly Judd 2016-Current]

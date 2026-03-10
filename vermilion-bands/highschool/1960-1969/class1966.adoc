@@ -7,7 +7,7 @@ title: 1965-1966 Vermilion Sailor Marching Band
 
 === 1965-1966 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Head Majorette: Carol Wharton
 
@@ -93,4 +93,4 @@ image::12-9-1965.jpeg[,role="text-center"]
 image::6-2-1966.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]

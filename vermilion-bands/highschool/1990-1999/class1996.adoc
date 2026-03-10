@@ -7,7 +7,7 @@ title: 1995-1996 Vermilion Sailor Marching Band
 
 === 1995-1996 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Head Majorette: Adrien Hess
 
@@ -197,4 +197,4 @@ image::6-4-1996.jpeg[,role="text-center"]
 image::6-25-1996.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]

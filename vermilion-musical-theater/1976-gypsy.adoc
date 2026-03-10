@@ -88,4 +88,4 @@ image::1977gyp6.jpeg[,role="text-center"]
 image::1977gyp7.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]
+link:{baseurl}/vermilion-musical-theater/[Vermilion Musical Theater]

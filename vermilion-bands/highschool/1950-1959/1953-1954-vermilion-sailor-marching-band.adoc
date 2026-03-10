@@ -9,7 +9,7 @@ title: 1953-1954 Vermilion Sailor Marching Band
 
 image::1954band.jpg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:{baseurl}/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Head Majorette: Nadine Miskow
 
@@ -30,4 +30,4 @@ Members: Jeanette Wiseman, Nancy Mehnert, Barbara Wright, Nadine Miskow, Peggy D
 
 image::1954majwrite.jpg[,role="text-center"]
 
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

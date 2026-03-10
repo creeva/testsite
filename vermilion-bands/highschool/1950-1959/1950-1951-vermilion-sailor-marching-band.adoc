@@ -9,7 +9,7 @@ title: 1950-1951 Vermilion Sailor Marching Band
 
 image::1951band.jpg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:{baseurl}/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Members: Hollosy, Carey, Widdowson, Jackson, Neuber, Teravsky, Jantz, Thayer, Wieneke, Schweinsberg, Rathbun, Jones, Ridenour, Calvert, Mollohan, Haber, Williams, Smith, D. Sandak, Carter, Goldsmith, Kovacs, Poyer, Cone, R. Sandak, Maurer, Seatter
 
@@ -26,4 +26,4 @@ Members: M. Smith, Donna Reutenik, Elona Peck, Carol Lydic, Mary Ann Wlodarsky
 
 image::1951bandmajwrite.jpg[,role="text-center"]
 
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

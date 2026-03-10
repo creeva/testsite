@@ -64,4 +64,4 @@ image::1984f10.jpeg[,role="text-center"]
 image::1984f11.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]
+link:{baseurl}/vermilion-musical-theater/[Vermilion Musical Theater]

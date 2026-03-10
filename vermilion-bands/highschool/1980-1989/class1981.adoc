@@ -7,7 +7,7 @@ title: 1980-1981 Vermilion Sailor Marching Band
 
 === 1980-1981 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Head Majorette: Suzanne Kendra
 
@@ -60,4 +60,4 @@ image::11-20-1980.jpeg[,role="text-center"]
 image::4-23-1981.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1980-1989/[1980-1989 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1980-1989/[1980-1989 Vermilion Sailor Marching Bands]

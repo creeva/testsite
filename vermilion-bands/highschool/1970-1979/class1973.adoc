@@ -7,7 +7,7 @@ title: 1972-1973 Vermilion Sailor Marching Band
 
 === 1972-1973 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Head Majorette: Jennifer Conn
 
@@ -60,4 +60,4 @@ image::3-15-1973.jpeg[,role="text-center"]
 image::3-22-1973.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]

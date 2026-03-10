@@ -47,4 +47,4 @@ Image Galleries:
 image::1942orchwrite.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-high-school-orchestra/[Vermilion High School Orchestras]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-high-school-orchestra/[Vermilion High School Orchestras]

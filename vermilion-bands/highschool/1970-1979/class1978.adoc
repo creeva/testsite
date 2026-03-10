@@ -7,7 +7,7 @@ title: 1977-1978 Vermilion Sailor Marching Band
 
 === 1977-1978 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Head Majorette: Pam Becker
 
@@ -40,4 +40,4 @@ image::11-10-1977.jpeg[,role="text-center"]
 image::12-8-1977.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1970-1979/[1970-1979 Vermilion Sailor Marching Bands]

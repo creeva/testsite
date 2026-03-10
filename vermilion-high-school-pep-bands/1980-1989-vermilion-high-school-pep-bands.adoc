@@ -12,7 +12,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1980 Vermilion Sailor Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -25,7 +25,7 @@ image::1981pep.jpg[,role="text-center"]
 [.text-center]
 1981 Vermilion Sailor Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -38,7 +38,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1982 Vermilion Sailor Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -51,7 +51,7 @@ image::1983pep.jpeg[,role="text-center"]
 [.text-center]
 1983 Vermilion Sailor Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -64,7 +64,7 @@ image::1984pep.jpg[,role="text-center"]
 [.text-center]
 1984 Vermilion Sailor Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -77,7 +77,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1985 Vermilion Sailor Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -90,7 +90,7 @@ image::1986pep.jpg[,role="text-center"]
 [.text-center]
 1986 Vermilion Sailor Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -103,7 +103,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1987 Vermilion Sailor Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -116,7 +116,7 @@ image::Sea-of-Faces.jpg[,role="text-center"]
 [.text-center]
 1988 Vermilion Sailor Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -129,7 +129,7 @@ image::1989pep.jpeg[,role="text-center"]
 [.text-center]
 1989 Vermilion Sailor Pep Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/david-henry/[David Henry]
+Director: link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry]
 
 Members: Unlisted
 
@@ -138,4 +138,4 @@ Image Gallery:
 * link:https://photos.app.goo.gl/aL9mcTBFqed4t8LT7[1989 Vermilion High School Yearbook]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]

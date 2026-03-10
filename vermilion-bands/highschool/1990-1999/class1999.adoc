@@ -9,7 +9,7 @@ title: 1998-1999 Vermilion Sailor Marching Band
 
 image::1998-1999-Sailor-Marching-Band_4005235214_o.jpeg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 Head Majorette: Beth Kuhl
 
@@ -64,4 +64,4 @@ _The 1998-99 Majorettes and Flags were led on the field this year by Head Majore
 _In the off-season, the flag corps attended a dance camp that was held at the Winter Flag Guard Festival. They took first place in the competition held there. The majorettes were equally rewarded with a first at the '98 Cleveland Christmas Parade. An already good year was made great when both squads performed and attended training sessions at Disney World when the marching band traveled there in the spring._
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1990-1999/[1990-1999 Vermilion Sailor Marching Band]

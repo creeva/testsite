@@ -9,7 +9,7 @@ title: 1939-1940 Vermilion Sailor Marching Band
 
 image::1940band.jpg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:{baseurl}/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Members: N. Peasley, E. Kropf, J. Ball, E. Schwensen, P. Trinter, I. Fandrich, C. Kishman, P. Yaggy, G. Derby, M. Barnes, M. Ball, J. Parsons, E. Kelm, K. Kropf, C. Moes, D. Poyer, R. Darby, B. Ward, E. Boone, P. Cipra, D. Trinter, F. Moes, R. Lewis, Beetler, R. Lingelbach, D. Krapp, L. Hull
 
@@ -30,4 +30,4 @@ There are a few members of our high school band chosen to play with the Erie Cou
 
 image::The_Sandusky_Register_Wed__Jan_3__1940_.jpg[,role="text-center"]
 
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1940-1949-vermilion-sailor-marching-bands/[1940-1949 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1940-1949-vermilion-sailor-marching-bands/[1940-1949 Vermilion Sailor Marching Bands]

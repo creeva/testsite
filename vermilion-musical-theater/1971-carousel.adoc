@@ -56,4 +56,4 @@ image::1971c11.jpg[,role="text-center"]
 image::1971c12.jpg[,role="text-center"]
 
 [.text-center]
-+ link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]
++ link:{baseurl}/vermilion-musical-theater/[Vermilion Musical Theater]

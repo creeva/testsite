@@ -9,7 +9,7 @@ title: 1941-1942 Vermilion Sailor Marching Band
 
 image::1942band.jpg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
+Director: link:{baseurl}/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]
 
 Members: E. Lingelbach, E. Kropf, B. Ward, G. Derby, I. Fandrich, D. Reutner, N. Peasley, E. Schwensen, V. Dumas, D. Meifert, J. Ball, P. Malcomson, O. Zelinski, M. Gebhardt, D. Reutner, B. Trinter, C. Kishman, L. Klucas, C. Smith, K. Kropf, E. Kelm
 
@@ -28,4 +28,4 @@ image::The_Sandusky_Register_Sat__Sep_27__1941_.jpg[,role="text-center"]
 image::The_Sandusky_Register_Thu__Feb_26__1942_.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1940-1949-vermilion-sailor-marching-bands/[1940-1949 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1940-1949-vermilion-sailor-marching-bands/[1940-1949 Vermilion Sailor Marching Bands]

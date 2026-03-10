@@ -85,4 +85,4 @@ Image Gallery:
 
 image::1929classorchwrite.jpg[,role="text-center"]
 
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-high-school-orchestra/[Vermilion High School Orchestras]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-high-school-orchestra/[Vermilion High School Orchestras]

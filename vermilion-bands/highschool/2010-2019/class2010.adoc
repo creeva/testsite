@@ -7,7 +7,7 @@ title: 2009-2010 Vermilion Sailor Marching Band
 
 === 2009-2010 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/nathaniel-oshaben/[Nathaniel Oshaben]
+Director: link:{baseurl}/vermilion-high-school-band-directors/nathaniel-oshaben/[Nathaniel Oshaben]
 
 *Image Galleries:*
 
@@ -28,4 +28,4 @@ image::VLS-2010_pdf__page_46_of_97_16.jpg[,role="text-center"]
 image::VLS-2010_pdf__page_44_of_97_23.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/2010-2019/[2010-2019 Vermilion Sailor Marching Bands]

@@ -9,7 +9,7 @@ title: 1954-1955 Vermilion Sailor Marching Band
 
 image::1955-Band.jpg[,role="text-center"]
 
-Director – link:/testsite/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]  + President – Richard Greene  + Secretary – Hannah Dickason  + Treasurer – Ronnie Eppler  + Student Director – Leslie Roberts  + Assistant Student Director – Jean Saskely  + Head Majorette – Nadine Miskow
+Director – link:{baseurl}/vermilion-high-school-band-directors/james-hoffman/[James Hoffman]  + President – Richard Greene  + Secretary – Hannah Dickason  + Treasurer – Ronnie Eppler  + Student Director – Leslie Roberts  + Assistant Student Director – Jean Saskely  + Head Majorette – Nadine Miskow
 
 Members: L. Roberts, K. Peterka, D. Kubishke, M. Hollosy, P. Reiber, J. Finnegan, L. Peck, J. Refiert, L. Widdowson, R. Boughton, C. Guthrie, J. Lowery, S. Malone, R. Eppler, R. Greene, M. Anastas, M. Hunter, C. Finnegan, Lynn Roberts, C. Ours, J. Goolsby, D. Dickerhoff, D. Hall, B. Brumback, K. Buell, C. Widdowson, P. Thayer, B. Ruseel, P. Noltner, J. Hoffman, H. Dickason, C. Gregg, C. Kyle, K. Hollosy, S. Yeamans, D. Hurd, J. Seekley, M. Havrulle, P. Jackson, A. Hassenflue, J. Lindsay, D. Stark, J. Kropf, B. Ennis, E. Todd, J. Wiseman, E. Shook, M. David, B. Wright, N. Miskow
 
@@ -35,4 +35,4 @@ _The VHS Band presented their spring concert on May 6, with Mr. J. L. Hoffman, i
 image::sandusky-register-star-news-Apr-08-1955-p-10.png[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1950-1959/[1950-1959 Vermilion Sailor Marching Bands]

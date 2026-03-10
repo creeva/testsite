@@ -106,4 +106,4 @@ image::1977ok10.jpeg[,role="text-center"]
 image::1977ok11.jpeg[,role="text-center"]
 
 [.text-center]
-link:/testsite/vermilion-musical-theater/[Vermilion Musical Theater]
+link:{baseurl}/vermilion-musical-theater/[Vermilion Musical Theater]

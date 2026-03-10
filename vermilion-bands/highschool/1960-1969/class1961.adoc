@@ -7,7 +7,7 @@ title: 1960-1961 Vermilion Sailor Marching Band
 
 === 1960-1961 Vermilion Sailor Marching Band
 
-Director: link:/testsite/vermilion-high-school-band-directors/william-burt/[William Burt]
+Director: link:{baseurl}/vermilion-high-school-band-directors/william-burt/[William Burt]
 
 Head Majorette: Judith Creel
 
@@ -31,4 +31,4 @@ image::The_Evening_Independent_Mon__Oct_17__1960_.jpg[,role="text-center"]
 image::The_Evening_Independent_Wed__Oct_12__1960_.jpg[,role="text-center"]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:/testsite/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands] – link:{baseurl}/vermilion-bands/highschool/1960-1969/[1960-1969 Vermilion Sailor Marching Bands]

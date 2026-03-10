@@ -9,7 +9,7 @@ title: 2022 Vermilion Sailor Alumni Band
 
 image::IMG_6482.jpg[,role="text-center"]
 
-Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
 
 *Image Galleries:*
 
@@ -23,4 +23,4 @@ Director: link:/testsite/vermilion-high-school-band-directors/joseph-price/[Jose
 video::YFsRfxQ99HM[youtube, width=640, height=360, align=center]
 
 [.text-center]
-link:/testsite/[Vermilion Bands] – link:/testsite/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:/testsite/vermilion-bands/alumni/[rching Bands] – link:/testsite/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/[2010-2019 Vermilion Sailor Alumni Bands]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:{baseurl}/vermilion-bands/alumni/[rching Bands] – link:{baseurl}/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/[2010-2019 Vermilion Sailor Alumni Bands]
