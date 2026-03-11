@@ -14,6 +14,14 @@ image::2002-2003-Vermilion-Sailor-Marching-Band_4187767729_o.jpg[,600]
 
 The following list includes songs that the Vermilion Sailor or the Sailor Alumni Marching Bands have played on the field or in the stands. The list is by no means complete and new songs will be added based on the memories of our musicians. An link:https://music.apple.com/us/playlist/vermilion-sailor-alumni-band/pl.u-oZylD01t5AJz7[Apple Music Playlist] based on songs played by Vermilion musical groups is available.
 
+{empty} +
+
+[.text-center.rounded]
+image::1976-sailor-Marching-Band.jpg[,600,role="text-center"]
+
+{empty} +
+
+
 *Marching Band Song List:*
 
 * link:{baseurl}/songs/0-9/1812-overture/[1812 Overture]
@@ -49,14 +57,14 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * link:{baseurl}/songs/b/bite-the-hand-that-feeds/[Bite The Hand That Feeds]
 * link:{baseurl}/songs/b/blame-it-on-the-boogie/[Blame It On The Boogie]
 * link:{baseurl}/songs/b/blinding-lights/[Blinding Lights]
-* Bohemian Rhapsody
+* link:{baseurl}/songs/b/bohemian-rhapsody/[Bohemian Rhapsody]
 * Boogie Woogie Bugle Boy
-* Boot Scootin Boogie
+* link:{baseurl}/songs/b/boot-scootin-boogie/[Boot Scootin Boogie]
 * Bugler's Holiday
-* Bully
+* link:{baseurl}/songs/b/bully/[Bully]
 * link:{baseurl}/songs/b/by-the-sea/[By The Sea]
 * By The Time I Get to Phoenix
-* Cadence
+* link:{baseurl}/songs/c/cadence/[Cadence]
 * Can You Feel The Love Tonight
 * Can't Turn You Loose
 * California
@@ -344,6 +352,14 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * A Young Man's Mind
 * Zoot Suit Riot
 
+{empty} +
+
+[.text-center.rounded]
+image::1975sym.jpg[,600,role="text-center"]
+
+{empty} +
+
+
 === Concert Band Songs
 
 * An American in Paris
@@ -385,6 +401,14 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Washington Post
 * The Wizard of Oz Fantasy
 
+{empty} +
+
+[.text-center.rounded]
+image::1981jazz.jpg[,600,role="text-center"]
+
+{empty} +
+
+
 *Jazz/Stage/Dance Band Songs*
 
 * Birdland
@@ -409,6 +433,13 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Starburst
 * Summer Samba
 * Sweet Sue
+
+{empty} +
+
+[.text-center.rounded]
+image::1928orchestra.jpg[,600,role="text-center"]
+
+{empty} +
 
 === Orchestra Songs
 

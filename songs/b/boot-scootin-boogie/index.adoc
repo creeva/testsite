@@ -1,0 +1,26 @@
+---
+layout: default
+title: Boot Scootin Boogie
+---
+
+== Boot Scootin Boogie
+
+{empty} +
+
+.1993-1994 Vermilion Sailor Marching Band - Boot Scootin Boogie -  V Elyria
+video::UyGhHeZ-Ok0[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1993-1994 Vermilion Sailor Marching Band - Boot Scootin Boogie - V Southview
+video::gXmj98qXWQk[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

@@ -1,0 +1,31 @@
+---
+layout: default
+title: Bohemian Rhapsody
+---
+
+== Bohemian Rhapsody
+
+{empty} +
+
+.2013-2014 Vermilion Sailor Marching Band - Bohemian Rhapsody
+video::TU5JQ1UUCiI[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2013-2014 Vermilion Sailor Marching Band - Bohemian Rhapsody - Spencerville 10 25 2013
+video::BH26zUOFDHk[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.Vermilion Sailor Marching Band - Bohemian Rhapsody - 10-21-2022
+video::6qvz-9cgFUQ[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

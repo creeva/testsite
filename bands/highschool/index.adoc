@@ -3,9 +3,7 @@ layout: default
 title: Vermilion Sailor Marching Bands
 ---
 
-= Vermilion Sailor Marching Bands
-
-=== Vermilion Sailor Marching Bands
+== Vermilion Sailor Marching Bands
 
 [.text-center]
 link:{baseurl}/vermilion-bands/highschool/1930-1939-vermilion-sailor-marching-band/[1930-1939 Vermilion Sailor Marching Band]
