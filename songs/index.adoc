@@ -16,45 +16,45 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 
 *Marching Band Song List:*
 
-* link:{baseurl}/songs/1812-overture/[1812 Overture]
-* link:{baseurl}/songs/aftershock/[Aftershock]
-* link:{baseurl}/songs/after-the-love-is-gone/[After The Love Is Gone]
-* link:{baseurl}/songs/alma-mater/[Alma Mater]
-* link:{baseurl}/songs/alexanders-ragtime-band/[Alexander's Rag Time Band]
-* link:{baseurl}/songs/alive-and-amplified/[Alive and Amplified]
-* link:{baseurl}/songs/all-at-once/[All At Once]
-* link:{baseurl}/songs/all-i-need-is-a-miracle/[All I Need is a Miracle]
-* link:{baseurl}/songs/america-the-beautiful/[America The Beautiful]
-* link:{baseurl}/songs/american-woman/[American Woman]
+* link:{baseurl}/songs/0-9/1812-overture/[1812 Overture]
+* link:{baseurl}/songs/a/aftershock/[Aftershock]
+* link:{baseurl}/songs/a/after-the-love-is-gone/[After The Love Is Gone]
+* link:{baseurl}/songs/a/alma-mater/[Alma Mater]
+* link:{baseurl}/songs/a/alexanders-ragtime-band/[Alexander's Rag Time Band]
+* link:{baseurl}/songs/a/alive-and-amplified/[Alive and Amplified]
+* link:{baseurl}/songs/a/all-at-once/[All At Once]
+* link:{baseurl}/songs/a/all-i-need-is-a-miracle/[All I Need is a Miracle]
+* link:{baseurl}/songs/a/america-the-beautiful/[America The Beautiful]
+* link:{baseurl}/songs/a/american-woman/[American Woman]
 * Angels We Have Heard On High
-* link:{baseurl}/songs/anyway-you-want-it/[Anyway You Want It]
-* link:{baseurl}/songs/are-you-ready-for-this/[Are You Ready For This]
-* link:{baseurl}/songs/armada/[Armada]
-* link:{baseurl}/songs/artistry-and-rhythm/[Artistry and Rhythm]
-* link:{baseurl}/songs/at-the-hop/[At The Hop]
-* link:{baseurl}/songs/avalon/[Avalon]
-* link:{baseurl}/songs/bad-medicine/[Bad Medicine]
-* link:{baseurl}/songs/back-to-the-future/[Back To The Future]
-* link:{baseurl}/songs/back-in-the-ussr/[Back in the USSR]
+* link:{baseurl}/songs/a/anyway-you-want-it/[Anyway You Want It]
+* link:{baseurl}/songs/a/are-you-ready-for-this/[Are You Ready For This]
+* link:{baseurl}/songs/a/armada/[Armada]
+* link:{baseurl}/songs/a/artistry-and-rhythm/[Artistry and Rhythm]
+* link:{baseurl}/songs/a/at-the-hop/[At The Hop]
+* link:{baseurl}/songs/a/avalon/[Avalon]
+* link:{baseurl}/songs/b/bad-medicine/[Bad Medicine]
+* link:{baseurl}/songs/b/back-to-the-future/[Back To The Future]
+* link:{baseurl}/songs/b/back-in-the-ussr/[Back in the USSR]
 * Bandstand Boogie
-* link:{baseurl}/songs/barbara-ann/[Barbara Ann]
-* link:{baseurl}/songs/bare-necessities/[Bare Necessities]
-* link:{baseurl}/songs/basin-street-blues/[Basin Street Blues]
-* link:{baseurl}/songs/beat-it/[Beat It]
-* link:{baseurl}/songs/beatles-mashup/[Beatles Mash Up]
+* link:{baseurl}/songs/b/barbara-ann/[Barbara Ann]
+* link:{baseurl}/songs/b/bare-necessities/[Bare Necessities]
+* link:{baseurl}/songs/b/basin-street-blues/[Basin Street Blues]
+* link:{baseurl}/songs/b/beat-it/[Beat It]
+* link:{baseurl}/songs/b/beatles-mashup/[Beatles Mash Up]
 * Beginnings
-* link:{baseurl}/songs/bend-me-shake-me/[Bend Me Shake Me]
-* link:{baseurl}/songs/big-band-beats/[Big Band Beats]
+* link:{baseurl}/songs/b/bend-me-shake-me/[Bend Me Shake Me]
+* link:{baseurl}/songs/b/big-band-beats/[Big Band Beats]
 * Birdland
-* link:{baseurl}/songs/bite-the-hand-that-feeds/[Bite The Hand That Feeds]
-* link:{baseurl}/songs/blame-it-on-the-boogie/[Blame It On The Boogie]
-* link:{baseurl}/songs/blinding-lights/[Blinding Lights]
+* link:{baseurl}/songs/b/bite-the-hand-that-feeds/[Bite The Hand That Feeds]
+* link:{baseurl}/songs/b/blame-it-on-the-boogie/[Blame It On The Boogie]
+* link:{baseurl}/songs/b/blinding-lights/[Blinding Lights]
 * Bohemian Rhapsody
 * Boogie Woogie Bugle Boy
 * Boot Scootin Boogie
 * Bugler's Holiday
 * Bully
-* link:{baseurl}/songs/by-the-sea/[By The Sea]
+* link:{baseurl}/songs/b/by-the-sea/[By The Sea]
 * By The Time I Get to Phoenix
 * Cadence
 * Can You Feel The Love Tonight
@@ -64,7 +64,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Can't Wait To Be King
 * Captain America March
 * Catch That Pepsi Spirit
-* link:{baseurl}/songs/celebrate-a-celebration/[Celebrate a Celebration]
+* link:{baseurl}/songs/c/celebrate-a-celebration/[Celebrate a Celebration]
 * Chameleon
 * Charge
 * Charleston
@@ -98,13 +98,13 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Enter Sandman
 * Everybody's Everything
 * Everything is Awesome
-* link:{baseurl}/songs/everythings-coming-up-roses/[Everything's Coming Up Roses]
+* link:{baseurl}/songs/e/everythings-coming-up-roses/[Everything's Coming Up Roses]
 * Eye of the Tiger
 * Fame
-* link:{baseurl}/songs/fanfares/[Fanfares]
+* link:{baseurl}/songs/f/fanfares/[Fanfares]
 * Feels So Good
 * Felize Navidad
-* link:{baseurl}/songs/fight-song-anchors-away/[Fight Song -- Anchors Aweigh]
+* link:{baseurl}/songs/f/fight-song-anchors-away/[Fight Song -- Anchors Aweigh]
 * Final Countdown
 * Firework
 * Footloose
@@ -140,8 +140,8 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Hooray for Hollywood
 * How Far I'll Go
 * Hurts So Bad
-* link:{baseurl}/songs/i-believe/[I Believe]
-* link:{baseurl}/songs/i-can-see-for-miles/[I Can See For Miles]
+* link:{baseurl}/songs/i/i-believe/[I Believe]
+* link:{baseurl}/songs/i/i-can-see-for-miles/[I Can See For Miles]
 * I Can't Turn You Loose
 * I Do
 * I Don't Care
@@ -158,12 +158,12 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * I've Got The Music In Me
 * Impression That I Get
 * In A Gadda Da Vida
-* link:https://youtu.be/amfCf6Q1ewQ[Into The Future]
+* link:{baseurl}/songs/i/into-the-future/[Into The Future]
 * It Don't Mean a Thing
 * It's Maui Time
-* link:{baseurl}/songs/jazzin/[Jazzin']
+* link:{baseurl}/songs/j/jazzin/[Jazzin']
 * Johnny B. Goode
-* link:{baseurl}/songs/joshua/[Joshua]
+* link:{baseurl}/songs/j/joshua/[Joshua]
 * Joy To The World
 * Jump
 * Jump, Jive, and Wail
@@ -180,9 +180,9 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Little Boat
 * Lock You Up
 * Long Train Runnin'
-* link:{baseurl}/songs/love-me-with-all-of-your-heart/[Love Me With All of Your Heart
+* link:{baseurl}/songs/l/love-me-with-all-of-your-heart/[Love Me With All of Your Heart]
 * Lullaby of Broadway
-* link:{baseurl}/songs/macarthur-park/[Macarthur Park]
+* link:{baseurl}/songs/m/macarthur-park/[Macarthur Park]
 * Mack The Knife
 * Mad Cats
 * Magic Carpet Ride
@@ -213,7 +213,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * My Songs Know What You Did In the Dark
 * Never My Love
 * New York, New York
-* link:{baseurl}/songs/old-time-rock-and-roll/[Old Time Rock and Roll]
+* link:{baseurl}/songs/o/old-time-rock-and-roll/[Old Time Rock and Roll]
 * One O'Clock Jump
 * Our Boys Will Shine Tonight
 * Phantom of the Opera
@@ -228,11 +228,11 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Raider's March
 * Renegade
 * Rescue Me
-* link:{baseurl}/songs/respect/[Respect]
+* link:{baseurl}/songs/r/respect/[Respect]
 * Ride Captain Ride
 * Rock and Roll
 * Rock and Roll All Night
-* link:{baseurl}/songs/rock-around-the-clock/[Rock Around The Clock]
+* link:{baseurl}/songs/r/rock-around-the-clock/[Rock Around The Clock]
 * Rock Til You Drop
 * Rocking Robin
 * Roll Over Beethoven
@@ -251,7 +251,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Send In The Clowns
 * September
 * Seventeen
-* link:{baseurl}/songs/sgt-peppers-loney-hearts-club-band/[Sgt. Pepper's Lonely Hearts Club Band]
+* link:{baseurl}/songs/s/sgt-peppers-loney-hearts-club-band/[Sgt. Pepper's Lonely Hearts Club Band]
 * Shake Rattle and Roll
 * Shake Shake Shake Senora
 * Shakedown
@@ -260,23 +260,23 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * She Believes In Me
 * She Loves You
 * Shook Me All Night Long
-* link:{baseurl}/songs/shout-it-out-loud/[Shout It Out Loud]
+* link:{baseurl}/songs/s/shout-it-out-loud/[Shout It Out Loud]
 * Sing Sing Sing
 * Sixteen Tons
 * Smoke on the Water
-* link:{baseurl}/songs/soak-up-the-sun/[Soak Up The Sun]
+* link:{baseurl}/songs/s/soak-up-the-sun/[Soak Up The Sun]
 * Some Nights
 * Someone To Watch Over Me
 * Something
 * Son of a Preacher Man
-* link:{baseurl}/songs/soul-finger/[Soul Finger]
+* link:{baseurl}/songs/s/soul-finger/[Soul Finger]
 * Soul Man
-* link:{baseurl}/songs/spirit-in-the-sky/[Spirit In The Sky]
+* link:{baseurl}/songs/s/spirit-in-the-sky/[Spirit In The Sky]
 * Stairway to Heaven
 * Star Wars
 * Stars and Stripes Forever
-* link:{baseurl}/songs/the-star-spangled-banner/[The Star Spangled Banner]
-* link:{baseurl}/songs/the-story-in-your-eyes/[The Story In Your Eyes]
+* link:{baseurl}/songs/t/the-star-spangled-banner/[The Star Spangled Banner]
+* link:{baseurl}/songs/t/the-story-in-your-eyes/[The Story In Your Eyes]
 * Strike Force
 * The Stripper
 * Sugar Blues
@@ -294,7 +294,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Tear The Roof Off This Sucker
 * Tequila
 * That's Entertainment
-* link:{baseurl}/songs/theme-from-hallowenn/[Theme From Halloween]
+* link:{baseurl}/songs/t/theme-from-hallowenn/[Theme From Halloween]
 * Theme from the A-Team
 * Theme From Wild Wild West
 * There's No Business Like Show Business
@@ -303,7 +303,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * This Can Be The Start of Something Big
 * This Is Me
 * Thoroughly Modern Millie
-* link:{baseurl}/songs/thriller/[Thriller]
+* link:{baseurl}/songs/thriller/t/[Thriller]
 * Time Warp
 * Tomorrow
 * Tonight
@@ -314,7 +314,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Tuba Tiger Rag
 * Turn The Beat Around
 * Turn Turn Turn
-* link:{baseurl}/songs/twelfth-street-rag/[Twelfth Street Rag]
+* link:{baseurl}/songs/t/twelfth-street-rag/[Twelfth Street Rag]
 * Under The Sea
 * Vehicle
 * Venus
@@ -323,11 +323,11 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Wake Me Up
 * Walk Like an Egyptian
 * Walk This Way
-* link:{baseurl}/songs/watermelon-man/[Watermelon Man]
+* link:{baseurl}/songs/w/watermelon-man/[Watermelon Man]
 * We Are With You
 * We Got The Funk
 * We're An American Band
-* link:{baseurl}/songs/werewolves-of-london/[Werewolves of London]
+* link:{baseurl}/songs/w/werewolves-of-london/[Werewolves of London]
 * What I Like About You
 * When A Man Loves a Woman
 * When I'm 64

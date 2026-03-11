@@ -18,12 +18,12 @@ _What time is it?_ *Band Time!*
 {empty} +
 
 [.text-center.rounded]
-image::1990-1.jpg[,600,role="text-center"]
+image::1994marchingband.jpg[,600,role="text-center"]
 
 {empty} +
 
 [.text-center]
-link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Marching Bands]
+link:{baseurl}/bands/highschool/[Vermilion Sailor Marching Bands]
 
 {empty} +
 
@@ -33,7 +33,7 @@ image::alumnigeneric.jpeg[Alumni Generic, 600]
 {empty} +
 
 [.text-center]
-link:{baseurl}/vermilion-bands/alumni/[Vermilion Sailor Alumni Bands]
+link:{baseurl}/bands/alumni/[Vermilion Sailor Alumni Bands]
 
 {empty} +
 
@@ -43,7 +43,7 @@ image::1960con.jpg[1960 Concert Band,600]
 {empty} +
 
 [.text-center]
-link:{baseurl}/vermilion-high-school-concert-bands/[Vermilion High School Concert Bands]
+link:{baseurl}/bands/concert/[Vermilion High School Concert Bands]
 
 {empty} +
 
@@ -53,7 +53,7 @@ image::1933orch.jpg[1933 Orchestra, 600]
 {empty} +
 
 [.text-center]
-link:{baseurl}/vermilion-high-school-orchestra/[Vermilion High School Orchestras]
+link:{baseurl}/bands/orchestra/[Vermilion High School Orchestras]
 
 {empty} +
 
@@ -63,7 +63,7 @@ image::1957pep.jpg[1957 Pep Band, 600]
 {empty} +
 
 [.text-center]
-link:{baseurl}/vermilion-high-school-pep-bands/[Vermilion High School Pep Bands]
+link:{baseurl}/bands/pep/[Vermilion High School Pep Bands]
 
 {empty} +
 
@@ -73,7 +73,7 @@ image::1990jazz.png[1990 Jazz Band, 600"]
 {empty} +
 
 [.text-center]
-link:{baseurl}/vermilion-high-school-jazz-bands/[Vermilion High School Jazz Bands]
+link:{baseurl}/bands/jazz/[Vermilion High School Jazz Bands]
 
 {empty} +
 
@@ -83,7 +83,7 @@ image::1953-1954-Vermilion-Bands-German-Band-Vermilion-OH.jpg[1953 German Band, 
 {empty} +
 
 [.text-center]
-link:{baseurl}/vermilion-bands/other/[Other Vermilion Bands]
+link:{baseurl}/bands/other/[Other Vermilion Bands]
 
 {empty} +
 
@@ -93,5 +93,5 @@ image::1993musicman.jpeg[1993 Music Mand, 600]
 {empty} +
 
 [.text-center]
-link:{baseurl}/vermilion-musical-theater/[Vermilion Musical Theater]
+link:{baseurl}/musicals/[Vermilion Musical Theater]
 

@@ -1,0 +1,26 @@
+---
+layout: default
+title: 2021 Vermilion Sailor Alumni Band
+---
+
+= 2021 Vermilion Sailor Alumni Band
+
+=== 2021 Vermilion Sailor Alumni Band
+
+image::241895722_10223210162300612_6890469869139917707_n.jpeg[,role="text-center"]
+
+Director: link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price]
+
+*Image Galleries:*
+
+* link:https://photos.app.goo.gl/ngdcZsTqS1tKY2ME8[2021 Vermilion Sailor Alumni Band]
+
+*Video Playlists:*
+
+* link:https://www.youtube.com/watch?v=ablJQaPXDjE&list=PLqposBlPPQd_ytdahR5w_xYiwYEaBbs-C&pp=gAQBiAQB[2021 Vermilion Sailor Alumni Band]
+
+.2021 Vermilion Sailor Alumni Band - Marching In
+video::ablJQaPXDjE[youtube, width=640, height=360, align=center]
+
+[.text-center]
+link:{baseurl}/[Vermilion Bands] – link:{baseurl}/vermilion-bands/highschool/[Vermilion Sailor Alumni Ma] link:{baseurl}/vermilion-bands/alumni/[rching Bands] – link:{baseurl}/vermilion-bands/alumni/2010-2019-vermilion-sailor-alumni-bands/[2010-2019 Vermilion Sailor Alumni Bands]
