@@ -1,0 +1,26 @@
+---
+layout: default
+title: Cherish
+---
+
+== Cherish
+
+{empty} +
+
+.1986-1987 Vermilion Sailor Marching Band - Cherish - Elyria Band Festival
+video::FC0UnJXjlSA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1986-1987 Vermilion Sailor Marching Band - Cherish - Vermilion Marching Band Festival
+video::z24k61PIYps[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

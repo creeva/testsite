@@ -74,10 +74,10 @@ image::1976-sailor-Marching-Band.jpg[,600,role="text-center"]
 * Catch That Pepsi Spirit
 * link:{baseurl}/songs/c/celebrate-a-celebration/[Celebrate a Celebration]
 * link:{baseurl}/songs/c/chameleon/[Chameleon]
-* Charge
-* Charleston
-* Cherish
-* China Grove
+* link:{baseurl}/songs/c/charge/[Charge]
+* link:{baseurl}/songs/c/charleston/[Charleston]
+* link:{baseurl}/songs/c/cherish/[Cherish]
+* link:{baseurl}/songs/c/china-grove/[China Grove]
 * Chorus Line
 * The Circle of Life
 * The Contender

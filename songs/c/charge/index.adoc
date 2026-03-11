@@ -1,0 +1,21 @@
+---
+layout: default
+title: Charge
+---
+
+== Charge
+
+{empty} +
+
+.1992-1993 Vermilion Sailor Marching Band - Charge - In the Stands - V John Adams
+video::YvawjvHeyWE[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

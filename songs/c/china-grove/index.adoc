@@ -1,0 +1,71 @@
+---
+layout: default
+title: Cherish
+---
+
+== Cherish
+
+{empty} +
+
+.1990-1991 Vermilion Sailor Marching Band - China Grove
+video::_Ww4MiFVYE8[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1990-1991 Vermilion Sailor Marching Band - China Grove - Second Festival Show
+video::TscCHdr1aFc[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1990-1991 Vermilion Sailor Marching Band - China Grove - Festival Show
+video::q4SY0F1sPKg[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1991-1992 Vermilion Sailor Marching Band - China Grove - In Stands - First Home Game
+video::cty4J3tmRUI[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1999-2000 Vermilion Sailor Marching Band  - Vermilion Band Festival - China Grove
+video::_UC-816f2YY[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1999-2000 Vermilion Sailor Marching Band  - Preseason - China Grove
+video::mBa-UvnRD3Y[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1999-2000 Vermilion Sailor Marching Band - Band In Review Concert - China Grove
+video::kZTwj_RILh8[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2003 Vermilion Sailor Alumni Band -  Second Source - China Grove
+video::yPF7JL2rjl0[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2005-2006 Vermilion Sailor Marching Band - Vermilion Sailor Band Festival - China Grove
+video::q9qR4QxzYiY[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2006-2007 Vermilion Sailor Marching Band - China Grove Portion - Senior Show
+video::dJvZOpKskI8[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2022 Vermilion Sailor Alumni Band - China Grove
+video::Y67vVIh4FrA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

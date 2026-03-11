@@ -1,0 +1,21 @@
+---
+layout: default
+title: Charleston
+---
+
+== Charleston
+
+{empty} +
+
+.1996 Vermilion Sailor Alumni Band - Charleston - Vermilion Band Festival
+video::X3F8NF6mg6I[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]
