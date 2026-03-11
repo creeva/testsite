@@ -361,6 +361,7 @@
             }
         }
     </style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.2/src/lite-yt-embed.css">
 </head>
 <body>
 
@@ -510,4 +511,18 @@
       }
     });
   })();
+</script>
+<script src="https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.2/src/lite-yt-embed.js"></script>
+<script>
+  document.querySelectorAll('iframe[src*="youtube.com/embed"]').forEach(function(iframe) {
+    var src = iframe.src;
+    var id = src.match(/embed\/([^?]+)/);
+    if (!id) return;
+    var lite = document.createElement('lite-youtube');
+    lite.setAttribute('videoid', id[1]);
+    lite.style.maxWidth = iframe.width ? iframe.width + 'px' : '640px';
+    lite.style.margin = '0 auto';
+    lite.style.display = 'block';
+    iframe.parentNode.replaceChild(lite, iframe);
+  });
 </script>
