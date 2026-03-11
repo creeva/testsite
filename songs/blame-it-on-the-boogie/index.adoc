@@ -1,0 +1,21 @@
+---
+layout: default
+title: Blame It On The Boogie 
+---
+
+== Blame It On The Boogie 
+
+{empty} +
+
+.2015-2016 Vermilion Sailor Marching Band - Blame It On The Boogie - v Firelands
+video::Vj8Ildjifxg[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

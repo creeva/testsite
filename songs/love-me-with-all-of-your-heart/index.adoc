@@ -1,0 +1,21 @@
+---
+layout: default
+title: Love Me With All Your Heart
+---
+
+== Love Me With All Your Heart
+
+{empty} +
+
+.2008-2009 Vermilion Sailor Marching Band  -  Love Me With All Your Heart -After the Love Is Gone
+video::RKcy0hpYR10[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

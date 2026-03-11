@@ -1,0 +1,36 @@
+---
+layout: default
+title: Big Band Beats
+---
+
+== Big Band Beats
+
+{empty} +
+
+.1993-1994 Vermilion Sailor Marching Band - Big Band Beats - V Lorain
+video::i1b4LDcC1ls[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1993-1994 Vermilion Sailor Marching Band - Big Band Beats - V Admiral King
+video::EiRQDDEqO9w[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1994-1995 Vermilion Sailor Marching Band - Big Band Beats
+video::xhCq-8D6Hw8[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1994-1995 Vermilion Sailor Marching Band - Big Band Beats - Anthony Wayne
+video::EyBUo2Fd1Cc[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

@@ -12,6 +12,21 @@ image::VLS-2009_pdf__page_44_of_95_1.jpg[,role="text-center"]
 
 {empty} +
 
+.1993-1994 Vermilion Sailor Marching Band - Alma Mater - Fight Song Across The Field
+video::zH_HNE29i4A[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2023 Vermilion Sailor Alumni Band - Marching In
+video::6vr62QbWsTo[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2023 Vermilion Sailor Alumni Band - Fight Song - Practice
+video::n0eX7Ef_4Pg[youtube, width=640, height=360, align=center]
+
+{empty} +
+
 [.text-center]
 link:{baseurl}/songs/[Vermilion Sailor Band Songs]
 

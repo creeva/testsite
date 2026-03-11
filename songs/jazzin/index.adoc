@@ -1,0 +1,21 @@
+---
+layout: default
+title: Jazzin'
+---
+
+== Jazzin'
+
+{empty} +
+
+.2023 Vermilion Sailor Alumni Band - Jazzin' - Practice
+video::c95V7PVXOz8[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

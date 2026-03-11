@@ -1,0 +1,26 @@
+---
+layout: default
+title: Thriller
+---
+
+== Thriller
+
+{empty} +
+
+.2022-2023 Vermilion Sailor Marching Band - Thriller - 10-14-2022
+video::YqTS2oN6yb8[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2022-2023 Vermilion Sailor Marching Band - Thriller - 10-21-2022
+video::3Sc2T-p7PuI[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

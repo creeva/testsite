@@ -1,0 +1,36 @@
+---
+layout: default
+title: Blinding Lights
+---
+
+== Blinding Lights
+
+{empty} +
+
+.2023-2024 Vermilion Sailor Marching Band  - Blinding Lights  -Sailor Marching Band Festival
+video::N8RQN5f27Os[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2023-2024 Vermilion Sailor Marching Band  - Blinding Lights - 9-8-2023
+video::RoLWOJe2jXg[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2023-2024 Vermilion Sailor Marching Band  - Blinding Lights - 9-15-2023
+video::9EbIZAgWqZM[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2023-2024 Vermilion Sailor Marching Band  - Blinding Lights - Video 2   9-8-2023
+video::atlG_cALKAM[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

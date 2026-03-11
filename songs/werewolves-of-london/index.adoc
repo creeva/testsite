@@ -1,0 +1,21 @@
+---
+layout: default
+title: Werewolves of London
+---
+
+== Werewolves of London
+
+{empty} +
+
+.2022-2023 Vermilion Sailor Marching Band - Werewolves of London - 9-23-2022
+video::vzAkQQXhcAA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

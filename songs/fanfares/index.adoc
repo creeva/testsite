@@ -1,0 +1,21 @@
+---
+layout: default
+title: Fanfares
+---
+
+== Fanfares
+
+{empty} +
+
+.2023 Vermilion Sailor Alumni Band - Fanfares - Practice
+video::V7qP3qCoUn8[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

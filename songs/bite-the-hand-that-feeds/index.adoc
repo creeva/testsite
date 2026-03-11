@@ -1,0 +1,36 @@
+---
+layout: default
+title: Bite The Hand That Feeds
+---
+
+== Bite The Hand That Feeds
+
+{empty} +
+
+.2016-2017 Vermilion Sailor Marching Band - Bite The Hand That Feeds - Elyria Parade of Bands
+video::_Wd4gDIQqwQ[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2016-2017 Vermilion Sailor Marching Band - Bite The Hand That Feeds - Halftime v Fairview
+video::4l7FHBEpcLU[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2016-2017 Vermilion Sailor Marching Band - Bite The Hand That Feeds - Halftime v Perkins
+video::jyq1sKbho-U[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2016-2017 Vermilion Sailor Marching Band - Bite The Hand That Feeds - Vermilion Band Festival
+video::WxfCPZ7IhZI[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

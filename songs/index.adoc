@@ -36,19 +36,19 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * link:{baseurl}/songs/bad-medicine/[Bad Medicine]
 * link:{baseurl}/songs/back-to-the-future/[Back To The Future]
 * link:{baseurl}/songs/back-in-the-ussr/[Back in the USSR]
-* Bandstand Boogie -- No Videos
+* Bandstand Boogie
 * link:{baseurl}/songs/barbara-ann/[Barbara Ann]
 * link:{baseurl}/songs/bare-necessities/[Bare Necessities]
 * link:{baseurl}/songs/basin-street-blues/[Basin Street Blues]
 * link:{baseurl}/songs/beat-it/[Beat It]
 * link:{baseurl}/songs/beatles-mashup/[Beatles Mash Up]
-* Beginnings -- No Videos
+* Beginnings
 * link:{baseurl}/songs/bend-me-shake-me/[Bend Me Shake Me]
-* Big Band Beats
+* link:{baseurl}/songs/big-band-beats/[Big Band Beats]
 * Birdland
-* Bite The Hand That Feeds
-* Blame It On The Boogie
-* Blinding Lights
+* link:{baseurl}/songs/bite-the-hand-that-feeds/[Bite The Hand That Feeds]
+* link:{baseurl}/songs/blame-it-on-the-boogie/[Blame It On The Boogie]
+* link:{baseurl}/songs/blinding-lights/[Blinding Lights]
 * Bohemian Rhapsody
 * Boogie Woogie Bugle Boy
 * Boot Scootin Boogie
@@ -101,7 +101,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * link:{baseurl}/songs/everythings-coming-up-roses/[Everything's Coming Up Roses]
 * Eye of the Tiger
 * Fame
-* Fanfares
+* link:{baseurl}/songs/fanfares/[Fanfares]
 * Feels So Good
 * Felize Navidad
 * link:{baseurl}/songs/fight-song-anchors-away/[Fight Song -- Anchors Aweigh]
@@ -161,7 +161,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * link:https://youtu.be/amfCf6Q1ewQ[Into The Future]
 * It Don't Mean a Thing
 * It's Maui Time
-* Jazzin'
+* link:{baseurl}/songs/jazzin/[Jazzin']
 * Johnny B. Goode
 * link:{baseurl}/songs/joshua/[Joshua]
 * Joy To The World
@@ -180,7 +180,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Little Boat
 * Lock You Up
 * Long Train Runnin'
-* Love Me With All of Your Heart
+* link:{baseurl}/songs/love-me-with-all-of-your-heart/[Love Me With All of Your Heart
 * Lullaby of Broadway
 * link:{baseurl}/songs/macarthur-park/[Macarthur Park]
 * Mack The Knife
@@ -213,7 +213,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * My Songs Know What You Did In the Dark
 * Never My Love
 * New York, New York
-* Old Time Rock and Roll
+* link:{baseurl}/songs/old-time-rock-and-roll/[Old Time Rock and Roll]
 * One O'Clock Jump
 * Our Boys Will Shine Tonight
 * Phantom of the Opera
@@ -228,7 +228,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Raider's March
 * Renegade
 * Rescue Me
-* Respect
+* link:{baseurl}/songs/respect/[Respect]
 * Ride Captain Ride
 * Rock and Roll
 * Rock and Roll All Night
@@ -260,18 +260,18 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * She Believes In Me
 * She Loves You
 * Shook Me All Night Long
-* Shout It Out Loud
+* link:{baseurl}/songs/shout-it-out-loud/[Shout It Out Loud]
 * Sing Sing Sing
 * Sixteen Tons
 * Smoke on the Water
-* Soak Up The Sun
+* link:{baseurl}/songs/soak-up-the-sun/[Soak Up The Sun]
 * Some Nights
 * Someone To Watch Over Me
 * Something
 * Son of a Preacher Man
 * link:{baseurl}/songs/soul-finger/[Soul Finger]
 * Soul Man
-* Spirit In The Sky
+* link:{baseurl}/songs/spirit-in-the-sky/[Spirit In The Sky]
 * Stairway to Heaven
 * Star Wars
 * Stars and Stripes Forever
@@ -294,7 +294,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * Tear The Roof Off This Sucker
 * Tequila
 * That's Entertainment
-* Theme From Halloween
+* link:{baseurl}/songs/theme-from-hallowenn/[Theme From Halloween]
 * Theme from the A-Team
 * Theme From Wild Wild West
 * There's No Business Like Show Business
@@ -303,7 +303,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * This Can Be The Start of Something Big
 * This Is Me
 * Thoroughly Modern Millie
-* Thriller
+* link:{baseurl}/songs/thriller/[Thriller]
 * Time Warp
 * Tomorrow
 * Tonight
@@ -327,7 +327,7 @@ The following list includes songs that the Vermilion Sailor or the Sailor Alumni
 * We Are With You
 * We Got The Funk
 * We're An American Band
-* Werewolves of London
+* link:{baseurl}/songs/werewolves-of-london/[Werewolves of London]
 * What I Like About You
 * When A Man Loves a Woman
 * When I'm 64

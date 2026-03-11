@@ -1,0 +1,21 @@
+---
+layout: default
+title: Old Time Rock and Roll
+---
+
+== Old Time Rock and Roll
+
+{empty} +
+
+.2023 Vermilion Sailor Alumni Band - Old Time Rock and Roll - Practice
+video::460Wgxrx0OQ[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

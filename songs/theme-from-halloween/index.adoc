@@ -1,0 +1,21 @@
+---
+layout: default
+title: Theme From Halloween
+---
+
+== Theme From Halloween
+
+{empty} +
+
+.2022-2023 Vermilion Sailor Marching Band - Theme From Halloween - 10-21-2022
+video::0hoK3y0J5UI[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]
