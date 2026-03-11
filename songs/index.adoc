@@ -65,15 +65,15 @@ image::1976-sailor-Marching-Band.jpg[,600,role="text-center"]
 * link:{baseurl}/songs/b/by-the-sea/[By The Sea]
 * By The Time I Get to Phoenix
 * link:{baseurl}/songs/c/cadence/[Cadence]
-* Can You Feel The Love Tonight
-* Can't Turn You Loose
-* California
-* Can't Buy Me Love
-* Can't Wait To Be King
+* link:{baseurl}/songs/c/can-you-feel-the-love-tonight/[Can You Feel The Love Tonight]
+* link:{baseurl}/songs/c/cant-turn-you-loose/[Can't Turn You Loose]
+* link:{baseurl}/songs/c/california/[California]
+* link:{baseurl}/songs/c/cant-buy-me-love/[Can't Buy Me Love]
+* link:{baseurl}/songs/c/cant-wait-to-be-king/[Can't Wait To Be King]
 * Captain America March
 * Catch That Pepsi Spirit
 * link:{baseurl}/songs/c/celebrate-a-celebration/[Celebrate a Celebration]
-* Chameleon
+* link:{baseurl}/songs/c/chameleon/[Chameleon]
 * Charge
 * Charleston
 * Cherish
@@ -194,7 +194,7 @@ image::1976-sailor-Marching-Band.jpg[,600,role="text-center"]
 * Mack The Knife
 * Mad Cats
 * Magic Carpet Ride
-* The Magical Mystery Tour
+* link:{baseurl}/songs/m/magical-mystery-tour/[The Magical Mystery Tour]
 * Magna
 * Make Me Smile
 * Malguena

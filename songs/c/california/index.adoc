@@ -1,0 +1,21 @@
+---
+layout: default
+title: California
+---
+
+== California
+
+{empty} +
+
+.1992 Vermilion Sailor Alumni Band - California
+video::jaYrH2zd7D4,[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

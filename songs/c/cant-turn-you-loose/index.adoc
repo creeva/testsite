@@ -1,0 +1,21 @@
+---
+layout: default
+title: Can't Turn You Loose
+---
+
+== Can't Turn You Loose
+
+{empty} +
+
+.2002-2003 Vermilion Sailor Marching Band - Can't Turn You Loose - W 8th Grade -Sailor Band Festival
+video::yK8JipCqcFo[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

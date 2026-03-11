@@ -1,0 +1,32 @@
+---
+layout: default
+title: Can't Buy Me Love
+---
+
+== Can't Buy Me Love
+
+{empty} +
+
+.2003-2004 Vermilion Sailor Marching Band -- Show 5 - Can't Buy Me Love   Magicial Mystery Tour
+video::nrc7Kp3VdTE[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2004-2005 Vermilion Sailor Marching Band - Can't Buy Me Love-Magicial Mystery - Sailor Band Festival
+video::r7xeWY3qd8U[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2014 Vermilion Sailor Alumni Band - Can't Buy Me Love
+video::TzPXAQxzqqQ[youtube, width=640, height=360, align=center]
+
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

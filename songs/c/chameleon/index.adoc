@@ -1,0 +1,21 @@
+---
+layout: default
+title: Chameleon
+---
+
+== Chameleon
+
+{empty} +
+
+.1998-1999 Vermilion Sailor Marching Band - Chameleon
+video::Ln0YbwVlRdM[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]
