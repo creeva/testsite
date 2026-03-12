@@ -1,0 +1,51 @@
+---
+layout: default
+title: Conga
+---
+
+== Conga
+
+{empty} +
+
+.1986-1987 Vermilion Sailor Marching Band - Conga - Play Off Game - Willoughby
+video::rYLSbPICoZY[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1986-1987 Vermilion Sailor Marching Band - Conga - Elyria Band Festival
+video::zzA15h0IxF0[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1986-1987 Vermilion Sailor Marching Band - Conga - Vermilion High School Stadium
+video::mWCwYujS_RQ[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1986-1987 Vermilion Sailor Marching Band - Conga - Vermilion Marching Band Festival
+video::WKKYovNyE_U[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1991-1992 Vermilion Sailor Marching Band - Conga - Vermilion Sailor Band Festival
+video::2-b2IokUmXo[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1991-1992 Vermilion Sailor Marching Band - Conga - Judge Commentary - Lakeview
+video::2uThMT-8cgQ[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1991-1992 Vermilion Sailor Marching Band - Conga - First Home Game
+video::DTzSul3OHHo[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

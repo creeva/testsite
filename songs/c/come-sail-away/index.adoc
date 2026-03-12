@@ -1,0 +1,36 @@
+---
+layout: default
+title: Come Sail Away
+---
+
+== Come Sail Away
+
+{empty} +
+
+.1996-1997 Vermilion High School Marching Band - Come Sail Away - Rittman
+video::8bxw-fxl[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1996-1997 Vermilion High School Marching Band - Come Sail Away - Vermilion Marching Band Festival
+video::AHBB07eiHcI[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2003-2004 Vermilion Sailor Marching Band - Second Source  - Show 1 - Come Sail Away
+video::2yZl3zCd9KE[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2003-2004 Vermilion Sailor Marching Band - Come Sail Away
+video::wbfduyj9HLA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

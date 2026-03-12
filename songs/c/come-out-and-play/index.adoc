@@ -1,0 +1,21 @@
+---
+layout: default
+title: Come Out And Play
+---
+
+== Come Out And Play
+
+{empty} +
+
+.2008 Vermilion Sailor Alumni Band - Come Out And Play
+video::29kXXDL8-CE[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

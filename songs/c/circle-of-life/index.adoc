@@ -1,0 +1,36 @@
+---
+layout: default
+title: Circle of Life
+---
+
+== Circle of Life
+
+{empty} +
+
+.2018-2019 Vermilion Sailor Marching  Band  - Circle of Life - Second Copy
+video::_epJV2Ff7Tk[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2018-2019 Vermilion Sailor Marching  Band  - Circle of Life
+video::g1p4zvv9Xbc[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2018-2019 Vermilion Sailor Marching  Band  - Full Festival Show - Circle of Life
+video::zX0geG7PcJ0[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2018-2019 Vermilion Sailor Marching  Band  - 8-31-18 - Circle of Life
+video::3rCQ1VPV1ZU[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

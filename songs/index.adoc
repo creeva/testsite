@@ -78,13 +78,13 @@ image::1976-sailor-Marching-Band.jpg[,600,role="text-center"]
 * link:{baseurl}/songs/c/charleston/[Charleston]
 * link:{baseurl}/songs/c/cherish/[Cherish]
 * link:{baseurl}/songs/c/china-grove/[China Grove]
-* Chorus Line
-* The Circle of Life
-* The Contender
-* Coke Is It
-* Come Out and Play
-* Come Sail Away
-* Conga
+* link:{baseurl}/songs/c/chorus-line/[Chorus Line]
+* link:{baseurl}/songs/c/circle-of-life/[The Circle of Life]
+* link:{baseurl}/songs/c/coke-is-it/[Coke Is It]
+* link:{baseurl}/songs/c/come-out-and-play/[Come Out and Play]
+* link:{baseurl}/songs/c/come-sail-away/[Come Sail Away]
+* link:{baseurl}/songs/c/conga/[Conga]
+* link:{baseurl}/songs/c/contender/[The Contender]
 * Cotton Eye Joe
 * Crazy In Love
 * Crazy Train

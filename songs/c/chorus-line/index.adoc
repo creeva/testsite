@@ -1,0 +1,26 @@
+---
+layout: default
+title: Chorus Line
+---
+
+== Chorus Line
+
+{empty} +
+
+.1989-1990 Vermilion Sailor Marching Band - Chorus Line - Vermilion Band Festival
+video::IAUUM3ppwgc[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1991-1992 Vermilion Sailor Marching Band - Chorus Line - Senior Night
+video::8n547YdayK8[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]
