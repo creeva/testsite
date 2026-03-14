@@ -1,0 +1,26 @@
+---
+layout: default
+title: Crazy In Love
+---
+
+== Crazy In Love
+
+{empty} +
+
+.2023-2024 Vermilion Sailor Marching Band  - Crazy in Love - 8-25-2023
+video::M84KCqsth0w[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2023-2024 Vermilion Sailor Marching Band  - Crazy In Love - 8-18-2023
+video::E1d8UJ6QFYs[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

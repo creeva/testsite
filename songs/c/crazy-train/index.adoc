@@ -1,0 +1,26 @@
+---
+layout: default
+title: Crazy Train
+---
+
+== Crazy Train
+
+{empty} +
+
+.2003-2004 Vermilion Sailor Marching Band  - Crazy Train - Senior Show
+video::x5RLbXU8uPc[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2003-2004 Vermilion Sailor Marching Band - Second Source  -  Senior Show - Crazy Train
+video::x5RLbXU8uPc[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

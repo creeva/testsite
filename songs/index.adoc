@@ -85,22 +85,22 @@ image::1976-sailor-Marching-Band.jpg[,600,role="text-center"]
 * link:{baseurl}/songs/c/come-sail-away/[Come Sail Away]
 * link:{baseurl}/songs/c/conga/[Conga]
 * link:{baseurl}/songs/c/contender/[The Contender]
-* Cotton Eye Joe
-* Crazy In Love
-* Crazy Train
-* Creep
-* Crocodile Rock
-* Dancing On The Ceiling
-* Dancing Queen
-* Daytripper
-* Dazz
-* Disco Inferno
+* link:{baseurl}/songs/c/cotton-eye-joe/[Cotton Eye Joe]
+* link:{baseurl}/songs/c/crazy-in-love/[Crazy In Love]
+* link:{baseurl}/songs/c/crazy-train/[Crazy Train]
+* link:{baseurl}/songs/c/creep/[Creep]
+* link:{baseurl}/songs/c/crocodile-rock/[Crocodile Rock]
+* link:{baseurl}/songs/d/dancing-on-the-ceiling/[Dancing On The Ceiling]
+* link:{baseurl}/songs/d/dancing-queen/[Dancing Queen]
+* link:{baseurl}/songs/d/daytripper/[Daytripper]
+* link:{baseurl}/songs/d/dazz/[Dazz]
+* link:{baseurl}/songs/d/disco-inferno/[Disco Inferno]
 * Dixieland Rock
-* Don't Rain On My Parade
-* Don't Stop Believing
-* Don't Stop Thinking About Tomorrow
-* Downtown
-* Dream On
+* link:{baseurl}/songs/d/dont-rain-on-my-parade/[Don't Rain On My Parade]
+* link:{baseurl}/songs/d/dont-stop-believing/[Don't Stop Believing]
+* link:{baseurl}/songs/d/dont-stop-thinking-about-tomorrow/[Don't Stop Thinking About Tomorrow]
+* link:{baseurl}/songs/d/downtown/[Downtown]
+* link:{baseurl}/songs/d/dream-on/[Dream On]
 * Droodles
 * Enough is Enough
 * Enter Sandman

@@ -1,0 +1,21 @@
+---
+layout: default
+title: Crocodile Rock
+---
+
+== Crocodile Rock
+
+{empty} +
+
+.1991-1992 Vermilion Sailor Marching Band - Crocodile Rock
+video::yxN5DrlbP_Q[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

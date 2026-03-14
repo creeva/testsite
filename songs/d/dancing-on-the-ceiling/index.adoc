@@ -1,0 +1,21 @@
+---
+layout: default
+title: Dancing On The Ceiling
+---
+
+== Dancing On The Ceiling
+
+{empty} +
+
+.1989-1990 Vermilion Sailor Marching Band - Dancing On The Ceiling - Vermilion Band Festival
+video::M8lueqQCdP4[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

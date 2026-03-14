@@ -1,0 +1,31 @@
+---
+layout: default
+title: Don't Stop Believing
+---
+
+== Don't Stop Believing
+
+{empty} +
+
+.2018-2019 Vermilion Sailor Marching  Band  - Don't Stop Believing
+video::-3cpPZ1UysQ[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2018-2019 Vermilion Sailor Marching  Band  - Full Festival Show - Don't Stop Believing
+video::16lcv2mSSO4o[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2018-2019 Vermilion Sailor Marching  Band  - 9-7-2018 - Don't Stop Believing
+video::3bz2MSZENR8[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

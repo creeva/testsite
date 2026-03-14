@@ -1,0 +1,51 @@
+---
+layout: default
+title: Disco Inferno
+---
+
+== Disco Inferno
+
+{empty} +
+
+.2014-2015 Vermilion Sailor Marching Band - Disco Inferno - Festival Show
+video::Pj0GZ2DxaYw[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2014-2015 Vermilion Sailor Marching Band - Disco Inferno - Firelands Festival 10-11-14
+video::j21MfO2m_iw[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2014-2015 Vermilion Sailor Marching Band - Disco Inferno - Hudson Band Festival 10-4-14
+video::SaVheq0GcNo[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2014-2015 Vermilion Sailor Marching Band - Disco Inferno - Vermilion Sailor Marching Band Festival
+video::2OeVqVRSH0M[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2014-2015 Vermilion Sailor Marching Band - Disco Inferno - V Clearview 8-29-14
+video::1F77W6Iguog[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2014-2015 Vermilion Sailor Marching Band - Disco Inferno - V Fairview 9 5 14
+video::-Vy_jfz1YnQ[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2014-2015 Vermilion Sailor Marching Band - Disco Inferno
+video::D6GnVPfGxcg[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

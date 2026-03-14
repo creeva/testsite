@@ -1,0 +1,21 @@
+---
+layout: default
+title: Don't Stop Thinking About Tomorrow 
+---
+
+== Don't Stop Thinking About Tomorrow 
+
+{empty} +
+
+.2008-2009 Vermilion Sailor Marching Band  -  Don't Stop Thinking About Tomorrow -  V Clearview
+video::siRPfH7g-nA[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

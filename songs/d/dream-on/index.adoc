@@ -1,0 +1,41 @@
+---
+layout: default
+title: Dream On
+---
+
+== Dream On
+
+{empty} +
+
+.2012-2013 Vermilion Sailor Marching Band -  Dream On
+video::uuEKw7yvsS0[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2015-2016 Vermilion Sailor Marching Band  - Dream On V Valleyforge 9-25-15   Second Video
+video::KZF4jZKKtUU[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2015-2016 Vermilion Sailor Marching Band - Dream On - Elyria Band Festival
+video::OQ3KhL3PEPM[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2015-2016 Vermilion Sailor Marching Band - Dream On  - V Valleyforge 9-25-15
+video::B1fNlu-ATo8[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2016-2017 Vermilion Sailor Marching Band - Dream On - Firelands Parade of Bands
+video::IfHWL1kcs2M[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

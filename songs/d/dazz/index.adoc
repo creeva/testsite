@@ -1,0 +1,21 @@
+---
+layout: default
+title: Dazz
+---
+
+== Dazz
+
+{empty} +
+
+.2006-2007 Vermilion Sailor Marching Band - Vermilion Marching Band Festival - Dazz
+video::IM3enHsaijk[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

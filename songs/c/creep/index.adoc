@@ -1,0 +1,31 @@
+---
+layout: default
+title: Creep
+---
+
+== Creep
+
+{empty} +
+
+.2013-2014  Vermilion Sailor Marching Band - Creep
+video::qbINtn0qhdc[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2013-2014  Vermilion Sailor Marching Band - Creep - Vermilion Sailor Marching Band Festival
+video::L9KT4pgp8Mo[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.2013-2014  Vermilion Sailor Marching Band - Creep - Band Review Concert
+video::Xmn3Y8GtBzE[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

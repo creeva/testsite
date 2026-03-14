@@ -1,0 +1,27 @@
+---
+layout: default
+title: Don't Rain on My Parade
+---
+
+== Don't Rain on My Parade
+
+{empty} +
+
+.1988 Vermilion Sailor Alumni Band - Don't Rain on My Parade
+video::cjNOF6oFdz8[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1994 Vermilion Sailor Alumni Band - Don't Rain on My Parade
+video::1r5XF2GcQSI[youtube, width=640, height=360, align=center]
+
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]

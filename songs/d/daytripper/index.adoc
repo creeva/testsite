@@ -1,0 +1,36 @@
+---
+layout: default
+title: Daytripper
+---
+
+== Daytripper
+
+{empty} +
+
+.1987-1988 Vermilion Sailor Marching Band - Day Tripper - Williamsburg
+video::37IwPfoMZQQ[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1993-1994 Vermilion Sailor Marching Band - Day Tripper -  Sailor Marching Band Festival
+video::IP6ymhTS42I[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1993-1994 Vermilion Sailor Marching Band - Day Tripper - Dover Festival
+video::-5K4D9cnFYM[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+.1993-1994 Vermilion Sailor Marching Band - Day Tripper - V John Adams
+video::ZQGFyKTjLR4[youtube, width=640, height=360, align=center]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/songs/[Vermilion Sailor Band Songs]
+
+{empty} +
+
+[.text-center.rounded]
+image::Sea-of-Faces.jpg[,600]
