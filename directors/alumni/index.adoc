@@ -3,17 +3,34 @@ layout: default
 title: Vermilion Sailor Alumni Band Directors
 ---
 
-= Vermilion Sailor Alumni Band Directors
+== Vermilion Sailor Alumni Band Directors
 
-=== Vermilion Sailor Alumni Band Directors
+{empty} +
 
-[.text-center]
-link:{baseurl}/vermilion-high-school-band-directors/joseph-price/[Joseph Price 2007-Current]
+[.text-center.rounded]
+image::joealumni.jpg[Joseph Price, 600]
 
-[.text-center]
-link:{baseurl}/vermilion-high-school-band-directors/david-henry/[David Henry 1998-2007]
-
-image::4012692289_4208494d01_o.jpg[,role="text-center"]
+{empty} +
 
 [.text-center]
-link:{baseurl}/vermilion-high-school-band-directors/william-burt/[Bill "Willy B" Burt 1986-1997]
+link:{baseurl}/directors/joseph-price/[Joseph Price 2007-Current]
+
+{empty} +
+
+[.text-center.rounded]
+image::4012690373_bd95244da2_o.jpg[David Henry, 600]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/directors/david-henry/[David Henry 1998-2007]
+
+{empty} +
+
+[.text-center.rounded]
+image::4012692289_4208494d01_o.jpg[Bill Burt, 600]
+
+{empty} +
+
+[.text-center]
+link:{baseurl}/directors/william-burt/[Bill "Willy B" Burt 1986-1997]
